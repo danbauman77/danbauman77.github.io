@@ -49,24 +49,9 @@ Theme Styles
 *******************************************************************************/
 
 <style>
-@media only screen and (min-width: 300px) and (max-width: 763px) {
-.tabLet,  .desktop {
-display:  none;
-}
-}
-
-@media only screen and (min-width: 764px)  and (max-width: 999px) {
-.phone,  .desktop {
-display:  none;
-}
-}
-
-@media only screen and (min-width: 100px) {
-.phone,  .tablet {
-display:  none;
-}
-}
-
+  @media only screen and (min-width: 300px) and (max-width: 763px) {.tabLet, .desktop {display: none;}}
+  @media only screen and (min-width: 764px) and (max-width: 999px) {.phone, .desktop {display: none;}}
+  @media only screen and (min-width: 1000px) {.phone, .tablet {display: none;}}
 </style>
 
 body {
