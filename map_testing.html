@@ -23,6 +23,17 @@ function initMap() {
     center: {lat: 41.850033, lng: -87.6500523},
     zoom: 11
   });
+  
+// This example adds a search box to a map, using the Google Place Autocomplete
+// feature. People can enter geographical searches. The search box will return a
+// pick list containing a mix of places and predicted search terms.
+  
+  function initAutocomplete() {
+  var map = new google.maps.Map(document.getElementById('map'), {
+    center: {lat: 41.850033, lng: -87.6500523},
+    zoom: 13,
+    mapTypeId: google.maps.MapTypeId.ROADMAP
+  });
 
   var layer = new google.maps.FusionTablesLayer({
     query: {
