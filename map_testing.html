@@ -24,15 +24,6 @@ function initMap() {
     zoom: 11
   });
 
-  var layer = new google.maps.FusionTablesLayer({
-    query: {
-      select: '\'Geocodable address\'',
-      from: '1mZ53Z70NsChnBMm-qEYmSDOvLXgrreLTkQUvvg'
-    }
-  });
-  layer.setMap(map);
-}
-
 // Create the search box and link it to the UI element.
   var input = document.getElementById('pac-input');
   var searchBox = new google.maps.places.SearchBox(input);
@@ -89,8 +80,15 @@ function initMap() {
     map.fitBounds(bounds);
   });
   // [END region_getplaces]
-}
 
+  var layer = new google.maps.FusionTablesLayer({
+    query: {
+      select: '\'Geocodable address\'',
+      from: '1mZ53Z70NsChnBMm-qEYmSDOvLXgrreLTkQUvvg'
+    }
+  });
+  layer.setMap(map);
+}
     </script>
     <script src="https://maps.googleapis.com/maps/api/js?&callback=initMap&signed_in=true" async defer>
     </script>
