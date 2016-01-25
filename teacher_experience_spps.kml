@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="teacher_experience_spps" id="teacher_experience_spps">
+	<SimpleField name="cartodb_id" type="int"></SimpleField>
+	<SimpleField name="teacher_exp_rank" type="int"></SimpleField>
+	<SimpleField name="free_reduced_price_lunchs_fall__15" type="string"></SimpleField>
+	<SimpleField name="white_students_fall__15" type="string"></SimpleField>
+	<SimpleField name="school" type="string"></SimpleField>
+	<SimpleField name="longitude" type="float"></SimpleField>
+	<SimpleField name="latitude" type="float"></SimpleField>
+	<SimpleField name="avg_yrs_teaching_in_spps_dec__15" type="float"></SimpleField>
+</Schema>
+<Folder><name>teacher_experience_spps</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">1</SimpleData>
+		<SimpleData name="teacher_exp_rank">11</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">57%</SimpleData>
+		<SimpleData name="white_students_fall__15">37%</SimpleData>
+		<SimpleData name="school">Highland Park</SimpleData>
+		<SimpleData name="longitude">-93.170562</SimpleData>
+		<SimpleData name="latitude">44.914016</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.170562,44.914016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">2</SimpleData>
+		<SimpleData name="teacher_exp_rank">1</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">21%</SimpleData>
+		<SimpleData name="white_students_fall__15">70%</SimpleData>
+		<SimpleData name="school">Horace Mann</SimpleData>
+		<SimpleData name="longitude">-93.18539</SimpleData>
+		<SimpleData name="latitude">44.92119</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">20.6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.18539,44.92119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">3</SimpleData>
+		<SimpleData name="teacher_exp_rank">21</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">92%</SimpleData>
+		<SimpleData name="white_students_fall__15">14%</SimpleData>
+		<SimpleData name="school">Cherokee Heights</SimpleData>
+		<SimpleData name="longitude">-93.095114</SimpleData>
+		<SimpleData name="latitude">44.925145</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">11.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.095114,44.925145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">4</SimpleData>
+		<SimpleData name="teacher_exp_rank">9</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">32%</SimpleData>
+		<SimpleData name="white_students_fall__15">62%</SimpleData>
+		<SimpleData name="school">Expo</SimpleData>
+		<SimpleData name="longitude">-93.162172</SimpleData>
+		<SimpleData name="latitude">44.92518</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">15.3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.162172,44.92518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">5</SimpleData>
+		<SimpleData name="teacher_exp_rank">26</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">96%</SimpleData>
+		<SimpleData name="white_students_fall__15">3%</SimpleData>
+		<SimpleData name="school">Highwood Hills</SimpleData>
+		<SimpleData name="longitude">-93.00798</SimpleData>
+		<SimpleData name="latitude">44.929238</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">9.2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.00798,44.929238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">6</SimpleData>
+		<SimpleData name="teacher_exp_rank">2</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">26%</SimpleData>
+		<SimpleData name="white_students_fall__15">71%</SimpleData>
+		<SimpleData name="school">Randolph Heights</SimpleData>
+		<SimpleData name="longitude">-93.156247</SimpleData>
+		<SimpleData name="latitude">44.93108</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.156247,44.93108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">7</SimpleData>
+		<SimpleData name="teacher_exp_rank">16</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">39%</SimpleData>
+		<SimpleData name="white_students_fall__15">58%</SimpleData>
+		<SimpleData name="school">Groveland Park</SimpleData>
+		<SimpleData name="longitude">-93.185599</SimpleData>
+		<SimpleData name="latitude">44.93477</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">14.1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.185599,44.93477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">8</SimpleData>
+		<SimpleData name="teacher_exp_rank">10</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">80%</SimpleData>
+		<SimpleData name="white_students_fall__15">10%</SimpleData>
+		<SimpleData name="school">Battle Creek</SimpleData>
+		<SimpleData name="longitude">-93.01382</SimpleData>
+		<SimpleData name="latitude">44.939409</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">15.2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.01382,44.939409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">9</SimpleData>
+		<SimpleData name="teacher_exp_rank">28</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">96%</SimpleData>
+		<SimpleData name="white_students_fall__15">3%</SimpleData>
+		<SimpleData name="school">Obama</SimpleData>
+		<SimpleData name="longitude">-93.130024</SimpleData>
+		<SimpleData name="latitude">44.943335</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">8.3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.130024,44.943335</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">12</SimpleData>
+		<SimpleData name="teacher_exp_rank">13</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">81%</SimpleData>
+		<SimpleData name="white_students_fall__15">19%</SimpleData>
+		<SimpleData name="school">Four Seasons</SimpleData>
+		<SimpleData name="longitude">-93.183429</SimpleData>
+		<SimpleData name="latitude">44.950582</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">14.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.183429,44.950582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">13</SimpleData>
+		<SimpleData name="teacher_exp_rank">23</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">94%</SimpleData>
+		<SimpleData name="white_students_fall__15">5%</SimpleData>
+		<SimpleData name="school">Maxfield</SimpleData>
+		<SimpleData name="longitude">-93.135498</SimpleData>
+		<SimpleData name="latitude">44.95267</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.135498,44.95267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">14</SimpleData>
+		<SimpleData name="teacher_exp_rank">27</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">93%</SimpleData>
+		<SimpleData name="white_students_fall__15">9%</SimpleData>
+		<SimpleData name="school">Daytons Bluff</SimpleData>
+		<SimpleData name="longitude">-93.066645</SimpleData>
+		<SimpleData name="latitude">44.954614</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">8.4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.066645,44.954614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">15</SimpleData>
+		<SimpleData name="teacher_exp_rank">25</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">92%</SimpleData>
+		<SimpleData name="white_students_fall__15">5%</SimpleData>
+		<SimpleData name="school">Galtier</SimpleData>
+		<SimpleData name="longitude">-93.156061</SimpleData>
+		<SimpleData name="latitude">44.957937</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">10.2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.156061,44.957937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">16</SimpleData>
+		<SimpleData name="teacher_exp_rank">13</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">85%</SimpleData>
+		<SimpleData name="white_students_fall__15">14%</SimpleData>
+		<SimpleData name="school">Eastern Heights</SimpleData>
+		<SimpleData name="longitude">-93.016508</SimpleData>
+		<SimpleData name="latitude">44.961661</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">14.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.016508,44.961661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">17</SimpleData>
+		<SimpleData name="teacher_exp_rank">6</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">85%</SimpleData>
+		<SimpleData name="white_students_fall__15">11%</SimpleData>
+		<SimpleData name="school">Hamline</SimpleData>
+		<SimpleData name="longitude">-93.168085</SimpleData>
+		<SimpleData name="latitude">44.964663</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">16.6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.168085,44.964663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">18</SimpleData>
+		<SimpleData name="teacher_exp_rank">22</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">97%</SimpleData>
+		<SimpleData name="white_students_fall__15">11%</SimpleData>
+		<SimpleData name="school">John A Johnson</SimpleData>
+		<SimpleData name="longitude">-93.068741</SimpleData>
+		<SimpleData name="latitude">44.968075</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">11.2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.068741,44.968075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">19</SimpleData>
+		<SimpleData name="teacher_exp_rank">20</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">82%</SimpleData>
+		<SimpleData name="white_students_fall__15">13%</SimpleData>
+		<SimpleData name="school">Crossroads Science</SimpleData>
+		<SimpleData name="longitude">-93.122889</SimpleData>
+		<SimpleData name="latitude">44.970805</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">11.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.122889,44.970805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">20</SimpleData>
+		<SimpleData name="teacher_exp_rank">19</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">96%</SimpleData>
+		<SimpleData name="white_students_fall__15">4%</SimpleData>
+		<SimpleData name="school">Bruce Vento</SimpleData>
+		<SimpleData name="longitude">-93.082964</SimpleData>
+		<SimpleData name="latitude">44.971027</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.082964,44.971027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">21</SimpleData>
+		<SimpleData name="teacher_exp_rank">3</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">26%</SimpleData>
+		<SimpleData name="white_students_fall__15">67%</SimpleData>
+		<SimpleData name="school">St. Anthony Park</SimpleData>
+		<SimpleData name="longitude">-93.191756</SimpleData>
+		<SimpleData name="latitude">44.978033</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">19.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.191756,44.978033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">22</SimpleData>
+		<SimpleData name="teacher_exp_rank">7</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">87%</SimpleData>
+		<SimpleData name="white_students_fall__15">9%</SimpleData>
+		<SimpleData name="school">Como Park</SimpleData>
+		<SimpleData name="longitude">-93.133177</SimpleData>
+		<SimpleData name="latitude">44.978208</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">16.1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.133177,44.978208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">23</SimpleData>
+		<SimpleData name="teacher_exp_rank">4</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">82%</SimpleData>
+		<SimpleData name="white_students_fall__15">12%</SimpleData>
+		<SimpleData name="school">Farnsworth Lower</SimpleData>
+		<SimpleData name="longitude">-93.0642</SimpleData>
+		<SimpleData name="latitude">44.980653</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">18.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.0642,44.980653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">24</SimpleData>
+		<SimpleData name="teacher_exp_rank">18</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">85%</SimpleData>
+		<SimpleData name="white_students_fall__15">16%</SimpleData>
+		<SimpleData name="school">The Heights</SimpleData>
+		<SimpleData name="longitude">-93.02103</SimpleData>
+		<SimpleData name="latitude">44.982427</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">12.7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.02103,44.982427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">25</SimpleData>
+		<SimpleData name="teacher_exp_rank">12</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">95%</SimpleData>
+		<SimpleData name="white_students_fall__15">3%</SimpleData>
+		<SimpleData name="school">Mississippi Creative Arts</SimpleData>
+		<SimpleData name="longitude">-93.089676</SimpleData>
+		<SimpleData name="latitude">44.987235</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">14.6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.089676,44.987235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">26</SimpleData>
+		<SimpleData name="teacher_exp_rank">5</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">50%</SimpleData>
+		<SimpleData name="white_students_fall__15">47%</SimpleData>
+		<SimpleData name="school">Chelsea Heights</SimpleData>
+		<SimpleData name="longitude">-93.155745</SimpleData>
+		<SimpleData name="latitude">44.987877</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">18.7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.155745,44.987877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">27</SimpleData>
+		<SimpleData name="teacher_exp_rank">13</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">88%</SimpleData>
+		<SimpleData name="white_students_fall__15">10%</SimpleData>
+		<SimpleData name="school">Frost Lake</SimpleData>
+		<SimpleData name="longitude">-93.036737</SimpleData>
+		<SimpleData name="latitude">44.9895</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">14.5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.036737,44.9895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">11</SimpleData>
+		<SimpleData name="teacher_exp_rank">8</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">45%</SimpleData>
+		<SimpleData name="white_students_fall__15">42%</SimpleData>
+		<SimpleData name="school">Capitol Hill</SimpleData>
+		<SimpleData name="longitude">-93.122351</SimpleData>
+		<SimpleData name="latitude">44.950456</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">15.9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.123464584350586,44.950464157685033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#teacher_experience_spps">
+		<SimpleData name="cartodb_id">10</SimpleData>
+		<SimpleData name="teacher_exp_rank">24</SimpleData>
+		<SimpleData name="free_reduced_price_lunchs_fall__15">92%</SimpleData>
+		<SimpleData name="white_students_fall__15">5%</SimpleData>
+		<SimpleData name="school">Benjamin Mays</SimpleData>
+		<SimpleData name="longitude">-93.122346</SimpleData>
+		<SimpleData name="latitude">44.950456</SimpleData>
+		<SimpleData name="avg_yrs_teaching_in_spps_dec__15">10.7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-93.121662139892578,44.950464157685033</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
