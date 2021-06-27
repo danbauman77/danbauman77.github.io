@@ -1,0 +1,60 @@
+BODY { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff; FONT-SIZE: 10pt; }
+P, LI { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; }
+SELECT { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; }
+INPUT { FONT-FAMILY:  Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; }
+.fcctopnavlinks { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; COLOR: #FFFFFF; BACKGROUND-COLOR: #000099; }
+.navlinks { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; }
+.navlinkssub { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; margin-left: 9px; margin-bottom: 0px; margin-top: 0px; }
+.navlinksbody { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; }
+.navlinkheading { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold; }
+.subjectbar { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12pt; FONT-WEIGHT: bold; COLOR: #000099; }
+.breadcrumb { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; }
+.pagetitle { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 15pt; FONT-WEIGHT: bold; }
+.sectionbanner { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12pt; FONT-WEIGHT: bold; }
+.subsection { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11pt; FONT-WEIGHT: bold; }
+.issueboxtitle { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold; COLOR: #000099; }
+.issueboxtitleshifted { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold; COLOR: #000099; margin-left: 3px; margin-top: 3px; }
+.issueboxlite { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; COLOR: #808080; }
+.issueboxtext { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; }
+.headlinedate { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; COLOR: #808080; }
+.bodytext { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; }
+.grayedlink { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; COLOR: #999999; FONT-WEIGHT: bold; TEXT-DECORATION: underline; }
+.bodytextbold  { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold; }
+.tdshaded { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; BACKGROUND: url(http://www.fcc.gov/images/box-gray12x12.gif); }
+.thshaded { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 11pt; FONT-WEIGHT: bold; BACKGROUND-COLOR: #ffedc9; }
+.thshaded_compact { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold; BACKGROUND-COLOR: #ffedc9; }
+.pagedate { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-STYLE: italic; }
+.fccbottomnavlinks { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; }
+.footertext { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; }
+.ital { FONT-STYLE: italic; }
+.jobtitle { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-STYLE: italic; }
+.photocaption { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-STYLE: italic; }
+.sub3head { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-STYLE: italic; }
+.dropcap { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 13pt; FONT-WEIGHT: bold; COLOR: #000099; }
+.formlabel { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold; }
+.indentbody { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; margin-left: 18px; }
+.indentcode { FONT-FAMILY: monoface; FONT-SIZE: 11pt; margin-left: 18px; COLOR: #663300; FONT-WEIGHT: bold; }
+.code { FONT-FAMILY: monoface; FONT-SIZE: 11pt; COLOR: #663300; FONT-WEIGHT: bold; }
+.red { COLOR: #FF0000; }
+.green { COLOR: #669900; }
+.tan { COLOR: #996600; }
+.bluebold { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold; COLOR: #000099; }
+.blue { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; COLOR: #000099; }
+.blue2 { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; COLOR: #0064CE; }
+.greenhot { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12pt; FONT-WEIGHT: bold; COLOR: #669900; }
+.redhot { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12pt; FONT-WEIGHT: bold; COLOR: #FF0000; }
+.issueboxredtitle { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold; COLOR: #FF0000; }
+.calheader { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-WEIGHT: bold; }
+.calmonth { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-WEIGHT: bold; COLOR: #663300; }
+.tabletext { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; }
+.tabletitle { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12pt; }
+.tabletext_compact { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; }
+.table-bluelight { background-color: #F7F5FF; FONT-SIZE: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 13px; color: #000000 }
+.table-blue-header { background-color: #d6d9f3; FONT-SIZE: 11px; font-weight: bold; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 13px; color: #000000 }
+.dkbluetitle { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 15pt; FONT-WEIGHT: bold; COLOR: #000099; }
+.searchlinks { FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 11px; }
+.cell-bluemedium { background-color: #d6d9f3; FONT-SIZE: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #000 }
+.cell-bluemediumdark { background-color: #a3a9e4; FONT-SIZE: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000}
+.cell-bluelight { background-color: #F7F5FF; FONT-SIZE: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #000 }
+.cell-bluedark { background-color: #009; FONT-SIZE: 12px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #FFF }
+.text-black-small {FONT-SIZE: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 13px; color: #000 }
