@@ -1,18 +1,16 @@
-{% assign postCount = site.posts | size %}
-{% assign postsCovered = site.paginate | plus:offset %}
-{% if postsCovered < postCount %}
-<!-- begin pagination -->
-<div class="container animate">
-  <div class="pagination">
-    <button class="load-more-posts button button--primary">More Posts <i class="ion ion-md-arrow-down"></i></button>
+{% if paginator %}
+  <div class="pager">
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}" class="older">
+        <i class='fa fa-angle-double-left'></i>
+        Older Entries
+      </a>
+    {% endif %}
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="newer">
+        Newer Entries
+        <i class='fa fa-angle-double-right'></i>
+      </a>
+    {% endif %}
   </div>
-</div>
-<!-- end pagination -->
 {% endif %}
-
-<script>
-  var base_url = "",
-    pagination_next_url = base_url + '/blog/page2',
-    pagination_next_page_number = '{{ paginator.next_page }}',
-    pagination_available_pages_number = '{{ paginator.total_pages }}';
-</script>

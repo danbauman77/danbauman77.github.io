@@ -2,105 +2,91 @@
 layout: default
 ---
 
-<div class="work-head">
-  <div class="container">
 
-    <div class="row">
-      {% if page.image %}
-      <div class="col col-5 col-d-12">
-        <div class="work-head__left">
-          <div class="work-head__image">
-            <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
-          </div>
-          {% if page.image_caption %}
-          <div class="page-image-caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
-          {% endif %}
-        </div>
-      </div>
-      {% endif %}
-
-      <div class="col col-7 col-d-12">
-        <div class="work-head__right">
-          {% if page.category %}
-          <div class="work-category">{{ page.category }}</div>
-          {% endif %}
-          <h1 class="page-title">{{ page.title }}</h1>
-          {% if page.description %}
-          <p class="page-description">{{ page.description }}</p>
-          {% endif %}
-          <ul class="work-meta list-reset">
-            {% if page.date %}
-            <li class="work-meta__item"><strong>Date:</strong> <span>{{ page.date | date_to_string }}</span></li>
-            {% endif %}
-            {% if page.client %}
-            <li class="work-meta__item"><strong>Client:</strong> <span>{{ page.client }}</span></li>
-            {% endif %}
-            {% if page.role %}
-            <li class="work-meta__item"><strong>Role:</strong> <span>{{ page.role }}</span></li>
-            {% endif %}
-          </ul>
+<div class='full'>
+  <div class='row'>
+    <div class='large-8 columns large-centered'>
+      {% assign small_title = page.categories | join:" & " %}
+      {% assign title = page.title | downcase | capitalize %}
+      {% include section-title.html small_title=small_title title=title %}
+    </div>
+  </div>
+</div>
+<div class='full no-padding'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <div class='mod modBoxedSlider'>
+        <div class='slides'>
+          {% for slide in page.slides %}
+            <div class='slide'>
+              <img width="1120" height="600" alt="" src="{{ slide | relative_url }}" />
+            </div>
+          {% endfor %}
         </div>
       </div>
     </div>
-
   </div>
-</div>
-
-<div class="container animate">
-
-  <div class="page">
-    {{ content }}
-  </div>
-
-  <section class="section work-navigation">
-    <div class="row">
-
-      <div class="col col-12">
-        <div class="section__info">
-          <div class="section__head">
-            <h2 class="section__title">Next</h2>
-          </div>
-        </div>
-
-        <div class="row">
-          {% if page.previous.url %}
-          <article class="work col col-6 col-d-12">
-            <div class="work__content">
-              <a href="{{ page.previous.url }}" class="work__image">
-                <img class="lazy" data-src="{{ page.previous.image }}" alt="{{ page.previous.title }}">
-              </a>
-              <div class="work__info">
-                {% if page.previous.category %}
-                <div class="work__category">{{ page.previous.category }}</div>
-                {% endif %}
-                <h3 class="work__title"><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h3>
-                {% if page.previous.category %}
-                <p class="work__description">{{ page.previous.description }}</p>
-                {% endif %}
-              </div>
-            </div>
-          </article>
-          {% endif %}
-          {% if page.next.url %}
-          <article class="work col col-6 col-d-12">
-            <div class="work__content">
-              <a href="{{ page.next.url }}" class="work__image">
-                <img class="lazy" data-src="{{ page.next.image }}" alt="{{ page.next.title }}">
-              </a>
-              <div class="work__info">
-                {% if page.next.category %}
-                <div class="work__category">{{ page.next.category }}</div>
-                {% endif %}
-                <h3 class="work__title"><a href="{{ page.next.url }}">{{ page.next.title }}</a></h3>
-                {% if page.next.category %}
-                <p class="work__description">{{ page.next.description }}</p>
-                {% endif %}
-              </div>
-            </div>
-          </article>
-          {% endif %}
-        </div>
-      </div>
+  <div class='four spacing'></div>
+  <div class='row'>
+    <div class='large-8 columns'>
+      <h3>{{ page.title }}</h3>
+      {{ content }}
+      <div class='spacing'></div>
+      {% if page.link %}
+        {% if page.link.url contains '://' %}
+          {% assign href = page.link.url %}
+        {% else %}
+          {% assign href = page.link.url | relative_url %}
+        {% endif %}
+        <a class='button small' href='{{ href }}'>{{ page.link.text }}</a>
+      {% endif %}      
     </div>
-  </section>
+    <div class='large-4 columns'>
+      <ul class='info'>
+        {% if page.client %}
+          <li>
+            <strong>Client:</strong>
+            {{ page.client }}
+          </li>
+        {% endif %}
+
+        {% if page.date %}
+          <li>
+            <strong>Date:</strong>
+            {{ page.date | date:"%B %Y" }}
+          </li>
+        {% endif %}
+
+        <li>
+
+          <div class='spacing'></div>
+            
+          {% if page.previous %}
+            <a href='{{ page.previous.url | relative_url }}' title='previous'>
+              <i class='icon-left-open'></i>
+            </a>
+          {% endif %}
+
+          {% assign nav_obj = site.data.nav | where:'section_id','works' | first %}
+
+          <a href='{{ "index.html" | append:nav_obj.path | relative_url }}' title='back to work list'>
+            <i class='icon-layout'></i>
+          </a>
+
+          {% if page.next %}
+            <a href='{{ page.next.url | relative_url }}' title='next'>
+              <i class='icon-right-open'></i>
+            </a>
+          {% endif %}
+
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class='four spacing'></div>
 </div>
+
+
+{% include contact-form.html %}
+
+{% include social-networks.html %}

@@ -1,28 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-{% include head.html %}
+  {% include head.html %}
 
-<body>
+  <body class="{{ page.collection }}">
 
-  {% if site.data.settings.google-analytics %}
-    {% include google-analytics.html %}
-  {% endif %}
+    <a id='top'></a>
 
-  {% include header.html %}
+    {% include header.html %}
 
-  <!-- begin content -->
-  <main class="content" aria-label="Content">
-    {{ content }}
-  </main>
-  <!-- end content -->
+    {% if page.onepage %}
+      {% assign classname = 'top-shift' %}
+    {% else %}
+      {% assign classname = '' %}
+    {% endif %}
 
-  <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
+    <div id="main" class="{{ classname }}">
+      {{ content }}
+    </div>
 
-  {% include footer.html %}
+    {% include footer.html %}
 
-  <script src="{{ site.baseurl }}/js/scripts.js"></script>
-  <script src="{{ site.baseurl }}/js/common.js"></script>
-</body>
-
+  </body>
 </html>
