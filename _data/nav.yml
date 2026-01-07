@@ -1,0 +1,6 @@
+- name: Video
+  path: "/video/"
+  section_id: video
+- name: Words + Data + Viz
+  path: "/words-plus-data-plus-visuals/"
+  section_id: words-plus-data-plus-visuals
