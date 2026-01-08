@@ -5910,6 +5910,7 @@ th.hide-for-touch {
 
 /*Responsive Fixed Sidebar with Scroll*/
 
+
 :root {
   --space: 2rem;
   --space-xs: calc(var(--space) / 3);

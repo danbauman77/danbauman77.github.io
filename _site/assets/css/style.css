@@ -379,7 +379,7 @@ ul.shortcode-list {
       margin: 0; }
   .big-social i:hover {
     border: 3px solid #edb713;
-    background-color: #edb713; }
+    background-color: rgba(237, 183, 19, 0); }
 
 
 .big-social h4 {
@@ -4880,3 +4880,5 @@ body {
       float: right; }
     .centered-nav.contain-to-grid .top-bar .title-area .name h1 a {
       display: none; } }
+
+
