@@ -322,6 +322,7 @@ portfolio:
 								.sidebar-link:hover {
 									color: #000000; text-decoration: underline;
 								}
+
 							</style>
 							
 							<ul style="list-style-type: none;">
@@ -410,16 +411,38 @@ portfolio:
 	{% include social-networks.html %}
 </div>
 
-<div class='full dark no-padding'>
-	<div class="four spacing"></div>
+<div class='full dark no-padding' style="background:#edb713">
+	<div class="three spacing"></div>
 	<div class='row'>
 		<div class='large-8 columns'>
-			<h3 style="text-align: center;" class="white">Prefer this résumé as a PDF?</h3>
+			<h3 style="text-align: center;" style="color:black;">Prefer this résumé as a PDF?</h3>
 			<p></p>
 		</div>
-		<div class='large-4 columns'>
 		<p>
-			<a class='button small boxed' style="display: grid; align-items: center;" href='/assets/images/Dan_Bauman_dot_com_Resume.pdf' target="_blank; align: bottom" rel="noopener noreferrer">Download Here</a>
+
+			<style>
+
+				.pdf-btn {
+              background: #edb713;
+              border: 1px solid black;
+              padding: 8px 12px;
+              border-radius: 4px;
+              cursor: pointer;
+              color: #fff;
+              transition: background-color .15s, border-color .15s, color .15s;
+            }
+
+        .pdf-btn:hover {
+             	background: #be930f;
+              color: #fff;
+              text-decoration: underline;
+              border-color: #111;
+            }
+
+			</style>
+
+			<a type='button' class="pdf-btn" style="place-items: center; font-weight:bold;background-color:black; border-color: black; display: grid; width: 25%; margin-left: auto; margin-right:auto;" href='/assets/images/Dan_Bauman_dot_com_Resume.pdf' target="_blank" rel="noopener noreferrer">Download Here</a>
+			<div class="one spacing"></div>
 		</p>
 	</div>
 </div>

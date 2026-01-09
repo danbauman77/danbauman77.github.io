@@ -375,11 +375,6 @@ ul.shortcode-list {
     -webkit-transition: all, 0.2s, linear;
     -moz-transition: all, 0.2s, linear;
     transition: all, 0.2s, linear; }
-    .big-social i:before {
-      margin: 0; }
-  .big-social i:hover {
-    border: 3px solid #edb713;
-    background-color: rgba(237, 183, 19, 0); }
 
 
 .big-social h4 {
