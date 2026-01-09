@@ -1310,6 +1310,16 @@ form input.error, form textarea.error {
   background-size: cover;
   overflow: hidden;
 }
+
+.smallerscreen {
+  min-height: 400px;
+  height: 50vh;
+  position: relative;
+  max-height: 700px;
+  background-size: cover;
+  overflow: hidden;
+}
+
 #fullscreen-video {
   width: 100%;
   height: 100%;
@@ -1340,6 +1350,31 @@ form input.error, form textarea.error {
   padding: 50px 80px 50px 50px;
   /*text-align: center; */
 }
+
+.smallerscreen .overlay {
+  background-image: -webkit-linear-gradient(#000 0%, #000 60%, #000);
+  background-image: linear-gradient(#000 0%, #000 60%, #000);
+  opacity: 0.5;
+  position: absolute;
+  z-index: 3;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height: 100%; }
+
+.smallerscreen .layer {
+  position: absolute;
+  z-index: 4;
+  width: 100%;
+  /*max-width: 750px;*/
+  left: 30px;
+  top: 20%;
+  /*top: 35%;*/
+  bottom: 10%;
+  padding: 50px 80px 50px 50px;
+  /*text-align: center; */
+}
+
 p.small-title {
     text-transform: uppercase;
     color: #EDB713;
@@ -1359,9 +1394,25 @@ p.small-title {
     margin-bottom: 100px;
   }
 
+.smallerscreen .layer h1 {
+    color: #fff;
+    font-size: 300%;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 1.1em;
+    text-transform: none;
+    margin-bottom: 100px;
+  }
+
+
   .fullscreen .layer h1 span.fir {
 
   }
+
+  .smallerscreen .layer h1 span.fir {
+
+  }
+
 
   .fullscreen .layer h1 span.sec {
     /*font-style: italic;*/
@@ -1369,8 +1420,19 @@ p.small-title {
     /*color: #EDB713;*/
   }
 
+  .smallerscreen .layer h1 span.sec {
+  /*font-style: italic;*/
+  /*font-weight: normal;*/
+  /*color: #EDB713;*/
+  }
+
+
   .fullscreen .layer h1 span.thir {
     /*color: #EDB713;*/
+  }
+
+  .smallerscreen .layer h1 span.thir {
+  /*color: #EDB713;*/
   }
 
   .fullscreen .layer h1::after {
@@ -1381,6 +1443,16 @@ p.small-title {
     background: #EDB713;
     display: block;
   }
+
+  .smallerscreen .layer h1::after {
+    content: "";
+    width: 40px;
+    margin: 20px 0 0;
+    height: 1px;
+    background: #EDB713;
+    display: block;
+  }
+
     .fullscreen .layer h1 strong {
       color: #edb713;
       -webkit-transition-property: all;
@@ -1400,11 +1472,39 @@ p.small-title {
     width: 50%;
   }
 
+    .smallerscreen .layer h1 strong {
+      color: #edb713;
+      -webkit-transition-property: all;
+      -moz-transition-property: all;
+      transition-property: all;
+      -webkit-transition-duration: 0.1s;
+      -moz-transition-duration: 0.1s;
+      transition-duration: 0.1s; }
+  .smallerscreen .layer h2 {
+    color: #ccc;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+    font-weight: 300;
+    text-transform: none;
+    line-height: 1.6em;
+    width: 50%;
+  }
+
   .fullscreen .layer h2 a {
 
   }
 
+  .smallerscreen .layer h2 a {
+
+  }
+
   .fullscreen .layer h2 a:hover {
+    color: #fff;
+    text-decoration: underline;
+  }
+
+  .smallerscreen .layer h2 a:hover {
     color: #fff;
     text-decoration: underline;
   }
@@ -1431,6 +1531,32 @@ p.small-title {
   left: 50%;
   margin-left: -12px; }
   .fullscreen .scroll-down i {
+    width: 40px;
+    font-size: 40px;
+    color: #666; }
+
+  .smallerscreen .layer ul li {
+    display: inline;
+    padding: 0 10px 0 20px;
+    text-transform: uppercase;
+    color: #ccc;
+    letter-spacing: 2px;
+    background: url(../images/@stock/li-item.png) left center no-repeat; }
+  .smallerscreen .layer ul li:first-child {
+    background: none; }
+.smallerscreen .layer.alt {
+  top: 40%; }
+  .smallerscreen .layer.alt h1 {
+    font-size: 60px;
+    letter-spacing: 15px; }
+.smallerscreen .scroll-down {
+  position: absolute;
+  z-index: 4;
+  bottom: 5%;
+  text-align: center;
+  left: 50%;
+  margin-left: -12px; }
+  .smallerscreen .scroll-down i {
     width: 40px;
     font-size: 40px;
     color: #666; }
