@@ -1,0 +1,70 @@
+---
+title: Can These Degree Programs, Under Assault for a Decade, Survive a Pandemic?
+image:
+  path: "/assets/media/pexels-expressivestanley-1454360.webp"
+  caption: Stanley Morales via Pexels
+  sourceurl: https://www.pexels.com/photo/people-wearing-backpacks-1454360/
+categories:
+- portfolio
+date: '2020-10-30 00:01:00'
+link:
+  text:
+  url:
+tags:
+- portfolio
+layout: portfolio
+author: Dan Bauman
+republished:
+  pubname: The Chronicle of Higher Education
+  puburl: https://www.chronicle.com/article/can-these-degree-programs-under-assault-for-a-decade-survive-a-pandemic
+  reason: Paywall
+  archiveurl: "/assets/media/archive/can-these-degree-programs-under-assault-for-a-decade-survive-a-pandemic.pdf"
+---
+
+<p style="color:black">As universities and colleges reckon with the financial fallout spurred by the pandemic, some have elected to terminate or phase out degree programs.</p>
+
+<p style="color:black">Illinois Wesleyan University’s board voted in July to cut its departments of anthropology, French, Italian, and religion, according to the <i><a class="Link" href="https://www.chicagotribune.com/news/ct-illinois-wesleyan-university-liberal-arts-cuts-20201005-sb3disywfvb43mpg6bjoiweyfi-story.html" target="_blank" rel="noopener" data-cms-ai="0">Chicago Tribune</a></i>. At Wittenberg University, in Ohio, the board discontinued degrees in geology, Japanese, and Russian and Central Eurasian studies, the <i><a class="Link" href="https://www.springfieldnewssun.com/news/local-education/wittenberg-university-cuts-academic-programs-positions/3hyCwLZbsXYeen302wzQFI/" target="_blank" rel="noopener" data-cms-ai="0">Springfield News-Sun</a></i> reported. And, faced with $6.8 million in budget cuts, the University of South Florida <a class="Link" href="https://www.bizjournals.com/tampabay/news/2020/10/15/usf-to-address-rumors-college-of-education-is-clos.html" target="_blank" rel="noopener" data-cms-ai="0">said</a> it would close its College of Education. Even more cuts are <a class="Link" href="https://www.civilbeat.org/2020/09/uh-manoa-may-cut-theater-journalism-social-work-programs/" target="_blank" rel="noopener" data-cms-ai="0">reported</a> <a class="Link" href="https://www.post-gazette.com/news/education/2020/08/28/Edinboro-University-considers-academic-cuts/stories/202008280087" target="_blank" rel="noopener" data-cms-ai="0">to</a> <a class="Link" href="https://www.sungazette.com/news/top-news/2020/09/state-universities-look-to-cut-costs-through-retrenchment/" target="_blank" rel="noopener" data-cms-ai="0">be</a> <a class="Link" href="https://www.dailycardinal.com/article/2020/05/uw-system-prepares-for-academic-program-cuts-layoffs-as-financial-losses-mount" target="_blank" rel="noopener" data-cms-ai="0">under</a> <a class="Link" href="https://www.ketv.com/article/doane-university-considers-eliminating-dozens-of-programs/34293616" target="_blank" rel="noopener" data-cms-ai="0">consideration</a> by institutions across the country.</p>
+
+<p style="color:black">Administrators are making good on their word. When more than 100 college chief executives were <a class="Link" href="https://www.aacu.org/sites/default/files/files/research/AACU_ABC_PTSurvey_Report_Findings.pdf" target="_blank" rel="noopener" data-cms-ai="0">polled</a> on the issue this past summer by the Association of American Colleges and Universities, 52 percent of leaders at four-year private institutions anticipated making at least some cuts in academic programs, compared with 47 percent of presidents of four-year public institutions.</p>
+
+<p style="color:black">Facing historic deficits, many colleges and universities are being forced to engage in a relatively simple but uncomfortable calculus, said John J. Cheslock, an associate professor of education-policy studies at Pennsylvania State University. In the long run, colleges must decide, does a particular degree program generate enough enrollment and tuition revenue to warrant its continuation? Or would its elimination lead to greater savings for the institution? Though circumstances can differ from campus to campus, such inquiries have only intensified because of the pandemic.</p>
+
+<p style="color:black">The financial pressures exacerbated by Covid-19 may accelerate trends experienced by certain bachelor’s-degree programs since about 2010. If that happens, two disciplines may attract particular scrutiny: education and foreign languages.</p>
+    
+<iframe title="Degree Programs See Shift in Popularity" aria-label="chart" id="datawrapper-chart-O7ytu" src="https://datawrapper.dwcdn.net/O7ytu/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="733"></iframe>
+  
+<p style="color:black">In the 2012-13 academic year, public and private four-year universities and colleges reported the existence of just over 5,700 active degree programs in education, according to federal data. Six years later, that number had declined by nearly 500, to 5,207. (To be considered an “active” bachelor’s-degree program by <i>The Chronicle,</i> it had to award at least one degree in a given year.) Physical-education teaching programs, business-teacher education programs, and mathematics-teacher education programs saw the largest declines across the decade within the discipline.</p>
+  
+<p style="color:black">The American Association of Colleges for Teacher Education identified similar shifts in its own research, finding that the number of degrees conferred in science and math education — including bachelor’s, master’s, and post-baccalaureate certificates — declined by 27 percent from the 2009-10 to the 2018-19 academic years. The overall number of undergraduates majoring in education at public and private nonprofit four-year institutions declined by a quarter from 2010 to 2018.</p>
+
+<p style="color:black">The prospects of meager compensation in the profession weigh heavily on the minds of education majors, said Jacqueline E. King, a consultant to the teacher-education association. That concern, coupled with the actual cost of earning an education degree, can make the profession untenable to many prospective teachers.</p>
+  
+<p style="color:black">“The financial side of this is a really significant disincentive for anybody to go into teaching, but in particular for students of color,” King said.</p>
+  
+<iframe title="Disciplines Vary in Terms of Degree Programs Added or Cut" aria-label="chart" id="datawrapper-chart-7X3Ve" src="https://datawrapper.dwcdn.net/7X3Ve/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="654"></iframe>
+
+<p style="color:black">The discipline of foreign languages, literatures, and linguistics has faced similar declines in popularity. The 2011-12 academic year saw more than 2,880 active degree programs in the discipline. By 2019, that number had declined by 300. Language and literature programs in French, German, and Spanish had suffered the greatest declines since the 2009-10 academic year.</p>
+
+<p style="color:black">The Modern Language Association, which <a class="Link" href="https://www.chronicle.com/article/colleges-lose-a-stunning-651-foreign-language-programs-in-3-years/" data-cms-ai="0">examined</a> <a class="Link" href="https://nces.ed.gov/programs/digest/d18/tables/dt18_311.80.asp" target="_blank" rel="noopener" data-cms-ai="0">program</a> <a class="Link" href="https://nces.ed.gov/programs/digest/d18/tables/dt18_311.70.asp" target="_blank" rel="noopener" data-cms-ai="0">cuts</a> and trends from 2013 to 2016, found similar patterns.</p>
+  
+<p style="color:black">Certain language programs tend to rely heavily on faculty members off the tenure track, said Paula M. Krebs, the MLA’s executive director. Without those contractual protections, the programs have been and continue to be especially vulnerable to budget cuts. But other language programs have been able to stem and even reverse enrollment losses, Krebs said, by identifying and responding to local needs.</p>
+  
+<p style="color:black">“Departments and programs that develop curricula that connect to the community needs of a school’s region or to area employers are more successful at drawing students,” Krebs said.</p>
+  
+<p style="color:black">The discipline’s decline could be having implications for academic employment. According to a prepandemic estimate by the Bureau of Labor Statistics, the number of foreign-language-and-literature instructors employed by colleges has declined by nearly 20 percent since 2014. (The BLS estimates that the number of postsecondary instructors has declined by more than 8 percent since 2014, an exodus of more than 123,000 people.)</p>
+    
+<iframe title="Since 2014, the Number of Foreign-Language-and-Literature Professors Has Declined" aria-label="chart" id="datawrapper-chart-nHbnW" src="https://datawrapper.dwcdn.net/nHbnW/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe>
+    
+<p style="color:black">Still, it’s far too soon to predict the demise of either education or foreign-language programs. While the number of education majors has flagged since 2010 despite an increase in overall undergraduate enrollment, education majors still accounted for one out of 22 undergraduates on four-year campuses in the fall of 2018, according to federal data. And degree programs within the foreign-language discipline accounted for nearly 4.5 percent of all active bachelor’s-degree programs in the 2018-19 academic year.</p>
+
+<p style="color:black">Other degree programs have not declined as uniformly as those in the education and foreign-languages disciplines have. For instance, while some degree programs in the social sciences have waned in popularity since 2010, other programs in the discipline, including econometrics and criminology, have seen more interest.</p>
+  
+<p style="color:black">Though the latest degree-program cuts are coming amid a pandemic, Penn State’s Cheslock said, universities and colleges are not just responding to the current crisis. They are also preparing for the crisis on the horizon: the coming “enrollment cliff,” when the Great Recession’s birth-rate drop suddenly will mean fewer students.</p>
+  
+<p style="color:black">“If you know 2026 is going to be the beginning of some difficult demographic and economic declines, in terms of the number of high-school graduates,” he said, “that’s another factor that could be related to conversations about restructuring.”</p>
+  
+<h2 class="cms-Styles-h2">About This Analysis</h2>
+  
+<p style="color:black">For this analysis, <i>The Chronicle</i> examined the relative “activity” or “inactivity” of more than 1,000 degree programs offered at America’s four-year public and private nonprofit institutions of higher education since the 2009-10 academic year. To be considered an “active” bachelor’s-degree program in a given year, it had to award at least one degree. In assessing “activity,” <i>The Chronicle </i>counted bachelor’s-degree completions that functioned as either first or second majors.</p>
+  
+<p style="color:black">Because of the limitations of the federal government’s <a class="Link" href="https://nces.ed.gov/ipeds/use-the-data" target="_blank" rel="noopener" data-cms-ai="0">dataset</a> on degree completions, this analysis was unable to account for certain degree programs. Though the government collects data on more than 1,000 specifically described degree programs, not every degree program satisfies the federal definition. To accommodate those programs, the government asks that their completion counts be reported in a series of “catch-all” categories. The “catch-all” categories were not a factor in <i>The Chronicle</i>’s analysis.</p>
