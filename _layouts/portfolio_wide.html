@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+
+<div class='full'>
+  <div class='row'>
+    <div class='large-12 columns large-centered'>
+      {% assign small_title = page.categories | join:" & " %}
+      {% assign title = page.title %}
+      {% include section-title.html small_title=small_title title=title %}
+    </div>
+  </div>
+</div>
+<div class='full no-padding'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <p>
+        <div class='image'>
+          {% if page.image.path %}
+              <img src="{{ page.image.path | relative_url }}" width="1120" height="600"> <a href="{{ page.image.sourceurl }}"> {{ page.image.caption }} </a>
+          {% endif %}
+        </div>
+      </p>
+    </div>
+  </div>
+</div>
+  <div class='one spacing'></div>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <div>
+          {% if page.republished %}
+              <p><span style="background-color: black; color: white; font-weight: bold;">&nbsp;Originally published by</span><span style="color: #edb713; font-weight: bold; background-color: black;"><em> {{ page.republished.pubname }} </em></span><span style="font-weight: bold; background-color: black; color:white;">at</span><a style="font-weight: bold; background-color: black;" href=" {{ page.republished.puburl }} " target="_blank" rel="noopener noreferrer"> {{ page.republished.puburl }}</a> <a style="font-weight: bold; background-color: black;" href=" {{ page.republished.archiveurl }} " target="_blank" rel="noopener noreferrer">[Archived]</a><br><br><span style="background-color: black; color: white; font-weight: bold;">&nbsp;Reason for republication:</span><span style="color: #edb713; font-weight: bold; background-color: black;"> {{ page.republished.reason }}</span>
+              <p>
+          {% endif %}
+      </div>
+      {{ content }}
+      <div class='spacing'></div>
+      {% if page.link %}
+        {% if page.link.url contains '://' %}
+          {% assign href = page.link.url %}
+        {% else %}
+          {% assign href = page.link.url | relative_url %}
+        {% endif %}
+      {% endif %}      
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
