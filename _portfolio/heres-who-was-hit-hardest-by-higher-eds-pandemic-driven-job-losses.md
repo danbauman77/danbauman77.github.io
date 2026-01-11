@@ -31,9 +31,9 @@ republished:
 
 <iframe title="While workers of color represent just a quarter of higher ed's labor force ...&nbsp;&nbsp;" aria-label="Stacked Bars" id="datawrapper-chart-hRmCM" src="https://datawrapper.dwcdn.net/hRmCM/8/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="200"></iframe><br>
 
-<iframe title="... more than half of the workers who lost jobs have been non-white." aria-label="Stacked Bars" id="datawrapper-chart-ch8e1" src="https://datawrapper.dwcdn.net/ch8e1/8/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="300"></iframe><br><br>
+<iframe title="... more than half of the workers who lost jobs have been non-white." aria-label="Stacked Bars" id="datawrapper-chart-ch8e1" src="https://datawrapper.dwcdn.net/ch8e1/8/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="300"></iframe><br>
 
-<iframe title="Faculty and Lower-Paid Staffers Endured Significant Job Losses" aria-label="Interactive line chart" id="datawrapper-chart-CX3lP" src="https://datawrapper.dwcdn.net/CX3lP/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><br><br>
+<iframe title="Faculty and Lower-Paid Staffers Endured Significant Job Losses" aria-label="Interactive line chart" id="datawrapper-chart-CX3lP" src="https://datawrapper.dwcdn.net/CX3lP/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><br>
     
 <iframe title="Big Drops For The Youngest Workers" aria-label="Grouped Bars" id="datawrapper-chart-gyuu5" src="https://datawrapper.dwcdn.net/gyuu5/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="575"></iframe><br><br>
 
