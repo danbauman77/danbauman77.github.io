@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/portfolio/can-these-degree-programs-under-assault-for-a-decade-survive-a-pandemic/</loc>
-<lastmod>2020-10-30T00:01:00-05:00</lastmod>
+<loc>http://localhost:4000/portfolio/how-americas-college-closure-crisis-leaves-families-devastated/</loc>
+<lastmod>2019-04-04T00:01:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/portfolio/help/</loc>
-<lastmod>2026-01-10T02:41:54-06:00</lastmod>
+<loc>http://localhost:4000/portfolio/can-these-degree-programs-under-assault-for-a-decade-survive-a-pandemic/</loc>
+<lastmod>2020-10-30T00:01:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/tv-video/</loc>
@@ -29,16 +29,20 @@
 <lastmod>2025-10-07T02:33:31-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/portfolio/unfold-the-shining-secret-that-only-experts-know/</loc>
-<lastmod>2026-01-10T02:41:54-06:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/portfolio/welcome-to-jekyll/</loc>
-<lastmod>2025-12-28T02:33:18-06:00</lastmod>
+<loc>http://localhost:4000/portfolio/help/</loc>
+<lastmod>2026-01-10T22:54:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/look-what-we-have-done/</loc>
 <lastmod>2026-01-06T02:32:50-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/unfold-the-shining-secret-that-only-experts-know/</loc>
+<lastmod>2026-01-10T22:54:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/welcome-to-jekyll/</loc>
+<lastmod>2025-12-28T02:33:18-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2017/09/05/welcome-to-jekyll.html</loc>
@@ -89,7 +93,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/media/archive/can-these-degree-programs-under-assault-for-a-decade-survive-a-pandemic.pdf</loc>
-<lastmod>2026-01-09T20:55:03-06:00</lastmod>
+<lastmod>2026-01-10T19:59:34-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/media/archive/how-americas-college-closure-crisis-leaves-families-devastated.pdf</loc>
+<lastmod>2026-01-10T19:56:33-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/bower_components/modernizr/media/Modernizr%202%20Logo.pdf</loc>
@@ -97,7 +105,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/longform-resume/</loc>
-<lastmod>2026-01-10T02:41:53-06:00</lastmod>
+<lastmod>2026-01-10T17:41:33-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/video/</loc>

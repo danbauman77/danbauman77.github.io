@@ -7,7 +7,7 @@ layout: default
   <div class='row'>
     <div class='large-8 columns large-centered'>
       {% assign small_title = page.categories | join:" & " %}
-      {% assign title = page.title | downcase | capitalize %}
+      {% assign title = page.title %}
       {% include section-title.html small_title=small_title title=title %}
     </div>
   </div>
