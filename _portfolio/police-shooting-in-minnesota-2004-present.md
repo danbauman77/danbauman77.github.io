@@ -18,7 +18,7 @@ republished:
   pubname: Saint Paul Pioneer Press
   puburl: https://www.twincities.com/2015/11/17/police-shooting-in-minnesota-2004-present/
   reason: Degraded Assets
-  archiveurl: "https://web.archive.org/web/0/https://www.twincities.com/2015/11/17/police-shooting-in-minnesota-2004-present/"
+  archiveurl: "https://web.archive.org/web/20160220094220/http://www.twincities.com/2015/11/17/police-shooting-in-minnesota-2004-present"
 ---
 
 <p style="color:black">A <a href="/portfolio/how-many-minnesota-police-encounters-turn-fatal-dont-ask-the-state/">Pioneer Press analysis</a> found four fatal police shootings in the past decade that were not recorded in the Minnesota Bureau of Criminal Apprehension database as “fatalities.” In fact, no record exists in the database of any shots fired for at least three of those cases. The Pioneer Press has created its&nbsp;own tally of police-related shootings from 2004&nbsp;to April 2016.</p>

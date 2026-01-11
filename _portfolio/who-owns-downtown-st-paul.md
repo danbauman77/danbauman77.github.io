@@ -1,7 +1,7 @@
 ---
 title: Who owns downtown St. Paul?
 image:
-  path: "/assets/media/online_downtown_4_guys4.webp"
+  path: "/assets/media/online_downtown_4_guys4.jpg"
   caption: Dan Bauman
   sourceurl: https://www.twincities.com/2016/04/04/who-owns-downtown-st-paul/
 categories:
@@ -14,12 +14,11 @@ tags:
 - portfolio
 layout: portfolio_wide
 author: Dan Bauman, Sarah Horner, & Tad Vezner
-republished:
-  pubname: Saint Paul Pioneer Press
-  puburl: https://www.twincities.com/2016/04/04/who-owns-downtown-st-paul/
-  reason: Degraded Assets
-  archiveurl: "/assets/media/archive/who-owns-downtown-st-paul.pdf"
 ---
+
+<p>
+  <span style="background-color: black; color: white; font-weight: bold;">&nbsp;Originally published by</span><span style="color: #edb713; font-weight: bold; background-color: black;"><em> Saint Paul Pioneer Press </em></span><span style="font-weight: bold; background-color: black; color:white;">at</span><a style="font-weight: bold; background-color: black;" href=" https://www.twincities.com/2016/04/04/who-owns-downtown-st-paul/ " target="_blank" rel="noopener noreferrer"> https://www.twincities.com/2016/04/04/who-owns-downtown-st-paul/&nbsp;</a> <a style="font-weight: bold; background-color: black;" href="https://www.twincities.com/2016/04/04/who-owns-downtown-st-paul/" target="_blank" rel="noopener noreferrer">&nbsp;[Archived]&nbsp;</a>&nbsp;<a style="font-weight: bold; background-color: black;" href="https://www.twincities.com/2016/04/04/residential-boom-transforming-downtown-st-paul/" target="_blank" rel="noopener noreferrer">&nbsp;[Archived]&nbsp;</a>&nbsp;<a style="font-weight: bold; background-color: black;" href="https://www.twincities.com/2016/04/04/downtown-st-pauls-oldest-tallest-and-most-expensive/" target="_blank" rel="noopener noreferrer">&nbsp;[Archived]&nbsp;</a><br><br><span style="background-color: black; color: white; font-weight: bold;">&nbsp;Reason for republication:</span>&nbsp;<span style="color: #edb713; font-weight: bold; background-color: black;">&nbsp;Degraded Assets&nbsp;</span>
+<p>
 
 <p style="color:black">Four private individuals, in some cases with the help of partners, own a significant swath of St. Paul’s downtown skyline. Here is a brief introduction to those four men.</p>
 

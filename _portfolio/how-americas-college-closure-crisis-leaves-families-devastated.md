@@ -14,12 +14,11 @@ tags:
 - portfolio
 layout: portfolio_wide
 author: Michael Vasquez and Dan Bauman
-republished:
-  pubname: The Chronicle of Higher Education
-  puburl: https://www.chronicle.com/article/how-americas-college-closure-crisis-leaves-families-devastated
-  reason: Paywall; Degraded Assets;
-  archiveurl: "/assets/media/archive/how-americas-college-closure-crisis-leaves-families-devastated.pdf"
 ---
+
+<p><span style="background-color: black; color: white; font-weight: bold;">&nbsp;Originally published by</span><span style="color: #edb713; font-weight: bold; background-color: black;"><em> The Chronicle of Higher Education </em></span><span style="font-weight: bold; background-color: black; color:white;">at</span><a style="font-weight: bold; background-color: black;" href="https://www.chronicle.com/article/how-americas-college-closure-crisis-leaves-families-devastated" target="_blank" rel="noopener noreferrer"> https://www.chronicle.com/article/how-americas-college-closure-crisis-leaves-families-devastated&nbsp;</a> <a style="font-weight: bold; background-color: black;" href="https://web.archive.org/web/20200724234935/https://www.chronicle.com/article/how-americas-college-closure-crisis-leaves-families-devastated/" target="_blank" rel="noopener noreferrer">&nbsp;[Archived]&nbsp;</a>&nbsp;<a style="font-weight: bold; background-color: black;" href="https://web.archive.org/web/20200801031450/https://www.chronicle.com/article/college-closures-2014-18/#id=all_all_all" target="_blank" rel="noopener noreferrer">&nbsp;[Archived]&nbsp;</a><br><br><span style="background-color: black; color: white; font-weight: bold;">&nbsp;Reason for republication:</span>&nbsp;<span style="color: #edb713; font-weight: bold; background-color: black;">&nbsp;Paywall; Degraded Assets;&nbsp;</span>
+              <p>
+
 <p style="color:black">All across the United States, colleges are disappearing.</p>
 
 <p style="color:black">As a result, the lives of students and their families have been plunged into unexpected crisis. A <i>Chronicle</i> analysis of federal data shows that, in the last five years, about half a million students have been displaced by college closures, which together shuttered more than 1,200 campuses.</p>

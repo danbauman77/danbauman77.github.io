@@ -18,7 +18,7 @@ republished:
   pubname: The Chronicle of Higher Education
   puburl: https://www.chronicle.com/article/heres-who-was-hit-hardest-by-higher-eds-pandemic-driven-job-losses
   reason: Paywall
-  archiveurl: "/assets/media/archive/heres-who-was-hit-hardest-by-higher-eds-pandemic-driven-job-losses.pdf"
+  archiveurl: "https://web.archive.org/web/20210420093032/https://www.chronicle.com/article/heres-who-was-hit-hardest-by-higher-eds-pandemic-driven-job-losses"
 ---
 
 <p style="color:black">Since the World Health Organization declared a pandemic in March of 2020, institutions of higher education have shed a net total of at least 570,000 workers, according to preliminary, seasonally adjusted figures from the U.S. Labor Department. Put another way, for every nine workers employed in academe in February 2020, at least one had lost or left that job a year later.</p>
