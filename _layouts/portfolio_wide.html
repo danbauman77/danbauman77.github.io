@@ -34,6 +34,15 @@ layout: default
               <p>
           {% endif %}
       </div>
+      {% if page.author %}
+        <strong style="color:black"> By {{ page.author }}</strong>
+      {% endif %}
+        <br>
+      {% if page.date %}
+        <span style="color:black"><strong>Date: </strong>{{ page.date | date:"%B %d, %Y" }}</span>
+      {% endif %}
+        <br>
+        <br>
       {{ content }}
       <div class='spacing'></div>
       {% if page.link %}

@@ -1,0 +1,128 @@
+---
+title: Who owns downtown St. Paul?
+image:
+  path: "/assets/media/online_downtown_4_guys4.webp"
+  caption: Dan Bauman
+  sourceurl: https://www.twincities.com/2016/04/04/who-owns-downtown-st-paul/
+categories:
+- portfolio
+date: '2016-04-04 00:01:00'
+link:
+  text:
+  url:
+tags:
+- portfolio
+layout: portfolio_wide
+author: Dan Bauman, Sarah Horner, & Tad Vezner
+republished:
+  pubname: Saint Paul Pioneer Press
+  puburl: https://www.twincities.com/2016/04/04/who-owns-downtown-st-paul/
+  reason: Degraded Assets
+  archiveurl: "/assets/media/archive/who-owns-downtown-st-paul.pdf"
+---
+
+<p style="color:black">Four private individuals, in some cases with the help of partners, own a significant swath of St. Paul’s downtown skyline. Here is a brief introduction to those four men.</p>
+
+<div class='tableauPlaceholder' id='viz1768123548964' style='position: relative'><noscript><a href='#'><img alt='' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Do&#47;Downtown_1&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Downtown_1&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Do&#47;Downtown_1&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
+
+<script type='text/javascript'>
+  
+  var divElement = document.getElementById('viz1768123548964');
+
+  var vizElement = divElement.getElementsByTagName('object')[0]; 
+
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; 
+
+  var scriptElement = document.createElement('script'); 
+
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; 
+
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+
+</script>
+
+
+<br><br>
+
+<h2>TED BIGOS, Bigos Management Inc.</h2>
+
+<p style="color:black">Owns <strong>7.52 acres</strong> of downtown land:</p>
+  <ul style="color:black">
+    <li>Kellogg Square Apartments</li>
+    <li>Mears Park Place Apartments</li>
+    <li>Cray Plaza and Galtier Towers</li>
+    <li>Lowertown Lofts</li>
+  </ul>
+
+<p style="color:black"><strong>Business headquarters:</strong> Golden Valley</p>
+
+<p style="color:black"><strong>Personal headquarters:</strong>&nbsp;Wayzata resident, Minneapolis native</p>
+
+<p style="color:black"><strong>On St. Paul:</strong> “What we have seen in St. Paul that we haven’t seen for many years is new apartment construction … In all the years I have been in St. Paul, it’s never felt as good as it feels today.”</p>
+
+<a href="http://www.twincities.com/2016/04/04/ted-bigos-i-think-the-city-has-really-come-into-its-own/" target="_blank"><strong>Read more about him, his work and his vision for St. Paul</strong></a>
+
+<h2 class="">DAVE BROOKS, Brooks group</h2>
+
+<p style="color:black">Owns <strong>4.6 acres</strong> of&nbsp;downtown land:</p>
+  <ul style="color:black">
+    <li>Minnesota Club*</li>
+    <li>The Alliance Bank Center Building*</li>
+    <li>7th Street Garage</li>
+    <li>The Railroader &amp; Stevens Building</li>
+    <li>The O’Connor Building + a parcel that includes an unnamed building and parking lots</li>
+  </ul>
+
+
+<p style="color:black"><em>*Brooks co-owns the Minnesota Club&nbsp;and the Alliance Bank Center with James Kelly of Kelly Brothers Investments.</em></p>
+
+<p style="color:black"><strong>Business headquarters:</strong> St. Paul</p>
+
+<p style="color:black"><strong>Personal headquarters:</strong> White Bear Lake resident, St. Paul native</p> 
+
+<p style="color:black"><strong>On St. Paul:</strong> “We are not Minneapolis, we never will be. We will never be New York or Chicago. … Everyone loves to live in St. Paul. It’s quaint. It’s beautiful. It’s historic. You don’t have that big hustle.”</p>
+
+<p><strong><a href="http://www.twincities.com/2016/04/04/david-brooks-i-love-st-paul-ive-spent-millions-here/" target="_blank">Read more about him, his work and his vision for St. Paul</a></strong></p>
+
+<h2 class="">JAMES CROCKARELL, Madison Equities</h2>
+
+<p style="color:black">Owns <strong>8.13 acres</strong> of downtown land:</p>
+  <ul style="color:black">
+    <li>The Lowry Hotel Building</li>
+    <li>Degree of Honor Building</li>
+    <li>U.S. Bank Center, with the Old Minnesota Saloon</li>
+    <li>First National Bank Building</li>
+    <li>375 Jackson Court</li>
+    <li>The Empire Building</li>
+    <li>Endicott Arcade</li>
+    <li>Park Square Court Building</li>
+    <li>Stadium Ramp</li>
+  </ul>
+<p style="color:black"><strong>Business headquarters:</strong> St. Paul</p>
+
+<p style="color:black"><strong>Personal headquarters:</strong> North Oaks resident,&nbsp;Tennessee native</p>
+
+<p style="color:black"><strong>On St. Paul:</strong> “I think the biggest motor driving the prosperity of St. Paul is housing. … It feels like a small-town environment to people living here. The river promotes that, the historic buildings and lofts.”</p>
+
+<p><strong><a href="http://www.twincities.com/2016/04/04/james-crockarell-the-biggest-motor-driving-the-prosperity-of-st-paul-is-housing/" target="_blank">Read more about him, his work and his vision for St. Paul</a></strong></p>
+
+<h2 class="">GEORGE SHERMAN, Sherman Associates</h2>
+
+<p style="color:black">Owns <strong>3.88 acres</strong> of downtown land:</p>
+
+  <ul style="color:black">
+    <li>Printer’s Row Condo Lawn</li>
+    <li>Lyons Court</li>
+    <li>Sibley Court</li>
+    <li>Sibley Park Apartments</li>
+    <li>Straus Lofts</li>
+    <li>Rayette Lofts</li>
+  </ul>
+
+<p style="color:black"><strong>Business headquarters:</strong> Minneapolis</p>
+
+<p style="color:black"><strong>Personal headquarters:</strong> Edina resident,&nbsp;Twin Cities native</p>
+
+<p style="color:black"><strong>On St. Paul:</strong> “St. Paul spends a lot more concentrated effort on design, fitting in their master plan. … In Minneapolis, a lot of the fabric is new, a lot of things are torn down.”</p>
+
+<p><strong><a href="http://www.twincities.com/2016/04/04/george-sherman-st-paul-spends-a-lot-more-concentrated-effort-on-design/" target="_blank">Read more about him, his work and his vision for St. Paul</a></strong></p>

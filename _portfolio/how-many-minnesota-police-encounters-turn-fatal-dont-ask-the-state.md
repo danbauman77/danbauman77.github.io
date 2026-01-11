@@ -1,0 +1,192 @@
+---
+title:  How many Minnesota police encounters turn fatal? Don’t ask the state
+image:
+  path: "/assets/media/pexels-kat-wilcox-329096-923681.webp"
+  caption: Kat Wilcox via Pexels
+  sourceurl: https://www.pexels.com/photo/crime-scene-do-not-cross-signage-923681/
+categories:
+- portfolio
+date: '2015-11-17 00:01:00'
+link:
+  text:
+  url:
+tags:
+- portfolio
+layout: portfolio_wide
+author: Tad Vezner and Dan Bauman
+republished:
+  pubname: Saint Paul Pioneer Press
+  puburl: https://www.twincities.com/2015/11/17/how-many-minnesota-police-encounters-turn-fatal-dont-ask-the-state/
+  reason: Degraded Assets
+  archiveurl: "/assets/media/archive/how-many-minnesota-police-encounters-turn-fatal-dont-ask-the-state.pdf"
+---
+
+<p style="color:black">Three years ago, a St. Paul teen was shot multiple times and killed by Woodbury police during a tense standoff. A tragic case of mistaken identity, police confused Mark Henderson for the gunman who had actually taken Henderson hostage.</p>
+
+<p style="color:black">The three officers who shot Henderson were cleared of wrongdoing, the case was closed and the hostage-taker convicted.</p>
+
+<p style="color:black">But the highly publicized case — investigated by the Minnesota Bureau of Criminal Apprehension — does not exist in the bureau’s database that tracks shots fired by law enforcement officials. According to that database, Woodbury officers didn’t fire a single incident-related round all year long in 2012.</p>
+
+<div class="desktop">
+  <div class='tableauPlaceholder' id='viz1768118384811' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;Police_Shootings&#47;Database&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Police_Shootings&#47;Database' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;Police_Shootings&#47;Database&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1768118384811');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height='1100px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+</div>
+
+
+<div class="tablet">
+  <div class='tableauPlaceholder' id='viz1768118446424' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;Police_Shootings_tablet&#47;Database&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Police_Shootings_tablet&#47;Database' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;Police_Shootings_tablet&#47;Database&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1768118446424');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height='1100px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+</div>
+
+
+<div class="phone">
+  <div class='tableauPlaceholder' id='viz1768118487242' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;Police_Shootings_mobile&#47;Database&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Police_Shootings_mobile&#47;Database' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;Police_Shootings_mobile&#47;Database&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1768118487242');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height='1100px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+</div>
+
+<style>
+
+
+@media only screen and (min-width : 1px) and (max-width : 629px) {
+.tablet, .desktop {
+display: none;
+margin-left: auto; 
+margin-right: auto;
+
+}
+}
+@media only screen and (min-width : 630px) and (max-width : 799px) {
+.phone, .desktop {
+display: none;
+margin-left: auto; 
+margin-right: auto;
+}
+}
+@media only screen and (min-width : 800px) {
+.phone, .tablet {
+display: none;
+margin-left: auto; 
+margin-right: auto;
+}
+}
+
+</style>
+
+<p style="color:black"><b><a href="/portfolio/police-shooting-in-minnesota-2004-present/">A Pioneer Press database: People fatally shot by police in Minnesota since 2004</a></b></p>
+
+<p style="color:black">Three years ago, a St. Paul teen was shot multiple times and killed by Woodbury police during a tense standoff. A tragic case of mistaken identity, police confused Mark Henderson for the gunman who had actually taken Henderson hostage.</p>
+
+<p style="color:black">The three officers who shot Henderson were cleared of wrongdoing, the case was closed and the hostage-taker convicted.</p>
+
+<p style="color:black">But the highly publicized case — investigated by the Minnesota Bureau of Criminal Apprehension — does not exist in the bureau’s database that tracks shots fired by law enforcement officials. According to that database, Woodbury officers didn’t fire a single incident-related round all year long in 2012.</p>
+
+<p style="color:black">As national scrutiny of fatal police shootings grows, the BCA’s discharge database has been picked over by media outlets hoping to draw conclusions about such shootings in Minnesota.</p>
+
+<p style="color:black">Bureau officials note that they have no database specific to fatal police shootings, making their firearms discharge database — which does categorize some incidents as “fatalities” — the next-best thing.</p>
+
+<p style="color:black">There’s one big problem: Like a national database kept by the FBI, the bureau’s database has flaws that make drawing any conclusions from it problematic.</p>
+
+<h3>METHODOLOGY INADEQUATE</h3>
+
+<p style="color:black">A Pioneer Press analysis found four fatal police shootings in the past decade, including Henderson’s, that were not recorded in the database as “fatalities.” In fact, no record exists in the database of any shots fired for at least three of those cases, including Henderson’s.</p>
+
+<p style="color:black">That’s in part because, like the FBI’s database, the state relies on local law enforcement agencies to report the information themselves.</p>
+
+<p style="color:black">“To be included in the state crime book, agencies must submit data to the BCA by a certain date. Data received after that date do not appear in the annual report,” said BCA spokeswoman Jill Oliveira.</p>
+
+<p style="color:black">It’s a methodology that top law enforcement officials, at the national level, have determined to be inadequate.</p>
+
+<p style="color:black">In March, the U.S. Department of Justice’s Bureau of Justice Statistics found that the federal government’s two databases tracking fatal police shootings severely undercounted the actual number of deaths.</p>
+
+<p style="color:black">“It’s ridiculous that I can’t tell you how many people were shot by the police last week, last month, last year,” FBI director James Comey lamented to a gathering of Georgetown students this year. “Without complete and accurate data, we are left with ideological thunderbolts.”</p>
+
+<p style="color:black">Minnesota is hardly alone in the practice, but relying on self-reporting worries not only federal law enforcement officials but others who’ve taken it upon themselves to pick up the slack.</p>
+
+<p style="color:black">“In a democracy, citizens should be able to figure out how many people are killed by law enforcement, why they were killed, and whether training and policies can be modified to decrease the number of officer-involved deaths,” said D. Brian Burghart, a journalist who has created one of the nation’s most comprehensive private databases of police shootings.</p>
+
+<h3>FIREARMS USAGE</h3>
+
+<p style="color:black">The closest Minnesota comes to tracking fatal police shootings is through a Bureau of Criminal Apprehension database titled “firearms discharges by agency,” which tracks when officers use their firearms during an incident or arrest.</p>
+
+<p style="color:black">A Pioneer Press analysis found four fatal police shootings from the past decade that were not mentioned in the database, including two high-profile shootings that were investigated by the Bureau of Criminal Apprehension itself.</p>
+
+<p style="color:black">In total, the database includes 74 people who were fatally shot by law enforcement officials in Minnesota from 2004 through the end of 2014.</p>
+
+<p style="color:black">The incidents not in the firearms discharge database include:</p>
+
+<p style="color:black">— Mark Henderson Jr., who in 2012 was shot and killed by Woodbury police outside a room at the city’s Red Roof Inn. Henderson, a hostage, was attempting to flee the room where he and others had been assaulted. Investigators later determined that Demetrius Ballinger, the man who had taken Henderson and others hostage, was firing his weapon from inside the room while Henderson was trying to flee, and police mistook Henderson for the gunman. The Bureau of Criminal Apprehension investigated the case.</p>
+
+<p style="color:black">— Theodore Kowalzek, who in 2010 was killed by an Anoka County sheriff’s sergeant during a standoff at Kowalzek’s Ham Lake home. After exchanging gunfire with SWAT team members, Kowalzek bled to death from gunshot wounds. The Bureau of Criminal Apprehension investigated the case.</p>
+
+<p style="color:black">— William Krawchuk, who in 2007 was shot and killed by a Minnesota State Patrol trooper during a traffic stop in rural Sherburne County. Investigators determined that Krawchuk grabbed the trooper’s arm and sped off, dragging the trooper for a third of a mile, reaching speeds of at least 55 mph, before the trooper fired. Sherburne County investigated the case.</p>
+
+<p style="color:black">— Dominic Felder, who in 2006 was shot and killed by Minneapolis police near his home in the city’s Powderhorn neighborhood. Police said Felder resisted them and tried to grab an officer’s gun, while witnesses disputed officers’ version of events. Minneapolis police investigated the case, though the FBI monitored the investigation. The officers were not disciplined, but a federal jury later awarded $2.2 million to Felder’s family in a wrongful-death civil suit, which the city eventually agreed to pay — the second-largest award paid by Minneapolis in a police conduct case.</p>
+
+<p style="color:black">Bureau officials say they do their best to reach out to local jurisdictions to report their own data — including sending multiple reminders.</p>
+
+<p style="color:black">BCA spokeswoman Jill Oliveira said the agency sends reminders each month, and half-year and year-end notifications to those they haven’t received any information from.</p>
+
+<p style="color:black">“If we become aware that the required information has not been provided by a local agency about a specific incident, it has been our practice to reach out to the local agency to let them know that the data has not been submitted,” Oliveira said.</p>
+
+<p style="color:black">But it’s the “becoming aware” part that’s always been the problem, federal officials note — especially regarding departments with historically less crime to report.</p>
+
+<h3>‘SIGNIFICANT UNDERESTIMATE’</h3>
+
+<p style="color:black">In March, Bureau of Justice Statistics released a report on its “arrest-related deaths program,” a national census of those who died during arrest or died in custody.</p>
+
+<p style="color:black">The purpose of the program was clear: “to inform specific policies that may increase the safety of law enforcement officers and citizens, identify training needs in law enforcement agencies, and assist in developing prevention strategies,” the report noted.</p>
+
+<p style="color:black">And when relying solely on other agencies to self-report deaths, the feds found a big problem: a “significant underestimate” of arrest-related deaths. They concluded that about 50 percent of “estimated law enforcement homicides” weren’t reported from 2003 to 2009 and 2011, the years the program tracked — not including deaths relating to accidents, drug overdoses and natural causes. (The Department of Justice and in turn the FBI defines such fatal shootings by law enforcement as “homicides.”)</p>
+
+<p style="color:black">The program didn’t track deaths of bystanders, hostages or law enforcement personnel — or anyone other than those against whom original charges were intended.</p>
+
+<p style="color:black">The DOJ did note improvement over the years, however — with federal officials researching deaths on their own through “open source” searches, such as media reports.</p>
+
+<p style="color:black">Even so, the report noted, between 31 percent and 41 percent of estimated “law enforcement homicides” weren’t captured in 2011 — the last year the report addressed.</p>
+
+<p style="color:black">A big problem lies in the fact that while federal officials could fact-check departments in which deaths had occurred, they couldn’t keep tabs on the departments where no deaths had been reported at any point.</p>
+
+<p style="color:black">Doing so would have required surveying approximately 18,000 state and local agencies to determine whether “no deaths” was accurate, instead of surveying the hundreds of agencies where some deaths had been reported.</p>
+
+<p style="color:black">Wisconsin didn’t report to the program at all from 2008 to 2011, and was one of only four states not to do so in 2011, the last year the report tracked.</p>
+
+<p style="color:black">But the FBI’s tracking of fatal police incidents over the same time period was slightly worse — prompting director Comey to complain, in the wake of growing public pressure, about incomplete data from local law enforcement agencies.</p>
+
+<p style="color:black">Because the FBI’s “supplementary homicide report,” a component of its uniform crime reporting program, was — like the BCA’s — voluntary, many agencies “either do not consistently send their data … or do not send it at all,” the Bureau of Justice Statistics report noted.</p>
+
+<p style="color:black">Additionally, the FBI section that distinguished law enforcement-related homicides from others only tallied those deaths that were ruled “justifiable.”</p>
+
+<p style="color:black">In all, the Bureau of Justice Statistics noted, the FBI database captured an estimated 46 percent of the actual number of homicides by law enforcement officials. Combined with those from the “arrest-related deaths” database, federal officials still missed an estimated 28 percent of such homicides.</p>
+
+<p style="color:black">The bureau’s recommendation was that states should use other methods, including contacting medical examiners or coroners and state and local prosecutors, expanding the role of their own reporters, or conducting searches of other informational outlets, such as the media or private databases.</p>
+
+<h3>PICKING UP THE SLACK</h3>
+
+<p style="color:black">When it comes to nongovernment databases, Burghart, editor and publisher of the Reno News and Review, the Nevada city’s alternative weekly, has one of the biggest — one he’s personally built over the past three years.</p>
+
+<p style="color:black">“It’s the most depressing hobby you can ever imagine. I cannot imagine anything worse to spend my time on,” Burghart said. “I’ve had a lot of volunteers and people who come in and want to do this stuff, research. Some people can make it a couple weeks. One guy, about a year.”</p>
+
+<p style="color:black">So, why do it then?</p>
+
+<p style="color:black">When pressed, Burghart makes the same argument FBI director Comey did.</p>
+
+<p style="color:black">“People should be able to look at their own jurisdiction and compare policies and procedures to other jurisdictions, so they can emulate them and get better outcomes,” Burghart said. “Ultimately, I want fewer people to be killed by cops, and fewer cops to be killed by people.”</p>
+
+<p style="color:black">But really, the impetus for Burghart was more personal than that — a perceived indifference to the data outraged him.</p>
+
+<p style="color:black">When driving home from work in 2012, he passed a chaotic crime scene — the scene of an obvious fatality — and wondered how often it occurred.</p>
+
+<p style="color:black">Curious, he went home, looked for a couple of hours on the Internet and couldn’t find anything, so he gave up.</p>
+
+<p style="color:black">A few months later, another fatal police shooting made headlines. Again, Burghart tried to research information about frequency but only came up with the FBI database, which even he could see was lacking. Florida, for instance, showed no fatal police shootings at all for more than a decade.</p>
+
+<p style="color:black">He probably would have dropped it a second time, Burghart says, if he’d found a state with figures that weren’t so blatantly false.</p>
+
+<p style="color:black">“I found that offensive, to be honest. I just can’t imagine in this day and age, the government does not track that,” he said, “because they track anything. Anything they consider important, they track. So logic suggests, if they don’t track it, they don’t think it matters.”</p>
+
+<p style="color:black">Burghart has hit some bumps along the way. After receiving national attention from a story on the website Gawker, the online trolls emerged.</p>
+
+<p style="color:black">“They started destroying spreadsheets, entering lines of false data, it was just a mess,” Burghart said. Eventually, he was able to fix the damage and make the input process more restricted.</p>
+
+<p style="color:black">There are problems, of course, with private databases.</p>
+
+<p style="color:black">The Minneapolis-based Communities United Against Police Brutality, for example, lists incidents in which people shot themselves when police were present, or cardiac arrests with few additional details, as “stolen lives,” or “people who have lost their lives through encounters with law enforcement agencies.”</p>
+
+<p style="color:black">Given the lack of conclusive information — or because of records strongly suggesting suicide or death by natural causes — the Pioneer Press did not add these names to its own tally of police-related shootings from 2004 through 2014.</p>
