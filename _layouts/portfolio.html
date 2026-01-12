@@ -27,40 +27,32 @@ layout: default
 </div>
   <div class='one spacing'></div>
   <div class='row'>
+    <div class='large-4 columns'>
+      <ul style="list-style-type: none; margin-left:0px; font-size:16px">
+        {% if page.author %}
+        <li style="color:black">
+          <strong> By {{ page.author }}</strong>
+        </li>
+        {% endif %}
+        {% if page.date %}
+        <li style="color:black">
+          <strong>Date:</strong>
+          {{ page.date | date:"%B %d, %Y" }}
+        </li>
+        {% endif %}
+      </ul>
+    </div>
     <div class='large-8 columns'>
       <div>
-          {% if page.republished %}
-              <p><span style="background-color: black; color: white; font-weight: bold;">&nbsp;Originally published by</span><span style="color: #edb713; font-weight: bold; background-color: black;"><em> {{ page.republished.pubname }} </em></span><span style="font-weight: bold; background-color: black; color:white;">at</span><a style="font-weight: bold; background-color: black;" href=" {{ page.republished.puburl }} " target="_blank" rel="noopener noreferrer"> {{ page.republished.puburl }}&nbsp;</a> <a style="font-weight: bold; background-color: black;" href=" {{ page.republished.archiveurl }} " target="_blank" rel="noopener noreferrer">&nbsp;[Archived]&nbsp;</a><br><br><span style="background-color: black; color: white; font-weight: bold;">&nbsp;Reason for republication:&nbsp;</span> <span style="color: #edb713; font-weight: bold; background-color: black;">&nbsp;{{ page.republished.reason }}&nbsp;</span>
-              <p>
-          {% endif %}
+        {% if page.republished %}
+          <p><span style="background-color: black; color: white; font-weight: bold;">&nbsp;Originally published by</span><span style="color: #edb713; font-weight: bold; background-color: black;"><em> {{ page.republished.pubname }} </em></span><span style="font-weight: bold; background-color: black; color:white;">at</span><a style="font-weight: bold; background-color: black;" href=" {{ page.republished.puburl }} " target="_blank" rel="noopener noreferrer"> {{ page.republished.puburl }}&nbsp;</a> <a style="font-weight: bold; background-color: black;" href=" {{ page.republished.archiveurl }} " target="_blank" rel="noopener noreferrer">&nbsp;[Archived]&nbsp;</a><br><br><span style="background-color: black; color: white; font-weight: bold;">&nbsp;Reason for republication:&nbsp;</span> <span style="color: #edb713; font-weight: bold; background-color: black;">&nbsp;{{ page.republished.reason }}&nbsp;</span><p>
+        {% endif %}
       </div>
       {{ content }}
       <div class='spacing'></div>
-      {% if page.link %}
-        {% if page.link.url contains '://' %}
-          {% assign href = page.link.url %}
-        {% else %}
-          {% assign href = page.link.url | relative_url %}
-        {% endif %}
-      {% endif %}      
+      </div>
     </div>
-    <div class='large-4 columns'>
-      <ul class='info'>
-        {% if page.author %}
-          <li style="color:black">
-            <strong> By {{ page.author }}</strong>
-          </li>
-        {% endif %}
-
-        {% if page.date %}
-          <li style="color:black">
-            <strong>Date:</strong>
-            {{ page.date | date:"%B %d, %Y" }}
-          </li>
-        {% endif %}
-
-      </ul>
-    </div>
+    <div class='four spacing'></div>
   </div>
-  <div class='four spacing'></div>
 </div>
+
