@@ -2,7 +2,7 @@
 title:  Coronavirus Has Choked Off Revenues for Private Colleges. How Much Cash Do They Have on Hand?
 image:
   path: "/assets/media/pexels-ann-h-45017-4146006.webp"
-  caption: Ann H via Pexels
+  caption: Ann H via Pexels, with additional editing in Canva
   sourceurl: https://www.pexels.com/photo/close-up-photo-of-cute-pink-piggy-bank-4146006/
 categories:
 - portfolio
