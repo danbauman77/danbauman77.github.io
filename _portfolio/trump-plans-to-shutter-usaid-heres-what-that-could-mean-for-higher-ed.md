@@ -1,0 +1,75 @@
+---
+title: Trump Plans to Shutter USAID. Here’s What That Could Mean for Higher Ed.
+image:
+  path: "/assets/media/pexels-abd-alrhman-al-darra-337910335-29975666.webp"
+  caption: Abd Alrhman Al Darra via Pexels
+  sourceurl: https://www.pexels.com/photo/temporary-shelters-in-refugee-camp-landscape-29975666/
+categories:
+- portfolio
+date: '2025-03-11 00:01:00'
+link:
+  text:
+  url:
+tags:
+- portfolio
+layout: portfolio
+author: Dan Bauman
+republished:
+  pubname: The Chronicle of Higher Education
+  puburl: https://www.chronicle.com/article/trump-plans-to-shutter-usaid-heres-what-that-could-mean-for-higher-ed
+  reason: Paywall
+  archiveurl: "/assets/media/archive/trump-plans-to-shutter-usaid-heres-what-that-could-mean-for-higher-ed.pdf"
+---
+
+<p style="color:black">Less than a week after President Trump’s second inauguration, David Hughes learned the news: A stop-work order had arrived from the U.S. Agency for International Development, bringing to a halt the federally funded research underway at his USAID Innovation Lab on Current and Emerging Threats to Crops, <a class="Link" href="https://plantvillage.psu.edu/cetcil" target="_blank" rel="noopener" data-cms-ai="0"><u>operating</u></a> out of Pennsylvania State University.</p>
+
+<p style="color:black">Hughes’s lab is one of 17 USAID-supported, university-housed “Feed the Future” <a class="Link" href="https://www.kcur.org/news/2025-02-13/usaid-funding-freeze-halts-research" target="_blank" rel="noopener" data-cms-ai="0"><u>operations</u></a> focused on global food security and agricultural research. During his time as program director, Hughes’s lab has worked with partners in five African countries to combat infestations of <a class="Link" href="https://www.psu.edu/news/research/story/nuru-becomes-african-farmers-newest-ally-against-fall-armyworm" target="_blank" rel="noopener" data-cms-ai="0"><u>armyworms,</u></a> whose <a class="Link" href="https://www.psu.edu/news/story/penn-state-awarded-nearly-39m-global-research-threats-crops" target="_blank" rel="noopener" data-cms-ai="0"><u>insatiable</u></a> appetites can rapidly decimate local agriculture, constrict food supplies, and contribute to famine-like conditions.</p>
+
+<p style="color:black">Hughes’s lab’s low-cost, environmentally sound solution is to support production of parasitoid wasps, which <a class="Link" href="https://plantvillage.psu.edu/diseases/fall-armyworm-ipm" target="_blank" rel="noopener" data-cms-ai="0"><u>disrupt</u></a> the life cycles of armyworms and other caterpillars before the critters can wreak havoc.</p>
+
+<p style="color:black">The administration’s recent stop-work orders have paused government-funded USAID operations for a 90-day review period (while also offering temporary waivers for some <a class="Link" href="https://www.state.gov/emergency-humanitarian-waiver-to-foreign-assistance-pause-2/" target="_blank" rel="noopener" data-cms-ai="0"><u>life-saving</u></a> programs — though that has received <a class="Link" href="https://www.hrw.org/news/2025/02/10/us-lifesaving-programs-remain-suspended-despite-waivers" target="_blank" rel="noopener" data-cms-ai="0"><u>criticism</u></a>). The Trump administration has also said it <a class="Link" href="https://apnews.com/article/trump-usaid-foreign-aid-cuts-6292f48f8d4025bed0bf5c3e9d623c16" target="_blank" rel="noopener" data-cms-ai="0"><u>intends</u></a> to terminate more than 90 percent of USAID’s foreign contracts and $60 billion in overall assistance. But the government hasn’t specified which contracts and assistance awards might be discontinued under its proposal. Because of the uncertainty, the Johns Hopkins University is developing plans to lay off staff and scrap health projects, according to <a class="Link" href="https://www.wsj.com/health/healthcare/johns-hopkins-federal-funding-foreign-aid-cut-ca841d31?mod=hp_listc_pos1" target="_blank" rel="noopener" data-cms-ai="0"><i>The</i> <i>Wall Street Journal</i></a><i>,</i> “from breast-feeding support efforts in Baltimore to mosquito-net programs in Mozambique.”</p>
+
+<iframe title="More Than 100 Grants and Contracts at Risk" aria-label="Table" id="datawrapper-chart-L0nrX" src="https://datawrapper.dwcdn.net/L0nrX/9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="950" data-external="1"></iframe>
+
+<p style="color:black">For Hughes, the impact of the administration’s recent actions are already becoming clear: Research and support activities financed by his lab have been frozen, and he’s had to lay off dozens of people in Niger, Burkina Faso, Nepal, and elsewhere. Stateside, Hughes said ongoing federal-funding uncertainty has meant scaling back some of his lab’s research and activities. Certain privately funded projects should remain unaffected by the government’s moves, he said, or at least not be suspended indefinitely.</p>
+
+<p style="color:black">The USAID grant <a class="Link" href="https://www.usaspending.gov/award/ASST_NON_7200AA21LE00005_7200" target="_blank" rel="noopener" data-cms-ai="0"><u>awarded</u></a> in 2021 to Hughes’s lab was set to expire at the end of September 2026. Since 2021, the government has reimbursed $6.8 million to Penn State for activities associated with the grant, leaving a ceiling of $8.24 million left for potential additional reimbursements.</p>
+
+<p style="color:black">For now, though, any additional federal funding for his lab remains frozen, and the ultimate fate of his grant remains unknown.</p>
+
+<h2>141 Contracts At Risk</h2>
+
+<p style="color:black">In addition to Hughes’s lab at Penn State, <i>The Chronicle</i> identified at least 140 other USAID contracts and assistance programs whose funding technically remained active as of Friday, or which were reportedly terminated after Trump’s inauguration but before each award’s original expiration date. Some notable university-supported projects at risk of termination include:</p>
+
+<p style="color:black">• Two programs supporting HIV- and AIDS-prevention efforts — coordinated by Johns Hopkins in <a class="Link" href="https://www.usaspending.gov/award/ASST_NON_72038619CA00001_7200/" target="_blank" rel="noopener" data-cms-ai="0"><u>India</u></a> and the Baylor College of Medicine Children’s Foundation in <a class="Link" href="https://www.usaspending.gov/award/ASST_NON_72061221CA00011_7200/" target="_blank" rel="noopener" data-cms-ai="0"><u>Malawi.</u></a> 
+<br>• Two programs to mitigate tuberculosis — one <a class="Link" href="https://www.usaspending.gov/award/ASST_NON_7200AA22CA00005_7200/" target="_blank" rel="noopener" data-cms-ai="0"><u>awarded</u></a> to Johns Hopkins for the development of tools and approaches to combat the disease, and another <a class="Link" href="https://www.tbdiah.org/about/" target="_blank" rel="noopener" data-cms-ai="0"><u>awarded</u></a> to the University of North Carolina at Chapel Hill to support the TB Data, Impact Assessment, and Communications Hub.
+<br>• A <a class="Link" href="https://www.usaspending.gov/award/ASST_NON_72052121LA00001_7200/" target="_blank" rel="noopener" data-cms-ai="0"><u>partnership</u></a> between Haitian stakeholders and Kansas State University to help improve the beleaguered island nation’s agricultural capacity.</p>
+
+<p style="color:black">But the full extent of USAID’s funding to higher ed is even broader. All told, between 2018 and 2024, more than $3.6 billion in USAID funding was allocated to American higher-education organizations — whether directly, in the form of contracts, grants, and cooperative agreements, or through intermediaries to down-stream partner organizations, via subcontracts and subassistance.</p>
+
+<iframe title="USAID Has Allocated More Than $3.6 Billion to Higher Ed Since 2018" aria-label="Stacked Columns" id="datawrapper-chart-fHLj8" src="https://datawrapper.dwcdn.net/fHLj8/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="578" data-external="1"></iframe>
+
+
+<p style="color:black">Of the 141 USAID contracts and grants allotted to higher-ed institutions identified by <i>The Chronicle</i>, 117 appear on a list of terminated USAID funding shared with the Senate Committee on Foreign Relations by a whistleblower last week, according to <a class="Link" href="https://x.com/AndrewDesiderio/status/1897706481820352825" target="_blank" rel="noopener" data-cms-ai="0"><u>reporting</u></a> from Punchbowl News. Termination notices for three additional awards came by way of government <a class="Link" href="https://www.fpds.gov/ezsearch/jsp/viewLinkController.jsp?agencyID=7200&amp;PIID=72051923P00009&amp;modNumber=P00004&amp;transactionNumber=0&amp;idvAgencyID=&amp;idvPIID=&amp;actionSource=searchScreen&amp;actionCode=&amp;documentVersion=1.5&amp;contractType=AWARD&amp;docType=B%27" target="_blank" rel="noopener" data-cms-ai="0"><u>procurement records</u></a>, <a class="Link" href="https://www.courtlistener.com/docket/69628254/global-health-council-v-donald-j-trump/#entry-20" target="_blank" rel="noopener" data-cms-ai="0"><u>court filings</u></a>, and <a class="Link" href="https://doge.gov/savings" target="_blank" rel="noopener" data-cms-ai="0"><u>DOGE.gov</u></a>. The status of the 21 remaining active contracts and assistance programs could not be ascertained by <i>The Chronicle</i> at time of publication.</p>
+
+<p style="color:black">Litigation spurred by the Trump administration’s policy changes at USAID remains ongoing. Most recently, in a 5-4 decision, the Supreme Court <a class="Link" href="https://apnews.com/article/supreme-court-trump-usaid-foreign-billions-30b8bde0b16c0bd68f8b690f14923c50" target="_blank" rel="noopener" data-cms-ai="0"><u>rejected</u></a> a request by the administration to stay a district judge’s ruling ordering the government to release $2 billion in frozen payments to various former USAID contract and grant recipients for services already rendered.</p>
+
+<p style="color:black">In the preamble of his January 20 <a class="Link" href="https://www.whitehouse.gov/presidential-actions/2025/01/reevaluating-and-realigning-united-states-foreign-aid/" target="_blank" rel="noopener" data-cms-ai="0"><u>executive order</u></a> directing the federal government to pause and review the country’s foreign-assistance programs, Trump argued the “United States foreign-aid industry and bureaucracy are not aligned with American interests and in many cases antithetical to American values.”</p>
+
+<p style="color:black">Hughes, of Penn State, said that in a moment like this, academe needs to make its pitch directly to the American people — explaining succinctly the work that their tax dollars have funded, what the United States stands to gain from it, and what the country stands to lose if it goes away.</p>
+
+<p style="color:black">His lab’s work is just one example.</p>
+
+<p style="color:black">“Pests and crop diseases don’t recognize borders,” he said. “The threats we found across Africa and Asia — they can wipe out our crops as easily as they can wipe out crops abroad.”</p>
+
+<p style="color:black">In that context, Hughes argues the stakes are clear.</p>
+
+<p style="color:black">“I’m always reminded by the Spanish proverb that civilization and anarchy are just seven meals apart,” said Hughes, a native of Ireland wholly familiar with how a single crop <a class="Link" href="https://en.wikipedia.org/wiki/Great_Famine_(Ireland)" target="_blank" rel="noopener" data-cms-ai="0"><u>disease</u></a> can test and redefine an entire society. “What we’ve proven is that — time and time and time again — society benefits when it invests in agricultural research.”</p>
+    
+<iframe title="See Which Colleges Received USAID Funding" aria-label="Table" id="datawrapper-chart-1LqZW" src="https://datawrapper.dwcdn.net/1LqZW/9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="950" data-external="1"></iframe>
+
+<h2 class="cms-Styles-h2">Methodology</h2>
+
+<p style="color:black">The aggregate values for prime financial-assistance (grants, direct payments, and loans) and prime contracts are derived from actions cataloged on <a class="Link" href="https://www.usaspending.gov/" target="_blank" rel="noopener" data-cms-ai="0"><u>usaspending.gov</u></a>. The obligation amounts associated with these assistance programs and contracts reflect a maximum-possible reimbursement that the government will allow at various phases of funded activity — and therefore shouldn’t be confused with the transaction of actual money from the government to a recipient. Similarly, the field “Total Potential Federal Funding” should be understood to reflect the maximum-possible money to be earned by a recipient across the entire life of a funding opportunity. The aggregate values for subassistance and subcontracts were summed from reported subaward amounts.</p>
+
+<p style="color:black">The term “postsecondary organization” can refer to an institution of higher education or a foundation, or it may be an umbrella term for multiple entities operating with an essentially identical mission.</p>
