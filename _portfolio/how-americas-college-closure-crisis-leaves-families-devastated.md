@@ -26,6 +26,8 @@ tags:
 - collaboration
 - news-writing-editing
 - award-winning
+- investigative-projects
+- project-management
 layout: portfolio_wide
 author: Michael Vasquez and Dan Bauman
 ---
@@ -88,7 +90,7 @@ author: Michael Vasquez and Dan Bauman
 
 <p style="color:black">Students like Harrison didn’t have the luxury of time. Without his $2,449.15 financial-aid stipend for the final term, he couldn’t pay his rent. Harrison and his wife were in court last month in front of an eviction judge, who ordered them to leave their home within 10 days. After struggling to find another apartment, the couple, who have six children, found themselves homeless. They put most of their belongings in storage and spent the night in a hotel room.</p>
 
-<h3>Moving Out</h3>
+<h2>Moving Out</h2>
 
 <p style="color:black">“I never thought I would be a homeless vet,” Harrison said. “I felt like the tools and the things that the military instilled in me had gave me enough that I would be able to prevent this situation for my family. For life. At all costs.”</p>
 

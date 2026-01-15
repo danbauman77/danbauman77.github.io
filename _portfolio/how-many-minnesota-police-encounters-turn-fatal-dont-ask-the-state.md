@@ -21,6 +21,8 @@ tags:
 - collaboration
 - writing-for-mobile
 - deadline-breaking-news
+- dashboard-development
+- investigative-projects
 layout: portfolio_wide
 author: Tad Vezner and Dan Bauman
 ---
@@ -92,7 +94,7 @@ margin-right: auto;
 
 <p style="color:black">There’s one big problem: Like a national database kept by the FBI, the bureau’s database has flaws that make drawing any conclusions from it problematic.</p>
 
-<h3>METHODOLOGY INADEQUATE</h3>
+<h2>METHODOLOGY INADEQUATE</h2>
 
 <p style="color:black">A Pioneer Press analysis found four fatal police shootings in the past decade, including Henderson’s, that were not recorded in the database as “fatalities.” In fact, no record exists in the database of any shots fired for at least three of those cases, including Henderson’s.</p>
 
@@ -110,7 +112,7 @@ margin-right: auto;
 
 <p style="color:black">“In a democracy, citizens should be able to figure out how many people are killed by law enforcement, why they were killed, and whether training and policies can be modified to decrease the number of officer-involved deaths,” said D. Brian Burghart, a journalist who has created one of the nation’s most comprehensive private databases of police shootings.</p>
 
-<h3>FIREARMS USAGE</h3>
+<h2>FIREARMS USAGE</h2>
 
 <p style="color:black">The closest Minnesota comes to tracking fatal police shootings is through a Bureau of Criminal Apprehension database titled “firearms discharges by agency,” which tracks when officers use their firearms during an incident or arrest.</p>
 
@@ -136,7 +138,7 @@ margin-right: auto;
 
 <p style="color:black">But it’s the “becoming aware” part that’s always been the problem, federal officials note — especially regarding departments with historically less crime to report.</p>
 
-<h3>‘SIGNIFICANT UNDERESTIMATE’</h3>
+<h2>‘SIGNIFICANT UNDERESTIMATE’</h2>
 
 <p style="color:black">In March, Bureau of Justice Statistics released a report on its “arrest-related deaths program,” a national census of those who died during arrest or died in custody.</p>
 
@@ -166,7 +168,7 @@ margin-right: auto;
 
 <p style="color:black">The bureau’s recommendation was that states should use other methods, including contacting medical examiners or coroners and state and local prosecutors, expanding the role of their own reporters, or conducting searches of other informational outlets, such as the media or private databases.</p>
 
-<h3>PICKING UP THE SLACK</h3>
+<h2>PICKING UP THE SLACK</h2>
 
 <p style="color:black">When it comes to nongovernment databases, Burghart, editor and publisher of the Reno News and Review, the Nevada city’s alternative weekly, has one of the biggest — one he’s personally built over the past three years.</p>
 

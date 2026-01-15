@@ -21,6 +21,9 @@ tags:
 - collaboration
 - writing-for-mobile
 - deadline-breaking-news
+- dashboard-development
+- investigative-projects
+- project-management
 layout: portfolio_wide
 author: Dan Bauman
 republished:

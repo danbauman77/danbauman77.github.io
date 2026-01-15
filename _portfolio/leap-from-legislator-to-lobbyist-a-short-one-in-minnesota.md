@@ -10,13 +10,27 @@ date: '2015-03-27 00:01:00'
 link:
   text:
   url:
-tags:
+tags: 
+- portfolio
+- tableau
+- microsoft-sql-server
+- sql
+- lobbying-records
+- relational-database-admin
+- news-writing-editing
+- collaboration
+- dashboard-development
+- open-refine
+- investigative-projects
+- award-winning
+- project-management
+- adobe-photoshop
 layout: portfolio
 author: Rachel E. Stassen-Berger and Dan Bauman 
 republished:
   pubname: Saint Paul Pioneer Press
   puburl: https://www.twincities.com/2015/03/27/leap-from-legislator-to-lobbyist-a-short-one-in-minnesota/
-  reason: Degraded Assets
+  reason: Paywall
   archiveurl: "https://web.archive.org/web/20160408202532/http://www.twincities.com/2015/03/27/leap-from-legislator-to-lobbyist-a-short-one-in-minnesota/"
 ---
 
@@ -25,6 +39,24 @@ republished:
 <p style="color:black">Longtime Rep. Jim Abeler pushed through this year. On Jan. 6 he ended his 16-year run representing Anoka in the Minnesota House. On Jan. 21, he registered to lobby his former colleagues.</p>
 
 <p style="color:black">“I never thought I would be a lobbyist,” said Abeler, a former chairman of the House’s Health and Human Services Finance Committee. But he now roams the Capitol halls representing a Somali community organization, a veterans’ service organization and other groups that likely would have come before him during his House service.</p>
+
+<div class='tableauPlaceholder' id='viz1768455198696' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;Minnesota_Lawmaker_to_Lobbyist&#47;Clients&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Minnesota_Lawmaker_to_Lobbyist&#47;Clients' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;Minnesota_Lawmaker_to_Lobbyist&#47;Clients&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+
+<script type='text/javascript'>
+
+  var divElement = document.getElementById('viz1768455198696');
+
+  var vizElement = divElement.getElementsByTagName('object')[0];  
+
+  vizElement.style.width='650px';vizElement.style.height='850px';
+  
+  var scriptElement = document.createElement('script');
+
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+
+</script><br>
 
 <p style="color:black">Comparing the view from the lobbying ranks to the one he had as a Republican House member, he said: “It’s the same neighborhood, different dialect.”</p>
 

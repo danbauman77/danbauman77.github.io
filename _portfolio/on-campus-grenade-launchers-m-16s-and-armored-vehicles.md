@@ -23,6 +23,7 @@ tags:
 - military-records
 - self-made-datasets
 - project-management
+- investigative-projects
 layout: portfolio
 author: Dan Bauman
 
@@ -54,7 +55,7 @@ author: Dan Bauman
 
 <p style="color:black">“Apparently, college kids are getting too rowdy,” Mr. Johnson said.</p>
 
-<h3>Significant Savings</h3>
+<h2>Significant Savings</h2>
 
 <p style="color:black">The scrutiny may be increasing now, but the 1033 program has been available to colleges for quite some time. In 1990, Congress passed a version of the National Defense Authorization Act that allowed for the transfer of excess Department of Defense equipment to federal and state agencies if gear was deemed “suitable for use by such agencies in counter-drug activities.” In 1996 the law was reauthorized, with Section 1033 allowing for the transfer of equipment for terrorism-related purposes as well.</p>
 
@@ -76,7 +77,7 @@ author: Dan Bauman
 
 <iframe title="Campuses Stock Up on Military Gear" aria-label="Table" id="datawrapper-chart-CybCy" src="https://datawrapper.dwcdn.net/CybCy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1046" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script><br>
 
-<h3>‘Better to Be Prepared’</h3>
+<h2>‘Better to Be Prepared’</h2>
 
 <p style="color:black">At Central Florida, Chief Beary said, M-16 rifles are stored in vehicles for emergencies, like the one his officers responded to at midnight on March 18, 2013. Answering a call for a pulled fire alarm, officers eventually raided the dormitory room of James Seevakumaran, 30, and found a handgun, an assault rifle, more than 1,000 rounds of ammunition, and four homemade bombs. Mr. Seevakumaran was also in the room, dead from a self-inflicted gunshot wound. <a class="Link" href="http://articles.orlandosentinel.com/2013-05-31/features/os-ucf-shooting-incident-investigation-new-20130531_1_james-oliver-seevakumaran-ucf-police-department-former-ucf-student" target="_blank" rel="noopener">The police said</a> the would-be gunman had intended to force students into the hall with the fire alarm, where he would be waiting with his weapons.</p>
 
@@ -96,7 +97,7 @@ author: Dan Bauman
 
 <p style="color:black">“It’s not just the question of what happens in any one particular incident, but the tone it sets about what an environment needs to be,” Ms. Franks said. “This presumption of danger—this presumption of hostility—is really toxic in many ways and avoids the problems that the community might actually be suffering from.”</p> 
 
-<h3>‘A Profound Cultural Impact’</h3>
+<h2>‘A Profound Cultural Impact’</h2>
 
 <p style="color:black">To alleviate some of the apprehension surrounding the use of military weapons on a college campus, said Linda J. Stump, the University of Florida’s police chief, transparency is key. The University of Florida police department acquired an armored truck in 2007 under the 1033 program. Ms. Stump said the vehicle would be deployed only during an active-shooter situation and never for a civil disturbance.</p>
 
