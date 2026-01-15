@@ -12,6 +12,16 @@ link:
   url:
 tags:
 - portfolio
+- ipeds
+- datawrapper
+- relational-database-admin
+- sql
+- sequel-ace
+- mysql
+- higher-ed-reporting
+- business-reporting
+- research-methodologies
+- news-writing-editing
 layout: portfolio
 author: Dan Bauman
 republished:

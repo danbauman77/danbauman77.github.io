@@ -12,6 +12,23 @@ link:
   url:
 tags:
 - portfolio
+- adobe-illustrator
+- adobe-photoshop
+- carto
+- tableau
+- qgis
+- geodatabase-creation
+- digital-cartography
+- spatial-analysis
+- dashboard-development
+- adobe-photoshop
+- print-visuals
+- gis-records
+- property-lien-records
+- project-management
+- collaboration
+- business-reporitng
+- news-writing-editing
 layout: portfolio_wide
 author: Dan Bauman, Sarah Horner, & Tad Vezner
 ---

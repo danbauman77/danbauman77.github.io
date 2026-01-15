@@ -12,6 +12,15 @@ link:
   url:
 tags:
 - portfolio
+- tableau
+- self-made-datasets
+- policing-records
+- project-management
+- news-writing-editing
+- legal-reporting
+- collaboration
+- writing-for-mobile
+- deadline-breaking-news
 layout: portfolio_wide
 author: Dan Bauman
 republished:

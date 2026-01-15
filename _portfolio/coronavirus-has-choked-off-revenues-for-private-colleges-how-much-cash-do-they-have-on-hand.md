@@ -1,5 +1,6 @@
 ---
-title:  Coronavirus Has Choked Off Revenues for Private Colleges. How Much Cash Do They Have on Hand?
+title: Coronavirus Has Choked Off Revenues for Private Colleges. How Much Cash Do
+  They Have on Hand?
 image:
   path: "/assets/media/pexels-ann-h-45017-4146006.webp"
   caption: Ann H via Pexels, with additional editing in Canva
@@ -12,6 +13,13 @@ link:
   url:
 tags:
 - portfolio
+- credit-opinions
+- datawrapper
+- emma-filings
+- documentcloud
+- higher-ed-reporting
+- business-reporting
+- news-writing-editing
 layout: portfolio
 author: Dan Bauman
 republished:

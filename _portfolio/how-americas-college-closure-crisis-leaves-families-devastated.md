@@ -12,6 +12,20 @@ link:
   url:
 tags:
 - portfolio
+- college-scorecard
+- ipeds
+- peps
+- datawrapper
+- relational-database-admin
+- sql
+- sequel-ace
+- mysql
+- higher-ed-reporting
+- business-reporting
+- research-methodologies
+- collaboration
+- news-writing-editing
+- award-winning
 layout: portfolio_wide
 author: Michael Vasquez and Dan Bauman
 ---

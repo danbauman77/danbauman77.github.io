@@ -12,6 +12,12 @@ link:
   url:
 tags:
 - portfolio
+- datawrapper
+- census-bureau-estimates-forecasts
+- higher-ed-reporting
+- business-reporting
+- research-methodologies
+- statistical-analysis
 layout: portfolio
 author: Dan Bauman
 republished:

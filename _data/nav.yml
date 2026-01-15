@@ -1,5 +1,5 @@
-- name: Video
-  path: "/video/"
+- name: Video + Motion
+  path: "/video-plus-motion/"
   section_id: video
 - name: Words + Data + Viz
   path: "/words-plus-data-plus-visuals/"

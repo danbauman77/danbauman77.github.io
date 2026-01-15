@@ -12,6 +12,24 @@ link:
   url:
 tags:
 - portfolio
+- federal-state-procurement
+- usaspending-gov
+- sam-gov
+- fpds-gov
+- datawrapper
+- postgresql
+- cloud-based-database-admin
+- navicat
+- federal-state-court-records
+- webscraping
+- developer-tools
+- api-powered-tool-development
+- research-methodologies
+- business-reporting
+- higher-ed-reporting
+- legal-reporting
+- deadline-breaking-news
+- news-writing-editing
 layout: portfolio
 author: Dan Bauman
 republished:

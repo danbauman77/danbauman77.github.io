@@ -12,6 +12,19 @@ link:
   url:
 tags:
 - portfolio
+- documentcloud
+- emma-filings
+- financial-statements
+- business-reporting
+- higher-ed-reporting
+- datawrapper
+- ipeds
+- relational-database-admin
+- sql
+- sequel-ace
+- mysql
+- datawrapper
+- news-writing-editing
 layout: portfolio
 author: Dan Bauman
 republished:
