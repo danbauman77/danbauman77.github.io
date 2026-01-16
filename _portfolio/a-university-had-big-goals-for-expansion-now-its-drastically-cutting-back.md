@@ -11,6 +11,7 @@ link:
   text:
   url:
 tags: 
+- portfolio
 - higher-ed-reporting
 - news-writing-editing
 - deadline-breaking-news
