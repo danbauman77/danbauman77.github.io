@@ -2,7 +2,7 @@
 title: How Ohio State Successfully Trademarked the Word ‘THE’
 image:
   path: "/assets/media/pexels-cup-of-couple-6633070.webp"
-  caption: Cup of Couple via Pexels
+  caption: Cup of Couple via Pexels, with additional editing in GIMP
   sourceurl: https://www.pexels.com/photo/person-arranging-letters-on-black-background-6633070/
 categories:
 - portfolio
