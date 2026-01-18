@@ -1,0 +1,85 @@
+---
+title: Former student attends class with pending default on student debt
+image:
+  path: "/assets/media/north-idaho-college-meyer-building.webp"
+  caption: Antony-22 via Wikimedia Commons, with additional editing in GIMP
+  sourceurl: https://commons.wikimedia.org/wiki/File:North_Idaho_College_Meyer_Building_2018.jpg
+categories:
+- portfolio
+date: '2013-10-30 00:01:00'
+link:
+  text:
+  url:
+tags: 
+- portfolio
+- higher-ed-reporting
+- news-writing-editing
+- business-reporting
+- documentcloud
+- accreditor-records
+- credit-opinion
+- legal-reporting
+- federal-state-court-records
+- statistical-analysis
+- r
+layout: portfolio
+author: Dan Bauman
+republished:
+  pubname: The Journal at Webster University
+  puburl: https://websterjournal.com/2013/10/30/college-without-credit-former-student-attends-class-with-pending-default-on-student-debt/
+  reason: Paywall
+  archiveurl: "https://web.archive.org/web/20201126065205/https://websterjournal.com/2013/10/30/college-without-credit-former-student-attends-class-with-pending-default-on-student-debt/"
+---
+
+<p style="color:black">Bill Stephens sits at his desk in Webster Hall Room 323, listening to the teacher’s aide explain the finer points of conversational French. Stephens has attended the class since the beginning of the fall semester, and like his classmates, he’s able to banter fairly well in French with the aide. Unlike his classmates, though, Stephens is not enrolled at Webster University.</p>
+
+<p style="color:black">“He’s motivated and he participates a lot,” said Teacher’s Aide Laetitia Pages. “I really do appreciate his presence in class. He is a very good element.”</p>
+
+<p style="color:black">The past two years have been turbulent for the 20-year-old, a former French major at Webster. Stephens’ eyes water as he recalls how happy he was to receive an acceptance letter from the university in the spring of 2011. During his first year at Webster, he made friends and became involved with clubs on campus. But when Stephens stopped receiving money from his father for tuition after the 2011-12 academic year, he was forced to drop out of college. He now lives with his mother and stepfather, and commutes two and half hours from Hazelwood to Webster by bus. He currently sits in on two French courses, for which he will not receive credit.</p>
+
+<p style="color:black">“Webster is really where I had a sense of family and a sense of friends,” Stephens said. “That’s my main priority, making sure that I am still physically present at Webster. It filled areas of my life that bad family situations left void.”</p>
+
+<p style="color:black">Unable to find a job, Stephens could not make payments on the federal student loans he took out for his freshman year. If Stephens is unable to make a payment in the next three months, he will default on his student loans. The designation will allow the government to garner potential wages and withhold tax returns from him. The default will also further damage his ability to borrow money to finance major purchases, like a home or car. And some prospective employers may consider him a liability due to his low credit score and might not hire him, said Jim Myers, director of financial aid at Webster.</p>
+
+<p style="color:black">Student loans can’t be forgiven in bankruptcy like other forms of debt. Stephens could join more than seven million&nbsp; Americans who have defaulted on both private and government student loans, according to the Consumer Financial Protection Bureau (CFPB).</p>
+
+<p style="color:black">New government data reveals the number of student loan borrowers in default who attended Webster has increased since 2011. Of the 4,824 Webster borrowers who began repaying their loans between October 2009 to September 2010, 427 had defaulted by Sept. 30, 2012. In other words, out of more than 4,800 Webster borrowers, 8.8 percent had defaulted on their federal loans within the three-year window to repay those loans. Last year, the three-year default rate was 8.2 percent.</p>
+
+<p style="color:black">Nationally, one out of every seven student borrowers, or 14.7 percent, defaulted between 2009 and 2012. Private, non-profit universities and colleges averaged an 8.2 percent default rate during the same period. Public and for-profit institutions fared worse, with default rates of 13 percent and 21.8 percent, respectively.</p>
+
+<p style="color:black">Myers said a borrower should never go into default, thanks to government repayment options. Under the most generous of the programs, called Pay as You Earn, borrowers who pay 10 percent of their discretionary income each month can eliminate their loan debt after 20 years of payment. However, of the 1.6 million borrowers eligible for the program, only 40,000 borrowers have enrolled, according to an August report from the CFPB. But if a student does default or is delinquent, Myers urges them to contact his office for advice.</p>
+
+<h2>Student Loan Defaults at Webster University by Year of Repayment</h2><br>
+
+<script type="text/javascript" src="http://public.tableausoftware.com/javascripts/api/viz_v1.js"></script>
+
+<div class="tableauPlaceholder" style="width: 100%; height: 400px; position: relative; overflow: hidden; display: block;"><noscript><a href="#"><img alt="Sheet 1 " src="https://web.archive.org/web/20201126065205im_/http://public.tableausoftware.com/static/images/Bo/Book12_12/Sheet1/1_rss.png" style="border: none"/></a></noscript><object class="tableauViz" width="100%" height="400" style="display:none;"><param name="host_url" value="http%3A%2F%2Fpublic.tableausoftware.com%2F"><param name="site_root" value=""><param name="name" value="Book12_12/Sheet1"><param name="tabs" value="no"><param name="toolbar" value="yes"><param name="static_image" value="http://public.tableausoftware.com/static/images/Bo/Book12_12/Sheet1/1.png"><param name="animate_transition" value="yes"><param name="display_static_image" value="yes"><param name="display_spinner" value="yes"><param name="display_overlay" value="yes"><param name="display_count" value="yes"></object><div style="position:absolute;top:0;left:0;right:0;bottom:0;border:0;padding:0;margin:0"><div style="top:100px;left:0;right:0;position:absolute;z-index:991;box-shadow:none;display:flex;justify-content:center;"><style>#tableau-svg-spinner-container-0{width:65px;height:65px;border-radius:10px;display:flex;justify-content:center;align-items:center}#tableau-svg-spinner-0{width:50px;height:50px;-webkit-animation:tableau-svg-spinner-animation 1s linear infinite;animation:tableau-svg-spinner-animation 1s linear infinite}@-webkit-keyframes tableau-svg-spinner-animation{100%{-webkit-transform:rotate(360deg)}}@keyframes tableau-svg-spinner-animation{100%{transform:rotate(360deg)}}</style><div id="tableau-svg-spinner-container-0"><svg id="tableau-svg-spinner-0" viewBox="0 0 50 50"><style>#tail{fill:url(#tableau-fade-0)}#head{fill:#616570}stop{stop-color:#616570}</style><linearGradient id="tableau-fade-0" x2="50" y1="25" y2="25" gradientUnits="userSpaceOnUse"><stop offset="0" stop-opacity="0"></stop><stop offset=".15" stop-opacity=".04"></stop><stop offset=".3" stop-opacity=".16"></stop><stop offset=".45" stop-opacity=".36"></stop><stop offset=".61" stop-opacity=".64"></stop><stop offset=".76"></stop></linearGradient><path id="head" d="M0 25a25 25 0 1 0 50 0h-3.9a21.1 21.1 0 1 1-42.2 0"></path><path id="tail" d="M50 25a25 25 0 0 0-50 0h3.9a21.1 21.1 0 1 1 42.2 0"></path></svg></div></div><div style="position:absolute;top:0;left:0;right:0;bottom:0;z-index:990;background-color:#EBEBEB;opacity:.24"></div><style>#tableau-svg-spinner-container-0{border-radius:12px;background:rgba(255,255,255,.6);</style><div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: transparent url('http://public.tableausoftware.com/static/images/Bo/Book12_12/Sheet1/1.png?height=400&amp;width=587&amp;deviceScaleFactor=1') no-repeat scroll 0 0; background-size: 587px 400px; box-shadow: none; left:0px; top:1px"></div></div><iframe frameborder="0" marginheight="0" marginwidth="0" title="Data Visualization" allowtransparency="true" allowfullscreen="true" class="tableauViz" width="100%" height="400" style="display: block; margin: 0px; padding: 0px; border: medium; width: 100%; height: 400px;" allow="autoplay 'self'; fullscreen 'self'" src="https://public.tableausoftware.com/views/Book12_12/Sheet1?:embed=y&amp;:showVizHome=no&amp;:host_url=http%3A%2F%2Fpublic.tableausoftware.com%2F&amp;:tabs=no&amp;:toolbar=yes&amp;:animate_transition=yes&amp;:display_static_image=no&amp;:display_spinner=no&amp;:display_overlay=yes&amp;:display_count=yes&amp;:loadOrderID=0"></iframe></div>
+<div style="width:1684px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;">
+<div style="float:right; padding-right:8px;"><a href="http://www.tableausoftware.com/public/about-tableau-products?ref=http://public.tableausoftware.com/views/Book12_12/Sheet1" target="_blank">Learn About Tableau</a></div>
+</div>
+
+<p style="color:black">Source: U.S. Department of Education</p><br>
+
+<p style="color:black">———————————</p><br>
+
+<p style="color:black">“I want the student population to understand that this office cares a lot. We’re here to serve,” Myers said. “That’s what it is all about. It’s all about the student.”</p>
+
+<p style="color:black">Myers hopes to set up a default management system by January, which will alert the Financial Aid Office when students stop paying their loans. His staff will then contact the borrower in question, letting them know about available options. Myers said internal support systems like these, coupled with on-campus information sessions, will allow his office to cut the number of students in three-year default by half. But those results can only be realized after the students his office interacts with graduate in the next several years, Myers said.</p>
+
+<p style="color:black">In the short-term, Myers expects the three-year default rate to decline next year, given the decrease in students who defaulted after entering repayment in 2009-10. The default rate for those students, two years into repayment, fell from 5.8 percent in 2011 to 3.9 percent in 2012.</p>
+
+<p style="color:black">Because he only attended one year for Webster, Stephens’ debt is relatively low compared to that of a Webster graduate. Stephens qualified for $2,500-$3,000 in subsidized and unsubsidized student loans for his freshman year. In 2011, the average student debt load for Webster graduates was $27,159, according to data from the Project on Student Debt.</p>
+
+<p style="color:black">While Stephens has worked to maintain the connections he built his freshman year, the strong friendships are bittersweet.</p>
+
+<p style="color:black">“I’ve got to see the whole class of 2015, the centennial class, all my friends and people I really would call family, progress in their lives, whereas I’ve been stuck, and I am so frustrated with that,” Stephens said.</p>
+
+<p style="color:black">Stephens said he hopes to finish his degree at Webster. Until then, he will continue to audit classes and stay present on campus the best he can.</p>
+
+<p style="color:black">———————————</p><br>
+
+<p style="color:black">Search the three-year student loan default rates for Missouri institutions below. Type your query in the search bar and click ‘Enter.’</p><br>
+
+<iframe src="http://batchgeo.com/map/1a4681341513c64b02c0883aa5bd9383" frameborder="0" width="100%" height="550" style="border:1px solid #aaa;border-radius:10px;" data-ruffle-polyfilled=""></iframe>
+
+<p style="color:black">View <a href="http://batchgeo.com/map/1a4681341513c64b02c0883aa5bd9383">Missouri higher education institutions</a> in a full screen map</p>

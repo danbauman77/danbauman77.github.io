@@ -1,0 +1,94 @@
+---
+title: Drew Cloud Is a Well-Known Expert on Student Loans. One Problem - He’s Not Real.
+image:
+  path: "/assets/media/pexels-larissafarber-7954091.webp"
+  caption: Lara Farber via Pexels, with additional editing in GIMP and Canva
+  sourceurl: https://www.pexels.com/photo/white-cotton-cloth-with-inscription-on-black-font-7954091/
+categories:
+- portfolio
+date: '2018-04-24 00:01:00'
+link:
+  text:
+  url:
+tags: 
+- portfolio
+- higher-ed-reporting
+- news-writing-editing
+- business-reporting
+- metadata-sleuthing
+- collaboration
+- personal-finance-reporting
+- investigative-projects
+- deadline-breaking-news
+- developer-tools
+- award-winning
+- us-uk-canada-business-records
+layout: portfolio
+author: Dan Bauman and Chris Quintana
+republished:
+  pubname: The Chronicle of Higher Education
+  puburl: https://www.chronicle.com/article/drew-cloud-is-a-well-known-expert-on-student-loans-one-problem-hes-not-real/
+  reason: Paywall
+  archiveurl: "/assets/media/archive/drew-cloud-is-a-well-known-expert-on-student-loans-one-problem-hes-not-real.pdf"
+---
+
+<p style="color:black">Drew Cloud is everywhere. The self-described journalist who specializes in student-loan debt has been quoted in major news outlets, including<em> <a class="Link" href="https://www.washingtonpost.com/business/get-there/with-new-degrees-in-hand-college-grads-face-another-hurdle-paying-back-student-loans/2017/06/02/7831cc06-4550-11e7-bcde-624ad94170ab_story.html?utm_term=.81a5a17cfd47" target="_blank" rel="noopener" data-cms-ai="0">The Washington Post</a>,</em> <em><a class="Link" href="https://www.bostonglobe.com/business/2018/03/22/college-students-are-using-student-loans-invest-bitcoin-yes-really/Syr7mJpgIzDn6iOa6a0g5J/story.html" target="_blank" rel="noopener" data-cms-ai="0">The Boston Globe</a>,</em> and <a class="Link" href="https://www.cnbc.com/2018/03/23/college-students-use-financial-aid-money-to-invest-in-bitcoin.html" target="_blank" rel="noopener" data-cms-ai="0">CNBC</a>, and is a fixture in the smaller, specialized blogosphere of student debt.</p>
+
+<p style="color:black">He’s always got the new data, featuring irresistible twists:</p>
+
+<p style="color:black">One in five students use extra money from their student loans to buy digital currencies.</p>
+
+<p style="color:black">Nearly 8 percent of students would move to North Korea to free themselves of their debt.</p>
+
+<p style="color:black">Twenty-seven percent would contract the Zika virus to live debt-free.</p>
+
+<p style="color:black">All of those surveys came from Cloud’s website, <a class="Link" href="https://studentloans.net/" target="_blank" rel="noopener" data-cms-ai="0">The Student Loan Report</a>.</p>
+
+<p style="color:black">Drew Cloud’s story was simple: He <a class="Link" href="https://web.archive.org/web/20180420191847/https:/
+studentloans.net/about-contact/" target="_blank" rel="noopener" data-cms-ai="0">founded</a> the website, an “independent, authoritative news outlet” covering all things student loans, “after he had difficulty finding the most recent student loan news and information all in one place.”</p>
+
+<p style="color:black">He became ubiquitous on that topic. But he’s a fiction, the invention of a student-loan refinancing company.</p>
+
+<p style="color:black">After <em>The Chronicle</em> spent more than a week trying to verify Cloud’s existence, the company that owns The Student Loan Report confirmed that Cloud was fake. “Drew Cloud is a pseudonym that a diverse group of authors at Student Loan Report, LLC use to share experiences and information related to the challenges college students face with funding their education,” wrote Nate Matherson, CEO of <a class="Link" href="https://lendedu.com/about/" target="_blank" rel="noopener" data-cms-ai="0">LendEDU</a>.</p>
+
+<p style="color:black">Before that admission, however, Cloud had corresponded at length with many journalists, pitching them stories and offering email interviews, many of which were published. When <em>The Chronicle</em> attempted to contact him through the address last week, Cloud said he was traveling and had limited access to his account. He didn’t respond to additional inquiries.</p>
+
+<p style="color:black">And on Monday, as <em>The Chronicle</em> continued to seek comment, Cloud suddenly evaporated. His once-prominent <a
+class="Link" href="https://web.archive.org/web/20180415024307/https://studentloans.net/public-colleges-least-private-student-debt/" target="_blank" rel="noopener" data-cms-ai="0">placement</a> on The Student Loan Report had been removed. His bylines were <a class="Link" href="https://studentloans.net/public-colleges-least-private-student-debt/" target="_blank" rel="noopener" data-cms-ai="0">replaced</a> with “SLR Editor.” Matherson confirmed on Tuesday that Cloud was an invention.</p>
+
+<p style="color:black">Pressed on whether he regretted deceiving news organizations with a fake source, Matherson said Cloud “was created as a way to connect with our readers (ex. people struggling to repay student debt) and give us the technical ability to post content to the Wordpress website.”</p>
+
+<p style="color:black">Cloud had an elaborate back story. Before being scrubbed from the website, he was described as having “a knack for reporting throughout high school and college where he picked up his topics of choice.” Since graduating from college, the site said, “Drew wanted to funnel his creative energy into an independent, authoritative news outlet covering an exclusive and developing industry.”</p>
+
+<p style="color:black">Cloud was not the only facade. The website’s affiliation with LendEDU was also not previously disclosed.</p>
+
+<p style="color:black">In his email, Matherson called The Student Loan Report “very much a side project for our organization.”</p>
+
+<p style="color:black">He continued: “Our goal, from the beginning, is to create an informative source of news and educational content for consumers. We are not focused on monetizing from Student Loan Report, LLC. As you may have noticed, there are very few advertisements on the website.”</p>
+
+<p style="color:black">Matherson elaborated: “Our parent company, Shop Tutors, Inc., acquired the online assets of studentloans.net in 2016. The Student Loan Report, LLC is a separate entity. For context, it is very common practice for online media companies to own or acquire additional media assets. Student Loan Report, LLC is a for-profit organization and is paid by some of the companies featured on our website. Student Loan Report, LLC may earn a fee when our readers apply or receive a financial product featured on our website.”</p>
+
+<p style="color:black">But in 2016, Matherson described the relationship in simpler terms in an email obtained by <em>The Chronicle</em>. In that message, sent to a potential contributor, he wrote, “We have a new project that you might be able to help us with. We are launching a student loan industry news site called Student Loan Report located at studentloans.net.”</p>
+
+<h2>A Punch From Mike Tyson</h2>
+
+<p style="color:black">Even without this evidence, close observers would have been able to divine the connection between the two organizations. In 2016, LendEDU and The Student Loan Report posed a series of oddball questions meant to test the lengths to which student borrowers would go to free themselves of debt. About 56 percent of them would take a punch from Mike Tyson, <a class="Link" href="https://web.archive.org/web/20180423215748/https://lendedu.com/blog/february-student-loan-survey" target="_blank" rel="noopener" data-cms-ai="0">wrote</a> <a class="Link" href="https://lendedu.com/about/" target="_blank" rel="noopener" data-cms-ai="0">LendEDU</a>.</p>
+
+<p style="color:black">A few months later, The Student Loan Report <a class="Link" href="https://web.archive.org/web/20180423215735/https:/
+studentloans.net/insane-repayment-survey/" target="_blank" rel="noopener" data-cms-ai="0">issued</a> a report on its own survey asking how far borrowers would go to erase their debt. About 62 percent said they would star in a pornographic film. Forty-three percent said they would hook up with Caitlyn Jenner. The report, issued by Cloud, included a link to a list of student-loan-refinancing companies, LendEDU among them.</p>
+
+<p style="color:black">Both surveys featured an odd mixture of juvenile and mean-spirited humor. They had another similarity as well: an uncommon typo in the word “meant.” Here’s LendEDU on drug use: “56.14 percent of borrowers would abstain from alcohol and drug use for life, if it mean’t that they would have no more student loan debt.” And The Student Loan Report on a similar topic: “85% of borrowers would give up smoking marijuana for life, if it mean’t that they would have no more student loan debt.”</p>
+
+<p style="color:black"> Cloud may no longer appear on his own site, but his footprint in the wider world remains. He was quoted by a number of media outlets this year in connection with a survey finding by The Student Loan Report that one in five students had used money from their student loans to invest in digital currencies. Experts in the field <a class="Link" href="https://www.chronicle.com/article/No-Students-Probably-Aren-t/243103" target="_blank" rel="noopener" data-cms-ai="0">told</a> <em>The Chronicle</em> that the study’s opaque methodology raised concerns.</p>
+
+<p style="color:black">Cloud has often appeared on financial-advice sites, either as a <a class="Link" href="https://web.archive.org/web/20180423220951/https://distilleddollar.com/2017/07/21/4-tips-to-overcome-student-debt/" target="_blank" rel="noopener" data-cms-ai="0">guest writer</a> or as the <a class="Link" href="https://web.archive.org/web/20180423195040/http:/freedomisgroovy.com/student-loans-government-personal-finance-oh/" target="_blank" rel="noopener" data-cms-ai="0">subject</a> of an interview. In those cases, he doesn’t mention where he attended college, but he does mention that he, too, had taken out student loans.</p>
+
+<p style="color:black">When people reached out to Cloud for his expertise on student debt, he often <a class="Link" href="http://www.reversethecrush.com/pay-off-student-loan-debt-like-adult/" target="_blank" rel="noopener" data-cms-ai="0">suggested</a> that they refinance their loans.</p>
+
+<p style="color:black">That’s one of the services offered by LendEDU. Matherson and Matt Lenhard started what would become LendEDU while they were both students at the University of Delaware. The two had originally created a tool that allowed people to book tutors online. But they appeared to spin it into a place from which students can apply for multiple loans.</p>
+
+<p style="color:black">Today, LendEDU describes itself as “marketplace for private student loans, student loan refinancing, credit cards, and personal loans - among other financial products.”</p>
+
+<p style="color:black">In a <a class="Link" href="https://lendedu.com/editorial-integrity/" target="_blank" rel="noopener" data-cms-ai="0">post</a> on the website, Matherson seemed to affirm his commitment to a virtuous way of conducting business.</p>
+
+<p style="color:black">“We started LendEDU to offer transparency in the student loan market,” he wrote. “Today, we are working to provide transparency to the personal finance industry as a whole.”</p>
