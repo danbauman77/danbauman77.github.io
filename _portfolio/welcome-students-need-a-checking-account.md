@@ -34,7 +34,7 @@ author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education
   puburl: https://www.chronicle.com/article/welcome-students-need-a-checking-account/
-  reason: Paywall
+  reason: Paywall; Degraded Assets
   archiveurl: "/assets/media/archive/welcome-students-need-a-checking-account.pdf"
 ---
 

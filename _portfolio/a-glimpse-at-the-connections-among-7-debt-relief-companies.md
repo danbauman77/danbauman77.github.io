@@ -27,7 +27,7 @@ author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education
   puburl: https://www.chronicle.com/article/a-glimpse-at-the-connections-among-7-debt-relief-companies/
-  reason: Paywall
+  reason: Paywall; Degraded Assets
   archiveurl: "/assets/media/archive/a-glimpse-at-the-connections-among-7-debt-relief-companies.pdf"
 ---
 

@@ -22,7 +22,7 @@ author: Dan Bauman
 republished:
   pubname: The Journal at Webster University
   puburl: https://websterjournal.com/2013/10/30/college-without-credit-former-student-attends-class-with-pending-default-on-student-debt/
-  reason: Paywall
+  reason: Degraded Assets
   archiveurl: "https://web.archive.org/web/20201126065205/https://websterjournal.com/2013/10/30/college-without-credit-former-student-attends-class-with-pending-default-on-student-debt/"
 ---
 

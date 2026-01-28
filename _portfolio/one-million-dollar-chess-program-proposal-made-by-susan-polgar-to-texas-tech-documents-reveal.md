@@ -1,0 +1,117 @@
+---
+title: Million-dollar chess program proposal made by Susan Polgar to Texas Tech, documents reveal
+image:
+  path: "/assets/media/pexels-mike-van-schoonderwalt-1884800-5503721.webp"
+  caption: Mike van Schoonderwalt via Pexels
+  sourceurl: https://www.pexels.com/photo/chess-pieces-on-checkerboard-ba-5503721/
+categories:
+- portfolio
+date: '2014-04-23 00:01:00'
+link:
+  text:
+  url:
+tags: 
+- portfolio
+- higher-ed-reporting
+- news-writing-editing
+- business-reporting
+- award-winning
+- datawrapper
+layout: portfolio_wide
+author: Dan Bauman
+republished:
+  pubname: The Journal at Webster University
+  puburl: https://websterjournal.com/2014/04/23/costs-and-benefits-of-an-elite-college-chess-team/
+  reason: Degraded Assets
+  archiveurl: "https://web.archive.org/web/20140425055741/http://websterjournal.com/2014/04/23/costs-and-benefits-of-an-elite-college-chess-team/"
+---
+
+<p style="color:black">Top administrators at <a href="http://www.ttu.edu/" target="_blank">Texas Tech University (TTU)</a> had chess on their minds in late 2011. Officials were mulling the ultimatum given to them by then-employee <a href="http://www.webster.edu/spice/about-susan-polgar.html">Susan Polgar</a>: Provide more funding for her program or Tech’s relationship with the <a href="http://www.webster.edu/spice/" target="_blank">Susan Polgar Institute for Chess Excellence (SPICE)</a> would need to change. Among Polgar’s initial demands — a tenfold increase in annual chess scholarship funding from TTU, a $250,000 salary for herself and a $150,000 salary for her husband, <a href="http://en.wikipedia.org/wiki/Paul_Truong">Paul Truong</a>. Combined with other expenses, the yearly price tag amounted to more than $1 million, as calculated by TTU.</p>
+
+<p style="color:black">In <a href="/assets/media/chess-programs/219806041-Polgar-Program-Proposal-to-TTU-Dec-8.pdf" target="_blank">emails</a> obtained by<i> The Journal</i> under Texas <a href="/assets/media/chess-programs/219806040-Polgar-Program-Proposal-to-TTU-Dec-19.pdf" target="_blank">open records</a> law, TTU administrators wrote that the university would be unable to meet Polgar’s stipulations.<a href="http://blogs.webster.edu/webstertoday/2012/02/03/checkmate-susan-polgar-institute-champion-chess-team-moving-to-webster-university/" target="_blank"> In February 2012</a>, Webster University announced Susan Polgar and SPICE would be moving from Texas Tech to Webster. The program’s departure from TTU was necessitated, <a href="http://www.kcbd.com/story/16677005/polgar-leaving-texas-tech-taking-championship-chess-team-with-her" target="_blank">Polgar told the local NBC affiliate in Lubbock</a>, because of the institution’s inability to provide greater scholarship funding. <a href="http://websterchess.blogspot.com/2012/06/right-move.html" target="_blank">SPICE had only been able to offer large scholarships</a> after receiving a $320,000 donation in 2007 that was to be distributed over five years. That donation was soon to run out, and so other options were sought.</p>
+
+<p style="color:black">Webster Faculty Senate President <a href="http://www.webster.edu/arts-and-sciences/departments/hpir/williams.html">Gwyneth Williams</a> said faculty have mixed views about the program’s move to Webster.</p>
+
+<p style="color:black">Over the course of five months and using multiple state open records laws, <i>The Journal</i> obtained financial data on top college chess programs in the U.S.</p>
+
+<p style="color:black">Susan Polgar did not return phone calls or emails to discuss her proposal to TTU. Paul Truong also did not respond to calls or email messages. The Journal reached out to Webster's public relations office to set up an interview with Polgar, but was told she was unavailable. Provost Julian Schuster, Chief Financial Officer Greg Gunderson and Chief Communications Officer Barbara O'Malley were also unavailable for interviews.</p>
+
+<p style="color:black">“While everyone is pleased with the team’s extraordinary achievements, some faculty are concerned about the financial costs of the program relative to the benefits to all Webster students,” Williams said in a statement. “Other faculty are very supportive of the entire enterprise, believing that it raises Webster’s profile in a way that benefits everyone.”</p>
+
+<p style="color:black">In a statement to <i>The Journal</i>, <a href="http://www.webster.edu/globalmarketingcommunications/meet-the-staff/patrick-giblin.html">university spokesperson Patrick Giblin</a> the $635,000 budgeted to the chess program covers salaries, benefits, equipment and domestic travel, but does not include scholarships. Webster declined comment on the TTU proposal, saying it would be unfair to speculate on the proposal in which Webster is not named.</p>
+
+<p style="color:black; font-weight:bold">The details of Polgar’s proposal to TTU are as follows:</p>
+
+<p style="color:black">• A yearly salary of $250,000 plus benefits for Susan Polgar to serve as SPICE director and chess coach<br><br>
+• A yearly salary of $150,000 plus benefits for Paul Truong to serve as SPICE marketing director<br><br>
+• A $25,000 bonus for each first place win at U.S. college chess’s top tournaments (max of four)<br><br>
+• Six full chess scholarships, which would cover fees, room and board and chess-related expenses<br><br>
+• Six to eight partial chess scholarships, which would cover tuition and fees<br><br>
+• 15-20 competitive chess scholarships for “the purpose of recruiting top-notch students”<br><br>
+• A commitment to fund SPICE for 5-7 years or longer<br><br>
+• At least 2,250 square feet of fully furnished office space for “conducting classes, training, tournaments, exhibition and to house a chess library.”<br><br>
+• A travel budget of $30,000-$40,000 annually<br><br>
+• The ability for Polgar and Truong, Polgar’s husband, to perform and earn income from activities outside the university<br><br>
+• Flexible work hours, as team training, travel and competition may be performed in the evenings, on weekends and holidays<br><br>
+• A one-time relocation expense of $10,000<br><br>
+• The hiring of a office manager, as well as a director of outreach</p><br>
+
+<iframe title="How America's Best College Chess Teams Are Funded" aria-label="Table" id="datawrapper-chart-p7W8g" src="https://datawrapper.dwcdn.net/p7W8g/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1054" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script><br><br>
+
+<p style="color:black"><a href="http://www.websterkirkwoodtimes.com/Articles-Features-i-2012-06-29-181029.114137-A-GameChanging-Move.html#ixzz1zOb60S7m" target="_blank">Polgar told the Webster-Kirkwood Times (WKT)</a> shortly after her move to St. Louis that she started the search for a new home for SPICE in summer 2011. Out of about six universities Polgar met with, Webster offered the most compelling arrangement for the team, though it is unclear when its bid was madep>
+
+<p style="color:black">“When we met with Webster <a href="http://www.webster.edu/provost/">Provost Julian Schuster</a> and <a href="http://www.webster.edu/president/">President Elizabeth Stroble</a>, we were just blown away by their vision, enthusiasm and support to bring the SPICE program to Webster,” Polgar said at the time. “We were sold after we met with them.”</p>
+
+<p style="color:black">In an email correspondence between TTU’s top administrators, senior officials wrote that Polgar made reference to a competing institution in her counter offer to Tech. Polgar said the competing institution had pledged to offer her a $250,000 salary, a $150,000 salary to Truong and at least $220,000 in annual chess scholarship support. The appropriation of office space, additional staff, competitive bonuses and travel funds were also addressed in the competing institution’s bid, TTU administrators had been told by Polgar. When asked how Webster’s budget compared with the proposal of the competing institution referenced in the TTU memos, Giblin said the figures did not match up. Giblin was unable, however, to elaborate on the dissimilarity. Giblin theorized the assertion of a competing institution may have been a negotiating tactic used by Polgar or Truong. Giblin also theorized the competing institution could have been another university interested in funding SPICE</p>
+
+<p style="color:black">SPICE has its own administrative assistant. Furthermore, scholarships to Webster are often the top prizes at youth chess competitions put on by Polgar. <a href="http://susanpolgar.blogspot.com/2014/03/11th-annual-spf-girls-invitational.html" target="_blank">This July, the first, second and third place winners of the Susan Polgar Foundation Girls’ Invitational will win four-year scholarships to Webster ranging from $12,000 per year to $24,000 per year. </a>Giblin was unaware if these chess prize scholarships were funded by the university or an outside donor. The university also made a $30,000 grant to the <a href="http://www.susanpolgar.com/susan-polgar-foundation.html" target="_blank">Susan Polgar Foundation, Inc.</a> in 2012-13, <a href="/assets/media/chess-programs/43-0662529_990_201305.pdf" target="_blank">according to the school’s most recent tax documents</a></p><br>
+
+<iframe title="Top College Chess Programs Rely on Scholarships" aria-label="Table" id="datawrapper-chart-Khov6" src="https://datawrapper.dwcdn.net/Khov6/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1131" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script><br><br>
+
+<p style="color:black"><a href="https://web.archive.org/web/20140527182318/http://websterjournal.com/2013/09/25/university-eden-look-to-overturn-cup-denial/" target="_blank">The university intends for SPICE to be housed in the former Luhr Library should authorization from the City of Webster Groves be granted to occupy and renovate the complex.</a> The university purchased the library building from Eden Theological Seminary in 2010, but the city denied the university’s initial request to use the property in 2013.</p>
+
+<p style="color:black">While employed at TTU, Polgar and Truong earned yearly salaries of <a href="http://records.texastribune.org/dataapps/salaries.csv" target="_blank">$131,325 and $78,795</a>, respectively. In an interview with the<a href="http://msn.foxsports.com/other/story/Susan-Polgar-texas-tech-chess-coach-team-make-bold-move-060412?r_src=ramp" target="_blank"> defunct news website The Daily</a>, Truong said his wife would receive a moderate salary increase when SPICE moved to Webster.</p>
+
+<p style="color:black">Giblin said SPICE’s operating budget is funded largely by tuition revenue, like all Webster departments. Giblin said the university has received donations specifically for SPICE funding. Potentially, Giblin said, these donations could be moved to the endowment where the funds would earn interest. The interest-earned on these donations would then be used to fund SPICE activities.</p>
+
+<p style="color:black"><a href="https://ive.90c.myftpupload.com/2014/04/25/chess-revenue-and-expense-data-for-top-college-chess-programs/" target="_blank">Webster is not alone in its investment in college chess. </a>The <a href="http://www.utdallas.edu/" target="_blank">University of Texas—Dallas</a> (UTD), the <a href="http://www.umbc.edu/" target="_blank">University of Maryland—Baltimore County</a> (UMBC), TTU, and the <a href="http://www.utb.edu/Pages/default.aspx" target="_blank">University of Texas —Brownsville</a> (UTB) spent a total of approximately $1.26 million in 2012-13 to subsidize the costs associated with their chess programs.</p>
+
+<p style="color:black">UMBC, TTU, Webster and the <a href="http://illinois.edu/" target="_blank">University of Illinois at Urbana—Champaign</a> (U of I) were contenders for college chess’s top honor, The President’s Cup, in early April. The U of I team is not included in the above aggregate.<a href="http://www.las.illinois.edu/news/2014/chess/" target="_blank"> As a club, its funds are relatively small compared to its competition. U of I does not offer chess scholarships or employ a team coach.</a></p><br>
+
+<iframe title="How Do Elite College-Chess Teams Spend Their Money?" aria-label="Table" id="datawrapper-chart-346Ne" src="https://datawrapper.dwcdn.net/346Ne/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1443" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script><br>
+
+<h2>The benefits of an elite chess team</h2>
+
+<p style="color:black">In interviews with other news outlets, Webster Provost Julian Schuster has said he hopes for SPICE to generate both direct and indirect revenue one day. In an interview with <a href="http://susanpolgar.blogspot.com/2012/03/webster-university-has-surprise-of-its.html" target="_blank">ChessCafe.com</a>, Schuster said he expected the program to eventually be funded in part by non-university sources, enabling the program to become a sustainable enterprise. Likewise, Schuster told the <a href="http://www.nytimes.com/2012/02/15/crosswords/chess/chess-coach-to-leave-texas-tech-with-teams-best-in-tow.html?_r=1&amp;" target="_blank">New York Times</a> the program would one day pay for itself by increasing Webster’s prestige and garnering interest in the university.</p>
+
+<p style="color:black">Along with subsidies, UTD, UTB, TTU and UMBC also finance their play with donations, state appropriations, camp income and student fees. University subsidies, however, represented the largest funding source for the teams at the four schools.</p>
+
+<p style="color:black">To replicate the media attention generated by SPICE, Webster estimates it would have to spend $2.8 million annually in advertising. From news stories and social media mentions, Webster estimates SPICE-related content reaches an estimated 85 million people per year. This investment, Giblin said, has produced “a significant amount of publicity, reputation building and brand recognition for Webster University.” Giblin declined, however, to address how this advertising translated into other metrics, such as applications for admission or general donations to Webster.</p>
+
+<p style="color:black">“Having a nationally-ranked program of any kind can bring national awareness and recognition to the university,” Giblin said. “Having the No. 1 ranked college chess team in the U.S. is a strategic initiative that brings exponential recognition to Webster in media outlets around the world — consistent with Webster’s brand as a global institution.”</p>
+
+<p style="color:black">Besides publicity, some college chess supporters contend a program can offer an array of benefits to a wide range of individuals. <a href="https://www.utb.edu/sa/chess/Pages/ProgramDirector.aspx">UTB Director Russell Harwood</a> said a chess program may pique the interest of prospective non-chess students, and the perceived intellectualism associated with chess can add to the general attractiveness of a university.</p>
+
+<p style="color:black"><a href="http://www.csee.umbc.edu/~sherman/">Alan Sherman, director of the UMBC chess program</a>, added that program outreach with K-12 classes and other members of the public can benefit the community. In the Webster Groves School District, <a href="http://www.websterkirkwoodtimes.com/Articles-Features-i-2013-12-13-191054.114137-where-CHESS-is-KING-.html#axzz2zMn2f4xO" target="_blank">Webster University chess players have visited classrooms to teach chess play and interact with students</a>. And both directors said a program can attract chess students of a high intellectual caliber to an institution the players might not have otherwise considered.</p>
+
+<p style="color:black">An investment in chess can offer a moderate, short-term return to a university at relatively low risk and cost, said <a href="http://centerforcollegeaffordability.org/about/staff-directory">Richard Vedder</a>, Ohio University professor and director of the <a href="http://centerforcollegeaffordability.org/" target="_blank">Center for College Affordability and Productivity</a>. Vedder said program backers see the investment in keeping with the intellectual pursuits of higher education. Additionally, a successful program can generate low-cost publicity for the institution. But Vedder said long-term benefits from media exposure are unlikely.</p>
+
+<p style="color:black">“You might be able to temporarily buy some success, but in the long run there will be other schools who will come along. And if there is a payoff, those other schools that come along will outbid Webster. Webster’s resources are not unlimited,” Vedder said.</p><br>
+
+<iframe title="Compensation for Chess Personnel Varies By Program" aria-label="Table" id="datawrapper-chart-fT7EL" src="https://datawrapper.dwcdn.net/fT7EL/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1182" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script><br><br>
+
+<h2>$1 million question</h2>
+
+<p style="color:black">Sherman said he wouldn’t be surprised if SPICE’s total yearly expenses reached around $1 million.</p>
+
+<p style="color:black">Truong has also made reference to a $1-million chess program in the past. <a href="http://www.dailytoreador.com/news/article_3e8e109e-5051-11e1-89b3-001a4bcf6878.html" target="_blank">Talking to TTU’s campus newspaper</a> after SPICE’s announcement that it would move to Webster, Truong said the chess program was a victim of its own success.</p>
+
+<p style="color:black">“I don’t think anybody — us or the administrators of the university — could ever expect how fast the program grew,” Truong said to the campus newspaper. “And, unfortunately, when you are a state institution, you know, the president, or let’s say the provost or the chancellor, cannot just make a decision that, ‘OK, tomorrow I am going to give you a million dollar budget for chess.’ It doesn’t work that way.”</p>
+
+<p style="color:black">The university declined comment on Truong’s statement, again saying it did not want to speculate on statement in which Webster was not mentioned.</p>
+
+<p style="color:black">While uneasy with the money flooding into college chess, Sherman said he would like UMBC to invest more money into its program. UMBC was the first institution to offer chess scholarships, and the first to face complaints from competitors who said they couldn’t compete against moneyed interests. Now, Sherman said, he is making the same claim about Webster.</p>
+
+<p style="color:black">“The tables are kind of turned. We feel that we can’t compete very well against Webster. … We will do the best we can,” Sherman said. “It’s kinda of interesting for me to experience both sides of that equation.”</p><br>
+
+<iframe title="SPICE's Move to Webster University" aria-label="Scatter Plot" id="datawrapper-chart-lMeZB" src="https://datawrapper.dwcdn.net/lMeZB/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2368" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
