@@ -1,0 +1,81 @@
+---
+title: A ‘Culture of Silence’ Persisted for Decades at Liberty U., Education Dept. Says 
+image:
+  path: "/assets/media/liberty-university-building.webp"
+  caption:  Billy Hathorn via Wikimedia Commons, with additional editing in GIMP
+  sourceurl: https://commons.wikimedia.org/wiki/File:Liberty_University_LaHaye_Student_Union_IMG_4121.JPG
+categories:
+- portfolio
+date: '2023-10-03 00:01:00'
+link:
+  text:
+  url:
+tags:
+- portfolio
+- documentcloud
+- emma-filings
+- financial-statements
+- business-reporting
+- higher-ed-reporting
+layout: portfolio
+author: Dan Bauman and Michael Vasquez
+republished:
+  pubname: The Chronicle of Higher Education
+  puburl: https://www.chronicle.com/article/education-dept-alleges-years-of-safety-failures-by-liberty-u
+  reason: Paywall
+  archiveurl: "/assets/media/archive/education-dept-alleges-years-of-safety-failures-by-liberty-u.pdf"
+---
+
+<p style="color:black">Liberty University has systemically failed to comply with federal laws that require colleges to disclose information about crimes on their campuses and to warn students and employees of threats to their safety, according to a copy of a purported report prepared by the U.S. Department of Education and obtained by <i>The Chronicle</i>. <i>The Chronicle</i> has confirmed that a report was provided to Liberty by the Education Department. However, <i>The Chronicle</i> has not confirmed whether or not the version of the report it obtained is the same version provided to Liberty in May 2023.</p>
+
+<p style="color:black">The department and the university declined to confirm the report’s accuracy, but <i>The</i> <i>Washington Post</i> today <a class="Link" href="https://www.washingtonpost.com/education/2023/10/03/liberty-university-clery-act/" target="_blank" rel="noopener" data-cms-ai="0">cited</a> two people, who spoke on the condition of anonymity because of the confidential nature of the document, were familiar with the report’s conclusions, and confirmed its findings.</p>
+
+<p style="color:black">In its report, the department expressed concern that Liberty’s failures to properly execute its obligations under the law “call into question the university’s ability and willingness to properly administer the Title IV, Federal Student Aid programs.”</p>
+
+<p style="color:black">In a <a class="Link" href="https://www.liberty.edu/news/2023/10/03/university-statement-on-u-s-department-of-educations-clery-act-program-review/" target="_blank" rel="noopener" data-cms-ai="0">written statement</a> to <i>The Chronicle</i>, a spokesman for Liberty, a leading Christian university in Virginia, said that “since the initiation of the review, the university has been engaged in dialogue with the department about reaching a timely, efficient, and fair resolution, which would address the past gaps in compliance and support an effective, legally compliant Clery Act compliance program moving forward.”</p>
+
+<p style="color:black">According to the report’s findings, which Liberty can contest before a final determination is issued, department investigators identified 12 different forms of conduct by Liberty employees in violation of the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, known as the Clery Act. It requires all institutions receiving federal student-aid funds to report and publicize certain crime statistics and policies. Violators are required to pay fines.</p>
+
+<p style="color:black">According to federal investigators, senior officials at Liberty “forbade” the campus police to send out crime alerts and other timely warnings to students and employees when threats to their well-being and safety arose on campus. The institution also allegedly neglected to maintain authoritative daily crime logs and compile accurate crime statistics.</p>
+
+<p style="color:black">The department’s report further alleges that Liberty employees sought to wipe hard drives hours after meeting with investigators from the department. In another instance, a witness who spoke to the department’s investigators recounted discovering what appeared to be an undertaking to destroy records of incident reports near a loading dock.</p>
+
+<p style="color:black">While the department said it could not reliably quantify the effect of what it described as Liberty’s systemic failures, the investigators wrote that “it is abundantly clear that it caused Liberty’s crime statistics to be substantially and systematically underreported.” The problem has persisted for many years, the department wrote, “and may in fact track back to 1992.”</p>
+
+<p style="color:black">The university, in its statement, noted that, “during the review, Liberty identified historic gaps in compliance, which the university both acknowledged to the department and took timely action to remedy by strengthening its Clery Act compliance program.”</p>
+
+<p style="color:black">S. Daniel Carter, a campus-safety consultant and president of SAFE Campuses, said the word “historic” in Liberty’s statement is significant.</p>
+
+<p style="color:black">“They are acknowledging that their gaps in compliance are unlike any that the department has ever found before,” Carter said. “They themselves are acknowledging that.”</p>
+
+<p style="color:black">But Liberty also hinted in its statement that it was being treated unfairly.</p>
+
+<p style="color:black">“Our request of the department has been straightforward — that the university be treated in the same manner as similarly situated institutions, and that the department treat Liberty fairly in accordance with its established precedent,” the university said.</p>
+
+<p style="color:black">But Carter rejected the notion that Liberty’s treatment had been unusual.</p>
+
+<p style="color:black">“This is the process for which institutions have been treated, for certainly the last 15 years,” Carter said. “You can look at Penn State, you can look at Baylor, you can look at UC-Berkeley … there’s no substantive difference.”</p>
+
+<p style="color:black">The department’s draft report also pointed to broader problems in the campus culture. It accused Liberty of retaliating against survivors of sexual assault and those who advocated on their behalf, which it said led to a “systemic apprehension” among employees, who were scared to raise concerns about Liberty’s “treatment of sexual-assault victims and other campus safety-related issues.”</p>
+
+<p style="color:black">Several sexual-assault survivors identified in the review were punished for violating the student code of conduct, which is known as “<a class="Link" href="https://www.liberty.edu/students/honor-code/" target="_blank" rel="noopener" data-cms-ai="0">The Liberty Way</a>,” while their assailants were left unpunished. “Consequently,” the department wrote, “victims of sexual assault often felt dissuaded by Liberty administration’s reputation for punishing sexual-assault survivors rather than helping them. Such fears created a culture of silence where sexual assaults commonly went unreported.”</p>
+
+<p style="color:black">The result of those failures, the departments wrote, has been “real harm to members of the campus community.”</p>
+
+<h2>Earlier Acknowledgment</h2>
+
+<p style="color:black">Liberty first <a class="Link" href="https://www.propublica.org/article/senators-call-for-federal-investigation-into-liberty-universitys-handling-of-sexual-assaults-school-promises-independent-probe" target="_blank" rel="noopener" data-cms-ai="0"><u>acknowledged</u></a> the department’s investigation in April 2022, in response to an inquiry from the news organization <i>ProPublica</i><i>.</i></p>
+
+<p style="color:black">Seven months earlier, in October 2021, <i>ProPublica</i> published a bombshell <a class="Link" href="https://www.propublica.org/article/the-liberty-way-how-liberty-university-discourages-and-dismisses-students-reports-of-sexual-assaults" target="_blank" rel="noopener" data-cms-ai="0"><u>article</u></a> featuring accounts from more than a dozen women who accused Liberty employees of threatening to reprimand sexual-violence victims for violating <a class="Link" href="https://www.liberty.edu/students/honor-code/" target="_blank" rel="noopener" data-cms-ai="0"><u>the Liberty Way</u></a>. Under the code of conduct, students are required to not only abstain from sex before marriage, but also forgo drinking alcohol and smoking. The victims of sexual violence alleged that the university had discouraged them from seeking institutional redress by using their alleged violations of the code to raise the prospect of a fine, community service, or even expulsion.</p>
+
+<p style="color:black">In the aftermath of <i>ProPublica’</i>s exposé, Tim Kaine and Mark Warner, Virginia’s Democratic U.S. senators, <a class="Link" href="https://wset.com/news/abc13-investigates/virginia-senators-tim-kaine-mark-warner-federal-investigation-liberty-university-lynchburg" target="_blank" rel="noopener" data-cms-ai="0"><u>urged</u></a> the Education Department to investigate how their state’s largest institution of higher education had responded to claims of sexual assault.</p>
+
+<p style="color:black">Liberty’s handling of sexual-assault and rape investigations has also faced scrutiny in federal court. The first lawsuit, originally brought by a dozen alleged victims in July 2021, <a class="Link" href="https://storage.courtlistener.com/recap/gov.uscourts.nyed.466792/gov.uscourts.nyed.466792.2.0.pdf" target="_blank" rel="noopener" data-cms-ai="0"><u>accused</u></a> Liberty of failing to properly respond to their claims and of creating an unsafe campus environment. The suit also alleged that the “public and repeated retaliation against women who did report their victimization” created a hostile academic setting for students. In mid-October 2021, a lawyer for the 12 women told the court that if the case were not resolved amicably, 10 more plaintiffs <a class="Link" href="https://storage.courtlistener.com/recap/gov.uscourts.nyed.466792/gov.uscourts.nyed.466792.7.0.pdf" target="_blank" rel="noopener" data-cms-ai="0"><u>would join</u></a> the case. Seven months later, in May 2022, Liberty and the 12 women <a class="Link" href="https://storage.courtlistener.com/recap/gov.uscourts.nyed.466792/gov.uscourts.nyed.466792.11.0.pdf" target="_blank" rel="noopener" data-cms-ai="0"><u>reached</u></a> a settlement. </p>
+
+<p style="color:black">However, in August 2023, 11 of the plaintiffs <a class="Link" href="https://www.law.com/thelegalintelligencer/2023/08/14/gawthrop-greenwood-hit-with-suit-alleging-lawyer-botched-plaintiffs-sexual-harassment-claims/" target="_blank" rel="noopener" data-cms-ai="0"><u>sued</u></a> the lawyer and the firm that had represented them in the case against Liberty. They alleged that their former lawyer had deceived them as to the true nature of the settlement terms, while “threatening other plaintiffs that they would be lawyer-less if they did not settle.” An additional federal lawsuit against Liberty, which <a class="Link" href="https://storage.courtlistener.com/recap/gov.uscourts.vawd.125140/gov.uscourts.vawd.125140.1.0_1.pdf" target="_blank" rel="noopener" data-cms-ai="0"><u>accuses</u></a> the university of failing to properly respond to student claims of sexual assault and rape, remains <a class="Link" href="https://www.courtlistener.com/docket/63268401/doe-v-liberty-university-inc/" target="_blank" rel="noopener" data-cms-ai="0"><u>in progress</u></a>.</p>
+
+<p style="color:black">This is the second Clery Act review into Liberty’s operations known to have been opened by the department in the last 20 years. In late 2013, Liberty negotiated a $120,000 <a class="Link" href="https://studentaid.gov/sites/default/files/1983.pdf" target="_blank" rel="noopener" data-cms-ai="0"><u>settlement</u></a> with the department, resolving an investigation in which federal officials <a class="Link" href="https://studentaid.gov/sites/default/files/LibertyUnivFPRD03232010.pdf" target="_blank" rel="noopener" data-cms-ai="0"><u>determined</u></a> that the university had failed to properly classify and disclose crime statistics; issue timely warnings to its campus community; properly maintain the daily crime log; include required policy statements in its Annual Security Report; and distribute that report in accordance with federal regulations. Liberty contested those findings, and the eventual settlement explicitly said that “nothing in this agreement constitutes an admission of liability or wrongdoing by Liberty.”</p>
+
+<p style="color:black">In its most-recent draft report, the department refers to that earlier investigation, writing that Liberty was “specifically advised to address these deficiencies and the conditions and weaknesses that permitted them to occur.”</p>
+
+<p style="color:black">“It is now clear,” the investigators wrote, “that the efforts were not adequate or comprehensive.”</p>

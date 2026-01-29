@@ -1,0 +1,61 @@
+---
+title: T-Shirts, Conferences, and Rising Salaries — Here’s What’s in Turning Point USA’s Latest Financial Disclosure 
+image:
+  path: "/assets/media/trump-kirk.webp"
+  caption: Gage Skidmore via Wikimedia Commons
+  sourceurl: https://commons.wikimedia.org/wiki/File:Donald_Trump_%26_Charlie_Kirk_(54235549714).jpg
+categories:
+- portfolio
+date: '2019-08-14 00:01:00'
+link:
+  text:
+  url:
+tags:
+- portfolio
+- documentcloud
+- emma-filings
+- financial-statements
+- business-reporting
+- higher-ed-reporting
+layout: portfolio
+author: Dan Bauman
+republished:
+  pubname: The Chronicle of Higher Education
+  puburl: https://www.chronicle.com/article/t-shirts-conferences-and-rising-salaries-heres-whats-in-turning-point-usas-latest-financial-disclosure/
+  reason: Paywall
+  archiveurl: "/assets/media/archive/t-shirts-conferences-and-rising-salaries-heres-whats-in-turning-point-usas-latest-financial-disclosure.pdf"
+---
+
+<p style="color:black">Turning Point USA, the <a class="Link" href="https://www.chronicle.com/article/Inside-a-Stealth-Plan-for/240008" target="_blank" rel="noopener" data-cms-ai="0">conservative political-action group</a>, needed some merch in the 2018 fiscal year, and it knew just whom to turn to. Earning $128,000 for the service, the owner of America Consulting &amp; Graphics <a class="Link" href="https://www.documentcloud.org/documents/6271776-2017-990-TPUSA-for-Public-Disclosure.html#document/p35/a518243" target="_blank" rel="noopener" data-cms-ai="0">produced</a> T-shirts and buttons for Turning Point that year.</p>
+
+<p style="color:black">But that business owner, William Montgomery, wasn’t just TPUSA’s T-shirt supplier. He was also <a class="Link" href="https://www.documentcloud.org/documents/6271776-2017-990-TPUSA-for-Public-Disclosure.html#document/p35/a518243" target="_blank" rel="noopener" data-cms-ai="0">in business</a> with the nonprofit as part of a rental lease that same year. And, more important, Montgomery was putting in 60-hour workweeks at a small nonprofit organization that he had co-founded — namely, Turning Point USA, where he served as <a class="Link" href="https://www.documentcloud.org/documents/6270721-1023-ONLY-Compressed.html#document/p20/a518247" target="_blank" rel="noopener" data-cms-ai="0">secretary/treasurer</a> in the 2018 calendar year and is listed online as a <a class="Link" href="https://www.tpusa.com/boardofdirectors/" target="_blank" rel="noopener" data-cms-ai="0">senior adviser</a>.</p>
+
+<p style="color:black">According to the group’s latest Form 990, a tax document that most nonprofits are required to file annually, Montgomery <a class="Link" href="https://www.documentcloud.org/documents/6271776-2017-990-TPUSA-for-Public-Disclosure.html#document/p7/a518245" target="_blank" rel="noopener" data-cms-ai="0">earned</a> $103,145 in the 2017 calendar year from TPUSA and the <a class="Link" href="https://www.documentcloud.org/documents/6271776-2017-990-TPUSA-for-Public-Disclosure.html#document/p40/a518249" target="_blank" rel="noopener" data-cms-ai="0">other nonprofits</a> it is associated with, like Turning Point Endowment and America’s Turning Point. Montgomery’s co-founder and the president of TPUSA, <a class="Link" href="https://www.chronicle.com/article/Charlie-Kirk-s-New-Book-a/244765" target="_blank" rel="noopener" data-cms-ai="0">Charlie Kirk</a>, <a class="Link" href="https://www.documentcloud.org/documents/6271776-2017-990-TPUSA-for-Public-Disclosure.html#document/p7/a518245" target="_blank" rel="noopener" data-cms-ai="0">earned</a> $95,516 from those organizations in that same time.</p>
+
+<p style="color:black">In a written <a class="Link" href="https://www.documentcloud.org/documents/6271798-Statement.html" target="_blank" rel="noopener" data-cms-ai="0">statement</a> to <em>The Chronicle,</em> a representative of Turning Point said the services provided by Montgomery resulted in significant savings for the organization. Furthermore, the decisions by TPUSA to engage Montgomery’s services were made after he recused himself from those matters, said the representative.</p>
+
+<p style="color:black">“This is a prime example of TPUSA being a good steward of resources,” said the representative, Robert Stapleton, who is in charge of accounting for Turning Point.</p>
+
+<p style="color:black">Left unaddressed by Stapleton was the matter of board oversight of Turning Point at the time of the transactions. According to its tax documents, the organization’s board had a <a class="Link" href="https://www.documentcloud.org/documents/6271776-2017-990-TPUSA-for-Public-Disclosure.html#document/p1/a518262" target="_blank" rel="noopener" data-cms-ai="0">single</a> independent voting member in the 2018 fiscal year. Since then, Stapleton said, the number of board members had increased from three to five, including Kirk and Montgomery. The organization did <a class="Link" href="https://www.documentcloud.org/documents/6270721-1023-ONLY-Compressed.html#document/p44/a518284" target="_blank" rel="noopener" data-cms-ai="0">provide</a> to the Internal Revenue Service its procedures for addressing conflicts of interest.</p>
+
+<p style="color:black">The newly released documents, which have not been previously reported and were provided at the request of <em>The Chronicle,</em> capture a period of robust growth and spending undertaken by the relatively young organization. From <a class="Link" href="https://www.documentcloud.org/documents/6271795-2015-990-TPUSA-for-Public-Disclosure.html" target="_blank" rel="noopener" data-cms-ai="0">2015</a> to <a class="Link" href="https://www.documentcloud.org/documents/6271776-2017-990-TPUSA-for-Public-Disclosure.html" target="_blank" rel="noopener" data-cms-ai="0">2018</a>, TPUSA more than doubled its revenues (to $10.8 million) and employees (to 332) as its recognizable co-founder, Kirk, became a regular on Fox News and shared stages with President Trump.</p>
+
+<p style="color:black">After labor costs, the organization’s largest expenses were advertising, published content, and conferences. In the 2018 fiscal year, TPUSA <a class="Link" href="https://www.documentcloud.org/documents/6271776-2017-990-TPUSA-for-Public-Disclosure.html#document/p10/a518264" target="_blank" rel="noopener" data-cms-ai="0">spent</a> nearly $670,000 on advertising and promotion, much of it on Facebook. From May 2018 to August 2019, Turning Point <a class="Link" href="https://www.documentcloud.org/documents/6271805-Facebook.html#document/p1/a518267" target="_blank" rel="noopener" data-cms-ai="0">spent</a> more than $205,000 alone on sponsored Facebook ads.</p>
+
+<p style="color:black">In the 2018 fiscal year the organization <a class="Link" href="https://www.documentcloud.org/documents/6271776-2017-990-TPUSA-for-Public-Disclosure.html#document/p10/a518271" target="_blank" rel="noopener" data-cms-ai="0">spent</a> $3.6 million on conferences, which were <a class="Link" href="https://www.prnewswire.com/news-releases/turning-point-usas-student-action-summit-receives-4000-applications-300570218.html" target="_blank" rel="noopener" data-cms-ai="0">attended</a> by dozens of high-profile conservative politicians and media personalities, including Scott Walker, then governor of Wisconsin, and the <em>Daily Wire</em> founder Ben Shapiro. Turning Point <a class="Link" href="https://www.documentcloud.org/documents/6271776-2017-990-TPUSA-for-Public-Disclosure.html#document/p8/a518273" target="_blank" rel="noopener" data-cms-ai="0">spent</a> at least $202,500 on speaker fees alone that year. Since the end of the 2018 fiscal year, the U.S. education secretary, <a class="Link" href="https://www.chronicle.com/article/DeVos-Will-Join-Turning-Point/243991" target="_blank" rel="noopener" data-cms-ai="0">Betsy DeVos</a>, and the then attorney general, <a class="Link" href="https://www.chronicle.com/article/Colleges-Are-Creating-a/243997" target="_blank" rel="noopener" data-cms-ai="0">Jeff Sessions</a>, have both attended Turning Point events.</p>
+
+<h2>‘Lack of Fiscal Responsibility’</h2>
+
+<p style="color:black">Turning Point did <a class="Link" href="https://www.documentcloud.org/documents/6271776-2017-990-TPUSA-for-Public-Disclosure.html#document/p29/a518274" target="_blank" rel="noopener" data-cms-ai="0">accrue</a> some liabilities by the end of the 2018 fiscal year. It overdrew its bank account by $264,000, and had not yet paid down nearly $544,000 in credit-card debt.</p>
+
+<p style="color:black">Those end-of-year holdover liabilities are relatively common in <a class="Link" href="https://projects.propublica.org/nonprofits/full_text_search?utf8=%E2%9C%93&amp;q=%22credit+card+payable%22" target="_blank" rel="noopener" data-cms-ai="0">disclosures</a> by <a class="Link" href="https://projects.propublica.org/nonprofits/full_text_search?utf8=%E2%9C%93&amp;q=%22bank+overdraft%22" target="_blank" rel="noopener" data-cms-ai="0">nonprofits</a>. One doesn’t have to look hard to find a local <a class="Link" href="https://projects.propublica.org/nonprofits/organizations/340920241/201803069349300610/IRS990ScheduleO" target="_blank" rel="noopener" data-cms-ai="0">Chamber of Commerce</a> or <a class="Link" href="https://projects.propublica.org/nonprofits/organizations/943053960/201833169349305018/IRS990ScheduleD" target="_blank" rel="noopener" data-cms-ai="0">Humane Society</a> that reported some amount of credit-card debt left over at the end of the year. But Turning Point itself has criticized the use of credit-card debt to finance certain aspects of American society.</p>
+
+<p style="color:black">“The lack of fiscal responsibility in American government is also reflected in American families,” Turning Point’s founders <a class="Link" href="https://www.documentcloud.org/documents/6270721-1023-ONLY-Compressed.html#document/p48/a518133" target="_blank" rel="noopener" data-cms-ai="0">wrote</a> in their application to the IRS for tax exemption. “In 2011, one study showed unsecured consumer debt reached $2.4 trillion or about $7,800 per American.”</p>
+
+<p style="color:black">Within that 101-page <a class="Link" href="https://www.documentcloud.org/documents/6270721-1023-ONLY-Compressed.html" target="_blank" rel="noopener" data-cms-ai="0">application</a>, Turning Point stated that, as part of its public mission, it would seek to provide resources to the public to improve America’s fiscal responsibility, with a particular focus on young Americans and college students.</p>
+
+<p style="color:black">“Not all of this debt was used to finance durable goods,” the application <a class="Link" href="https://www.documentcloud.org/documents/6270721-1023-ONLY-Compressed.html#document/p48/a518133" target="_blank" rel="noopener" data-cms-ai="0">asserted</a>. “On the contrary, $51 billion dollars [sic] was charged to pay for fast food. Americans lack sufficient understanding concerning the long-term impact of such fiscal habits.”</p>
+
+<p style="color:black">In his statement to <em>The Chronicle,</em> Stapleton said the practice of holding short-term liabilities like credit-card debt was completely normal. He went on to say TPUSA pays all short-term liabilities in full on a monthly basis. Regarding the overdraft, Stapleton said there was never any risk that the bank would impose fees.</p>
+
+<p style="color:black">“TPUSA has always maintained a very healthy cash-positive balance, including a sizable endowment fund,” Stapleton wrote. “This is true now, and it was true at the time of the filing of the 990 in question.”</p>

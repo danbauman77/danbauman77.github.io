@@ -1,0 +1,101 @@
+---
+title: How the U. of Chicago’s Financial Strains Are a Warning for Higher Ed 
+image:
+  path: "/assets/media/university-of-chicago.webp"
+  caption:  Ndshankar via Wikimedia Commons, with additional editing in Canva
+  sourceurl: https://commons.wikimedia.org/wiki/File:University_of_Chicago_main_quadrangles.jpg
+categories:
+- portfolio
+date: '2025-09-08 00:01:00'
+link:
+  text:
+  url:
+tags:
+- portfolio
+- documentcloud
+- emma-filings
+- financial-statements
+- business-reporting
+- higher-ed-reporting
+layout: portfolio
+author: Dan Bauman
+republished:
+  pubname: The Chronicle of Higher Education
+  puburl: https://www.chronicle.com/article/how-the-u-of-chicagos-financial-strains-are-a-warning-for-higher-ed
+  reason: Paywall
+  archiveurl: "/assets/media/archive/how-the-u-of-chicagos-financial-strains-are-a-warning-for-higher-ed.pdf"
+---
+
+<p style="color:black">Like many American universities, the University of Chicago has hardly seen its financial stressors abate since the start of the year — with that pressure only growing more acute in the last few months.</p>
+
+<p style="color:black">First, news broke in July that Chicago would <a class="Link" href="https://chicagomaroon.com/48215/news/uchicago-arts-humanities-division-to-restructure-amid-historic-funding-pressures/" target="_blank" rel="noopener" data-cms-ai="0">undertake</a> a major restructuring of its 15-department Arts &amp; Humanities Division, followed by announced <a class="Link" href="https://provost.uchicago.edu/actions-budget" target="_blank" rel="noopener" data-cms-ai="0">reductions</a> and pauses in admissions to <a class="Link" href="https://chicagomaroon.com/48307/news/uchicago-to-cut-some-ph-d-masters-admissions-for-2026-27/" target="_blank" rel="noopener" data-cms-ai="0">several</a> liberal-arts graduate programs. And then, just over a week ago, the university <a class="Link" href="https://provost.uchicago.edu/announcements/update-university-actions-and-budget" target="_blank" rel="noopener" data-cms-ai="0">revealed</a> a wide-ranging cost-saving <a class="Link" href="https://president.uchicago.edu/from-the-president/announcements/steps-to-emerge-stronger" target="_blank" rel="noopener" data-cms-ai="0">plan</a> aimed at reducing spending by $100 million, including:</p>
+
+<p style="color:black">
+  • a 30-percent reduction in its rate of tenure-track hiring<br>
+  • a 30-percent reduction in internally funded Ph.D. candidates by 2030–31<br>
+  • a pause on certain new capital projects, along with a reduced footprint for the university’s planned engineering and science building<br>
+  • a staff reduction of 100–150 nonclinical employees<br>
+  • a 20-percent reduction in unrestricted funding toward campus centers
+</p>
+
+<p style="color:black">Reviews of smaller programs are also planned.</p>
+
+<p style="color:black">Amid that onslaught of grim news, a different headline: The <a class="Link" href="https://emma.msrb.org/P11880284-P11437857-P11883279.pdf" target="_blank" rel="noopener" data-cms-ai="0">issuance</a> of $253 million in <a class="Link" href="https://emma.msrb.org/IssueView/Details/P2438638" target="_blank" rel="noopener" data-cms-ai="0">bonds</a>, combined <a class="Link" href="https://s3.documentcloud.org/documents/26086421/ilfinanceauth10a-os.pdf" target="_blank" rel="noopener" data-cms-ai="0">with</a> $300 million in <a class="Link" href="https://s3.documentcloud.org/documents/26086420/ilfinanceauth11a-os.pdf" target="_blank" rel="noopener" data-cms-ai="0">debt</a> sold earlier this year, rounded out Chicago’s total outstanding bond debt at <a class="Link" href="https://www.documentcloud.org/documents/26082024-p11880284-p11437857-p11883279/#document/p54" target="_blank" rel="noopener" data-cms-ai="0">approximately</a> $4.5 billion — down slightly from $4.9 billion recorded last year.</p>
+
+<p style="color:black">One critic within the institution, Clifford Ando, a professor of classics, recently <a class="Link" href="https://chicagomaroon.com/48231/viewpoints/op-ed/reorg-101-the-past-and-future-of-the-race-to-the-bottom/" target="_blank" rel="noopener" data-cms-ai="0">argued</a> that the university’s level of debt is unsustainable, calling its bond-financing strategy “irresponsible and intractable.”</p>
+
+<p style="color:black">Although red ink isn’t new to the university — <a class="Link" href="https://www.documentcloud.org/documents/26081895-microsoft-word-114799-12-theuniversityofchi-fsdocx-2011-2012-the-university-of-chicago-financial-statements/#document/p46" target="_blank" rel="noopener" data-cms-ai="0">its</a> academic <a class="Link" href="https://www.documentcloud.org/documents/26081896-fy12-13/#document/p43" target="_blank" rel="noopener" data-cms-ai="0">operations</a> have <a class="Link" href="https://www.documentcloud.org/documents/26081894-cover-2013-2014-the-university-of-chicago-financial-statements/#document/p47" target="_blank" rel="noopener" data-cms-ai="0">run</a> operating <a class="Link" href="https://www.documentcloud.org/documents/26081893-cover-2014-2015-the-university-of-chicago-financial-statements/#document/p47" target="_blank" rel="noopener" data-cms-ai="0">deficits</a> since <a class="Link" href="https://chicagomaroon.com/24788/news/inside-look-universitys-budget/" target="_blank" rel="noopener" data-cms-ai="0">2011</a> — the <a class="Link" href="https://www.documentcloud.org/documents/26082013-2022-2023-the-university-of-chicago-financial-statements/#document/p51" target="_blank" rel="noopener" data-cms-ai="0">scale</a> of its deficits <a class="Link" href="https://www.documentcloud.org/documents/26082014-2023-2024-the-university-of-chicago-financial-statements/#document/p56" target="_blank" rel="noopener" data-cms-ai="0">worsened</a> sharply in late 2021-22, surging to over $225 million annually and coinciding with rising inflation rates. As for Chicago’s most recently completed fiscal year, which ended six months after the second inauguration of Donald Trump — heralding a dramatic shift in the federal government’s relationship with higher ed — President Paul Alivisatos told faculty the university’s annual income had once again fallen short of expenses.</p>
+
+<p style="color:black">Chicago’s financial strategy has been, and is, well-reasoned and intentional, Gerald McSwiggan, a university spokesperson, wrote in a statement. A four-year plan to boost revenues and curb spending is underway, and the university is <a class="Link" href="https://www.fitchratings.com/research/us-public-finance/fitch-rates-university-of-chicago-ser-2025a-e-revs-aa-affirms-idr-at-aa-outlook-negative-19-05-2025" target="_blank" rel="noopener" data-cms-ai="0">intent</a> on <a class="Link" href="https://www.documentcloud.org/documents/26082024-p11880284-p11437857-p11883279/#document/p54" target="_blank" rel="noopener" data-cms-ai="0">eliminating</a> its structural deficit by the 2028 fiscal year. </p>
+
+<p style="color:black">“The University chose to operate with a deficit to make strategic investments to advance rapidly,” McSwiggan wrote.</p>
+
+<p style="color:black">Essentially, Chicago’s profile and immense wealth allowed it to take on billions of dollars of debt to finance its prestige-building and expansion. And as the scale of Chicago’s debt started to exceed its similarly rated peers, the university saw its holdings in land, buildings, equipment, and other fixed assets grow from a collective value of $1.16 billion some 25 years ago to a pre-Covid peak of $4.3 billion in 2016.</p>
+
+<p style="color:black">But Chicago’s affluence and financing strategy have also, in effect, papered over internal and campuswide structural deficiencies for more than a decade. And, as the policies of the Trump administration and looming changes from the One Big Beautiful Bill Act <a class="Link" href="https://www.chronicle.com/article/what-the-senates-sprawling-policy-bill-means-for-higher-ed" data-cms-ai="0">spur uncertainty</a>, Chicago finds itself forced to reckon with unaddressed institutional shortfalls and compounding debt-service payments borne of a two-decade-long debt binge.</p>
+
+<p style="color:black">And more borrowing is still possible. According to <a class="Link" href="https://www.documentcloud.org/documents/26082024-p11880284-p11437857-p11883279/#document/p57" target="_blank" rel="noopener" data-cms-ai="0">filings</a> and other reporting, Chicago may issue an additional $300-$500 million in debt over the next two years, depending on market conditions. The sale of more debt by Chicago, an S&amp;P Global Ratings analyst <a class="Link" href="https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/101625242" target="_blank" rel="noopener" data-cms-ai="0">wrote</a>, “could strain the balance sheet with metrics already below” certain medians for peer institutions, though the university’s large resources and fund-raising prowess factored in its favor.</p>
+
+<p style="color:black">Given its wealth and admissions selectivity, the fact that even Chicago could be forced to pause Ph.D. admissions, undertake program reviews, and target the humanities for restructuring “is pretty notable,” said Barrett Taylor, a professor in the higher-education program at the University of North Texas, “because they have more ability to navigate choppy waters” than others.</p>
+
+<p style="color:black">Chicago’s financial situation speaks to a broader paradigm shift made evident in less than a year: Where revenue-diversification efforts might have once helped enable the steadfast funding of the humanities, for instance, that business model now appears to be threatened by grant and contract terminations mandated by the Trump administration.</p>
+
+<p style="color:black">“Because of the volatility in federal funding for research,” Taylor said, “Chicago is more exposed to that volatility than most other colleges and universities.”</p>
+    
+<iframe title="Measuring Chicago's Debt and Debt Service" aria-label="Stacked column chart" id="datawrapper-chart-1Bcpl" src="https://datawrapper.dwcdn.net/1Bcpl/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="750" data-external="1"></iframe><br>
+
+<iframe title="Measuring Chicago's Debt and Debt Service" aria-label="Stacked column chart" id="datawrapper-chart-CqdsG" src="https://datawrapper.dwcdn.net/CqdsG/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="649" data-external="1"></iframe>
+
+<h2>Strong Medicine</h2>
+
+<p style="color:black">One area of the university has served as a stabilizing force for much of the academic enterprise, but reductions in federal research funding, along with anticipated changes in Medicaid-reimbursement rates, may well bring increased volatility. The university’s medical center and med school-aligned Biological Services Division, or BSD, has, in recent times, according to Fitch Ratings, <a class="Link" href="https://www.fitchratings.com/research/us-public-finance/fitch-rates-university-of-chicago-medicine-il-ser-2022a-b-aa-aa-affirmed-outlook-stable-17-11-2022" target="_blank" rel="noopener" data-cms-ai="0">generated</a> half of the university’s revenue — up from a one-third <a class="Link" href="https://www.documentcloud.org/documents/26081896-fy12-13/#document/p43" target="_blank" rel="noopener" data-cms-ai="0">share</a> of universitywide operating revenues across 2012-13.</p>
+
+<p style="color:black">Paired alongside the expected reduced <a class="Link" href="https://www.chronicle.com/article/congressional-republicans-want-to-end-grad-plus-loans-how-might-it-affect-your-campus" target="_blank" rel="noopener" data-cms-ai="0">availability</a> of federal student aid for grad-school students (<a class="Link" href="https://www.chronicle.com/article/the-end-of-unlimited-grad-school-loans-could-leave-some-colleges-and-students-in-the-lurch?sra=true" target="_blank" rel="noopener" data-cms-ai="0">including</a> those in medical school), bond disclosures warn of ongoing challenges and potentially more ahead for BSD and beyond, including: shortfalls from <a class="Link" href="https://www.documentcloud.org/documents/26082024-p11880284-p11437857-p11883279/#document/p15" target="_blank" rel="noopener" data-cms-ai="0">Trump-era</a> funding <a class="Link" href="https://www.hpherald.com/evening_digest/u-of-c-leaders-warn-of-financial-fallout-from-trump-administration-moves/article_9ebf1f18-18f6-4903-80a6-94b07343684b.html" target="_blank" rel="noopener" data-cms-ai="0">terminations</a> (though so far none have proven materially devastating); potential fallout if the federal government is able to set limits on <a class="Link" href="https://www.chronicle.com/article/trump-wants-to-cut-billions-in-research-spending-heres-how-much-it-might-cost-your-university" data-cms-ai="0">indirect-cost rate recovery</a> for research ($145 million generated <a class="Link" href="https://www.documentcloud.org/documents/26082024-p11880284-p11437857-p11883279/#document/p51" target="_blank" rel="noopener" data-cms-ai="0">across</a> 2023-24 from the U.S. Department of Health and Human Services — representing 4.7 percent of Chicago’s operating revenue — per a 64-percent recovery rate, versus the proposed 15-percent ceiling); and potential upheaval associated with Medicaid, and to a lesser extent, Medicare reimbursements (<a class="Link" href="https://www.documentcloud.org/documents/26082014-2023-2024-the-university-of-chicago-financial-statements/#document/p14" target="_blank" rel="noopener" data-cms-ai="0">combined</a> net revenues of $172 million across 2023-24, or 5.6 percent of operating revenue).</p>
+
+<p style="color:black">Chicago no longer publishes division-level financials, so the interplay of BSD with the rest of the university is unclear, and the university had not provided comment to <i>The Chronicle</i> prior to publication.</p>
+
+<p style="color:black">Like other divisions in the university, BSD is <a class="Link" href="https://provost.uchicago.edu/actions-budget" target="_blank" rel="noopener" data-cms-ai="0">expected</a> to cut back unrestricted funding for Ph.D. study via “reduced enrollment, placing Ph.D. students on grants more quickly, and shortening time to degree.”</p>
+
+<p style="color:black">As for the rest of higher ed, Taylor argues, faculty, staff, and students should understand that the potential financial fallout generated by the Trump administration’s actions as well as the passage of the One Big Beautiful Bill by Congress is not limited to this one university on the South Side of Chicago.</p>
+
+<p style="color:black">“It suggests there is tremendous volatility in store for the whole sector,” Taylor said.</p>
+
+<h2>Settling Debts</h2>
+
+<p style="color:black">Twenty-five years ago, Chicago’s interest expense and payments toward debt principal (excluding refinancing) represented a combined and inflation-adjusted debt service of $42.7 million, or 2.3 percent of Chicago’s adjusted operating expense (minus depreciation). Beginning in 2010-11, that ratio jumped, and did so again in 2015-16 — eventually peaking in 2020-21, when Chicago’s combined $243 million in debt-service costs clocked in at 8.52 percent. Since 2021, the ratio has trended slightly downward, settling at 7.7 percent of operating expense in 2023-24, the most-recent period for which audited financials are available.</p>
+
+<p style="color:black">For its part, Chicago provided figures that measured its collective debt and debt service against operating revenues, rather than expenses.</p>
+
+<p style="color:black">“Total debt as a percentage of operating revenues has declined since 2021 from 101 percent to 82,” McSwiggan wrote. “And our annual debt service as a percentage of operating revenues has declined from 5.2 percent to 4.2 percent between 2001 to 2024.”</p>
+
+<p style="color:black">Looking ahead, the ratings agency S&amp;P Global in May <a class="Link" href="https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/101625242" target="_blank" rel="noopener" data-cms-ai="0">anticipated</a> that Chicago’s payments on principal debts would hold steady, with the university set to spend a combined $144 million across the 2026 and 2027 fiscal years. That trendline is <a class="Link" href="https://www.documentcloud.org/documents/26082014-2023-2024-the-university-of-chicago-financial-statements/#document/p44" target="_blank" rel="noopener" data-cms-ai="0">projected</a> to remain stable, up until 2028-29, when Chicago anticipates a total principal payment bill of $161.4 million.</p>
+
+<p style="color:black">In 2028-29, that total in principal cost alone would represent 5.2 percent of Chicago’s total adjusted operating expense for 2023-24, or $3.1 billion, assuming the university doesn’t refinance or mitigate its debt (this operating-expense figure doesn’t reflect the recently announced $100-million cut in spending). Much of the university’s debt appears poised to remain on the books for at least the next few years; the earliest any series of Chicago’s bonds are set to fully <a class="Link" href="https://www.documentcloud.org/documents/26082014-2023-2024-the-university-of-chicago-financial-statements/#document/p41" target="_blank" rel="noopener" data-cms-ai="0">mature</a> is 2031, with the remaining bonds coming due as far into the <a class="Link" href="https://emma.msrb.org/IssueView/Details/P2436969" target="_blank" rel="noopener" data-cms-ai="0">future</a> as <a class="Link" href="https://emma.msrb.org/IssueView/Details/P2437035" target="_blank" rel="noopener" data-cms-ai="0">2055</a>.</p>
+
+<p style="color:black">S&amp;P considered Chicago’s financial resources relative to its operating expenses and its recently issued debt to be “light” when compared with measures calculated for other institutions, such as Cornell and Emory Universities, whose debts are similarly rated to Chicago’s — though the debts of other peer institutions are rated <a class="Link" href="https://www.spglobal.com/ratings/en/regulatory/article/us-higher-education-rating-actions-second-quarter-2025-s101637289" target="_blank" rel="noopener" data-cms-ai="0">higher</a>.</p>
+
+<p style="color:black">How have those financial resources changed over time? While its debt has grown in recent decades, Chicago’s unrestricted assets also dropped off a cliff in 2008-09. A one-year drop, from $4.7 billion to $1.1 billion, reflects investment losses at the time, paired with a reclassification of endowment and other institutional assets from being unrestricted to restricted. </p>
+
+<p style="color:black">As of June 2024, only about a quarter, or $2.3 billion, of the university’s $8.7-billion endowment was available to be allocated at the board’s discretion; the remaining three-quarters were <a class="Link" href="https://www.documentcloud.org/documents/26082014-2023-2024-the-university-of-chicago-financial-statements/#document/p31" target="_blank" rel="noopener" data-cms-ai="0">donor-restricted</a>. At the same time, Chicago reported that its net unrestricted assets had dipped to a 25-year low of $731.4 million.</p>
+
+<p style="color:black">That pool of assets, relative to the university’s debt load, is down markedly from where it once stood. Put another way, the university recently reported $14 in unrestricted assets for every $100 of debt. In 2011, that ratio stood at $68 in unrestricted assets per $100 of debt. The comparison with peers is also instructive: S&amp;P clocked Chicago’s cash-and-investments-to-debt ratio at 186.3 percent. The median ratio across all other AA-series-rated private universities was 472.3 percent.</p>
