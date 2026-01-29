@@ -1,0 +1,115 @@
+---
+title: How a For-Profit Tycoon Turned His Colleges Into Nonprofits
+image:
+  path: "/assets/media/betsy-devos.webp"
+  caption: U.S. Department of Education via Wikimedia Commons
+  sourceurl: https://commons.wikimedia.org/wiki/File:11072017_2017_NBRS_Day_two-152.jpg
+categories:
+- portfolio
+date: '2020-04-12 00:01:00'
+link:
+  text:
+  url:
+tags:
+- portfolio
+- documentcloud
+- emma-filings
+- financial-statements
+- business-reporting
+- higher-ed-reporting
+layout: portfolio
+author: Dan Bauman and Michael Vasquez
+republished:
+  pubname: The Chronicle of Higher Education
+  puburl: https://www.chronicle.com/article/how-a-for-profit-tycoon-turned-his-colleges-into-nonprofits/
+  reason: Paywall
+  archiveurl: "/assets/media/archive/how-a-for-profit-tycoon-turned-his-colleges-into-nonprofits.pdf"
+---
+
+<p style="color:black">For decades, Carl Barney owned and operated a small empire of for-profit colleges and universities across the United States. Then, as 2012 drew to a close, he made a surprise move, transferring his life’s work to a free-market-minded nonprofit. Barney called the decision a personal sacrifice, <a class="Link" href="https://www.nytimes.com/2016/05/08/business/an-ayn-rand-acolyte-selling-students-a-self-made-dream.html" target="_blank" rel="noopener" data-cms-ai="0">saying</a> in 2016 that if he hadn’t shed his colleges, “I could be a billionaire today.”</p>
+
+<p style="color:black">But the U.S. Education Department has viewed so-called college conversions with <a class="Link" href="https://www.theatlantic.com/education/archive/2015/10/the-covert-for-profit/409477/" target="_blank" rel="noopener" data-cms-ai="0">skepticism</a>. Some converted nonprofits still have ties to their former for-profit owners. In Barney’s case, he became a lender, landlord, and board member for the Center for Excellence in Higher Education, the nonprofit organization that took control of his former institutions.</p>
+
+<p style="color:black">Four years ago, then-Education Secretary John B. King Jr. was unequivocal when the organization, known as CEHE, asked his department to recognize those colleges as nonprofits. “Don’t waste your time,” was King’s blunt response.</p>
+
+<p style="color:black">CEHE sued, however, eventually reaching a settlement with the Trump administration that granted the colleges nonprofit status. The existence of that December 2018 deal has not been publicly revealed until now.</p>
+
+<p style="color:black">The outcome quietly brought to a close a well-publicized higher-ed saga, and it represented a victory for Barney and CEHE, which secured the deal only by agreeing that he would detach himself from the finances of his former colleges. But before settling, the Education Department had to grapple with an important question that has arisen during other proposed nonprofit conversions: Was the primary motivation public good or an attempt to exploit a regulatory loophole and avoid oversight?</p>
+
+<p style="color:black">In an interview with <em>The Chronicle</em>, Barney, 78, said he pursued nonprofit status for his colleges because of his passion for education and his desire to achieve a lasting legacy.</p>
+
+<p style="color:black">“I didn’t want to continue to accumulate money,” he said. “I had more money than I can use.”</p>
+
+<p style="color:black">Going nonprofit, he said, meant that the colleges’ profits could instead be spent on enhancing the institutions.</p>
+
+<p style="color:black">“I love those colleges and I love the staff, I really do,” Barney said. “It’s something very precious to me, and I wanted to see it flourish.”</p>
+
+<p style="color:black">Barney’s rags-to-riches life story — from jobless British immigrant to education entrepreneur — earned him a 2016 <a class="Link" href="https://www.nytimes.com/2016/05/08/business/an-ayn-rand-acolyte-selling-students-a-self-made-dream.html" target="_blank" rel="noopener" data-cms-ai="0">profile</a> in <em>The New York Times</em>, where the paper highlighted his fondness for Utah’s luxury skiing and his passionate support of the author and objectivist philosopher Ayn Rand.</p>
+
+<p style="color:black">At present, Barney remains affiliated with CEHE as “chairman emeritus” and an unpaid board member. But the twists and turns that got him to that point are dizzying to follow.</p>
+
+<p style="color:black">Tax records show that CEHE paid the tycoon and his trust more than $130 million after acquiring his institutions.</p>
+
+<p style="color:black">Barney became the sole member of the nonprofit and assumed the role of board chair. CEHE leased campus properties from Barney’s trust, and the organization issued two IOUs to the trust that were initially valued at a collective $431 million.</p>
+
+<p style="color:black">The leases, he told <em>The Chronicle</em>, predated the nonprofit conversion: The new owner had simply inherited some existing leases where Barney or his companies were the landlord.</p>
+
+<p style="color:black">“They were just legitimate expenses of the colleges,” he said.</p>
+
+<p style="color:black">The nonprofit’s institutions include CollegeAmerica, Independence University, Stevens-Henager College, and California College San Diego. Collectively, they enroll about 13,000 students.</p>
+
+<p style="color:black">Though CEHE was able to file with the Internal Revenue Service as a tax-exempt nonprofit organization, institutions of higher education must clear greater regulatory hurdles with the U.S. Department of Education in order to be recognized as not-for-profit entities. In denying CEHE’s request for a change in recognition in 2016, the Obama administration argued that nonprofit status could not be conferred while Barney continued to turn a profit from the new owner of his former colleges, and while he still maintained control over their operations as CEHE’s board chair.</p>
+
+<p style="color:black">Furthermore, the Education Department saw the attempted conversion as a ploy to avoid government scrutiny. For-profit colleges are barred from generating more than 90 percent of their revenue from federal Pell Grants and loans. But if the department were to re-recognize the colleges transferred from Barney’s trust to CEHE’s balance sheets as nonprofit entities, the institutions would no longer have to abide by that cap.</p>
+
+<p style="color:black">“Schools that want to convert to non-profit status need to benefit the public,” Ted Mitchell, U.S. under secretary of education at the time, said in a statement rejecting CEHE’s bid.“If the primary beneficiary of the conversion is the owner of the for-profit school, that doesn’t meet the bar. It’s not even close.”</p>
+
+<p style="color:black">CEHE sought relief in federal court in late August 2016, suing the department for its “arbitrary and capricious” actions. The nonprofit’s campaign against an intransigent Obama administration would be fleeting. In January 2017, a very different president would enter the White House. Within two years, Donald J. Trump’s Education Department granted CEHE’s colleges their long-denied nonprofit recognition.</p>
+
+<p style="color:black">The Trump administration has been more supportive of for-profit universities and colleges than its predecessor, <a class="Link" href="https://alliedprogress.org/news/new-report-secretary-devos-stacked-the-education-department-with-execs-from-shady-for-profit-colleges-that-cheat-student-borrowers/" target="_blank" rel="noopener" data-cms-ai="0">hiring</a> former industry executives for key positions in the Education Department. Those appointments included Diane Auer Jones, who became the agency’s principal deputy under secretary — its top-ranking higher-education official.</p>
+
+<p style="color:black">Jones is a former senior vice president with Career Education Corporation, a for-profit college company. CEHE also paid her nearly $50,000 to serve as an expert witness “on higher-education policies, practices, and regulations” when the organization and its colleges <a class="Link" href="https://www.denverpost.com/2015/02/17/collegeamerica-sued-by-colorado-ag-for-deceptive-trade-practices/" target="_blank" rel="noopener" data-cms-ai="0">were sued</a> by Colorado’s attorney general for allegedly deceptive business practices. The lawsuit is pending.</p>
+
+<p style="color:black">In response to questions from <em>The Chronicle</em>, the Education Department said Jones had recused herself from the decision to recognize CEHE’s subsidiaries as nonprofit institutions. A department spokesman said the conversion was approved because CEHE and its institutions made significant concessions after the original denial of nonprofit recognition. Among the changes: CEHE agreed that Barney would sever any financial ties by July 2019, and that he would no longer exert any control over the new nonprofit owner.</p>
+
+<p style="color:black">What about the fact that he still sits on CEHE’s board of directors? Barney said the board gives feedback to the chief executive officer and signs off on the budget, but it is not involved in actually running the colleges.</p>
+
+<p style="color:black">“Does the board steer the ship? No,” Barney said.</p>
+
+<p style="color:black">In CEHE’s April 2016 request that the Education Department reconsider its original denial of nonprofit recognition, the organization argued that the act of transferring Barney’s colleges to the nonprofit had actually cost him “approximately $77 million.”</p>
+
+<p style="color:black">Robert Shireman, a former education official in the Obama administration who has pushed for stricter oversight of the for-profit sector, called the 2018 resolution a “mixed bag.” It was a victory for CEHE, which was able to secure nonprofit recognition for Barney’s former colleges, and also a victory for government regulators, as Trump’s Education Department forced significant changes to the deal.</p>
+
+<p style="color:black">Much of the Education Department’s skepticism of CEHE centered around the transfer of Barney’s for-profit colleges to the nonprofit in 2012. Upon gaining ownership of the colleges, CEHE recorded the value of its new physical assets on its balance sheet. But what caught the eyes of Education Department regulators was the valuation of its intangible assets — its “goodwill,” in financial parlance — that CEHE had arrived at when it took ownership of Barney’s for-profit operation.</p>
+
+<p style="color:black">Goodwill generally reflects the estimated value of abstract things, like a corporation’s reputation, or the loyalty of its customers, or its brand identity. And a valuation of goodwill is typically arrived at based on the opinions of independent, outside analysts. According to CEHE, the goodwill associated with CollegeAmerica, Independence University, Stevens-Henager College, and California College San Diego was collectively valued at $419 million.</p>
+
+<p style="color:black">So why does any of this matter? The $419-million valuation largely justified the amount of the two IOUs, worth a collective $431 million, that CEHE had promised Carl Barney’s trust that it would make good on with regular payments of principal and interest. There was just one problem: CEHE hadn’t relied on an outside firm for due diligence when it arrived at that sizable valuation. Instead, it relied on an analyst’s opinion paid for by CollegeAmerica, when Barney still owned the institution.</p>
+
+<p style="color:black">Officials in Obama’s Education Department came to believe that CEHE and Carl Barney were not only trying to dodge heightened regulatory scrutiny, but that the Center had also attempted to enrich Barney’s trust by paying a purchase price that was far greater than what his colleges were actually worth.</p>
+
+<p style="color:black">And then there was the action that CEHE took in 2015.</p>
+
+<p style="color:black">On November 6 of that year, Barney’s trust agreed to new terms on the two IOUs. Instead of continuing to pay down $431 million in IOUs to Barney and his trust, CEHE would now be on the hook for only $75 million. Of course, with that reduction in debt came a drastic reassessment of the value of goodwill that CEHE had gained from Barney. Within the span of the 2015 calendar year, the value of CEHE’s intangible assets fell by $337.5 million.</p>
+
+<p style="color:black">Eric S. Juhlin, CEHE’s chief executive officer, said such value adjustments are a “common practice.” In this case, he said, the nonprofit renegotiated its debt during a difficult business environment.</p>
+
+<p style="color:black">“You go through cycles,” Juhlin said. “You go through cycles where the operations may be flourishing, and you go through cycles where the operations can become very challenging.”</p>
+
+<p style="color:black">But to department regulators, what they deemed the “highly inflated” $419-million goodwill valuation in 2012, followed by its drastic recalculation in 2015, raised red flags. And so those irregularities, as well as Barney’s continued control over the colleges he had once owned, are what persuaded the Obama administration to deny CEHE’s request for nonprofit recognition of its campuses.</p>
+
+<p style="color:black">“The fact that the purchase price of the schools was reduced, by on the order of 80 percent or so, is pretty strong evidence that the original sale was just what all of us were saying at the time — a bogus conversion to nonprofit status,” said Shireman, the former Obama Education Department official.</p>
+
+<p style="color:black">Shireman pointed to another proposed nonprofit conversion — requested by Grand Canyon University — that the Education Department <a class="Link" href="https://www.educationdive.com/news/grand-canyon-pushes-back-in-response-to-ed-depts-review-letter/567203/" target="_blank" rel="noopener" data-cms-ai="0">rejected</a> last November. Combined with the oversight exerted against the institutions owned by CEHE, he said it was clear that the federal government was not going to rubber-stamp such conversions, even though the Trump administration has regulated for-profit colleges and universities much less aggressively than the Education Department under Obama.</p>
+
+<p style="color:black">“The department has sent a message that you cannot just willy-nilly claim to have converted to nonprofit and have an easy time of it, unless it’s real,” Shireman said.</p>
+
+<p style="color:black">More recently, the accreditor that monitors the colleges owned by CEHE has raised alarms about the low graduation and job-placement rates within some of the programs associated with certain campuses. Last year, the Accrediting Commission of Career Schools and Colleges ordered CEHE to <a class="Link" href="http://www.accsc.org/UploadedDocuments/1964/CEHE-Systemwide-SAL-Redacted-Final.pdf" target="_blank" rel="noopener" data-cms-ai="0">stop new enrollments</a> in 10 academic programs where graduation rates or job-placement rates were consistently low.</p>
+
+<p style="color:black">All of CEHE’s colleges remain on probation with their accreditor.</p>
+
+<p style="color:black">As for Barney, he remains active on his blog, celebrating his newly hung painting of a <a class="Link" href="https://carlbarney.com/2020/04/03/magnificent-painting/" target="_blank" rel="noopener" data-cms-ai="0">torch-bearing Prometheus</a>, and <a class="Link" href="https://carlbarney.com/2020/03/18/coronavirus-mad-media-medical-misinformation-posturing-politicians-and-a-panicking-public/" target="_blank" rel="noopener" data-cms-ai="0">arguing</a> against media “fear-mongering” on the matter of the coronavirus pandemic. President Trump and Democratic leaders, he wrote, <a class="Link" href="https://carlbarney.com/2020/03/24/covid-19-damage-destruction-depression-and-disaster/" target="_blank" rel="noopener" data-cms-ai="0">all share blame</a> for “beginning one of the most serious recessions ever.”</p>
+
+<p style="color:black">But Barney has insisted that his intellectual passions won’t be slowed by “pandemic hysteria.” While much of America may yet be social distancing, he wrote last month that he still hoped to join a dozen grad students and professors at an invitation-only <a class="Link" href="https://carlbarney.com/2020/03/24/richard-salsmans-ayn-rand-camp/" target="_blank" rel="noopener" data-cms-ai="0">Ayn Rand camp</a> in May at “a gorgeous Utah resort.” Now he concedes the event will probably be canceled because of the lockdown.</p>
+
+<p style="color:black">“Some people just give up and die because they have nothing left to live for; nothing to look forward to,” <a class="Link" href="https://carlbarney.com/2020/01/06/loving-life-longevity-and-the-kaufmann-protocol/" target="_blank" rel="noopener" data-cms-ai="0">Barney wrote in January</a>. He hopes to live “happily and healthily” past the age of 120.</p>

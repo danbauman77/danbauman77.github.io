@@ -24,7 +24,7 @@ author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education
   puburl: https://www.chronicle.com/article/promises-of-debt-relief-meet-privacy-concerns/
-  reason: Paywall
+  reason: Paywall; Degraded Assets
   archiveurl: "/assets/media/archive/promises-of-debt-relief-meet-privacy-concerns.pdf"
 ---
 
@@ -40,11 +40,11 @@ republished:
 
 <p style="color:black">The privacy concerns center around the government database mined by Mr. Breidert, the <a class="Link" href="https://www.nslds.ed.gov/nslds_SA/" target="_blank" rel="noopener" data-cms-ai="0">National Student Loan Data System</a>. The system, known as NSLDS, is a database maintained by the Education Department that houses the personal and financial information of millions of borrowers. While the database is confidential, employees for third-party companies (such as lenders, colleges, and debt-relief companies) can use the system for government-sanctioned purposes. In Mr. Breidert’s case, he was given access to the database so he could review the loan histories of clients who were interested in consolidating their federal student loans.</p>
 
-<p style="color:black">Around the same time that Mr. Breidert’s <a class="Link" href="http://www.scribd.com/doc/236760111/Len-R-Breidert-Plea-Agreement" target="_blank" rel="noopener" data-cms-ai="0">plea agreement</a> was entered, employees at two other student-debt relief companies were also prosecuted for misusing the database.</p>
+<p style="color:black">Around the same time that Mr. Breidert’s <a class="Link" href="/assets/media/debt-relief-companies/236760111-Len-R-Breidert-Plea-Agreement-1.pdf" target="_blank" rel="noopener" data-cms-ai="0">plea agreement</a> was entered, employees at two other student-debt relief companies were also prosecuted for misusing the database.</p>
 
 <p style="color:black">According to a department <a class="Link" href="http://www2.ed.gov/about/offices/list/oig/semiann/sar60.pdf" target="_blank" rel="noopener" data-cms-ai="0">report to Congress</a>, a marketing director at University Financial Lending Services assigned the NSLDS user accounts of other employees to company managers whose own accounts had been revoked “because of abuse of the NSLDS system.” The company’s marketing director, David M. Brabson, pleaded guilty in 2009 to fraud charges and privacy violations. He was sentenced to one year of probation and was ordered to pay approximately $980 in restitution.</p>
 
-<p style="color:black">Mark M. Bullock, a manager at EDU Debt Solutions in Florida, <a class="Link" href="http://www.scribd.com/doc/236750067/EDU-Debt-Solutions" target="_blank" rel="noopener" data-cms-ai="0">received a similar penalty</a>—two years’ probation and $730 in restitution—after he instructed employees to fraudulently obtain NSLDS accounts.</p>
+<p style="color:black">Mark M. Bullock, a manager at EDU Debt Solutions in Florida, <a class="Link" href="/assets/media/debt-relief-companies/236750067-EDU-Debt-Solutions.pdf" target="_blank" rel="noopener" data-cms-ai="0">received a similar penalty</a>—two years’ probation and $730 in restitution—after he instructed employees to fraudulently obtain NSLDS accounts.</p>
 
 <h2>A Caution Against PIN-Sharing</h2>
 

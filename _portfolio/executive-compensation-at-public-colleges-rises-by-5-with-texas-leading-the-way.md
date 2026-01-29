@@ -1,0 +1,100 @@
+---
+title: Executive Compensation at Public Colleges Rises by 5%, With Texas Leading the Way 
+image:
+  path: "/assets/media/mcraven.webp"
+  caption: Moody College of Communication via Wikimedia Commons
+  sourceurl: https://commons.wikimedia.org/wiki/File:Chancellor_McRaven_February_2017_(32690323320).jpg
+categories:
+- portfolio
+date: '2017-06-27 00:01:00'
+link:
+  text:
+  url:
+tags:
+- portfolio
+- documentcloud
+- emma-filings
+- financial-statements
+- business-reporting
+- higher-ed-reporting
+layout: portfolio
+author: Dan Bauman
+republished:
+  pubname: The Chronicle of Higher Education
+  puburl: https://www.chronicle.com/article/executive-compensation-at-public-colleges-rises-by-5-with-texas-leading-the-way/
+  reason: Paywall
+  archiveurl: "/assets/media/archive/executive-compensation-at-public-colleges-rises-by-5-with-texas-leading-the-way.pdf"
+---
+
+<p style="color:black">Everything’s bigger in Texas, including the pay of public-college leaders.</p>
+
+<p style="color:black">Two chiefs of college systems and one campus president in Texas each took home $1 million or more during the 2016 fiscal year, according to a <em>Chronicle</em> analysis. In all, seven top executives at public institutions in the state earned more than $700,000 each. No other state had more than four public-college chiefs earn above $700,000.</p>
+
+<p style="color:black">Both William H. McRaven of the University of Texas system and Michael K. Young of Texas A&amp;M University at College Station broke the record for highest base salaries among public-college chief executives. Mr. McRaven earned $1.2 million in base pay in the 2016 fiscal year; Mr. Young, $1 million. Previously, E. Gordon Gee had set the high-water mark for base pay for leaders of public colleges, $851,000 in 2013, his final year at Ohio State University.</p>
+
+<p style="color:black"> Mr. McRaven, who retired as a Navy admiral in 2014, earned a $300,000 bonus on top of his $1.2-million base salary. His counterpart at Texas A&amp;M’s system office, John Sharp, earned his place in the millionaires’ club with a $900,000 base pay, $200,000 bonus, and $171,430 in deferred-compensation payout.</p>
+
+<p style="color:black">The compensation data are part of <em>The Chronicle</em>’s annual survey of public-college leaders. Data were collected for 254 chief executives at 221 public colleges and systems. (Because this year’s analysis used averages rather than medians, 2016 figures may not be comparable with previously published figures.)</p>
+
+<p style="color:black"> The average pay of public-college leaders, including those who served partial years, was roughly $464,000 in 2016. Among presidents who served the whole year, average pay was slightly more than $521,000. Leaders who served full years at institutions surveyed in both 2015 and 2016 saw a pay increase of 5.2 percent.</p>
+
+<p style="color:black">On top of an $838,458 base salary and a $150,000 bonus, Arizona State University’s president, Michael M. Crow, was paid $550,000 as part of a 10-year retention plan in the 2016 fiscal year. Mr. Crow, who has been president of Arizona State for 15 years, earned more than $1.5 million in compensation from the university in that fiscal year. The arrangement made him the highest-paid chief executive in public higher education among the institutions <em>The Chronicle</em> surveyed for the 2016 fiscal year.</p>
+
+<h2>‘Big Counts Down Here’</h2>
+
+<p style="color:black">But as the pay of presidents rises, so does the outcry over those compensation levels. Critics like Saranna R. Thornton, a labor economist at Hampden-Sydney College, said top-ranking military officers or White House cabinet secretaries oversee organizations at least as complex as colleges. Regulation of those leaders’ compensation by the U.S. Congress doesn’t seem to impede the government’s ability to hire top talent, Ms. Thornton said.</p>
+
+<p style="color:black"> Phil Adams, a regent of the Texas A&amp;M system, said Mr. Sharp’s pay reflected the chancellor’s direction of a five-year, systemwide plan for renovations at a cost of $5.4 billion. Likewise, Mr. Adams said Mr. Sharp’s push for public-private partnerships had resulted in $1.3 billion in new revenue for the system and the state.</p>
+
+<p style="color:black">“Chancellor John Sharp’s outstanding job performance is even more remarkable when you consider the unique demands of his job because the Texas A&amp;M system is so unique and his solutions are so innovative,” said Mr. Adams in a written statement.</p>
+
+<p style="color:black">Paul L. Foster, chairman of the University of Texas system’s Board of Regents, echoed that sentiment in response to questions about Mr. McRaven’s pay. “Our chancellor is essentially the CEO of one of the largest and most complex organizations in the state of Texas and one of the largest systems of higher education in the country, and we believe his compensation is reasonable and justified,” he said in a written statement. “He is well recognized as a great leader and manager, and, in my opinion, earns every cent.”</p>
+
+<p style="color:black">Texas’ public-college presidents have traditionally been some of the highest-paid in the country. During the 2015 fiscal year, Renu Khator, head of the University of Houston campus and system, <a class="Link" href="https://www.chronicle.com/interactives/executive-compensation#id=table_public_2015" target="_blank" rel="noopener" data-cms-ai="0">topped the list</a> with her $1.3-million compensation package. The year before, R. Bowen Loftin, then president of Texas A&amp;M at College Station, <a class="Link" href="https://www.chronicle.com/interactives/executive-compensation#id=17528_228723_2014_public" target="_blank" rel="noopener" data-cms-ai="0">ranked second,</a> with earnings of nearly $1.13 million, mostly the result of a $850,000 severance package.</p>
+
+<p style="color:black"> Colleges and systems of similar size to those in Texas pay their leaders far less. Colleges in the City University of New York system enroll 45,000 more students than those in the UT system. But CUNY’s chancellor, James B. Milliken, earned less than half of Mr. McRaven’s total compensation.</p>
+
+<p style="color:black">And in the University of California’s system office, the president, Janet A. Napolitano, earned $570,000 in 2016, far smaller than Mr. McRaven’s or Mr. Sharp’s million-dollar-plus paychecks. Universities in the UC system employ at least 20,000 more people than either Texas system. Similarly, Chancellor Gene D. Block of UCLA earned $447,000 in 2015, even though the university counts 10,000 more employees than does College Station. That’s all according to data <a class="Link" href="https://nces.ed.gov/ipeds/Home/UseTheData" target="_blank" rel="noopener" data-cms-ai="0">reported</a> by the colleges to the U.S. Department of Education.</p>
+
+<p style="color:black">Observers in Texas and out cite several reasons for the state’s generous pay packages: lack of regulation from the Legislature or a central university body; a robust economy and growing population; generous alumni; strong returns from alternative revenue sources, such as public-private partnerships; and vigorous competition among the various system and campus boards in Texas. And propelling all of it, said the veteran Texas lobbyist Bill Miller, is the battle for bragging rights.</p>
+
+<p style="color:black">“Big counts down here,” Mr. Miller said. “It’s always counted for something: most acreage, most cattle, most wells, most national championships. Bigger is better is best. And so if they [boards] have got the money and don’t mind paying for it, they won’t think twice.”</p>
+
+<h2>National Consequences</h2>
+
+<p style="color:black">Raymond D. Cotton, a partner at the law firm Nelson Mullins who specializes in higher-education and compensation issues, said the rising pay in Texas has national consequences.</p>
+
+<p style="color:black">The upward pressure from public higher education in Texas forces institutions elsewhere to offer larger pay packages to stay competitive in hiring top talent, Mr. Cotton said. A college’s pool of potential presidential candidates can be severely limited if it is not able to recruit in large states like Texas or Florida. And a talented prospective leader may not even entertain an offer if the pay is not in keeping with market forces.</p>
+
+<p style="color:black">But some critics are skeptical of how “talent” and “success” are defined by some institutional boards, which are usually made up largely of private-sector chief executives. Ms. Thornton pointed to a <a class="Link" href="http://www.ips-dc.org/one_percent_universities/" target="_blank" rel="noopener" data-cms-ai="0">report</a> that found that at the 25 public universities with the highest-paid leaders, student debt and classes taught by adjunct faculty members increased at levels above national averages. And a <a class="Link" href="http://aaajournals.org/doi/abs/10.2308/acch-50660?code=aaan-site" target="_blank" rel="noopener" data-cms-ai="0">research article</a> cited by Ms. Thornton found no evidence that high compensation for public-college presidents correlated to superior performance.</p>
+
+<p style="color:black">“Do university governing boards feel like they are getting a better president if they pay more for him or her?” Ms. Thornton asked. “To what extent are their feelings that they got a ‘better’ president a rationalization of the fact that they paid so much in compensation?”</p>
+
+<p style="color:black">Boards may be more willing to pay large sums because of the latitude that donations can give them in offering such packages. Increasingly, Mr. Cotton said, public higher education is relying on institutional foundations and donors to supplement the pay of chief executives, as well as other well-paid college employees like athletic coaches.</p>
+
+<p style="color:black">That’s certainly true of Texas, where state taxpayers by and large don’t foot the bill for large salaries. Mr. McRaven’s compensation, for instance, is <a class="Link" href="http://www.lbb.state.tx.us/Documents/Publications/Other/Admin_Acc/2017/720%20_UT_System.pdf" target="_blank" rel="noopener" data-cms-ai="0">funded</a> by $1.5 million in donations to various funds. Similarly, all of Mr. Sharp’s pay <a class="Link" href="http://www.lbb.state.tx.us/Documents/Publications/Other/Admin_Acc/2017/710_Texas_AM_System_Admin.pdf" target="_blank" rel="noopener" data-cms-ai="0">originated</a> from institutional funds, not state coffers. The UT system and the Texas A&amp;M system had the <a class="Link" href="http://www.nacubo.org/Documents/EndowmentFiles/2016-Endowment-Market-Values.pdf" target="_blank" rel="noopener" data-cms-ai="0">two largest</a> public-sector endowments in the country in the 2016 fiscal year, valued collectively at more than $34.7 billion.</p>
+
+
+<p style="color:black">In part because of that pattern, Mr. Cotton said, state universities and systems in Texas don’t face as much public scrutiny of their executives’ pay as in other states. Compensation for public executives in Texas is further insulated by the broad powers that boards of regents have to design compensation packages.</p>
+
+<p style="color:black">The mandate for the Texas Higher Education Coordinating Board, for instance, is to provide policy recommendations and logistical assistance to institutions, not set pay levels, said its commissioner, Raymund A. Paredes. The Legislature also does not vote on salary levels, according to State Rep. John M. Zerwas’s office. That structure has mostly allowed Texas chief executives to avoid the compensatory fallout that can sometimes result from a public outcry over high pay.</p>
+
+<h2>Intrastate Rivalry</h2>
+
+<p style="color:black">The situation is markedly different in California, where legislative threats to presidential pay are <a class="Link" href="http://www.sandiegouniontribune.com/sdut-csu-trustees-cap-new-presidents-salaries-at-325k-2012jan25-story,amp.html" target="_blank" rel="noopener" data-cms-ai="0">nothing new.</a> Complaints from the public led the Board of Trustees of the California State University system in 2012 to cap pay raises for new presidents at no more than 10 percent of their predecessors’ compensation. And in 2015, Cal State trustees <a class="Link" href="http://www.latimes.com/local/lanow/la-me-ln-cal-state-presidential-pay-20151118-story.html" target="_blank" rel="noopener" data-cms-ai="0">eliminated</a> the ability of colleges in the system to either fully or partly finance executive pay with foundation funds, though foundation pay to current campus and system executives was grandfathered in.</p>
+
+<p style="color:black">In the UC system the <a class="Link" href="http://www.latimes.com/local/education/la-me-ln-uc-pay-20150723-story.html" target="_blank" rel="noopener" data-cms-ai="0">regents set</a> executive pay for its campuses. Likewise, a recent report by the state auditor <a class="Link" href="http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-university-of-california-administration-1493137774-htmlstory.html" target="_blank" rel="noopener" data-cms-ai="0">criticized</a> Ms. Napolitano’s office for, among other things, paying excessive executive salaries, leading to the <a class="Link" href="http://www.sfchronicle.com/bayarea/article/UC-secret-salary-fund-sparks-bill-to-curb-autonomy-11128287.php" target="_blank" rel="noopener" data-cms-ai="0">introduction</a> of a bill in the Legislature to weaken the system’s autonomy.</p>
+
+<p style="color:black">Intrastate rivalry among boards of regents also plays some role in increasing executive pay, observers note. Charles Miller, a former chairman of the UT system’s Board of Regents (and no relation to Bill Miller), said both Texas A&amp;M and UT were better as a result of the century-long competition between the two institutions.</p>
+
+<p style="color:black">From the football field to the hiring of star faculty members, the two camps work hard not to come in second to each other, he said. Big moves by the University of Houston and Texas Tech University have only expanded the rivalry in Texas.</p>
+
+<p style="color:black">That one-upmanship can extend to presidential searches, said Bill Miller, the lobbyist. As a result, when distinguished presidential candidates come along — such as a <a class="Link" href="https://www.usatoday.com/story/news/2017/04/02/mcraven-ut-chancellor-book-bin-laden-seal-trump/99929400/" target="_blank" rel="noopener" data-cms-ai="0">former naval officer</a> who oversaw the secret operation to kill Osama bin Laden, or a <a class="Link" href="http://president.tamu.edu/president-young/index.html" target="_blank" rel="noopener" data-cms-ai="0">college leader</a> who more than doubled donations to his public flagship university over four years — Texas regents do everything in their power to get the candidate they want, one they can brag about.</p>
+ 
+<p style="color:black">“They take great pride in people saying, ‘God, we hired the best coach; we hired the best professor; we have the best president,’” Bill Miller said. “They don’t look at what does that cost.”</p>
+
+<p style="color:black"><em>The Chronicle</em> surveys the pay of private-college leaders separately, publishing new data and analysis each spring. The figures for public colleges are not directly comparable to data reported for private colleges because they reflect slightly different categories of pay and different periods of time.</p>
+
+<p style="color:black">The most-recent analysis of private-college leaders who had served a full year found their average pay to be $513,766 in the 2014 calendar year. Among private colleges with full-year presidents in the 2013 and 2014 surveys, the year-over-year increase was 8.6 percent.</p>
+
+<p style="color:black">In the current survey, <em>The Chronicle</em> reviewed the pay of chief executives of all public, nonmilitary, doctoral universities in the United States. System offices or governing boards were also surveyed if they comprised at least three campuses or 50,000 students in the 2015-16 academic year. If a system office oversaw only technical or community colleges, it was not surveyed. The data were collected from surveys completed by those institutions and reflect the 2016 fiscal year, which for most colleges ran from July 1, 2015, to June 30, 2016.</p>
