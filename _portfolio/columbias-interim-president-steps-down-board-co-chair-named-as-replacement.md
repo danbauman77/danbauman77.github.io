@@ -1,9 +1,9 @@
 ---
 title: Columbia’s Interim President Steps Down. Board Co-Chair Named as Replacement.
 image:
-  path: "/assets/media/katrina-armstrong.webp"
-  caption: Jörg Meyer via Columbia University
-  sourceurl: https://magazine.columbia.edu/article/katrina-armstrong-named-interim-president-replacing-minouche-shafik
+  path: "/assets/media/columbia-university-library.webp"
+  caption: Ajay Suresh via Wikimedia Commons, with additional editing in Canva
+  sourceurl: https://commons.wikimedia.org/wiki/File:Columbia_University_-_Low_Memorial_Library_(48170370506).jpg
 categories:
 - portfolio
 date: '2025-03-28 00:01:00'

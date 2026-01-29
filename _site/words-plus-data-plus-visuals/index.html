@@ -107,10 +107,10 @@
         <div class="work-grid" id="workGrid" aria-live="polite">
           <div class="grid-sizer"></div>
 
-          <article class="work-item" data-category="web branding" data-image="https://chronicle.brightspotcdn.com/dims4/default/cebca9b/2147483647/strip/true/crop/3000x2000+0+0/resize/840x560!/format/webp/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2F76%2F4e%2Faba0193242a88214dcac12ab5988%2Fboatman-tomac-6x4.jpg" data-url="https://www.chronicle.com/article/colleges-were-already-bracing-for-an-enrollment-cliff-now-there-might-be-a-second-one">
+          <article class="work-item" data-category="web branding" data-date="2025-01-26T14:30:00Z" data-image="/assets/media/pexels-m-venter-792254-1659435.webp" data-url="https://www.chronicle.com/article/colleges-were-already-bracing-for-an-enrollment-cliff-now-there-might-be-a-second-one">
             <div class="card">
               <a class="project-link" href="https://www.chronicle.com/article/colleges-were-already-bracing-for-an-enrollment-cliff-now-there-might-be-a-second-one" target="_blank" rel="noopener">
-                <img src="https://chronicle.brightspotcdn.com/dims4/default/cebca9b/2147483647/strip/true/crop/3000x2000+0+0/resize/840x560!/format/webp/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2F76%2F4e%2Faba0193242a88214dcac12ab5988%2Fboatman-tomac-6x4.jpg" alt=" Colleges Were Already Bracing for an ‘Enrollment Cliff.’ Now There Might Be a Second One." />
+                <img src="/assets/media/pexels-m-venter-792254-1659435.webp" alt=" Colleges Were Already Bracing for an 'Enrollment Cliff.' Now There Might Be a Second One." />
               </a>
               <div class="work-meta">
                 <h3><a class="visit" href="https://www.chronicle.com/article/colleges-were-already-bracing-for-an-enrollment-cliff-now-there-might-be-a-second-one" target="_blank" rel="noopener">A 2nd Enrollment Cliff?</a></h3>
@@ -118,7 +118,7 @@
             </div>
           </article>
 
-          <article class="work-item" data-category="branding" data-image="https://transforminghollywood.tft.ucla.edu/wp-content/uploads/2012/11/600x400.gif" data-url="https://example.com/project-2">
+          <article class="work-item" data-category="branding" data-date="2025-01-10T09:00:00Z" data-image="https://transforminghollywood.tft.ucla.edu/wp-content/uploads/2012/11/600x400.gif" data-url="https://example.com/project-2">
             <div class="card">
               <a class="project-link" href="https://example.com/project-2" target="_blank" rel="noopener">
                 <img src="https://transforminghollywood.tft.ucla.edu/wp-content/uploads/2012/11/600x400.gif" alt="Project 2 screenshot" />
@@ -130,7 +130,7 @@
             </div>
           </article>
 
-          <article class="work-item" data-category="web" data-image="https://transforminghollywood.tft.ucla.edu/wp-content/uploads/2012/11/600x400.gif" data-url="https://example.com/project-3">
+          <article class="work-item" data-category="web" data-date="2025-01-20T16:45:00Z" data-image="https://transforminghollywood.tft.ucla.edu/wp-content/uploads/2012/11/600x400.gif" data-url="https://example.com/project-3">
             <div class="card">
               <a class="project-link" href="https://example.com/project-3" target="_blank" rel="noopener">
                 <img src="https://transforminghollywood.tft.ucla.edu/wp-content/uploads/2012/11/600x400.gif" alt="Project 3 screenshot" />
@@ -142,7 +142,7 @@
             </div>
           </article>
 
-          <article class="work-item" data-category="illustration" data-image="https://transforminghollywood.tft.ucla.edu/wp-content/uploads/2012/11/600x400.gif" data-url="https://example.com/project-4">
+          <article class="work-item" data-category="illustration" data-date="2025-01-05T11:20:00Z" data-image="https://transforminghollywood.tft.ucla.edu/wp-content/uploads/2012/11/600x400.gif" data-url="https://example.com/project-4">
             <div class="card">
               <a class="project-link" href="https://example.com/project-4" target="_blank" rel="noopener">
                 <img src="https://transforminghollywood.tft.ucla.edu/wp-content/uploads/2012/11/600x400.gif" alt="Project 4 screenshot" />
@@ -154,7 +154,7 @@
             </div>
           </article>
 
-          <article class="work-item" data-category="mobile web" data-image="https://transforminghollywood.tft.ucla.edu/wp-content/uploads/2012/11/600x400.gif" data-url="https://example.com/project-5">
+          <article class="work-item" data-category="mobile web" data-date="2025-01-25T08:00:00Z" data-image="https://transforminghollywood.tft.ucla.edu/wp-content/uploads/2012/11/600x400.gif" data-url="https://example.com/project-5">
             <div class="card">
               <a class="project-link" href="https://example.com/project-5" target="_blank" rel="noopener">
                 <img src="https://transforminghollywood.tft.ucla.edu/wp-content/uploads/2012/11/600x400.gif" alt="Project 5 screenshot" />
@@ -220,16 +220,28 @@
         return token.replace(/"/g, '\\"');
       }
 
-      // Build Isotope instance
+      // Custom sorting function for date-based ordering
+      function getDateSortData(itemElem) {
+        var dateStr = itemElem.getAttribute('data-date');
+        if (!dateStr) return 0;
+        var date = new Date(dateStr);
+        return date.getTime();
+      }
+
+      // Build Isotope instance with date sorting
       var iso = new Isotope(grid, {
         itemSelector: '.work-item',
         percentPosition: true,
-        layoutMode: 'masonry', // masonry looks good for cards; change to 'fitRows' if you prefer rows
+        layoutMode: 'masonry',
         masonry: {
-          // use grid-sizer to define column width
           columnWidth: '.grid-sizer'
         },
-        transitionDuration: '380ms'
+        transitionDuration: '380ms',
+        getSortData: {
+          date: getDateSortData
+        },
+        sortBy: 'date',
+        sortAscending: false // newest first (set to true for oldest first)
       });
 
       // Read initial filter token from URL but don't apply it before we compute the full grid height
@@ -263,11 +275,10 @@
       }
 
       // Compute and set the persistent min-height equal to the "full" grid height (when all items are visible).
-      // This ensures the page height / scrollbar do not shrink when filters hide items.
       function setPersistentGridMinHeight(callback) {
         // ensure all items are shown so we can measure full height
         iso.arrange({ filter: '*' });
-        // wait for arrange to complete (Isotope may animate)
+        // wait for arrange to complete
         var handler = function () {
           // measure and set min-height
           var h = grid.getBoundingClientRect().height;
@@ -276,23 +287,30 @@
           iso.off ? iso.off('arrangeComplete', handler) : (iso.once && iso.once('arrangeComplete', handler));
           if (typeof callback === 'function') callback();
         };
-        // attach once (use once if available)
         if (iso.once) iso.once('arrangeComplete', handler);
-        else iso.on && iso.on('arrangeComplete', handler);
+        else if (iso.on) {
+          iso.on('arrangeComplete', handler);
+          setTimeout(function() { iso.off && iso.off('arrangeComplete', handler); }, 600);
+        } else {
+          setTimeout(handler, 500);
+        }
       }
 
-      // Build selector from token
+      // Update URL (history) with current filter token
+      function updateUrl(token) {
+        var url = new URL(window.location.href);
+        if (!token) {
+          url.searchParams.delete('filters');
+        } else {
+          url.searchParams.set('filters', token);
+        }
+        window.history.replaceState(null, '', url.toString());
+      }
+
+      // Convert filter token(s) to a CSS selector for Isotope
       function isoSelectorFor(token) {
         if (!token || token === '*') return '*';
-        return '[data-category~="' + esc(token) + '"]';
-      }
-
-      // URL management
-      function updateUrl(filterToken) {
-        var url = new URL(window.location.href);
-        if (!filterToken || filterToken === '*') url.searchParams.delete('filters');
-        else url.searchParams.set('filters', filterToken);
-        history.replaceState(null, '', url.toString());
+        return '[data-category*="' + esc(token) + '"]';
       }
 
       // Set UI active state for a given token
@@ -305,10 +323,14 @@
         });
       }
 
-      // Apply a filter token (single-select). Because we set a persistent min-height, we do NOT need to lock the height.
+      // Apply a filter token with date sorting maintained
       function applyFilterToken(token) {
         var selector = isoSelectorFor(token);
-        iso.arrange({ filter: selector });
+        iso.arrange({ 
+          filter: selector,
+          sortBy: 'date',
+          sortAscending: false
+        });
         updateUrl(token);
       }
 
@@ -331,13 +353,10 @@
         });
       }
 
-      // Run sequence:
-      // 1) Wait for images to load
-      // 2) Arrange to show all and measure full height, set min-height
-      // 3) Apply initial filter token (if any) without changing min-height
+      // Run sequence with date sorting applied
       afterImages(function () {
         setPersistentGridMinHeight(function () {
-          // Now apply initial filter (or default to all)
+          // Apply initial filter with date sorting
           if (initialToken) {
             var matchingBtn = document.querySelector('.filter-btn[data-filter="' + initialToken + '"]');
             if (matchingBtn) {
@@ -354,32 +373,31 @@
         });
       });
 
-      // ensure Isotope relayouts when window resizes (responsive)
+      // ensure Isotope relayouts when window resizes (responsive) with date sorting maintained
       var resizeTimeout;
       window.addEventListener('resize', function () {
         clearTimeout(resizeTimeout);
         resizeTimeout = setTimeout(function () {
-          // Recompute min-height on resize to keep it accurate across breakpoints.
-          // Show all, layout, measure, then reapply current filter.
           var currentFilter = (function () {
             var active = document.querySelector('.filter-btn.active');
             return active ? (active.getAttribute('data-filter') || '*') : '*';
           })();
 
-          // Temporarily show all, measure full height, then reapply current filter.
           iso.arrange({ filter: '*' });
-          // wait for arrange to finish then measure
           var onceHandler = function () {
             var h = grid.getBoundingClientRect().height;
             grid.style.minHeight = h + 'px';
-            // reapply previous filter
-            iso.arrange({ filter: isoSelectorFor(currentFilter === '*' ? null : currentFilter) });
-            if (iso.once) iso.once('arrangeComplete', null); // noop to clear
+            // reapply previous filter with date sorting
+            iso.arrange({ 
+              filter: isoSelectorFor(currentFilter === '*' ? null : currentFilter),
+              sortBy: 'date',
+              sortAscending: false
+            });
+            if (iso.once) iso.once('arrangeComplete', null);
           };
           if (iso.once) iso.once('arrangeComplete', onceHandler);
           else iso.on && iso.on('arrangeComplete', onceHandler);
 
-          // also call layout as a fallback
           iso.layout();
         }, 180);
       });
@@ -442,10 +460,25 @@
     display: block;
   }
 
-  /* Image sizing */
-  .work-item img {
+  /* Image container with fixed aspect ratio */
+  .work-item .project-link {
+    display: block;
+    position: relative;
     width: 100%;
-    height: auto;
+    padding-bottom: 66.67%; /* 3:2 aspect ratio */
+    overflow: hidden;
+    background: #f5f5f5;
+  }
+
+  /* Image sizing with object-fit to maintain aspect ratio */
+  .work-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures images fill container while maintaining aspect ratio */
+    object-position: center;
     display: block;
   }
 
