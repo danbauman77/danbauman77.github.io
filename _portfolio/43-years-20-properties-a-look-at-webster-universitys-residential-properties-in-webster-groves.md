@@ -121,5 +121,3 @@ republished:
 <p style="color:black">“Sometimes they are really reactive, they are very fast,”Accardo said. “Sometimes it takes a little longer.”</p>
 
 <p style="color:black">Giblin also said Roberts Realty knows appropriate housing rates and better understands all of the laws involved in renting property.</p>
-
-<iframe id="doc_71696" src="http://www.scribd.com/embeds/138832389/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-2j9a0lw1z53xn2dkiikw" frameborder="0" scrolling="no" width="100%" height="600" data-auto-height="false" data-aspect-ratio="0.772922022279349" data-ruffle-polyfilled=""></iframe>
