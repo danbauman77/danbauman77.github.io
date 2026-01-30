@@ -1,7 +1,7 @@
 ---
 title: 43 years, 20 properties — A look at Webster University’s residential properties in Webster Groves
 image:
-  path: "/assets/media/university-of-houston.webp"
+  path: "/assets/media/webster-university.webp"
   caption: Marcus Qwertyus via Wikimedia Commons, with additional editing in Canva
   sourceurl: https://commons.wikimedia.org/wiki/File:Webster_University%27s_Webster_Hall_-_2012.JPG
 categories:
