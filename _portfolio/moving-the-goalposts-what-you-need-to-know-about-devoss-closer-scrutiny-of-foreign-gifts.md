@@ -1,0 +1,101 @@
+---
+title: ‘Moving the Goalposts’ — What You Need to Know About DeVos’s Closer Scrutiny of Foreign Gifts
+image:
+  path: "/assets/media/yale-university.webp"
+  caption: Tony Hisgett via Wikimedia Commons
+  sourceurl: https://commons.wikimedia.org/wiki/File:FBI_Building_(27452698460).jpg
+categories:
+- portfolio
+date: '2020-02-13 00:01:00'
+link:
+  text:
+  url:
+tags:
+- portfolio
+- documentcloud
+- emma-filings
+- financial-statements
+- business-reporting
+- higher-ed-reporting
+layout: portfolio
+author: Lindsay Ellis and Dan Bauman
+republished:
+  pubname: The Chronicle of Higher Education
+  puburl: https://www.chronicle.com/article/moving-the-goalposts-what-you-need-to-know-about-devoss-closer-scrutiny-of-foreign-gifts/
+  reason: Paywall
+  archiveurl: "/assets/media/archive/moving-the-goalposts-what-you-need-to-know-about-devoss-closer-scrutiny-of-foreign-gifts.pdf"
+---
+
+<p style="color:black">Calling for more reporting of foreign gifts than is widely practiced, the U.S. Department of Education’s letters to Harvard and Yale Universities this week signaled a ratcheting up of scrutiny of relations between American campuses and Chinese entities.</p>
+
+<p style="color:black">In the two letters, each dated Tuesday, the department said Harvard and Yale may not have fully detailed their gifts and contracts with foreign entities as required by federal law. <a class="Link" href="https://legcounsel.house.gov/Comps/Higher%20Education%20Act%20Of%201965.pdf#page=26" target="_blank" rel="noopener" data-cms-ai="0">The cited provision</a> requires universities to tell the Education Department about gifts from and contracts with foreign sources greater than $250,000.</p>
+
+<p style="color:black">But in the letters, the department appeared to urge a thorough accounting of all programs, activities, and people funded with money from foreign entities — no matter how small. The letters raised alarms that such an onerous requirement could discourage collaboration between American campuses and those abroad, and the targeting of Harvard and Yale showed a focus on high-profile institutions that could catch other campuses’ eyes.</p>
+
+<p style="color:black">“To satisfy these requests in full, you would have to hire teams of at least 10 additional staff members working full time for a year,” said Robert Daly, director of the Wilson Center’s Kissinger Institute on China and the United States. “It is fair to ask if this is aimed at deterrence.”</p>
+
+<p style="color:black">The Education Department did not respond to a question from <em>The Chronicle</em> on whether it is asking for reports of all gifts, no matter the size. In an earlier letter, the department suggested that universities can track all money “at a very high level of granularity.”</p>
+
+<p style="color:black">The department, in a news release, said Yale <a class="Link" href="https://www2.ed.gov/policy/highered/leg/yale-20200211.pdf" target="_blank" rel="noopener" data-cms-ai="0">may have omitted reports</a> of at least $375 million in foreign gifts and contracts, citing its lack of reports for four recent years. In Harvard’s case, the department <a class="Link" href="https://www2.ed.gov/policy/highered/leg/harvard-20200211.pdf" target="_blank" rel="noopener" data-cms-ai="0">mentioned as concerning</a> a statement made by the recently arrested chemistry-department chair regarding a lack of adequate university oversight for large donations.</p>
+
+<p style="color:black">“Unfortunately, the more we dig, the more we find that too many are underreporting or not reporting at all,” said Secretary of Education Betsy DeVos in a <a class="Link" href="https://content.govdelivery.com/accounts/USED/bulletins/27b7801" target="_blank" rel="noopener" data-cms-ai="0">statement</a>. “We will continue to hold colleges and universities accountable and work with them to ensure their reporting is full, accurate, and transparent, as required by the law.”</p>
+
+<p style="color:black">Representatives for Harvard and Yale confirmed that the universities received the letters, and each told <em>The Chronicle</em> that they are preparing responses. Yale’s said it submitted “all of the required reporting of foreign funding for the missing years” in November, when it was made aware of the oversight, and believes current disclosures are complete.</p>
+
+<p style="color:black">Tuesday’s letters are not the first that appear to call on colleges to report a wider scope of gifts and contracts. Over the summer, the agency and various education groups have communicated about the provision that requires reporting, with the department pledging <a class="Link" href="https://www2.ed.gov/policy/highered/leg/ace-2-july30-2019.pdf" target="_blank" rel="noopener" data-cms-ai="0">to enforce the law</a>. Since July 1, according to the education department, campuses have reported more than $6.5 billion in previously undisclosed foreign money, including $3.6 billion from 10 schools.</p>
+
+<p style="color:black">In September, the department sent letters to the University of Maryland at College Park and the Massachusetts Institute of Technology on similar themes as the Harvard and Yale letters. Each letter, for example, asked for all records of, about, and referencing gifts and contracts from or with foreign sources.</p>
+
+<p style="color:black">But the letters to Harvard and Yale go beyond what was asked of Maryland and MIT. For example, each of the four universities was asked to disclose records of, regarding, or referencing gifts and contracts with the People’s Republic of China, the government of Qatar, and two Chinese companies under scrutiny by American officials, Huawei Technologies and ZTE Corporation. Harvard and Yale were also asked to disclose records regarding Qatari nationals.</p>
+
+<p style="color:black">Alex Hontos, a partner at the law firm Dorsey &amp; Whitney LLP who focuses on procurement law and contracting, called the breadth of the letters “astounding” and, because they call for information on all gifts and contracts, possibly inconsistent with the section of the law that requires reporting above the $250,000 benchmark. He raised questions about what more granular disclosure requirements could mean for donors’ preferences for anonymity.</p>
+
+<p style="color:black">His clients, some of which are universities grappling with research and engagement questions, are “searching for answers” on the scope of what might be required here. “People are really just looking for the lines, and there’s a sense that the goalposts are moving.”</p>
+
+<h2>‘Patently Unfair’</h2>
+
+ <p style="color:black">Over the last two years, Washington has increasingly focused on foreign giving to and contracts with American universities. The theory is that American campuses are increasingly dependent on money from abroad, but they have not created adequate controls that would lower the risk of undue influence or theft of intellectual property.</p>
+
+<p style="color:black">So far, in response, universities have urged professors to disclose any and all conflicts of commitment and foreign funding. Here, it appears that the U.S. government is urging campuses to do just that, across all of their entities — a vast undertaking.</p>
+
+<p style="color:black">“This is the same issue,” Daly said, “at a macro scale.”</p>
+
+<p style="color:black">Colleges and the federal government have long struggled to fully execute the provision requiring transparency of foreign gifts. Two years after the passage of the 1992 Higher Education Act, which carried the disclosure statute, <em>The Chronicle</em> <a class="Link" href="https://www.chronicle.com/article/Unlisted-Foreign-Donations/91505/" target="_blank" rel="noopener" data-cms-ai="0">found</a> exactly zero entries had been recorded within the registry of foriegn gifts and transactions.</p>
+
+<p style="color:black">Many of the justifications for nondisclosure at the time echo complaints made by the higher-education sector today. Some colleges at the time confessed to being unaware of the law’s mandate. Other institutions faulted the Department of Education for failing to provide adequate guidance on reporting requirements.</p>
+
+<p style="color:black">Since then, subsequent Education Departments have been uninterested in exhaustively enforcing the law. Colleges disclosed information <a class="Link" href="https://studentaid.gov/data-center/school/foreign-gifts" target="_blank" rel="noopener" data-cms-ai="0">using</a> diverging interpretations of their responsibilities under the law. For instance, the California Institute of Technology includes with every entry the name of the donor. None of the $1.1-billion in transaction entries for Harvard carry the names of its donors or business partners.</p>
+
+<p style="color:black">Certain laws provide the Education Department with the ability to fine or penalize institutions for inaccurately reporting information, including the omission of sexual-violence incidents from Clery Act reports. No such authorization is provided for collecting foreign-transaction data. The department <a class="Link" href="https://studentaid.gov/sites/default/files/1718FSAHbkVol2Ch6.pdf" target="_blank" rel="noopener" data-cms-ai="0">can sue</a> institutions in federal court to force compliance, but a spokesman did not return a request for comment on whether the government had exercised that option.</p>
+
+<p style="color:black">To a certain extent, the problem is one that is inherently focused on high-profile research universities. Fewer than 300 U.S. institutions say they get foreign money each year, according to the department, with most money going to about 50 big campuses. A <em>Chronicle</em> analysis of foreign donations found that gifts to just Harvard, MIT, the Johns Hopkins, Stanford, and Duke Universities collectively accounted for more than half of all of the $4.5 billion disclosed to the Department of Education since 2013.</p>
+
+<p style="color:black">Recent rhetoric from the Education Department showed skepticism of the use of foundations and foreign campuses by these institutions, calling these operations “financially opaque” and means to “generate revenue, including from foreign sources.” It called on campuses to report that revenue <a class="Link" href="https://www2.ed.gov/policy/highered/leg/psi-nov27-2019.pdf" target="_blank" rel="noopener" data-cms-ai="0">in a November letter</a>.</p>
+
+<p style="color:black">Harvard’s and Yale’s research in and about China has been “essential” to America’s understanding of China, and by extension, the nation’s security, Daly said.</p>
+
+<p style="color:black">To Hontos, the fact that the department pulled Harvard and Yale into the conversation showed an effort to get “maximum attention” and put “all institutions on notice.”</p>
+
+<p style="color:black">The language in the letters calling for reporting of all gifts could widen the scope of which campuses will be reporting future gifts.</p>
+
+<p style="color:black">“There is an interpretive question there — do they want literally every tuition dollar that came from a Canadian student?” said Hontos, the lawyer. “I don’t think that’s consistent with 117,” the section of the law in question.</p>
+
+<p style="color:black">Academic groups have raised similar concerns. In a July letter, Terry W. Hartle, senior vice president of the American Council on Education, told the department that universities need more clarity about the requirements. The letter was on behalf of groups including the Association of Public and Land-Grant Universities and the American Association of Community Colleges.</p>
+
+<p style="color:black">“It is patently unfair,” Hartle wrote, “to enforce requirements that do not exist in writing.”</p>
+
+<h2>Wider Questions</h2>
+
+ <p style="color:black">The department’s letter to Yale asked for a trove of documents, including a list of all foreign sites operated by Yale or an affiliated entity, and the auditing practices and nontuition revenue sources of those sites. It also asked for a list of all gifts and contracts from the Paul Tsai China Center at Yale’s law school, and from the Jackson Institute for Global Affairs.</p>
+
+<p style="color:black">Karen Peart, a Yale spokeswoman, said that the university respects the department’s requirements about reporting funding. “Yale takes very seriously the importance of ensuring that funding from foreign sources does not in any way compromise American interests.”</p>
+
+<p style="color:black">Hontos urged universities to “operate in the reality they’re in,” even if they disagree with the current administration. “Whether it’s right or wrong, whether China presents a huge threat to academic institutions — in some ways it doesn’t matter,” he said.”</p>
+
+<p style="color:black">In recent months colleges have been grappling with exactly that. While urging disclosure and adherence to federal law, they have also issued strong statements supporting collaborations with international academics and campuses.</p>
+
+<p style="color:black">Like in the reporting of foreign gifts, many campus leaders have called for more clarity on other aspects of the issue of research security from the federal government.</p>
+
+<p style="color:black">For example, at a <a class="Link" href="https://www.csis.org/events/china-initiative-conference" target="_blank" rel="noopener" data-cms-ai="0">recent event on China</a> hosted by the Center for Strategic &amp; International Studies, Gregory Fenves, president of the University of Texas at Austin, said more collaboration was needed with agencies on how to do due diligence on foreign visitors.</p>
+
+<p style="color:black">“There is more that needs to be done, and every university can’t figure it out on its own,” he said. “We don’t have the resources or expertise.”</p>

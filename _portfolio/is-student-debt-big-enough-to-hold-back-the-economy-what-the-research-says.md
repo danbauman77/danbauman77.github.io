@@ -1,0 +1,61 @@
+---
+title: Is Student Debt Big Enough to Hold Back the Economy? What the Research Says
+image:
+  path: "/assets/media/jerome-powell.webp"
+  caption: Federal Reserve via Wikimedia Commons
+  sourceurl: https://commons.wikimedia.org/wiki/File:Jerome_Powell_at_Press_Conference_(DSC1894).jpg
+categories:
+- portfolio
+date: '2018-03-01 00:01:00'
+link:
+  text:
+  url:
+tags:
+- portfolio
+- documentcloud
+- emma-filings
+- financial-statements
+- business-reporting
+- higher-ed-reporting
+layout: portfolio
+author: Dan Bauman
+republished:
+  pubname: The Chronicle of Higher Education
+  puburl: https://www.chronicle.com/article/is-student-debt-big-enough-to-hold-back-the-economy-what-the-research-says/
+  reason: Paywall
+  archiveurl: "/assets/media/archive/is-student-debt-big-enough-to-hold-back-the-economy-what-the-research-says.pdf"
+---
+
+<p style="color:black">Student-loan debt has reached such formidable levels that it could hold back economic growth. <a class="Link" href="https://youtu.be/XjrqCx8Cn4Y?t=59m19s" target="_blank" rel="noopener" data-cms-ai="0">That was the warning</a> U.S. Federal Reserve Chairman Jerome H. Powell gave to members of the U.S. Senate Banking Committee on Thursday.</p>
+
+<p style="color:black">Most people know one thing about student debt: It’s big, and it’s a problem. That’s true. America’s student-debt burden currently sits at $1.38 trillion — dwarfed only by housing and mortgage debt — according to a Fed analysis from last quarter. Nearly 11 percent of that debt is more than 90 days delinquent, compared with 4.7 percent for all types of debt.</p>
+
+<p style="color:black">The country’s treatment of student debt is a live issue. Congress and the Trump administration are considering policy proposals to change how the nation finances higher education. A Republican bill in the House of Representatives to reauthorize the Higher Education Act <a class="Link" href="https://www.cbo.gov/system/files/115th-congress-2017-2018/costestimate/hr4508.pdf" target="_blank" rel="noopener" data-cms-ai="0">would eliminate</a> government subsidies for interest garnered on some federal student loans, and limit the amount of debt that could be drawn for others. Both Congress and U.S. Department of Education have <a class="Link" href="https://www.chronicle.com/blogs/ticker/trumps-budget-could-eliminate-public-service-loan-forgiveness-heres-what-to-know/118468" target="_blank" rel="noopener" data-cms-ai="0">batted around proposals</a> to curtail the terms of repayment and forgiveness programs.</p>
+
+<p style="color:black">But Americans’ experiences with student debt are often mythologized or exaggerated. Here’s a brief look at what the research says about student loans, economic growth, and who borrows.</p>
+
+<h2>Student debt can affect small-business start-ups</h2>
+
+<p style="color:black">Researchers for the Federal Reserve Bank of Philadelphia <a class="Link" href="https://www.philadelphiafed.org/-/media/research-and-data/publications/working-papers/2015/wp15-26.pdf" target="_blank" rel="noopener" data-cms-ai="0">found</a> that slight increases in student-loan borrowing in a county correlated to fewer small-business firms there. On average, a 3.3-percent increase in the aggregate student debt of a county between 2000 and 2010 reduced by 70 the number of businesses there with one to four employees.</p>
+
+<p style="color:black">The working paper found that the student-loan-associated reductions were dampened among slightly larger businesses. Firms employing one to four people, the authors reasoned, relied more on the capacity of their founders to take on personal debt, whereas larger firms could find other means of financing. In a sense, the paper argued, entrepreneurs’ capacity to take on private debt to finance business ambitions was being crowded out by their present student-loan burden, and therefore fewer small firms were being formed.</p>
+
+<p style="color:black">“While student debt is used to fund increases in human capital (education), the utilization of student debt reduces an individual’s ability to access other forms of credit. These results suggest a debt tradeoff for new small firms in which a larger amount of student debt lowers individuals’ ability to start new small businesses,” the authors concluded.</p>
+
+<p style="color:black">The shallowness of the total pool of employees at these very small firms, however, may explain why a more substantial effect hasn’t been observed in the broader economy. <a class="Link" href="https://www.jpmorganchase.com/corporate/institute/small-business-economic.htm" target="_blank" rel="noopener" data-cms-ai="0">According to an analysis</a> of U.S. Census Bureau data by J.P. Morgan Chase, only 5 percent of all employees in 2014 worked for firms of one to four employees, and that subcategory accounted for just 4.5 percent of jobs created that year.</p>
+
+<h2>Student-loan borrowers aren’t buying homes at the same rate as their peers</h2>
+
+<p style="color:black">In general, attending college is associated with a greater ability to own a home. But analysts for the Federal Reserve of New York found that <a class="Link" href="http://libertystreeteconomics.newyorkfed.org/2017/04/diplomas-to-doorsteps-education-student-debt-and-homeownership.html" target="_blank" rel="noopener" data-cms-ai="0">within the cohort of people</a> who attended college and controlling for educational attainment, those with student debt owned homes at a lesser rate than those with no debt. Likewise, the trio’s analysis also found greater student-loan-debt balances were correlated with lower rates of homeownership.</p>
+
+<p style="color:black">A survey by the National Association of Realtors and American Student Assistance potentially <a class="Link" href="https://www.nar.realtor/sites/default/files/documents/2017-student-loan-debt-and-housing-09-26-2017.pdf" target="_blank" rel="noopener" data-cms-ai="0">sheds some light</a> on that discrepancy. Eight-five percent of non-homeowning respondents told surveyors that they were unable to save for a down payment on a house because of their student debt. Among first-time home buyers, 40 percent held some amount of student debt.</p>
+
+<p style="color:black">Despite this dampening of millennial homeownership, there are indicators of improving economic conditions. After a decadelong decline, homeownership rates among those under age 35 have <a class="Link" href="https://www.wsj.com/articles/homeownership-rate-rises-in-2017-for-first-time-since-2004-1517334537" target="_blank" rel="noopener" data-cms-ai="0">started to creep up.</a></p>
+
+<h2>Most of America’s student-loan burden is held by the highly educated</h2>
+
+<p style="color:black">While they get a great deal of media attention, heavily indebted college graduates account for a small percentage of all borrowers. In fact, a survey by the Urban Institute found that a third of student loan borrowers <a class="Link" href="https://www.cbsnews.com/news/third-of-student-loan-borrowers-never-earned-degree/" target="_blank" rel="noopener" data-cms-ai="0">never completed college.</a> Most college attendees with large balances of student loan debt are actually graduate-degree holders. Generally, an advanced degree indicates higher earning power.</p>
+
+<p style="color:black">Despite representing just 21 percent of all degree recipients, those with master’s degrees or higher account for 65 percent of those with student-debt burdens of $50,000 or more, <a class="Link" href="https://www.urban.org/research/publication/student-debt-who-borrows-most-what-lies-ahead/view/full_report" target="_blank" rel="noopener" data-cms-ai="0">according to an analysis</a> of 2012 Education Department data by the Urban Institute.</p>
+
+<p style="color:black"><a class="Link" href="https://nces.ed.gov/pubs2018/2018466.pdf" target="_blank" rel="noopener" data-cms-ai="0">Recent data</a> underline this point. On average, undergraduate student borrowers took out $7,600 in student loans in 2015-16. Compare that with the average student-debt burden of $23,400 for graduate students. Indeed, those seeking professional degrees in fields like medicine or law reported the largest average loan burden: $45,100.</p>
