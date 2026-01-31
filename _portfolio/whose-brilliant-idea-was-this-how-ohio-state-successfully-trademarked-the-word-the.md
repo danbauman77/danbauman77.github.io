@@ -1,9 +1,9 @@
 ---
 title: How Ohio State Successfully Trademarked the Word ‘THE’
 image:
-  path: "/assets/media/pexels-cup-of-couple-6633070.webp"
-  caption: Cup of Couple via Pexels, with additional editing in GIMP
-  sourceurl: https://www.pexels.com/photo/person-arranging-letters-on-black-background-6633070/
+  path: "/assets/media/ohio-state-university.webp"
+  caption: dankeck via Wikimedia Commons, with additional editing in Canva and GIMP
+  sourceurl: https://commons.wikimedia.org/wiki/File:The_Ohio_State_University_(28454832845).jpg
 categories:
 - portfolio
 date: '2022-06-23 00:01:00'
