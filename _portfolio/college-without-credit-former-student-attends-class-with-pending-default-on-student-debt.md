@@ -1,5 +1,5 @@
 ---
-title: Former student attends class with pending default on student debt
+title: Former Student Attends Class with Pending Default on Student Debt
 image:
   path: "/assets/media/pexels-pixabay-207691.webp"
   caption: Pixabay via Pexels

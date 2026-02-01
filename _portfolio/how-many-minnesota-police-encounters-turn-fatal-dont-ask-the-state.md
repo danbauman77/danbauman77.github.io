@@ -1,5 +1,5 @@
 ---
-title:  How many Minnesota police encounters turn fatal? Don’t ask the state
+title: How Many Minnesota Police Encounters Turn Fatal? Don’t Ask The State
 image:
   path: "/assets/media/pexels-kat-wilcox-329096-923681.webp"
   caption: Kat Wilcox via Pexels

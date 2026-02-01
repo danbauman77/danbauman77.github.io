@@ -1,5 +1,5 @@
 ---
-title: Consultants see demand rise as ACA is installed
+title: Consultants See Demand Rise as ACA is Installed
 image:
   path: "/assets/media/nancy-pelosi.webp"
   caption: Nancy Pelosi via Wikimedia Commons

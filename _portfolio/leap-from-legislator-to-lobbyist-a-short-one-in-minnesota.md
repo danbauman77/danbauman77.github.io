@@ -1,5 +1,5 @@
 ---
-title: Leap from legislator to lobbyist a short one in Minnesota
+title: Leap from Legislator to Lobbyist a Short One in Minnesota
 image:
   path: "/assets/media/pexels-lara-jameson-9623633.webp"
   caption: Lara Jameson via Pexels

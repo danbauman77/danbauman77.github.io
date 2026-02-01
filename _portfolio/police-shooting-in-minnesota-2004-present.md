@@ -1,5 +1,5 @@
 ---
-title: Police shootings in Minnesota, 2004-2016
+title: Police Shootings in Minnesota, 2004-2016
 image:
   path: "/assets/media/pexels-pixabay-532001.webp"
   caption: Pixabay via Pexels

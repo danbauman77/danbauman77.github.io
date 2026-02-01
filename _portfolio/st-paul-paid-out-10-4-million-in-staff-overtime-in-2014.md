@@ -1,5 +1,5 @@
 ---
-title: St. Paul paid out $10.4 million in staff overtime in 2014
+title: St. Paul Paid Out $10.4 million in Staff Overtime in 2014
 image:
   path: "/assets/media/night-plow.webp"
   caption: Daniel X. O'Neil via Wikimedia Commons, with additional editing in Canva and GIMP

@@ -1,5 +1,5 @@
 ---
-title: Players leverage their chess skills to earn U.S. college education
+title: Players Leverage Their Chess Skills to Earn U.S. College Education
 image:
   path: "/assets/media/pexels-borishamer-14642767.webp"
   caption: Boris Hamer via Pexels

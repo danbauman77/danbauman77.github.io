@@ -1,5 +1,5 @@
 ---
-title: Captured Gaddafi son wished to attend international Webster campus
+title: Captured Gaddafi Son Wished to Attend International Webster Campus
 image:
   path: "/assets/media/geneva-sunrise.webp"
   caption:  Alma Chen via Wikimedia Commons

@@ -1,5 +1,5 @@
 ---
-title: University houses and perks not just for presidents
+title: University Houses and Perks Not Just For Presidents
 image:
   path: "/assets/media/pexels-enrique72-12974801.webp"
   caption:  Ndshankar via Pexels

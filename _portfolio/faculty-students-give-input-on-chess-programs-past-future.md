@@ -1,5 +1,5 @@
 ---
-title: Faculty, students give input on chess program’s past, future
+title: Faculty, Students Give Input on Chess Program’s Past, Future
 image:
   path: "/assets/media/pexels-nietjuhart-1152662.webp"
   caption: Ylanite Koppens via Pexels, with additional editing in Canva

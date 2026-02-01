@@ -1,5 +1,5 @@
 ---
-title: Million-dollar chess program proposal made by Susan Polgar to Texas Tech, documents reveal
+title: Million-Dollar Chess Program Proposal Made by Susan Polgar, Documents Reveal
 image:
   path: "/assets/media/pexels-mike-van-schoonderwalt-1884800-5503721.webp"
   caption: Mike van Schoonderwalt via Pexels

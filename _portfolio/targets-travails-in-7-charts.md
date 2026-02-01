@@ -1,5 +1,5 @@
 ---
-title: Target Corp.’s travails, in 7 charts
+title: Target Corp.’s Travails, in 7 Charts
 image:
   path: "/assets/media/target.webp"
   caption:  RegionalQueenslander via Wikimedia Commons
