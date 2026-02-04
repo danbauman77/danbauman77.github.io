@@ -11,17 +11,19 @@ link:
   text:
   url:
 tags:
-- portfolio
-- ipeds
-- datawrapper
-- relational-database-admin
-- sql
-- sequel-ace
 - mysql
-- higher-ed-reporting
-- business-reporting
+- sql
+- ipeds
+- relational-database-admin
 - research-methodologies
+- sequel-ace
+- business-reporting
+- higher-ed-reporting
 - news-writing-editing
+- self-made-datasets
+- topical-enterprise
+- bls-estimates
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:
@@ -39,9 +41,9 @@ republished:
 
 <p style="color:black">Facing historic deficits, many colleges and universities are being forced to engage in a relatively simple but uncomfortable calculus, said John J. Cheslock, an associate professor of education-policy studies at Pennsylvania State University. In the long run, colleges must decide, does a particular degree program generate enough enrollment and tuition revenue to warrant its continuation? Or would its elimination lead to greater savings for the institution? Though circumstances can differ from campus to campus, such inquiries have only intensified because of the pandemic.</p>
 
-<p style="color:black">The financial pressures exacerbated by Covid-19 may accelerate trends experienced by certain bachelor’s-degree programs since about 2010. If that happens, two disciplines may attract particular scrutiny: education and foreign languages.</p>
+<p style="color:black">The financial pressures exacerbated by Covid-19 may accelerate trends experienced by certain bachelor’s-degree programs since about 2010. If that happens, two disciplines may attract particular scrutiny: education and foreign languages.</p><br>
     
-<iframe title="Degree Programs See Shift in Popularity" aria-label="chart" id="datawrapper-chart-O7ytu" src="https://datawrapper.dwcdn.net/O7ytu/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="733"></iframe>
+<iframe title="Degree Programs See Shift in Popularity" aria-label="chart" id="datawrapper-chart-O7ytu" src="https://datawrapper.dwcdn.net/O7ytu/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="733"></iframe><br>
   
 <p style="color:black">In the 2012-13 academic year, public and private four-year universities and colleges reported the existence of just over 5,700 active degree programs in education, according to federal data. Six years later, that number had declined by nearly 500, to 5,207. (To be considered an “active” bachelor’s-degree program by <i>The Chronicle,</i> it had to award at least one degree in a given year.) Physical-education teaching programs, business-teacher education programs, and mathematics-teacher education programs saw the largest declines across the decade within the discipline.</p>
   
@@ -49,9 +51,9 @@ republished:
 
 <p style="color:black">The prospects of meager compensation in the profession weigh heavily on the minds of education majors, said Jacqueline E. King, a consultant to the teacher-education association. That concern, coupled with the actual cost of earning an education degree, can make the profession untenable to many prospective teachers.</p>
   
-<p style="color:black">“The financial side of this is a really significant disincentive for anybody to go into teaching, but in particular for students of color,” King said.</p>
+<p style="color:black">“The financial side of this is a really significant disincentive for anybody to go into teaching, but in particular for students of color,” King said.</p><br>
   
-<iframe title="Disciplines Vary in Terms of Degree Programs Added or Cut" aria-label="chart" id="datawrapper-chart-7X3Ve" src="https://datawrapper.dwcdn.net/7X3Ve/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="900"></iframe>
+<iframe title="Disciplines Vary in Terms of Degree Programs Added or Cut" aria-label="chart" id="datawrapper-chart-7X3Ve" src="https://datawrapper.dwcdn.net/7X3Ve/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="900"></iframe><br>
 
 <p style="color:black">The discipline of foreign languages, literatures, and linguistics has faced similar declines in popularity. The 2011-12 academic year saw more than 2,880 active degree programs in the discipline. By 2019, that number had declined by 300. Language and literature programs in French, German, and Spanish had suffered the greatest declines since the 2009-10 academic year.</p>
 
@@ -61,9 +63,9 @@ republished:
   
 <p style="color:black">“Departments and programs that develop curricula that connect to the community needs of a school’s region or to area employers are more successful at drawing students,” Krebs said.</p>
   
-<p style="color:black">The discipline’s decline could be having implications for academic employment. According to a prepandemic estimate by the Bureau of Labor Statistics, the number of foreign-language-and-literature instructors employed by colleges has declined by nearly 20 percent since 2014. (The BLS estimates that the number of postsecondary instructors has declined by more than 8 percent since 2014, an exodus of more than 123,000 people.)</p>
+<p style="color:black">The discipline’s decline could be having implications for academic employment. According to a prepandemic estimate by the Bureau of Labor Statistics, the number of foreign-language-and-literature instructors employed by colleges has declined by nearly 20 percent since 2014. (The BLS estimates that the number of postsecondary instructors has declined by more than 8 percent since 2014, an exodus of more than 123,000 people.)</p><br>
     
-<iframe title="Since 2014, the Number of Foreign-Language-and-Literature Professors Has Declined" aria-label="chart" id="datawrapper-chart-nHbnW" src="https://datawrapper.dwcdn.net/nHbnW/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe>
+<iframe title="Since 2014, the Number of Foreign-Language-and-Literature Professors Has Declined" aria-label="chart" id="datawrapper-chart-nHbnW" src="https://datawrapper.dwcdn.net/nHbnW/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><br>
     
 <p style="color:black">Still, it’s far too soon to predict the demise of either education or foreign-language programs. While the number of education majors has flagged since 2010 despite an increase in overall undergraduate enrollment, education majors still accounted for one out of 22 undergraduates on four-year campuses in the fall of 2018, according to federal data. And degree programs within the foreign-language discipline accounted for nearly 4.5 percent of all active bachelor’s-degree programs in the 2018-19 academic year.</p>
 

@@ -11,12 +11,12 @@ link:
   text:
   url:
 tags: 
-- portfolio
+- business-reporting
 - higher-ed-reporting
 - news-writing-editing
-- business-reporting
-- targeted-foia
 - documentcloud
+- targeted-foia
+- us-uk-canada-business-records
 layout: portfolio
 author: Dan Bauman
 republished:

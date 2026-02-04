@@ -11,11 +11,13 @@ link:
   text:
   url:
 tags: 
-- portfolio
+- business-reporting
+- deadline-breaking-news
 - higher-ed-reporting
 - news-writing-editing
-- business-reporting
+- topical-enterprise
 - documentcloud
+- emma-filings
 layout: portfolio
 author: Dan Bauman
 republished:

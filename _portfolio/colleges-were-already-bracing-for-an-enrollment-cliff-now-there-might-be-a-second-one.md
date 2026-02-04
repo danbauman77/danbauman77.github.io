@@ -11,13 +11,15 @@ link:
   text:
   url:
 tags:
-- portfolio
-- datawrapper
-- census-bureau-estimates-forecasts
-- higher-ed-reporting
-- business-reporting
+- ipeds
 - research-methodologies
 - statistical-analysis
+- business-reporting
+- higher-ed-reporting
+- news-writing-editing
+- self-made-datasets
+- census-bureau-estimates-forecasts
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

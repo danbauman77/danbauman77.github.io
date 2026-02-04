@@ -11,21 +11,21 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
-- business-reporting
-- documentcloud
-- form-990
 - ipeds
-- financial-statements
-- mysql
-- sql
-- relational-database-admin
-- legal-reporting
-- federal-state-court-records
+- business-reporting
 - deadline-breaking-news
+- higher-ed-reporting
+- legal-reporting
+- news-writing-editing
+- topical-enterprise
+- writing-for-mobile
+- documentcloud
+- conflict-of-interest-filings
 - credit-opinion
+- federal-state-court-records
+- financial-statements
+- fsa-enforcement-records
+- irs-form-990
 layout: portfolio
 author: Dan Bauman
 republished:

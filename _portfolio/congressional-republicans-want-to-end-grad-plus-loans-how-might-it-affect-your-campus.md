@@ -11,21 +11,22 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
-- business-reporting
-- deadline-breaking-news
-- datawrapper
-- student-loan-filings
-- ipeds
 - r
 - mysql
 - sql
-- sequel-ace
+- ipeds
 - relational-database-admin
+- research-methodologies
+- sequel-ace
+- business-reporting
+- deadline-breaking-news
+- higher-ed-reporting
+- news-writing-editing
 - personal-finance-reporting
+- topical-enterprise
 - writing-for-mobile
+- student-loan-filings
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

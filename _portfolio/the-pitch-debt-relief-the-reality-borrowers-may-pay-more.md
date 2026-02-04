@@ -11,16 +11,22 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
+- text-mining
 - business-reporting
-- us-uk-canada-business-records
+- collaboration
+- developer-tools
+- higher-ed-reporting
 - investigative-projects
-- personal-finance-reporting
-- federal-state-court-records
 - legal-reporting
+- news-writing-editing
+- personal-finance-reporting
+- project-management
+- self-made-datasets
 - consumer-protection-filings
+- federal-state-court-records
+- metadata-sleuthing
+- us-uk-canada-business-records
+- webpage-monitoring
 layout: portfolio
 author: Kelly Field and Dan Bauman
 republished:

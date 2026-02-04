@@ -11,12 +11,18 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- ipeds
 - business-reporting
 - higher-ed-reporting
+- legal-reporting
+- news-writing-editing
+- documentcloud
+- consumer-protection-filings
+- federal-state-court-records
+- financial-statements
+- irs-form-1023
+- irs-form-990
+- sec-filings
 layout: portfolio
 author: Dan Bauman
 republished:
@@ -40,9 +46,9 @@ republished:
 
 <p style="color:black"><a class="Link" href="https://www.sec.gov/Archives/edgar/data/0001305323/000130532321000035/zvo-20210331.htm" target="_blank" rel="noopener" data-cms-ai="0">Recent disclosures</a> by Zovio also suggest enrollment struggles lie ahead for America’s newest <a class="Link" href="https://www.chronicle.com/article/mega-universities-are-on-the-rise-they-could-reshape-higher-ed-as-we-know-it/" data-cms-ai="0">mega</a><a class="Link" href="https://www.chronicle.com/article/mega-universities-are-on-the-rise-they-could-reshape-higher-ed-as-we-know-it/" data-cms-ai="0">-</a><a class="Link" href="https://www.chronicle.com/article/mega-universities-are-on-the-rise-they-could-reshape-higher-ed-as-we-know-it/" data-cms-ai="0">university</a>, at least in the short term. In May, Zovio <a class="Link" href="https://www.sec.gov/Archives/edgar/data/0001305323/000130532321000035/zvo-20210331.htm" target="_blank" rel="noopener" data-cms-ai="0">alerted</a> shareholders to difficulties with enrollment at Arizona Global Campus, referring to an unspecified “decrease in average weekly enrollment for the three-month period ended March 31, 2021,” compared with the same period of the previous year.</a>
 
-<p style="color:black">An official at Arizona Global Campus told <i><a class="Link" href="https://www.highereddive.com/news/zovio-reports-enrollment-challenges-at-u-of-arizona-global-campus/600162/" target="_blank" rel="noopener" data-cms-ai="0">Higher Ed Dive</a></i> that enrollment at the new online institution “has been impacted by the time it takes for a new brand to gain traction,” but declined to offer more detail.</a>
+<p style="color:black">An official at Arizona Global Campus told <i><a class="Link" href="https://www.highereddive.com/news/zovio-reports-enrollment-challenges-at-u-of-arizona-global-campus/600162/" target="_blank" rel="noopener" data-cms-ai="0">Higher Ed Dive</a></i> that enrollment at the new online institution “has been impacted by the time it takes for a new brand to gain traction,” but declined to offer more detail.</p>
 
-<p style="color:black">Shareholders were also briefed on Zovio’s plan to lay off approximately 65 employees as a way to reduce spending and shore up cash reserves. Job cuts “centered primarily on administrative, non-student-facing functions to ensure the company is able to maintain the necessary resources to support our university partners,” Zovio reported in a filing with the Securities and Exchange Commission.</a>
+<p style="color:black">Shareholders were also briefed on Zovio’s plan to lay off approximately 65 employees as a way to reduce spending and shore up cash reserves. Job cuts “centered primarily on administrative, non-student-facing functions to ensure the company is able to maintain the necessary resources to support our university partners,” Zovio reported in a filing with the Securities and Exchange Commission.</p>
 
 <h2>Betting on the Brand</h2>
 

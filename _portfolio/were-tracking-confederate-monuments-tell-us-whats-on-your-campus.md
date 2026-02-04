@@ -11,10 +11,19 @@ link:
   text:
   url:
 tags: 
-- portfolio
+- research-methodologies
+- text-mining
+- deadline-breaking-news
 - higher-ed-reporting
 - news-writing-editing
-- business-reporting
+- self-made-datasets
+- topical-enterprise
+- press-reader
+- lexisnexis-services
+- newsbank
+- google-forms
+- google-sheets-formulas-w-ai
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

@@ -11,12 +11,12 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
 - business-reporting
-- higher-ed-reporting
+- deadline-breaking-news
+- news-writing-editing
+- financial-statements
+- sec-filings
+- tableau
 layout: portfolio_wide
 author: Dan Bauman
 republished:

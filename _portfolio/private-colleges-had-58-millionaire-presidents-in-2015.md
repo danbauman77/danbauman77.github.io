@@ -11,12 +11,22 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- cloud-based-database-admin
+- mysql
+- sql
+- ipeds
+- relational-database-admin
+- research-methodologies
+- sequel-ace
+- statistical-analysis
 - business-reporting
+- collaboration
 - higher-ed-reporting
+- news-writing-editing
+- project-management
+- self-made-datasets
+- irs-form-990
+- open-refine
 layout: portfolio
 author: Dan Bauman
 republished:

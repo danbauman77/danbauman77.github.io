@@ -11,27 +11,29 @@ link:
   text:
   url:
 tags: 
-- portfolio
+- mysql
+- sql
+- ipeds
+- relational-database-admin
+- sequel-ace
+- business-reporting
 - higher-ed-reporting
 - news-writing-editing
-- business-reporting
-- datawrapper
-- legal-reporting
+- topical-enterprise
 - documentcloud
-- financial-statements
-- ipeds
-- r
-- lexisnexis
-- lobbying-records
-- emma-filings
-- investigative-projects
 - accreditor-records
-- legiscan
-- justia
-- property-lien-records
-- trademark-filings
-- fsa-enforcement-records
 - conflict-of-interest-filings
+- emma-filings
+- fac-gov
+- financial-statements
+- fsa-enforcement-records
+- irs-form-990
+- lobbying-records
+- property-lien-records
+- student-loan-filings
+- trademark-filings
+- us-uk-canada-business-records
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:
@@ -63,9 +65,9 @@ republished:
 
 <p style="color:black">● “The <a class="Link" href="https://www.documentcloud.org/documents/25080514-cc-asu-team-report-sv-spring-2024#document/p18/a2584827" target="_blank" rel="noopener" data-cms-ai="0">apparent</a> unilateral hiring of the acting CEO by two board members;"<br>
 ● The unplanned absence of said acting CEO during WASC’s site visit;<br>● A lack of clarity about the future of certain academic programs that had long been offered by Columbia College Hollywood and were taken over by ASU;<br>
-● A lack of engagement from high-level <a class="Link" href="https://www.documentcloud.org/documents/25080514-cc-asu-team-report-sv-spring-2024#document/p21/a2584833" target="_blank" rel="noopener" data-cms-ai="0">leadership</a> on facility needs and usage.</p>
+● A lack of engagement from high-level <a class="Link" href="https://www.documentcloud.org/documents/25080514-cc-asu-team-report-sv-spring-2024#document/p21/a2584833" target="_blank" rel="noopener" data-cms-ai="0">leadership</a> on facility needs and usage.</p><br>
     
-<iframe title="Tanking Tuition Revenue" aria-label="Column Chart" id="datawrapper-chart-Q8SUM" src="https://datawrapper.dwcdn.net/Q8SUM/8/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="473" data-external="1"></iframe>
+<iframe title="Tanking Tuition Revenue" aria-label="Column Chart" id="datawrapper-chart-Q8SUM" src="https://datawrapper.dwcdn.net/Q8SUM/8/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="473" data-external="1"></iframe><br>
 
 <p style="color:black">Such findings were echoed in a scathing <a class="Link" href="https://s3.documentcloud.org/documents/25075800/2024-03-28.pdf" target="_blank" rel="noopener" data-cms-ai="0">letter</a> in March from CC-ASU’s remaining faculty to the college’s board chair, admonishing leadership for allegedly favoring “the best interests of ASU” to the detriment of the employees, students, and legacy that ASU had inherited from Columbia College Hollywood.</p>
 

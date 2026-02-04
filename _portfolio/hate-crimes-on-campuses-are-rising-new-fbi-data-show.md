@@ -11,10 +11,17 @@ link:
   text:
   url:
 tags: 
-- portfolio
+- r
+- relational-database-admin
+- research-methodologies
+- sequel-ace
+- crime-police-reporting
 - higher-ed-reporting
 - news-writing-editing
-- business-reporting
+- self-made-datasets
+- topical-enterprise
+- crime-policing-records
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

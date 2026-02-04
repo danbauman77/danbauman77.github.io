@@ -11,12 +11,21 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- cloud-based-database-admin
+- mysql
+- sql
+- relational-database-admin
+- research-methodologies
+- sequel-ace
 - business-reporting
 - higher-ed-reporting
+- news-writing-editing
+- self-made-datasets
+- sports-reporting
+- topical-enterprise
+- athletics-data
+- irs-form-990
+- datawrapper
 layout: portfolio
 author: Dan Bauman and Tyler Davis
 republished:

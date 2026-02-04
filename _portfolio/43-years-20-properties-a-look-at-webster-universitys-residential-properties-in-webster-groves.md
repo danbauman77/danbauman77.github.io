@@ -11,13 +11,23 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- research-methodologies
 - business-reporting
+- collaboration
 - higher-ed-reporting
-layout: portfolio_wide
+- investigative-projects
+- legal-reporting
+- news-writing-editing
+- project-management
+- self-made-datasets
+- topical-enterprise
+- documentcloud
+- property-lien-records
+- datawrapper
+- geodatabase-creation
+- geoprocessing
+- spatial-analysis
+layout: portfolio
 author: Dan Bauman and Megan Favignano
 republished:
   pubname: The Journal at Webster University
@@ -40,11 +50,11 @@ republished:
 
 <p style="color:black">With the exception of President Elizabeth Stroble’s house, all of the houses Webster owns in Webster Groves are rental properties. The university declined to confirm how many rental properties it owns in Webster Groves.</p>
 
-<p style="color:black">Webster University Director of Public Relations Patrick Giblin said the university’s rental properties are rented at market value. Giblin would not comment on the agreement between the university and Hibbett, but said any person not paying market value has a “very unique and unusual circumstance.”</p>
+<p style="color:black">Webster University Director of Public Relations Patrick Giblin said the university’s rental properties are rented at market value. Giblin would not comment on the agreement between the university and Hibbett, but said any person not paying market value has a “very unique and unusual circumstance.”</p><br>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1b5z0aejHNVClZrc99PsgUdJv5G0&ehbc=2E312F&noprof=1" width="100%" height="700"></iframe>
 
-<p style="color:black"><small>Note: In 1970, Webster College purchased 31 pieces of land in Webster Groves on May 8, 1970. It included several lots in the Wood, Silence and Edmondson’s Subdivision, as well as several properties on Catalina Ave/Pasadena Webster subdivision. These CATALINA AVE properties were: 8364 BIG BEND BLVD, 435 CATALINA AVE, 443 CATALINA AVE, 457 CATALINA AVE, 469 CATALINA AVE, 473 CATALINA AVE, and 475 CATALINA AVE. The total amount of the land buy at the time was $125,000. Adjusted for inflation, in 2013 the sale would have amounted to $749,913.02. You can view the list of properties purchased in 1970 at the bottom of this story.</small></p>
+<p style="color:black"><small>Note: In 1970, Webster College purchased 31 pieces of land in Webster Groves on May 8, 1970. It included several lots in the Wood, Silence and Edmondson’s Subdivision, as well as several properties on Catalina Ave/Pasadena Webster subdivision. These CATALINA AVE properties were: 8364 BIG BEND BLVD, 435 CATALINA AVE, 443 CATALINA AVE, 457 CATALINA AVE, 469 CATALINA AVE, 473 CATALINA AVE, and 475 CATALINA AVE. The total amount of the land buy at the time was $125,000. Adjusted for inflation, in 2013 the sale would have amounted to $749,913.02.</small></p>
 
 <p style="color:black"><small>Source: St. Louis County Assessor’s Real Estate database, 1970 Deed of Trust, Webster University: History of the Presidency webpage, websterjournal.com, zillow.com, blockshopper.com</small></p>
 
@@ -58,7 +68,9 @@ republished:
 
 <p style="color:black">The 2013 assessed value for individual properties in St. Louis county will not be available until the end of May, according to the assessor’s office website.</p>
 
-<p style="color:black">A minimal increase was seen in the appraisals of the properties. In 2012, the total appraised amount was $5,535,600 for the residences.</p>
+<p style="color:black">A minimal increase was seen in the appraisals of the properties. In 2012, the total appraised amount was $5,535,600 for the residences.</p><br>
+
+<iframe title="Webster's Residential Rental Properties" aria-label="Table" id="datawrapper-chart-EROjk" src="https://datawrapper.dwcdn.net/EROjk/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1535" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script><br>
 
 <h2>Community Tension</h2>
 
@@ -121,3 +133,17 @@ republished:
 <p style="color:black">“Sometimes they are really reactive, they are very fast,”Accardo said. “Sometimes it takes a little longer.”</p>
 
 <p style="color:black">Giblin also said Roberts Realty knows appropriate housing rates and better understands all of the laws involved in renting property.</p>
+
+<h2>Plans For Recent Purchases Remain Unknown</h2>
+
+<p style="color:black">In 1970, Webster College purchased 31 pieces of land and property for $125,000. Since then, the university has continued to purchase residential properties in the Webster Groves community. During former Webster University President Richard Meyers’ tenure, the university purchased nine residential properties that still exist.</p>
+
+<p style="color:black">Under President Elizabeth Stroble’s administration, the university has purchased four properties, the most recent being the residences at 102 Mason Ave. and 8376 Big Bend Blvd.</p>
+
+<p style="color:black">Webster purchased 102 Mason Ave. for Stroble in 2012 for $935,000. The house is considered part of her compensation. It eliminated the $60,000 housing allowance university paid Stroble before 2012, according to the university’s 2010 filing with the Internal Revenue Service.</p>
+
+<p style="color:black">An occupant has yet to be named for the university’s most recent purchase, a two-story, four-bedroom house at 8376 Big Bend Blvd. The university bought the house in September 2012 for $385,000. Renovations continue on the house.</p>
+
+<p style="color:black">“At this point, the plan is once the exterior is finished it’s going on the rental market,” Giblin said.</p><br>
+
+ <iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/991004266/content?start_page=1&view_mode=scroll&access_key=key-6xkjKXx5A71C6UoDHtPb" tabindex="0" data-auto-height="true" data-aspect-ratio="0.5981432360742706" scrolling="no" width="100%" height="600" frameborder="0" ></iframe> <p style="margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-size: 14px; line-height: normal; display: block;"> </p> 

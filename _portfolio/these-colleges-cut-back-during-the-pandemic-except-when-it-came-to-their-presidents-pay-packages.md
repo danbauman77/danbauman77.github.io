@@ -11,23 +11,26 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
-- business-reporting
-- documentcloud
-- form-990
-- top-hat-plans
-- datawrapper
-- self-made-datasets
-- ipeds
-- financial-statements
 - mysql
 - sql
+- ipeds
 - relational-database-admin
-- legal-reporting
+- text-mining
+- business-reporting
+- higher-ed-reporting
 - investigative-projects
+- legal-reporting
+- news-writing-editing
+- project-management
+- self-made-datasets
+- topical-enterprise
+- documentcloud
+- financial-statements
+- irs-form-990
+- peps
 - targeted-foia
+- top-hat-plans
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

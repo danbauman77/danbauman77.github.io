@@ -11,19 +11,25 @@ link:
   text:
   url:
 tags:
-- portfolio
-- datawrapper
-- foia-dragnet
-- higher-ed-reporting
 - research-methodologies
-- news-writing-editing
+- crime-police-reporting
 - deadline-breaking-news
-- award-winning
-- crime-policing-records
-- military-records
-- self-made-datasets
-- project-management
+- higher-ed-reporting
 - investigative-projects
+- news-writing-editing
+- project-management
+- self-made-datasets
+- topical-enterprise
+- award-winning
+- congress-gov-features
+- crime-policing-records
+- foia-dragnet
+- military-records
+- targeted-foia
+- lexisnexis-services
+- newsbank
+- open-refine
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 

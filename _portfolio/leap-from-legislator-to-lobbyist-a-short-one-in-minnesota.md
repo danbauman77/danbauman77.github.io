@@ -11,26 +11,30 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- tableau
-- microsoft-sql-server
 - sql
-- lobbying-records
 - relational-database-admin
-- news-writing-editing
+- microsoft-sql-server
+- text-mining
 - collaboration
-- dashboard-development
-- open-refine
 - investigative-projects
-- award-winning
+- news-writing-editing
 - project-management
+- self-made-datasets
+- award-winning
 - adobe-photoshop
+- conflict-of-interest-filings
+- lobbying-records
+- lexisnexis-services
+- newsbank
+- open-refine
+- dashboard-development
+- tableau
 layout: portfolio
 author: Rachel E. Stassen-Berger and Dan Bauman 
 republished:
   pubname: Saint Paul Pioneer Press
   puburl: https://www.twincities.com/2015/03/27/leap-from-legislator-to-lobbyist-a-short-one-in-minnesota/
-  reason: Paywall
+  reason: Degraded Assets
   archiveurl: "https://web.archive.org/web/20160408202532/http://www.twincities.com/2015/03/27/leap-from-legislator-to-lobbyist-a-short-one-in-minnesota/"
 ---
 

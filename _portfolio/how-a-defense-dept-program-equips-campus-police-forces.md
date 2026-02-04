@@ -11,12 +11,19 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
-- business-reporting
+- r
+- relational-database-admin
+- research-methodologies
+- sequel-ace
+- crime-police-reporting
 - higher-ed-reporting
+- investigative-projects
+- news-writing-editing
+- self-made-datasets
+- crime-policing-records
+- federal-state-procurement
+- military-records
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

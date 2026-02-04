@@ -11,12 +11,20 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- r
+- mysql
+- sql
+- ipeds
+- relational-database-admin
 - business-reporting
+- collaboration
+- deadline-breaking-news
 - higher-ed-reporting
+- news-writing-editing
+- topical-enterprise
+- writing-for-mobile
+- college-scorecard
+- datawrapper
 layout: portfolio
 author: Dan Bauman and Adam Harris
 republished:
@@ -38,4 +46,4 @@ republished:
 
 <iframe title="GOP Plan Could Throttle Some Minority-Serving Institutions" aria-label="Table" id="datawrapper-chart-tcKMg" src="https://datawrapper.dwcdn.net/tcKMg/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="555" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script><br>
 
-<p style="color:black"><em>Clarification (11/30/2017, 1:57 p.m.):</em> This table originally listed incompletely one institution. It is the University of New Mexico at Gallup, not the university system or its main campus, in Albuquerque. The table has been updated accordingly.</p>
+<p style="color:black"><em><b>Clarification (11/30/2017, 1:57 p.m.):</b></em> This table originally listed incompletely one institution. It is the University of New Mexico at Gallup, not the university system or its main campus, in Albuquerque. The table has been updated accordingly.</p>

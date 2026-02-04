@@ -11,12 +11,19 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- r
+- relational-database-admin
+- sequel-ace
+- statistical-analysis
 - business-reporting
+- deadline-breaking-news
 - higher-ed-reporting
+- legal-reporting
+- news-writing-editing
+- self-made-datasets
+- topical-enterprise
+- writing-for-mobile
+- federal-state-court-records
 layout: portfolio
 author: Dan Bauman
 republished:
@@ -26,11 +33,7 @@ republished:
   archiveurl: "/assets/media/archive/inside-the-process-that-jump-starts-federal-sex-harassment-lawsuits.pdf"
 ---
 
-<p style="color:black">The University of Rochester filed a <a class="Link" href="/assets/media/provosts-home/165317938-Schuster-Occupancy-Permit.pdf" target="_blank" rel="noopener" data-cms-ai="0">formal rebuttal</a>
-
-
-
-  <a class="Link" href="https://www.scribd.com/document/370998935/UR-Motion-to-Dismiss-2-5-18" target="_blank" rel="noopener" data-cms-ai="0">formal rebuttal</a> last week to allegations that it had allowed a professor’s sexual harassment to proceed unabated over a decade. T. Florian Jaeger, the professor of linguistics and computation accused of the misconduct, is on leave from the university. Rochester’s response came after nine current and former professors and students <a class="Link" href="https://www.democratandchronicle.com/story/news/2017/12/08/lawsuit-filed-urs-jaeger-case-targets-seligman-clark/934191001/" target="_blank" rel="noopener" data-cms-ai="0">filed</a> a federal lawsuit against the university in December.</p>
+<p style="color:black">The University of Rochester filed a <a class="Link" href="https://www.scribd.com/document/370998935/UR-Motion-to-Dismiss-2-5-18" target="_blank" rel="noopener" data-cms-ai="0">formal rebuttal</a> last week to allegations that it had allowed a professor’s sexual harassment to proceed unabated over a decade. T. Florian Jaeger, the professor of linguistics and computation accused of the misconduct, is on leave from the university. Rochester’s response came after nine current and former professors and students <a class="Link" href="https://www.democratandchronicle.com/story/news/2017/12/08/lawsuit-filed-urs-jaeger-case-targets-seligman-clark/934191001/" target="_blank" rel="noopener" data-cms-ai="0">filed</a> a federal lawsuit against the university in December.</p>
 
 <p style="color:black">Much had precipitated the latest stages of the legal dispute. Hundreds of scholars <a class="Link" href="https://www.washingtonpost.com/news/speaking-of-science/wp/2017/11/22/400-professors-boycott-university-of-rochester-urging-students-not-to-attend/?utm_term=.d78d37e5e84c" target="_blank" rel="noopener" data-cms-ai="0">signed</a> a petition advising prospective students against enrolling at Rochester. Two of Jaeger’s accusers — Jessica Cantlon and Celeste Kidd, both associate professors — were named among <em>Time</em>’s Person of the Year. And the university’s president, Joel Seligman, <a class="Link" href="https://www.chronicle.com/article/U-of-Rochester-s-President/242221" target="_blank" rel="noopener" data-cms-ai="0">resigned</a>.</p>
 
@@ -74,4 +77,4 @@ republished:
 
 <p style="color:black">“They need to do their due diligence,” she said, “and not just see it as a one-time thing.”</p>
 
-<p style="color:black"><em>Clarification (2/15/2018, 3:17 p.m.)</em>: This article has been updated to clarify the EEOC’s role in a complaint against the University of Rochester. The commission issued a “right to sue” letter but did not make a determination about the merits of the charges against the university.</p>
+<p style="color:black"><b><em>Clarification (2/15/2018, 3:17 p.m.):</em></b> This article has been updated to clarify the EEOC’s role in a complaint against the University of Rochester. The commission issued a “right to sue” letter but did not make a determination about the merits of the charges against the university.</p>

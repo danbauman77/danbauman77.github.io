@@ -11,11 +11,11 @@ link:
   text:
   url:
 tags: 
-- portfolio
+- business-reporting
 - higher-ed-reporting
 - news-writing-editing
-- business-reporting
 - personal-finance-reporting
+- student-loan-filings
 layout: portfolio
 author: Dan Bauman
 republished:

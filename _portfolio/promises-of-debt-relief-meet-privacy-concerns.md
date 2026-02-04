@@ -11,14 +11,13 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
 - business-reporting
-- documentcloud
-- federal-state-court-records
+- higher-ed-reporting
 - legal-reporting
+- news-writing-editing
 - personal-finance-reporting
+- consumer-protection-filings
+- federal-state-court-records
 layout: portfolio
 author: Dan Bauman
 republished:

@@ -11,12 +11,15 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
 - business-reporting
+- collaboration
+- deadline-breaking-news
 - higher-ed-reporting
+- investigative-projects
+- legal-reporting
+- news-writing-editing
+- documentcloud
+- fsa-enforcement-records
 layout: portfolio
 author: Dan Bauman
 republished:
@@ -49,7 +52,7 @@ republished:
 
 <p style="color:black">The department has also applied additional surveillance to CEHE since the spring, when more restrictions were placed on the company’s access to federal student aid funds.</p>
 
-<p style="color:black">CEHE’s current troubles with federal regulators <a class="Link" href="https://www.chronicle.com/article/how-a-for-profit-tycoon-turned-his-colleges-into-nonprofits/" data-cms-ai="0">mirror its challenge</a>s under the Obama administration, when the center purchased for-profit colleges and then sought nonprofit recognition of those institutions from the Education Department. Skeptical of the continued lucrative financial ties between CEHE and Carl Barney, the former owner of the for-profit colleges, the department declined the change, which would have lowered regulatory scrutiny of the colleges. CEHE subsequently sued the Education Department, and in late 2018 the Trump administration signed off on recognition of CEHE’s colleges and universities as not-for-profit institutions — though CEHE was required to put a stop to the various business transactions that the Obama Education Department had cried foul over.</p>
+<p style="color:black">CEHE’s current troubles with federal regulators <a class="Link" href="https://www.chronicle.com/article/how-a-for-profit-tycoon-turned-his-colleges-into-nonprofits/" data-cms-ai="0">mirror its challenges</a> under the Obama administration, when the center purchased for-profit colleges and then sought nonprofit recognition of those institutions from the Education Department. Skeptical of the continued lucrative financial ties between CEHE and Carl Barney, the former owner of the for-profit colleges, the department declined the change, which would have lowered regulatory scrutiny of the colleges. CEHE subsequently sued the Education Department, and in late 2018 the Trump administration signed off on recognition of CEHE’s colleges and universities as not-for-profit institutions — though CEHE was required to put a stop to the various business transactions that the Obama Education Department had cried foul over.</p>
 
 <p style="color:black">South University and Miami International University of Art and Design — the colleges that CEHE is encouraging the displaced students to transfer to when its member institutions fold — were sold to their current owner, the Education Principle Foundation, in a deal the Education Department’s inspector general said was <a class="Link" href="https://www2.ed.gov/about/offices/list/oig/auditreports/fy2021/i05t0010.pdf" target="_blank" rel="noopener" data-cms-ai="0">helped along</a> by political appointees of the Trump administration. The department did not follow federal procedure when the prospect of the sale arose, and it failed to complete its due diligence before approving the transaction, according to the inspector general.</p>
 

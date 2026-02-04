@@ -11,12 +11,25 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- cloud-based-database-admin
+- mysql
+- sql
+- ipeds
+- relational-database-admin
+- research-methodologies
+- sequel-ace
+- statistical-analysis
 - business-reporting
+- collaboration
 - higher-ed-reporting
+- legal-reporting
+- news-writing-editing
+- project-management
+- self-made-datasets
+- documentcloud
+- federal-state-court-records
+- irs-form-990
+- open-refine
 layout: portfolio
 author: Dan Bauman
 republished:
@@ -26,7 +39,7 @@ republished:
   archiveurl: "/assets/media/archive/how-scandal-and-severance-enrich-private-college-presidents.pdf"
 ---
 
-<p style="color:black">In the 2015 calendar year, Kenneth W. Starr, president and chancellor of Baylor University, earned roughly $1.36 million, <a class="Link" href="https://www.chronicle.com/interactives/executive-compensation?cid=wsinglestory_hp_7#id=table_private_2015" target="_blank" rel="noopener" data-cms-ai="0">placing</a><a class="Link" href="https://www.chronicle.com/interactives/executive-compensation?cid=wsinglestory_hp_7#id=table_private_2015" target="_blank" rel="noopener" data-cms-ai="0"> him 29th</a> on <em>The Chronicle</em>’s annual list of the highest-paid leaders of private colleges. In 2016 he vaulted into first place, pulling in just shy of $5 million.</p>
+<p style="color:black">In the 2015 calendar year, Kenneth W. Starr, president and chancellor of Baylor University, earned roughly $1.36 million, <a class="Link" href="https://www.chronicle.com/interactives/executive-compensation?cid=wsinglestory_hp_7#id=table_private_2015" target="_blank" rel="noopener" data-cms-ai="0">placing him 29th</a> on <em>The Chronicle</em>’s annual list of the highest-paid leaders of private colleges. In 2016 he vaulted into first place, pulling in just shy of $5 million.</p>
 
 <p style="color:black">What changed? Starr lost his jobs at Baylor — all three of them.</p>
 

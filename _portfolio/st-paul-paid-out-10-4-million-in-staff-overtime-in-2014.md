@@ -6,17 +6,21 @@ image:
   sourceurl: https://commons.wikimedia.org/wiki/File:Night_Plow_Route_(35539612480).jpg
 categories:
 - portfolio
-date: '2013-04-14 00:01:00'
+date: '2015-04-14 00:01:00'
 link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
-- business-reporting
-- higher-ed-reporting
+- sql
+- relational-database-admin
+- microsoft-sql-server
+- statistical-analysis
+- crime-police-reporting
+- news-writing-editing
+- project-management
+- topical-enterprise
+- targeted-foia
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

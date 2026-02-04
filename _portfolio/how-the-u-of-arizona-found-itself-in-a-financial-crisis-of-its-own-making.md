@@ -11,26 +11,30 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
-- business-reporting
-- legal-reporting
-- documentcloud
-- emma-filings
-- financial-statements
-- credit-opinion
-- ipeds
-- self-made-datasets
-- r
-- datawrapper
-- sec-filings
-- form-990
-- deadline-breaking-news
-- sql
-- navicat
-- relational-database-admin
 - mysql
+- sql
+- ipeds
+- relational-database-admin
+- sequel-ace
+- statistical-analysis
+- text-mining
+- business-reporting
+- deadline-breaking-news
+- higher-ed-reporting
+- investigative-projects
+- legal-reporting
+- news-writing-editing
+- project-management
+- self-made-datasets
+- topical-enterprise
+- documentcloud
+- credit-opinion
+- emma-filings
+- federal-state-court-records
+- financial-statements
+- irs-form-990
+- sec-filings
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

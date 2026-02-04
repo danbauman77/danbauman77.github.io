@@ -11,17 +11,18 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
 - business-reporting
-- metadata-sleuthing
 - collaboration
-- personal-finance-reporting
-- investigative-projects
 - deadline-breaking-news
 - developer-tools
+- higher-ed-reporting
+- investigative-projects
+- news-writing-editing
+- personal-finance-reporting
+- project-management
+- topical-enterprise
 - award-winning
+- metadata-sleuthing
 - us-uk-canada-business-records
 layout: portfolio
 author: Dan Bauman and Chris Quintana

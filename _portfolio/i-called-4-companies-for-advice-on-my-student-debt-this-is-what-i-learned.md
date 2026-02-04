@@ -11,11 +11,15 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
 - business-reporting
+- higher-ed-reporting
+- investigative-projects
+- legal-reporting
+- news-writing-editing
 - personal-finance-reporting
+- project-management
+- topical-enterprise
+- webpage-monitoring
 layout: portfolio
 author: Dan Bauman
 republished:

@@ -11,12 +11,14 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- research-methodologies
 - business-reporting
+- deadline-breaking-news
 - higher-ed-reporting
+- news-writing-editing
+- self-made-datasets
+- topical-enterprise
+- property-lien-records
 layout: portfolio
 author: Dan Bauman
 republished:
@@ -62,9 +64,9 @@ republished:
 
 <h2>How Schuster's Housing Perk Compares To Others</h2>
 
-<p style="color:black">Housing allowances and residences are common benefits for presidents in higher education. Research by <em>The Journal</em> found these perks are offered to administrators at other colleges and universities across the country.</p>
+<p style="color:black">Housing allowances and residences are common benefits for presidents in higher education. Research by <em>The Journal</em> found these perks are offered to administrators at other colleges and universities across the country.</p><br>
 
-<iframe title="Housing Perks Not Just For Presidents" aria-label="Table" id="datawrapper-chart-OSFhX" src="https://datawrapper.dwcdn.net/OSFhX/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1193" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe title="Housing Perks Not Just For Presidents" aria-label="Table" id="datawrapper-chart-OSFhX" src="https://datawrapper.dwcdn.net/OSFhX/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1193" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script><br>
 
 <p style="color:black"><em>The Journal</em> examined the most recent compensation data for 100 private colleges and universities with similar pay structures to Webster University. <em>The Journal </em>found:</p>
 

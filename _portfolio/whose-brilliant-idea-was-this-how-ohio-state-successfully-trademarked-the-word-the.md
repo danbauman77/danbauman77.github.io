@@ -11,15 +11,16 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
+- text-mining
 - business-reporting
+- higher-ed-reporting
 - legal-reporting
-- documentcloud
-- trademark-filings
-- targeted-foia
+- news-writing-editing
+- topical-enterprise
 - adobe-acrobat
+- documentcloud
+- targeted-foia
+- trademark-filings
 layout: portfolio
 author: Wyatt Myskow and Dan Bauman
 republished:

@@ -11,15 +11,18 @@ link:
   text:
   url:
 tags:
-- portfolio
-- datawrapper
 - r
-- ipums-harmonized
-- statistical-analysis
-- higher-ed-reporting
-- business-reporting
+- relational-database-admin
 - research-methodologies
+- statistical-analysis
+- business-reporting
+- higher-ed-reporting
 - news-writing-editing
+- topical-enterprise
+- writing-for-mobile
+- bls-estimates
+- ipums-harmonized
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

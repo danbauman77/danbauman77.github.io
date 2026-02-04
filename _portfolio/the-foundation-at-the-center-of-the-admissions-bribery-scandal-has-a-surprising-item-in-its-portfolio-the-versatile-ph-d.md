@@ -11,12 +11,17 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
 - business-reporting
+- deadline-breaking-news
 - higher-ed-reporting
+- legal-reporting
+- news-writing-editing
+- topical-enterprise
+- writing-for-mobile
+- federal-register
+- federal-state-court-records
+- federal-state-procurement
+- ocr-records
 layout: portfolio
 author: Dan Bauman
 republished:

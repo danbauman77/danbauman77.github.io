@@ -11,12 +11,21 @@ link:
   text:
   url:
 tags:
-- portfolio
+- mysql
+- sql
+- ipeds
+- relational-database-admin
+- sequel-ace
+- business-reporting
+- deadline-breaking-news
+- higher-ed-reporting
+- legal-reporting
+- news-writing-editing
+- topical-enterprise
 - documentcloud
+- credit-opinion
 - emma-filings
 - financial-statements
-- business-reporting
-- higher-ed-reporting
 layout: portfolio
 author: Dan Bauman
 republished:

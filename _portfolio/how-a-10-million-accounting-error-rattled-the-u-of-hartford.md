@@ -11,16 +11,15 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
-- deadline-breaking-news
 - business-reporting
-- emma-filings
-- financial-statements
+- deadline-breaking-news
+- higher-ed-reporting
+- legal-reporting
+- news-writing-editing
 - documentcloud
 - credit-opinion
-- legal-reporting
+- emma-filings
+- financial-statements
 layout: portfolio
 author: Dan Bauman 
 republished:

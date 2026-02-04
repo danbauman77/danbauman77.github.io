@@ -11,16 +11,22 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
-- deadline-breaking-news
 - business-reporting
-- documentcloud
-- form-1023
-- form-990
-- accreditor-records
+- deadline-breaking-news
+- higher-ed-reporting
 - legal-reporting
+- news-writing-editing
+- documentcloud
+- accreditor-records
+- federal-state-court-records
+- federal-state-procurement
+- financial-statements
+- fpds-gov
+- fsa-enforcement-records
+- irs-form-1023
+- irs-form-990
+- sam-gov
+- sec-filings
 layout: portfolio
 author: Dan Bauman 
 republished:

@@ -11,17 +11,18 @@ link:
   text:
   url:
 tags: 
-- portfolio
+- r
+- research-methodologies
+- business-reporting
 - higher-ed-reporting
 - news-writing-editing
-- business-reporting
 - personal-finance-reporting
 - self-made-datasets
-- census-bureau-estiamtes-forecasts
-- bls-estimates
+- topical-enterprise
 - bea-estimates
+- bls-estimates
+- census-bureau-estimates-forecasts
 - datawrapper
-- r
 layout: portfolio
 author: Dan Bauman
 republished:
@@ -49,9 +50,9 @@ republished:
 
 <p style="color:black">For instance, in the Virginia Beach metro area, the bureau estimates that the median annual wage for graduate assistants in 2018 was $20,740. To make a living wage there, a household consisting of a single adult would need to earn at least $28,225. Even if a household’s income was increased by the wages of a working spouse or partner, the most equitable distribution of breadwinning would still require each adult to earn at least $21,070 for a living wage.</p>
 
-<p style="color:black">In the Atlanta metro area, the median-wage estimate for grad assistants was $18,500. On the basis of projections from MIT, the median grad assistant would need to earn an additional $10,000 to make a living wage.</p>
+<p style="color:black">In the Atlanta metro area, the median-wage estimate for grad assistants was $18,500. On the basis of projections from MIT, the median grad assistant would need to earn an additional $10,000 to make a living wage.</p><br>
 
-<iframe title="Can Graduate Assistants Make a Living Wage?" aria-label="table" id="datawrapper-chart-YjY5A" src="https://datawrapper.dwcdn.net/YjY5A/1/" scrolling="no" frameborder="0" style="width: 0px; min-width: 100% !important; border: medium; height: 545px;" height="703" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe title="Can Graduate Assistants Make a Living Wage?" aria-label="table" id="datawrapper-chart-YjY5A" src="https://datawrapper.dwcdn.net/YjY5A/1/" scrolling="no" frameborder="0" style="width: 0px; min-width: 100% !important; border: medium; height: 545px;" height="703" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script><br>
 
 <p style="color:black">Other metro areas in which median graduate assistants’ earnings failed to keep pace with the living wage for one-adult and two-adult households included those of Corpus Christi, Tex.; Nashville; and Miami-Fort Lauderdale. Wage data for graduate assistants in the Santa Cruz–Watsonville metropolitan area for 2018 were not available from the BLS.</p>
 
@@ -65,6 +66,6 @@ republished:
 
 <p style="color:black">Standardized, institution-level data on the earnings of graduate students are hard to come by. And graduate-assistantship stipends can vary based on the kind of work (teaching or researching) and field of study (engineering, English, and so on).</p>
 
-<p style="color:black">Job-search websites like Glassdoor collect user-submitted data across a variety of employee roles, including graduate assistantships. <em>The Chronicle</em> has pulled the average values of monthly base compensation and compared them with the median gross rent of the city where the employing university is located. The data can be found in this table:</p>
+<p style="color:black">Job-search websites like Glassdoor collect user-submitted data across a variety of employee roles, including graduate assistantships. <em>The Chronicle</em> has pulled the average values of monthly base compensation and compared them with the median gross rent of the city where the employing university is located. The data can be found in this table:</p><br>
 
 <iframe title="Crowdsourced Data Provide Limited Insight on Stipends" aria-label="table" id="datawrapper-chart-hyOZY" src="https://datawrapper.dwcdn.net/hyOZY/4/" scrolling="no" frameborder="0" style="width: 0px; min-width: 100% !important; border: medium; height: 914px;" height="1151" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>

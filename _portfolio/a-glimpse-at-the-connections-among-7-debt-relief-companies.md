@@ -11,17 +11,21 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
+- text-mining
 - business-reporting
-- us-uk-canada-business-records
+- collaboration
+- developer-tools
+- higher-ed-reporting
 - investigative-projects
-- personal-finance-reporting
-- federal-state-court-records
 - legal-reporting
-- consumer-protection-filings
+- news-writing-editing
+- personal-finance-reporting
 - project-management
+- consumer-protection-filings
+- federal-state-court-records
+- metadata-sleuthing
+- us-uk-canada-business-records
+- webpage-monitoring
 layout: portfolio_wide
 author: Dan Bauman
 republished:
@@ -35,6 +39,6 @@ republished:
 
 <p style="color:black">With the closing of Student Loan Solutions LLC in 2008, six companies emerged, focused on student-loan relief services. Mouse over the chart to find details on the companies and links that document their relationships.</p>
 
-<p style="color:black"><em>View the related story: <strong><a class="Link" href="/portfolio/the-pitch-debt-relief-the-reality-borrowers-may-pay-more/" target="_blank" rel="noopener" data-cms-ai="0">The Pitch: ‘Debt Relief.’ The Reality: Borrowers May Pay More.</a></strong></em></p>
+<p style="color:black"><em>View the related story: <strong><a class="Link" href="/portfolio/the-pitch-debt-relief-the-reality-borrowers-may-pay-more/" target="_blank" rel="noopener" data-cms-ai="0">The Pitch: ‘Debt Relief.’ The Reality: Borrowers May Pay More.</a></strong></em></p><br>
 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 129%; padding-top: 0; height: 0;"><iframe title="Info" frameborder="0" width="600" height="774" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/6977060249b19f75c2538083" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>

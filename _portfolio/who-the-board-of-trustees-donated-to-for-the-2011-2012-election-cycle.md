@@ -11,11 +11,19 @@ link:
   text:
   url:
 tags: 
-- portfolio_wide
-- higher-ed-reporting
-- news-writing-editing
-- datawrapper
+- research-methodologies
 - business-reporting
+- investigative-projects
+- news-writing-editing
+- self-made-datasets
+- topical-enterprise
+- writing-for-mobile
+- campaign-money
+- irs-form-990
+- press-reader
+- lexisnexis-services
+- newsbank
+- datawrapper
 layout: portfolio_wide
 author: Dan Bauman
 republished:

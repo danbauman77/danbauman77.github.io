@@ -11,12 +11,14 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- text-mining
 - business-reporting
 - higher-ed-reporting
+- news-writing-editing
+- documentcloud
+- irs-form-1023
+- irs-form-990
+- us-uk-canada-business-records
 layout: portfolio
 author: Dan Bauman
 republished:

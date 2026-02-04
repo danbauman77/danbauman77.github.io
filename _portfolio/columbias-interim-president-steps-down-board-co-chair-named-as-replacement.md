@@ -11,12 +11,11 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
 - business-reporting
-- legal-reporting
 - deadline-breaking-news
+- higher-ed-reporting
+- legal-reporting
+- news-writing-editing
 - writing-for-mobile
 layout: portfolio
 author: Dan Bauman

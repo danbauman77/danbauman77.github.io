@@ -11,12 +11,26 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- cloud-based-database-admin
+- r
+- mysql
+- sql
+- relational-database-admin
+- research-methodologies
+- sequel-ace
 - business-reporting
+- deadline-breaking-news
 - higher-ed-reporting
+- legal-reporting
+- news-writing-editing
+- self-made-datasets
+- topical-enterprise
+- documentcloud
+- irs-form-990
+- press-reader
+- lexisnexis-services
+- newsbank
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

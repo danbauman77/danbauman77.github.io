@@ -11,12 +11,18 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
 - business-reporting
+- crime-police-reporting
+- deadline-breaking-news
 - higher-ed-reporting
+- legal-reporting
+- news-writing-editing
+- topical-enterprise
+- writing-for-mobile
+- credit-opinion
+- crime-policing-records
+- federal-state-court-records
+- fsa-enforcement-records
 layout: portfolio
 author: Dan Bauman
 republished:

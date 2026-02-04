@@ -11,12 +11,26 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- r
+- mysql
+- sql
+- ipeds
+- relational-database-admin
+- research-methodologies
+- sequel-ace
 - business-reporting
 - higher-ed-reporting
+- news-writing-editing
+- topical-enterprise
+- documentcloud
+- credit-opinion
+- emma-filings
+- fac-gov
+- federal-state-procurement
+- financial-statements
+- usaspending-gov
+- api-powered-tool-development
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:
@@ -26,7 +40,7 @@ republished:
   archiveurl: "/assets/media/archive/amid-volatility-and-uncertainty-should-colleges-spend-down-their-surpluses.pdf"
 ---
 
-<p style="color:black">The University of Connecticut has no shortage of unknowns to manage as it heads into the fall.</div>
+<p style="color:black">The University of Connecticut has no shortage of unknowns to manage as it heads into the fall.</p>
 
 <p style="color:black">Like much of higher ed these past seven months, the university was caught off-guard and buffeted by an onslaught of <a class="Link" href="https://www.chronicle.com/article/every-revenue-source-is-at-risk-under-trump-research-universities-are-cutting-back" data-cms-ai="0">funding cuts</a> and <a class="Link" href="https://www.chronicle.com/article/tracking-trumps-higher-ed-agenda" data-cms-ai="0">policy changes</a> at the federal level, partially contributing to an <a class="Link" href="https://today.uconn.edu/2025/06/uconn-adopts-new-budget-with-strategic-adjustments-to-address-funding-shortfalls/" target="_blank" rel="noopener" data-cms-ai="0">anticipated</a> $134-million budget deficit at the end of the 2025-26 fiscal year — or around 5 percent of the combined annual operating expenses for <a class="Link" href="https://www.documentcloud.org/documents/26030285-uconn-fy2024-financial-statements/#document/p32" target="_blank" rel="noopener" data-cms-ai="0">UConn</a> and its <a class="Link" href="https://www.documentcloud.org/documents/26030286-2024-state-fs-final/#document/p34" target="_blank" rel="noopener" data-cms-ai="0">health system</a>. And the recent expiration of UConn’s collective-bargaining contracts with represented faculty and staff, as <a class="Link" href="https://hartfordbusiness.com/article/union-contracts-for-uconn-employees-expire-without-new-agreements-in-place/" target="_blank" rel="noopener" data-cms-ai="0">reported</a> by the <i>Hartford Business Journal</i> last month, has only contributed to the stress levels of the university’s employees and students.</p>
 
@@ -52,9 +66,9 @@ republished:
 
 <h2>Save or Spend?</h2>
 
-<p style="color:black">Colloquially known as “cash reserves” or “surplus reserves,” such funds generally encompass a college’s more-liquid savings, typically accumulated over some period as actual revenues exceed operating expenses. How they’re formally categorized can vary <a class="Link" href="https://s3.documentcloud.org/documents/26044147/footnote2.pdf" target="_blank" rel="noopener" data-cms-ai="0">widely</a> across states, institutions, regulators, and credit-rating agencies.</p>
+<p style="color:black">Colloquially known as “cash reserves” or “surplus reserves,” such funds generally encompass a college’s more-liquid savings, typically accumulated over some period as actual revenues exceed operating expenses. How they’re formally categorized can vary <a class="Link" href="https://s3.documentcloud.org/documents/26044147/footnote2.pdf" target="_blank" rel="noopener" data-cms-ai="0">widely</a> across states, institutions, regulators, and credit-rating agencies.</p><br>
 
-<iframe title="UConn's Surplus Reserves — Pick Your Ratio" aria-label="Line chart" id="datawrapper-chart-SUhcb" src="https://datawrapper.dwcdn.net/SUhcb/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="647" data-external="1"></iframe>
+<iframe title="UConn's Surplus Reserves — Pick Your Ratio" aria-label="Line chart" id="datawrapper-chart-SUhcb" src="https://datawrapper.dwcdn.net/SUhcb/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="647" data-external="1"></iframe><br>
 
 <p style="color:black">UConn makes a <a class="Link" href="https://bpir.media.uconn.edu/wp-content/uploads/sites/3452/2016/09/6.30.15-OHE.pdf" target="_blank" rel="noopener" data-cms-ai="0">distinction</a> between “current unrestricted funds” and unrestricted assets earmarked for campus maintenance and debt retirement. <a class="Link" href="https://www.uwlax.edu/globalassets/offices-services/budget/balance-designation-guidelines.pdf" target="_blank" rel="noopener" data-cms-ai="0">Other</a> institutions <a class="Link" href="https://www.dallascollege.edu/about/financial/transparency/pages/cash-reserves.aspx" target="_blank" rel="noopener" data-cms-ai="0">categorize</a> certain <a class="Link" href="https://www.ucop.edu/ucop-budget/_files/ucop-reserves-guiding-principles.pdf" target="_blank" rel="noopener" data-cms-ai="0">revenues</a> as “held in reserve,” “discretionary,” or some other status. In theory, each approach caters to the needs of different audiences, typically lawmakers writing budget bills or administrators looking to gauge whether their campus is operating smoothly.</p>
 
@@ -82,9 +96,9 @@ republished:
 
 <p style="color:black">“That lack of reserves has meant that substantial cuts have had to happen sooner rather than later,” Kelchen said.</p>
 
-<p style="color:black">In search of additional sources of liquidity during the pandemic, the UW system in 2020 <a class="Link" href="https://www.federalreserve.gov/monetarypolicy/files/mslp-public-comments-202009024.pdf" target="_blank" rel="noopener" data-cms-ai="0">lobbied</a> the Federal Reserve to expand access to a Covid-era emergency credit program open primarily to nonprofits, but not state-controlled educational institutions. UW also lobbied the state to allow the system to draw a line of credit and stabilize its cash flows if needed.</p>
+<p style="color:black">In search of additional sources of liquidity during the pandemic, the UW system in 2020 <a class="Link" href="https://www.federalreserve.gov/monetarypolicy/files/mslp-public-comments-202009024.pdf" target="_blank" rel="noopener" data-cms-ai="0">lobbied</a> the Federal Reserve to expand access to a Covid-era emergency credit program open primarily to nonprofits, but not state-controlled educational institutions. UW also lobbied the state to allow the system to draw a line of credit and stabilize its cash flows if needed.</p><br>
 
-<iframe title="How Cash Reserves Across the Universities of Wisconsin Have Changed" aria-label="Table" id="datawrapper-chart-TexH8" src="https://datawrapper.dwcdn.net/TexH8/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="790" data-external="1"></iframe>
+<iframe title="How Cash Reserves Across the Universities of Wisconsin Have Changed" aria-label="Table" id="datawrapper-chart-TexH8" src="https://datawrapper.dwcdn.net/TexH8/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="790" data-external="1"></iframe><br>
 
 <h2>‘New Financial Problems’</h2>
 
@@ -102,17 +116,17 @@ republished:
 
 <p style="color:black">“We’ve heard the message loud and clear: that we need to be more expeditious in our use of reserve funds,” Terrence Cheng, former<a class="Link" href="https://ctmirror.org/2025/04/28/terrence-cheng-cscu-president-step-aside/" target="_blank" rel="noopener" data-cms-ai="0"> chancellor</a> of the system, <a class="Link" href="https://ctmirror.org/2025/03/25/ct-colleges-universities-cash-reserves/" target="_blank" rel="noopener" data-cms-ai="0">told</a> state lawmakers in March. “You’ll see that utilized in our mitigation plans.”</p>
 
-<p style="color:black">In June, CSCU’s board <a class="Link" href="https://www.courant.com/2025/06/27/ct-colleges-and-universities-face-deep-cuts-we-have-depleted-faculty-and-staff-what-a-tragedy/" target="_blank" rel="noopener" data-cms-ai="0">voted</a> to release $162 million of its reserves to meet operational needs. A request from <i>The Chronicle</i> for comment from the CSCU system office went unanswered.</p>
+<p style="color:black">In June, CSCU’s board <a class="Link" href="https://www.courant.com/2025/06/27/ct-colleges-and-universities-face-deep-cuts-we-have-depleted-faculty-and-staff-what-a-tragedy/" target="_blank" rel="noopener" data-cms-ai="0">voted</a> to release $162 million of its reserves to meet operational needs. A request from <i>The Chronicle</i> for comment from the CSCU system office went unanswered.</p><br>
 
-<iframe title="How Some Public Universities Managed To Rebuild Their Reserves" aria-label="Interactive line chart" id="datawrapper-chart-Fprrq" src="https://datawrapper.dwcdn.net/Fprrq/17/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="566" data-external="1"></iframe>  
+<iframe title="How Some Public Universities Managed To Rebuild Their Reserves" aria-label="Interactive line chart" id="datawrapper-chart-Fprrq" src="https://datawrapper.dwcdn.net/Fprrq/17/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="566" data-external="1"></iframe><br>
 
 <h2>Replenishing Reserves</h2>
 
 <p style="color:black">UConn has tapped its reserves before. In 2013, university officials <a class="Link" href="https://ctmirror.org/2013/07/29/uconn-taps-reserves-close-budget-shortfall/" target="_blank" rel="noopener" data-cms-ai="0">shared</a> plans to do so in order to close a projected $30.8-million budget deficit. That echoed a similar move <a class="Link" href="https://www.courant.com/1995/11/20/even-with-uconn-2000-university-still-struggling-2/" target="_blank" rel="noopener" data-cms-ai="0">taken</a> in 1995, when it tapped $15 million from reserves to balance its books for the year. In both instances, the university managed over the course of several years to rebuild its reserves to pre-deficit levels.</p>
 
-<p style="color:black">Other public universities have had similar experiences after dipping into reserves. <i>The Chronicle </i>identified 10 public universities or systems that, at various points between the 2013 and 2022 fiscal years, were able to increase their reserves relative to expenses beyond prior levels. In many cases they restored the relative level of their cash reserves, or even set new high-water marks. It often took several years.</p>
+<p style="color:black">Other public universities have had similar experiences after dipping into reserves. <i>The Chronicle </i>identified 10 public universities or systems that, at various points between the 2013 and 2022 fiscal years, were able to increase their reserves relative to expenses beyond prior levels. In many cases they restored the relative level of their cash reserves, or even set new high-water marks. It often took several years.</p><br>
 
-<iframe title="How Reserves Were Spread Out Over the CSCU System" aria-label="Pie Chart" id="datawrapper-chart-97Tq7" src="https://datawrapper.dwcdn.net/97Tq7/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="850" data-external="1"></iframe>
+<iframe title="How Reserves Were Spread Out Over the CSCU System" aria-label="Pie Chart" id="datawrapper-chart-97Tq7" src="https://datawrapper.dwcdn.net/97Tq7/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="850" data-external="1"></iframe><br>
 
 <p style="color:black">But will UConn, and universities in similar positions, be able to restore their reserves as quickly over the next decade, if at all? At the University of Arizona, administrators and regents openly discussed the attainability of reserve restoration last fall. The university reportedly held 77 days of cash on hand at the end of the 2024-25 fiscal year, per a forecast released to the Arizona Board of Regents in June and <a class="Link" href="https://azluminaria.org/2025/06/13/university-of-arizona-budget-update-faculty-cuts/" target="_blank" rel="noopener" data-cms-ai="0">as reported by</a> <i>Arizona Luminaria</i>. Replenishing reserves to 143 days of cash on hand, the regents’ minimum threshold, could take “a decade plus,” John Arnold, the university’s chief financial officer, <a class="Link" href="https://tucson.com/news/local/subscriber/article_accc38b8-a91e-11ef-b443-63ca73487dbf.html" target="_blank" rel="noopener" data-cms-ai="0">testified</a>. Depleting its reserves happened more quickly: Two years ago, officials for the university <a class="Link" href="https://www.chronicle.com/article/how-the-u-of-arizona-found-itself-in-a-financial-crisis-of-its-own-making" data-cms-ai="0">said</a> that it held 149 days cash on hand.</p>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Is West Virginia U. Making Sweeping Cuts?
 image:
-  path: "/assets/media/pexels-tima-miroshnichenko-6693647.webp"
+  path: "/assets/media/west-virginia-university.webp"
   caption: Tima Miroshnichenko via Pexels
   sourceurl: https://www.pexels.com/photo/white-printer-paper-on-brown-wooden-table-6693647/
 categories:
@@ -11,21 +11,22 @@ link:
   text:
   url:
 tags:
-- portfolio
+- mysql
+- sql
+- ipeds
+- relational-database-admin
+- sequel-ace
+- text-mining
+- business-reporting
+- deadline-breaking-news
+- higher-ed-reporting
+- news-writing-editing
+- topical-enterprise
 - documentcloud
 - emma-filings
 - financial-statements
-- business-reporting
-- higher-ed-reporting
-- datawrapper
-- ipeds
-- relational-database-admin
-- sql
-- sequel-ace
-- mysql
-- datawrapper
-- news-writing-editing
 - press-reader
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

@@ -9,27 +9,28 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- tableau
-- investigative-projects
 - research-methodologies
-- spatial-analysis
+- collaboration
+- crime-police-reporting
+- investigative-projects
+- legal-reporting
+- news-writing-editing
+- project-management
+- self-made-datasets
+- crime-policing-records
+- federal-state-court-records
+- press-reader
+- targeted-foia
+- google-scholar
+- jstor
+- lexisnexis-services
+- newsbank
+- open-refine
+- dashboard-development
 - geodatabase-creation
 - geoprocessing
-- dashboard-development
-- open-refine
-- targeted-foias
-- federal-state-court-records
-- crime-policing-records
-- lexisnexis
-- google-scholar
-- press-reader
-- jstor
-- self-made-datasets
-- newsbank
-- collaboration
-- project-management
-- legal-reporting
+- spatial-analysis
+- tableau
 layout: portfolio_wide
 author: Dan Bauman
 republished:

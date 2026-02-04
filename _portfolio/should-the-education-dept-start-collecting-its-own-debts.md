@@ -11,17 +11,19 @@ link:
   text:
   url:
 tags: 
-- portfolio
+- business-reporting
+- collaboration
 - higher-ed-reporting
 - news-writing-editing
-- business-reporting
-- datawrapper
+- personal-finance-reporting
 - congress-gov-features
 - consumer-protection-filings
-- student-loan-filings
+- federal-state-procurement
+- fpds-gov
 - fsa-enforcement-records
-- collaboration
-- personal-finance-reporting
+- sam-gov
+- student-loan-filings
+- datawrapper
 layout: portfolio
 author: Kelly Field and Dan Bauman
 republished:

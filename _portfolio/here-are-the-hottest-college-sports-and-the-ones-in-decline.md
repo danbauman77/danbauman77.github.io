@@ -11,12 +11,20 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- r
+- relational-database-admin
+- research-methodologies
+- sequel-ace
 - business-reporting
+- deadline-breaking-news
 - higher-ed-reporting
+- news-writing-editing
+- self-made-datasets
+- sports-reporting
+- topical-enterprise
+- writing-for-mobile
+- athletics-data
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

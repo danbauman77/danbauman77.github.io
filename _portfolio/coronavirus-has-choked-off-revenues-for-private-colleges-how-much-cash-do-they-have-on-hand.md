@@ -12,14 +12,17 @@ link:
   text:
   url:
 tags:
-- portfolio
-- credit-opinions
-- datawrapper
-- emma-filings
-- documentcloud
-- higher-ed-reporting
+- text-mining
 - business-reporting
+- deadline-breaking-news
+- higher-ed-reporting
 - news-writing-editing
+- self-made-datasets
+- topical-enterprise
+- documentcloud
+- credit-opinion
+- emma-filings
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

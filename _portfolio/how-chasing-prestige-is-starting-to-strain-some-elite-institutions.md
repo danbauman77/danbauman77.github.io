@@ -11,12 +11,15 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
 - business-reporting
 - higher-ed-reporting
+- news-writing-editing
+- self-made-datasets
+- topical-enterprise
+- credit-opinion
+- emma-filings
+- financial-statements
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

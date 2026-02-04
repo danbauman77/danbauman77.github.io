@@ -11,12 +11,26 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- cloud-based-database-admin
+- mysql
+- sql
+- ipeds
+- relational-database-admin
+- research-methodologies
+- text-mining
 - business-reporting
+- deadline-breaking-news
 - higher-ed-reporting
+- news-writing-editing
+- self-made-datasets
+- topical-enterprise
+- documentcloud
+- foia-dragnet
+- irs-form-990
+- targeted-foia
+- open-refine
+- qualtrics
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:
@@ -64,4 +78,4 @@ republished:
 
 <iframe title="What Public College Presidents Earn On The Way Out" aria-label="Table" id="datawrapper-chart-JGGdH" src="https://datawrapper.dwcdn.net/JGGdH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="594" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script><br>
 
-<p style="color:black"><em>Correction (3/5/2019, 4:35 p.m.):</em> The table with this article originally included James B. Milliken, of the University of Nebraska system. The system incorrectly reported that he had received severance in the 2014 fiscal year, when he was instead compensated for unused vacation time, as well as holiday pay. The table has been updated to remove Milliken.</p>
+<p style="color:black"><em><b>Correction (3/5/2019, 4:35 p.m.):</b></em> The table with this article originally included James B. Milliken, of the University of Nebraska system. The system incorrectly reported that he had received severance in the 2014 fiscal year, when he was instead compensated for unused vacation time, as well as holiday pay. The table has been updated to remove Milliken.</p>

@@ -11,11 +11,20 @@ link:
   text:
   url:
 tags: 
-- portfolio_wide
+- r
+- relational-database-admin
+- research-methodologies
+- sequel-ace
+- crime-police-reporting
+- deadline-breaking-news
 - higher-ed-reporting
+- legal-reporting
 - news-writing-editing
+- self-made-datasets
+- topical-enterprise
+- crime-policing-records
+- federal-state-court-records
 - datawrapper
-- business-reporting
 layout: portfolio
 author: Dan Bauman
 republished:

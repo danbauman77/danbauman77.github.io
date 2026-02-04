@@ -11,28 +11,26 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
-- business-reporting
-- legal-reporting
-- deadline-breaking-news
-- writing-for-mobile
+- cloud-based-database-admin
 - ipeds
 - navicat
 - postgresql
-- datawrapper
-- research-methodologies
-- collaboration
-- federal-state-procurement
-- usaspending-gov
-- sam-gov
-- text-mining
-- developer-tools
-- api-powered-tool-development
-- webscraping
 - relational-database-admin
-- cloud-based-database-admin
+- research-methodologies
+- text-mining
+- business-reporting
+- collaboration
+- deadline-breaking-news
+- higher-ed-reporting
+- legal-reporting
+- news-writing-editing
+- topical-enterprise
+- federal-state-court-records
+- federal-state-procurement
+- sam-gov
+- usaspending-gov
+- api-powered-tool-development
+- datawrapper
 layout: portfolio
 author: Sarah Brown and Dan Bauman
 republished:

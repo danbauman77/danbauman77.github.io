@@ -11,12 +11,22 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- r
+- mysql
+- sql
+- ipeds
+- relational-database-admin
+- sequel-ace
 - business-reporting
 - higher-ed-reporting
+- news-writing-editing
+- topical-enterprise
+- documentcloud
+- credit-opinion
+- emma-filings
+- federal-state-procurement
+- financial-statements
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

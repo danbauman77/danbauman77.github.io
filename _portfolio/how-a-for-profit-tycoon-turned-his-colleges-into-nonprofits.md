@@ -11,12 +11,22 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
 - business-reporting
+- collaboration
+- deadline-breaking-news
 - higher-ed-reporting
+- investigative-projects
+- legal-reporting
+- news-writing-editing
+- project-management
+- topical-enterprise
+- accreditor-records
+- conflict-of-interest-filings
+- federal-state-court-records
+- financial-statements
+- fsa-enforcement-records
+- irs-form-1023
+- irs-form-990
 layout: portfolio
 author: Dan Bauman and Michael Vasquez
 republished:

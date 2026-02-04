@@ -11,19 +11,24 @@ link:
   text:
   url:
 tags:
-- portfolio
-- tableau
-- self-made-datasets
-- crime-policing-records
-- project-management
-- news-writing-editing
-- legal-reporting
+- research-methodologies
+- text-mining
 - collaboration
-- writing-for-mobile
+- crime-police-reporting
 - deadline-breaking-news
-- dashboard-development
 - investigative-projects
+- legal-reporting
+- news-writing-editing
 - project-management
+- self-made-datasets
+- topical-enterprise
+- adobe-photoshop
+- crime-policing-records
+- targeted-foia
+- lexisnexis-services
+- newsbank
+- dashboard-development
+- tableau
 layout: portfolio_wide
 author: Dan Bauman
 republished:

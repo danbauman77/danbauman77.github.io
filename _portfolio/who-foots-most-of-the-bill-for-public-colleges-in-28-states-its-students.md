@@ -11,12 +11,11 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
 - business-reporting
 - higher-ed-reporting
+- news-writing-editing
+- personal-finance-reporting
+- writing-for-mobile
 layout: portfolio
 author: Dan Bauman
 republished:

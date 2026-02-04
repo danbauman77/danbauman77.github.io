@@ -11,29 +11,34 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
-- business-reporting
-- legal-reporting
-- federal-state-procurement
-- fac-gov
-- usaspending-gov
-- sam-gov
-- self-made-datasets
+- cloud-based-database-admin
 - r
-- datawrapper
-- deadline-breaking-news
+- sql
+- ipeds
+- navicat
+- postgresql
+- relational-database-admin
 - research-methodologies
 - text-mining
+- business-reporting
+- deadline-breaking-news
 - developer-tools
-- api-powered-tool-development
-- webscraping
-- financial-statements
-- ipeds
-- relational-database-admin
-- cloud-based-database-admin
+- higher-ed-reporting
+- legal-reporting
+- news-writing-editing
+- topical-enterprise
 - writing-for-mobile
+- documentcloud
+- fac-gov
+- federal-state-procurement
+- financial-statements
+- fpds-gov
+- sam-gov
+- usaspending-gov
+- api-powered-tool-development
+- open-refine
+- webscraping
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

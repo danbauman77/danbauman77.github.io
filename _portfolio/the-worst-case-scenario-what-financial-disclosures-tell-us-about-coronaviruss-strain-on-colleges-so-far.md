@@ -11,12 +11,20 @@ link:
   text:
   url:
 tags:
-- portfolio
+- text-mining
+- business-reporting
+- deadline-breaking-news
+- higher-ed-reporting
+- news-writing-editing
+- self-made-datasets
+- topical-enterprise
 - documentcloud
+- credit-opinion
 - emma-filings
 - financial-statements
-- business-reporting
-- higher-ed-reporting
+- sec-filings
+- us-uk-canada-business-records
+- webpage-monitoring
 layout: portfolio
 author: Dan Bauman
 republished:

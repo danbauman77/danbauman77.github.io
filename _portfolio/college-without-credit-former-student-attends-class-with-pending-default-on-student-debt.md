@@ -11,12 +11,15 @@ link:
   text:
   url:
 tags: 
-- portfolio
 - higher-ed-reporting
 - news-writing-editing
-- business-reporting
-- datawrapper
+- personal-finance-reporting
+- self-made-datasets
 - award-winning
+- student-loan-filings
+- datawrapper
+- digital-cartography
+- geoprocessing
 layout: portfolio
 author: Dan Bauman
 republished:

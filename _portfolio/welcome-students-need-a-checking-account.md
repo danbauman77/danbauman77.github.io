@@ -11,24 +11,26 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
-- business-reporting
-- award-winning
-- personal-finance-reporting
-- targeted-foia
-- self-made-datasets
-- documentcloud
-- sec-filings
 - statistical-analysis
 - text-mining
-- datawrapper
-- federal-state-procurement
-- consumer-protection-filings
-- project-management
+- business-reporting
+- higher-ed-reporting
 - investigative-projects
 - legal-reporting
+- news-writing-editing
+- personal-finance-reporting
+- project-management
+- self-made-datasets
+- topical-enterprise
+- award-winning
+- documentcloud
+- consumer-protection-filings
+- federal-state-procurement
+- foia-dragnet
+- fsa-enforcement-records
+- sec-filings
+- targeted-foia
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

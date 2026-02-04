@@ -11,11 +11,18 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
+- research-methodologies
 - business-reporting
+- higher-ed-reporting
+- investigative-projects
+- news-writing-editing
+- project-management
+- self-made-datasets
+- topical-enterprise
 - award-winning
+- foia-dragnet
+- irs-form-990
+- targeted-foia
 - datawrapper
 layout: portfolio_wide
 author: Dan Bauman

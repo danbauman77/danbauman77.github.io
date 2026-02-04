@@ -11,12 +11,23 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- r
+- relational-database-admin
+- research-methodologies
+- sequel-ace
+- statistical-analysis
+- text-mining
 - business-reporting
+- collaboration
+- deadline-breaking-news
 - higher-ed-reporting
+- legal-reporting
+- news-writing-editing
+- self-made-datasets
+- topical-enterprise
+- conflict-of-interest-filings
+- congress-gov-features
+- fsa-enforcement-records
 layout: portfolio
 author: Lindsay Ellis and Dan Bauman
 republished:

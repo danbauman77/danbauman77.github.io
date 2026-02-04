@@ -11,12 +11,22 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- mysql
+- sql
+- relational-database-admin
+- research-methodologies
+- sequel-ace
 - business-reporting
+- collaboration
+- deadline-breaking-news
 - higher-ed-reporting
+- news-writing-editing
+- project-management
+- self-made-datasets
+- foia-dragnet
+- targeted-foia
+- open-refine
+- qualtrics
 layout: portfolio
 author: Dan Bauman
 republished:

@@ -11,12 +11,15 @@ link:
   text:
   url:
 tags:
-- portfolio
+- business-reporting
+- deadline-breaking-news
+- higher-ed-reporting
+- news-writing-editing
+- topical-enterprise
 - documentcloud
 - emma-filings
 - financial-statements
-- business-reporting
-- higher-ed-reporting
+- irs-form-990
 layout: portfolio
 author: Dan Bauman
 republished:

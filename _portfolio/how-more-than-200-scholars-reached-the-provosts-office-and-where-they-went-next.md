@@ -11,12 +11,25 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- mysql
+- sql
+- ipeds
+- relational-database-admin
+- research-methodologies
+- sequel-ace
+- text-mining
 - business-reporting
+- collaboration
 - higher-ed-reporting
+- news-writing-editing
+- project-management
+- self-made-datasets
+- irs-form-990
+- targeted-foia
+- lexisnexis-services
+- newsbank
+- datawrapper
+- flourish
 layout: portfolio_wide
 author: Audrey Williams June and Dan Bauman
 republished:
@@ -42,23 +55,23 @@ republished:
 
 <p style="color:black">For professors who have risen through the ranks of academic administration, serving as provost lets them broaden their reach. Provosts set an institution’s academic vision, supervise deans, oversee accreditation, create strategic plans, and manage budgets, among other things. It’s also a job with cachet on campus. The provost, second in command, is widely recognized as having a job that is a steppingstone to other high-profile positions, particularly a college presidency.</p>
 
-<p style="color:black">In more ways than one, the provost’s role is a pivotal one, and even more so at the sprawling academic enterprises that are the nation’s top research institutions.</p>
+<p style="color:black">In more ways than one, the provost’s role is a pivotal one, and even more so at the sprawling academic enterprises that are the nation’s top research institutions.</p><br>
 
-<iframe title="Where Provosts Come From and Go Next" aria-label="Split Bars" id="datawrapper-chart-Ca0Jf" src="https://datawrapper.dwcdn.net/Ca0Jf/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="720" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe title="Where Provosts Come From and Go Next" aria-label="Split Bars" id="datawrapper-chart-Ca0Jf" src="https://datawrapper.dwcdn.net/Ca0Jf/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="720" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script><br>
 
 <p style="color:black">The job also has inherent personal and professional tensions.</p>
 
-<p style="color:black">The nature of provosts’ work — creating an environment for scholarly and academic excellence — can make it appealing. It allows them to realize a wider impact than they’d otherwise have on an institution they care deeply about. But it’s also a position that can trigger an identity crisis, which, in turn, can affect their career trajectories. While provosts can maintain ties with the ranks of the faculty, the job often leaves some of them feeling that they’re on the margins of the once-familiar rhythms of academic life.</p>
+<p style="color:black">The nature of provosts’ work — creating an environment for scholarly and academic excellence — can make it appealing. It allows them to realize a wider impact than they’d otherwise have on an institution they care deeply about. But it’s also a position that can trigger an identity crisis, which, in turn, can affect their career trajectories. While provosts can maintain ties with the ranks of the faculty, the job often leaves some of them feeling that they’re on the margins of the once-familiar rhythms of academic life.</p><br>
 
-<iframe title="Provosts, by Gender" aria-label="Donut Chart" id="datawrapper-chart-Z2mvO" src="https://datawrapper.dwcdn.net/Z2mvO/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="624" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe title="Provosts, by Gender" aria-label="Donut Chart" id="datawrapper-chart-Z2mvO" src="https://datawrapper.dwcdn.net/Z2mvO/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="624" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script><br>
 
 <p style="color:black">To learn more about the career paths of the people who have been chief academic officers at such campuses, <i>The Chronicle</i> collected information on 201 current and former provosts who filled that job on a permanent or interim basis at the 60 American institutions that are members of the Association of American Universities. <i>The Chronicle’</i>s analysis of that data provides a snapshot of the group of provosts at some of the nation’s most influential institutions over a 10-year period ending last summer.</p>
 
 <p style="color:black">Among the findings: Three out of four provosts were male, and the group as a whole was overwhelmingly white — a racial distribution that mirrors the faculty ranks that serve as a pipeline for the post. Roughly half of the provosts earned Ph.D.s in a STEM field, with the largest share — about 16 percent — holding a degree in engineering.</p>
 
-<p style="color:black">The data also speak to the clannishness that characterizes the hiring of provosts at top institutions. Nearly 180 provosts in the group earned their Ph.D. or other terminal degree from one of the 60 American AAU institutions (or one of two prestigious universities in Britain). At the top of the list was Harvard University, with 16 degrees awarded; both the current provost there, Alan M. Garber and his predecessor, Steven E. Hyman, are Harvard alums.</p>
+<p style="color:black">The data also speak to the clannishness that characterizes the hiring of provosts at top institutions. Nearly 180 provosts in the group earned their Ph.D. or other terminal degree from one of the 60 American AAU institutions (or one of two prestigious universities in Britain). At the top of the list was Harvard University, with 16 degrees awarded; both the current provost there, Alan M. Garber and his predecessor, Steven E. Hyman, are Harvard alums.</p><br>
 
-<iframe title="The Top 5 Producers of Provosts" aria-label="Table" id="datawrapper-chart-YNdKL" src="https://datawrapper.dwcdn.net/YNdKL/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="331" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+<iframe title="The Top 5 Producers of Provosts" aria-label="Table" id="datawrapper-chart-YNdKL" src="https://datawrapper.dwcdn.net/YNdKL/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="331" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script><br>
 
 <p style="color:black">The clannishness takes several forms. AAU members’ permanent provosts were internal hires more often than not, with nearly two-thirds of them moving into the job that way, as Robel did. And institutional roots can run deep: Roughly two dozen provosts were appointed to serve at universities where, also like Robel, they had been graduate students.</p>
 
@@ -114,7 +127,7 @@ republished:
 
 <p style="color:black">They also may not want to be the face of the university and responsible for government relations, athletics, and meeting with community organizations, donors, board members, and alumni. But some provosts, Martin said, may be eager to leave behind some of the academically centered aspects of their job that they find unappealing (think faculty meetings), and see becoming a college president as a welcome departure.</p>
 
-<p style="color:black">A handful of provosts in the group left academe behind.</p>
+<p style="color:black">A handful of provosts in the group left academe behind.</p><br>
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/27436009"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/27436009/thumbnail" width="100%" alt="hierarchy visualization" /></noscript></div><br>
 

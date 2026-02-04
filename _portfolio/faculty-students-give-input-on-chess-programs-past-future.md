@@ -11,11 +11,17 @@ link:
   text:
   url:
 tags: 
-- portfolio_wide
-- higher-ed-reporting
-- news-writing-editing
+- research-methodologies
 - business-reporting
+- higher-ed-reporting
+- investigative-projects
+- news-writing-editing
+- project-management
+- self-made-datasets
+- topical-enterprise
 - award-winning
+- targeted-foia
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:
@@ -33,11 +39,15 @@ republished:
 
 <p style="color:black">Because the music department is unable to make full scholarship offers to exceptional prospective music students, Schenkel said the university constantly loses these students to schools who can offer better financial support. Likewise, Schenkel said the method of recruiting a top international practitioner of a particular discipline, like Susan Polgar in chess, could be replicated across many academic programs at Webster.</p>
 
+<iframe title="Top College Chess Programs Rely on Scholarships" aria-label="Table" id="datawrapper-chart-Khov6" src="https://datawrapper.dwcdn.net/Khov6/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1131" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script><br><br>
+
 <p style="color:black">“It would be no different if the art department was able to hire an internationally-famous painter to teach in their department; or we, an internationally famous cellist to teach in our department,” Schenkel said.</p>
 
 <p style="color:black">In general, schools tend to devote discretionary funds to sports as opposed to academics because of what <a href="http://www.ohio.edu/" target="_blank">Ohio University </a>Professor and Director of the<a href="http://centerforcollegeaffordability.org/" target="_blank"> Center for College Affordability and Productivity</a> <a href="http://centerforcollegeaffordability.org/about/staff-directory" target="_blank">Richard Vedder</a> calls “sex appeal.” While sports teams can generate entertainment and publicity, investment in academics or scholarships for students is less likely to do so.</p>
 
 <p style="color:black">Dan Hellinger, professor of political science, said a broad discussion about a potential chess program should have taken place before one was started at Webster. Rather than transplant a team from another university, Hellinger said he would have preferred if a team were built from the bottom-up at Webster. However, Hellinger said the value of the chess team should be judged on the opportunity it offers to students.</p>
+
+<iframe title="How America's Best College Chess Teams Are Funded" aria-label="Table" id="datawrapper-chart-p7W8g" src="https://datawrapper.dwcdn.net/p7W8g/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1054" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script><br><br>
 
 <p style="color:black">“The chess players add much to the university, and no ill-will should be held against them,” Hellinger said.</p>
 
@@ -48,6 +58,8 @@ republished:
 <p style="color:black">One school that built from the ground up was the<a href="http://www.umbc.edu/" target="_blank"> University of Maryland at Baltimore County</a> (UMBC). After starting the program in the 1990s, <a href="http://www.csee.umbc.edu/people/faculty/alan-t-sherman/" target="_blank">Alan Sherman</a>, faculty member and volunteer chess director, built the team into a chess powerhouse<a href="http://www.washingtonpost.com/local/at-college-chesss-final-four-once-dominant-umbc-is-now-the-underdog/2013/04/05/f0c5857e-9d46-11e2-a941-a19bce7af755_story.html" target="_blank">, winning multiple Final Four chess championships in the 2000s</a>. Sherman said UMBC did not have the resources to immediately create a chess team of elite players like Webster­ — instead, they used incremental funding.</p>
 
 <p style="color:black">“We found in our ramping-up period we were simply unable to recruit radically better players each year,” Sherman said. “We could recruit somewhat-better players over a period of five years. We ended up with a very powerful team.”</p>
+
+<iframe title="Compensation for Chess Personnel Varies By Program" aria-label="Table" id="datawrapper-chart-fT7EL" src="https://datawrapper.dwcdn.net/fT7EL/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1182" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script><br><br>
 
 <h2>Financial concerns and administrative favoritism</h2>
 
@@ -83,6 +95,8 @@ republished:
 
 <p style="color:black">“I think a school can’t do everything, and they need to pick; and then for the things they pick they ought to support them properly so they can be successful,” Sherman said.</p>
 
+<iframe title="How Do Elite College-Chess Teams Spend Their Money?" aria-label="Table" id="datawrapper-chart-346Ne" src="https://datawrapper.dwcdn.net/346Ne/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1443" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script><br>
+
 <h2>Long-term objectives</h2>
 
 <p style="color:black">Brasfield recalled in the 1980s when the university was <a href="http://library.webster.edu/archives/exhibits/athletics.html" target="_blank">considering the creation of an athletic department</a>. Brasfield said some people supported the installation, believing it would help the university grow its undergraduate student base. Others were concerned about Webster’s lean financial position and believed the university shouldn’t create and fund athletics. Ultimately, Brasfield said, the athletics program showed itself to be a success in the long-term. It is the long-term and strategic objective of the chess team that Brasfield said he is interested in.</p>
@@ -91,6 +105,9 @@ republished:
 
 <p style="color:black">“And if the chess team is built around and completely dependent on one person — then that person leaves — is that going to fold?” Brasfield asked. “In which case, you might look back and say, ‘We’ll gee, we spent all this money and we got some temporary publicity. It wasn’t doing something that had long-term strategic value for Webster.’”</p>
 
-<p style="color:black">In the long term, <a href="http://www.webster.edu/globalmarketingcommunications/meet-the-staff/patrick-giblin.html" target="_blank">University Spokesman Patrick Giblin</a>said the university hopes to integrate the chess program into some sort of academic curriculum, perhaps a set of courses, certificate or minor. Giblin said chess play has been shown to help with math and science learning, and that chess strategy could be useful to future businesspersons.</p>
+<p style="color:black">In the long term, <a href="http://www.webster.edu/globalmarketingcommunications/meet-the-staff/patrick-giblin.html" target="_blank">University Spokesman Patrick Giblin</a> said the university hopes to integrate the chess program into some sort of academic curriculum, perhaps a set of courses, certificate or minor. Giblin said chess play has been shown to help with math and science learning, and that chess strategy could be useful to future businesspersons.</p>
 
 <p style="color:black">While nothing had formerly been proposed, Giblin said a <a href="http://susanpolgar.blogspot.com/2014/02/business-strategy-with-chess-at-webster_26.html" target="_blank">one-credit hour course taught by Susan Polgar called “Business Strategy with Chess”</a> in mid-April was a hint of future possibilities.</p>
+
+
+<iframe title="SPICE's Move to Webster University" aria-label="Scatter Plot" id="datawrapper-chart-lMeZB" src="https://datawrapper.dwcdn.net/lMeZB/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2368" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>

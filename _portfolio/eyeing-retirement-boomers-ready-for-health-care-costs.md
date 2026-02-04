@@ -11,9 +11,10 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- news-writing-editing
 - business-reporting
+- news-writing-editing
+- personal-finance-reporting
+- bls-estimates
 - datawrapper
 layout: portfolio
 author: Dan Bauman

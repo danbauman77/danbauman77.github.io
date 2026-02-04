@@ -11,20 +11,21 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
-- business-reporting
-- documentcloud
-- datawrapper
-- r
-- bls-estimates
-- credit-opinion
-- ipeds
 - mysql
 - sql
-- sequel-ace
+- ipeds
 - relational-database-admin
+- sequel-ace
+- statistical-analysis
+- business-reporting
+- higher-ed-reporting
+- news-writing-editing
+- personal-finance-reporting
+- topical-enterprise
+- documentcloud
+- bls-estimates
+- credit-opinion
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

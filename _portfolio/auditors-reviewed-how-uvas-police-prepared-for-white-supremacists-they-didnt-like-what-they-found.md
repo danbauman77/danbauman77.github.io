@@ -11,12 +11,12 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
-- business-reporting
+- crime-police-reporting
+- deadline-breaking-news
 - higher-ed-reporting
+- news-writing-editing
+- writing-for-mobile
+- crime-policing-records
 layout: portfolio
 author: Dan Bauman
 republished:

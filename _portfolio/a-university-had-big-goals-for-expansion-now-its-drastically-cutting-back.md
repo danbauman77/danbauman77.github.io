@@ -11,22 +11,20 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
-- deadline-breaking-news
+- ipeds
 - business-reporting
-- emma-filings
-- financial-statements
+- deadline-breaking-news
+- higher-ed-reporting
+- legal-reporting
+- news-writing-editing
 - documentcloud
 - credit-opinion
-- legal-reporting
-- datawrapper
-- peps
-- documentcloud
-- ipeds
+- emma-filings
+- financial-statements
+- irs-form-990
 - nlrb-union-records
-- form-990
+- peps
+- datawrapper
 layout: portfolio
 author: Dan Bauman 
 republished:
@@ -52,9 +50,9 @@ republished:
 
 <p style="color:black">But Saint Leo’s finances face headwinds. Last April, the bond credit-ratings agency S&amp;P Global Ratings <a class="Link" href="https://s3.documentcloud.org/documents/23697920/saint-leo-university-fl-series-2019-educational-_-sp-global-ratings.pdf" target="_blank" rel="noopener" data-cms-ai="0">downgraded</a> its appraisal of $66 million of debt owed by Saint Leo from investment-grade to <a class="Link" href="https://www.documentcloud.org/documents/23697924-guide_to_credit_rating_essentials_digital#document/p9/a2216700" target="_blank" rel="noopener" data-cms-ai="0">speculative-grade</a> (or <a class="Link" href="https://www.fidelity.com/learning-center/investment-products/fixed-income-bonds/bond-ratings" target="_blank" rel="noopener" data-cms-ai="0">junk bond</a>) status. Just 23 institutions of the 351 colleges and universities <a class="Link" href="https://s3.documentcloud.org/documents/23697921/us-higher-education-rating-actions-2022-_-sp-global-ratings.pdf" target="_blank" rel="noopener" data-cms-ai="0">graded</a> by S&amp;P were rated as speculative-grade investments, according to a <i>Chronicle </i>analysis of an S&amp;P ratings inventory released for 2022.</p>
 
-<p style="color:black">In addition to signaling an institution’s perceived creditworthiness, downgrades like the one Saint Leo experienced can have tangible effects when a college seeks to issue long-term debt to finance major projects. It typically means that such an institution considering bond financing will be offered higher interest rates than another college that’s operated in the black for several years might receive. More-favorable interest rates from bondholders can mean millions of dollars less in debt service in the long run.</p>
+<p style="color:black">In addition to signaling an institution’s perceived creditworthiness, downgrades like the one Saint Leo experienced can have tangible effects when a college seeks to issue long-term debt to finance major projects. It typically means that such an institution considering bond financing will be offered higher interest rates than another college that’s operated in the black for several years might receive. More-favorable interest rates from bondholders can mean millions of dollars less in debt service in the long run.</p><br>
 
-  <iframe title="A Decade of Enrollment Declines" aria-label="Stacked Column Chart" id="datawrapper-chart-qW2Ow" src="https://datawrapper.dwcdn.net/qW2Ow/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe>
+  <iframe title="A Decade of Enrollment Declines" aria-label="Stacked Column Chart" id="datawrapper-chart-qW2Ow" src="https://datawrapper.dwcdn.net/qW2Ow/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><br>
 
 <p style="color:black">In justifying the ratings assignment, an analyst for S&amp;P cited Saint Leo’s languishing enrollment numbers as well as upheaval in its C-suite.</p>
 
@@ -66,9 +64,9 @@ republished:
 
 <p style="color:black">Senese’s departure marked the end, at least for now, of Saint Leo’s expansionist ambitions. For much of the year leading up to his exit, the then-president had been front-and-center championing the university’s acquisition of Marymount California University. The <a class="Link" href="https://www.saintleo.edu/about/stories/news-and-events/saint-leo-university-announces-merger-with-marymount-california" target="_blank" rel="noopener" data-cms-ai="0">inking</a> of the deal in and of itself represented an important milestone for Saint Leo and Senese, who had previously entered into unsuccessful talks with <a class="Link" href="https://www.thegazette.com/education/iowa-wesleyan-reassesses-new-future-as-the-determined-campus-and-potential-partner-cut-ties/" target="_blank" rel="noopener" data-cms-ai="0">Iowa Wesleyan University</a> and Delaware’s <a class="Link" href="https://udreview.com/enrollment-ups-and-downs-wesley-colleges-struggles-to-fill-classes-and-uds-efforts-to-pack-them/" target="_blank" rel="noopener" data-cms-ai="0">Wesley College</a>.</p>
 
-<p style="color:black">In reality, though, the prospect of an acquisition could hardly have come at a worse time for Saint Leo. At the same moment the university needed to convince its own accreditor that the Florida institution could acquire and bankroll a campus located on the other side of the country, its operations in the 2022 fiscal year couldn’t even <a class="Link" href="https://www.documentcloud.org/documents/23697968-saint-leo-university-fy2022-financial-statement#document/p8/a2216704" target="_blank" rel="noopener" data-cms-ai="0">generate</a> the positive cash flow necessary to support itself. The problems were long-running: Saint Leo <a class="Link" href="https://www.documentcloud.org/documents/23697968-saint-leo-university-fy2022-financial-statement#document/p7/a2216706" target="_blank" rel="noopener" data-cms-ai="0">had</a> only <a class="Link" href="https://www.documentcloud.org/documents/23697969-saint-leo-university-fy2021-financial-statement#document/p6/a2216707" target="_blank" rel="noopener" data-cms-ai="0">twice</a> since <a class="Link" href="https://www.documentcloud.org/documents/23697974-saint-leo-university-fy2020-financial-statement#document/p6/a2216708" target="_blank" rel="noopener" data-cms-ai="0">2015</a> closed <a class="Link" href="https://www.documentcloud.org/documents/23697976-saint-leo-university-fy2019-financial-statement#document/p6/a2216711" target="_blank" rel="noopener" data-cms-ai="0">out</a> a <a class="Link" href="https://www.documentcloud.org/documents/23697978-saint-leo-university-fy2018-financial-statement#document/p6/a2216715" target="_blank" rel="noopener" data-cms-ai="0">fiscal</a> year <a class="Link" href="https://www.documentcloud.org/documents/23697979-saint-leo-university-fy2016-financial-statement#document/p6/a2216719" target="_blank" rel="noopener" data-cms-ai="0">in</a> the black.</p>
+<p style="color:black">In reality, though, the prospect of an acquisition could hardly have come at a worse time for Saint Leo. At the same moment the university needed to convince its own accreditor that the Florida institution could acquire and bankroll a campus located on the other side of the country, its operations in the 2022 fiscal year couldn’t even <a class="Link" href="https://www.documentcloud.org/documents/23697968-saint-leo-university-fy2022-financial-statement#document/p8/a2216704" target="_blank" rel="noopener" data-cms-ai="0">generate</a> the positive cash flow necessary to support itself. The problems were long-running: Saint Leo <a class="Link" href="https://www.documentcloud.org/documents/23697968-saint-leo-university-fy2022-financial-statement#document/p7/a2216706" target="_blank" rel="noopener" data-cms-ai="0">had</a> only <a class="Link" href="https://www.documentcloud.org/documents/23697969-saint-leo-university-fy2021-financial-statement#document/p6/a2216707" target="_blank" rel="noopener" data-cms-ai="0">twice</a> since <a class="Link" href="https://www.documentcloud.org/documents/23697974-saint-leo-university-fy2020-financial-statement#document/p6/a2216708" target="_blank" rel="noopener" data-cms-ai="0">2015</a> closed <a class="Link" href="https://www.documentcloud.org/documents/23697976-saint-leo-university-fy2019-financial-statement#document/p6/a2216711" target="_blank" rel="noopener" data-cms-ai="0">out</a> a <a class="Link" href="https://www.documentcloud.org/documents/23697978-saint-leo-university-fy2018-financial-statement#document/p6/a2216715" target="_blank" rel="noopener" data-cms-ai="0">fiscal</a> year <a class="Link" href="https://www.documentcloud.org/documents/23697979-saint-leo-university-fy2016-financial-statement#document/p6/a2216719" target="_blank" rel="noopener" data-cms-ai="0">in</a> the black.</p><br>
     
-<iframe title="Deficits Mount" aria-label="Column Chart" id="datawrapper-chart-ee2tJ" src="https://datawrapper.dwcdn.net/ee2tJ/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe>
+<iframe title="Deficits Mount" aria-label="Column Chart" id="datawrapper-chart-ee2tJ" src="https://datawrapper.dwcdn.net/ee2tJ/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><br>
 
 <p style="color:black">The university’s accreditor — the Southern Association of Colleges and Schools Commission on Colleges moved in December 2021 to reject Saint Leo’s plan to take over Marymount California’s operations, <a class="Link" href="https://web.archive.org/web/20211203214715/https://sacscoc.org/app/uploads/2021/12/BOT-Actions-Dec-2021-FINAL.pdf" target="_blank" rel="noopener" data-cms-ai="0">finding</a> that the Florida university “did not provide an acceptable plan and supporting documentation to ensure that it has the capacity to comply with” certain financial-responsibility standards. Come April 2022, Saint Leo would make it <a class="Link" href="https://www.bizjournals.com/tampabay/news/2022/04/20/saint-leo-ends-merger-possibility-with-marymount-u.html" target="_blank" rel="noopener" data-cms-ai="0">official</a>, and publicly scrap its plan to merge with ailing the West Coast university. Marymount California <a class="Link" href="https://www.dailybreeze.com/2022/06/27/marymount-california-university-set-to-close-puts-palos-verdes-peninsula-campus-up-for-sale/" target="_blank" rel="noopener" data-cms-ai="0">closed</a> in August 2022.</p>
 

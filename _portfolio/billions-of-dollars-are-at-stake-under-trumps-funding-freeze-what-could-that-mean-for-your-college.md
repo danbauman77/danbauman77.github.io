@@ -11,27 +11,34 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
-- business-reporting
-- legal-reporting
-- federal-state-procurement
-- fac-gov
-- usaspending-gov
-- sam-gov
+- cloud-based-database-admin
 - r
-- datawrapper
-- deadline-breaking-news
+- mysql
+- sql
+- ipeds
+- navicat
+- postgresql
+- relational-database-admin
 - research-methodologies
 - text-mining
+- business-reporting
+- deadline-breaking-news
 - developer-tools
+- higher-ed-reporting
+- legal-reporting
+- news-writing-editing
+- self-made-datasets
+- topical-enterprise
+- documentcloud
+- fac-gov
+- federal-state-court-records
+- federal-state-procurement
+- financial-statements
+- sam-gov
+- usaspending-gov
 - api-powered-tool-development
 - webscraping
-- ipeds
-- relational-database-admin
-- cloud-based-database-admin
-- writing-for-mobile
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:
@@ -63,9 +70,9 @@ republished:
 
 <p style="color:black">To better understand how reliant colleges are on federal programs, a <i>Chronicle</i> analysis identified just over 1,500 institutions that received nearly $53 billion of federal assistance during the 2023 fiscal year — the most recent period available for analysis and for which there is a critical mass of filings accessible for review. <i>The Chronicle</i> excluded from its analysis an array of federal programs — specifically, Title IV (HEA) programs, various programs created in response to the Covid-19 pandemic, as well as ones focused on disaster relief — to gain a more-precise understanding of the revenues that are at risk. However, because of how certain state bodies cataloged and reported their receipt of federal assistance, this analysis shouldn’t be seen as comprehensive for the higher-ed sector as a whole. Public colleges in states like North Carolina and West Virginia, which receive considerable federal support for research, had to be excluded. More information can be found in the footnotes below.</p><p style="color:black">Several institutions pulled in hundreds of federal grants, with a handful receiving billions of dollars, for purposes that include funding for research, conservation, economic development, and curriculum development.</p>
 
-<p style="color:black">To see how much federal money typically flows to the nation’s colleges, explore the table below.</p>
+<p style="color:black">To see how much federal money typically flows to the nation’s colleges, explore the table below.</p><br>
     
-<iframe title="A Funding Freeze Could Affect Billions of Dollars for Colleges and Universities" aria-label="Table" id="datawrapper-chart-KyebS" src="https://datawrapper.dwcdn.net/KyebS/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1335" data-external="1"></iframe>
+<iframe title="A Funding Freeze Could Affect Billions of Dollars for Colleges and Universities" aria-label="Table" id="datawrapper-chart-KyebS" src="https://datawrapper.dwcdn.net/KyebS/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1335" data-external="1"></iframe><br>
     
 <p style="color:black">Notes: The universe of institutions in the table originates from information submitted by state, nonprofit, and tribal entities to the federal government, and should not be considered comprehensive. An institution’s failure to submit its financial statements or an audit for the 2023 fiscal year would have precluded it from this analysis. <i>The Chronicle</i> elected to exclude filings for entities whose reported mandate extended well beyond higher education. For instance, federal assistance awarded to the University of North Carolina at Chapel Hill is recorded <a class="Link" href="https://www.documentcloud.org/documents/25515858-north-carolina-state-education-assistance-authority-acfr-fy23/#document/p21/a2622695" target="_blank" rel="noopener" data-cms-ai="0">alongside</a> K-12 funding in filings submitted to the federal government by the North Carolina State Education Assistance Authority. Given the NCSEAA’s broad interests, information relevant to NCSEAA — and therefore North Carolina public universities — is excluded from this analysis. Similarly, because financial information relevant to West Virginia University and its sister institutions were incorporated within the filing prepared for the <a class="Link" href="https://www.documentcloud.org/documents/25515857-west-virginia-acfr-fy23/#document/p84/a2622696" target="_blank" rel="noopener" data-cms-ai="0">entirety</a> of the state of West Virginia, <i>The Chronicle</i> excluded such information from this analysis as well.</p>
 

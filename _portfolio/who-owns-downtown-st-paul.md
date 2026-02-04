@@ -11,24 +11,30 @@ link:
   text:
   url:
 tags:
-- portfolio
+- business-reporting
+- collaboration
+- news-writing-editing
+- print-visuals
+- project-management
+- self-made-datasets
+- writing-for-mobile
 - adobe-illustrator
 - adobe-photoshop
-- carto
-- tableau
-- qgis
-- geodatabase-creation
-- digital-cartography
-- spatial-analysis
-- dashboard-development
-- adobe-photoshop
-- print-visuals
 - gis-records
+- press-reader
 - property-lien-records
-- project-management
-- collaboration
-- business-reporitng
-- news-writing-editing
+- us-uk-canada-business-records
+- lexisnexis-services
+- newsbank
+- open-refine
+- carto
+- dashboard-development
+- digital-cartography
+- geodatabase-creation
+- geoprocessing
+- qgis
+- spatial-analysis
+- tableau
 layout: portfolio_wide
 author: Dan Bauman, Sarah Horner, & Tad Vezner
 ---

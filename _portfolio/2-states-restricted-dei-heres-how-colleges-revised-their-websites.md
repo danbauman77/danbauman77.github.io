@@ -11,10 +11,23 @@ link:
   text:
   url:
 tags: 
-- portfolio
+- cloud-based-database-admin
+- heroku
+- postgresql
+- relational-database-admin
+- research-methodologies
+- sequel-ace
+- text-mining
+- webhooks
+- collaboration
+- developer-tools
 - higher-ed-reporting
 - news-writing-editing
-- business-reporting
+- project-management
+- self-made-datasets
+- topical-enterprise
+- ruby
+- webpage-monitoring
 layout: portfolio
 author: Adrienne Lu and Dan Bauman
 republished:

@@ -11,22 +11,27 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
-- business-reporting
-- legal-reporting
-- deadline-breaking-news
-- writing-for-mobile
-- blogging
-- ipeds
 - r
-- datawrapper
+- mysql
+- sql
+- ipeds
+- relational-database-admin
 - research-methodologies
-- emma-filings
-- financial-statements
-- documentcloud
+- blogging-plus-live-blogging
+- business-reporting
 - collaboration
+- deadline-breaking-news
+- higher-ed-reporting
+- legal-reporting
+- news-writing-editing
+- writing-for-mobile
+- documentcloud
+- emma-filings
+- federal-state-court-records
+- federal-state-procurement
+- financial-statements
+- fsa-enforcement-records
+- datawrapper
 layout: portfolio
 author: Eric Kelderman and Dan Bauman
 republished:

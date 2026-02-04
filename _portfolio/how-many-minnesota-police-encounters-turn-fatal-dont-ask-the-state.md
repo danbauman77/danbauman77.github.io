@@ -11,26 +11,31 @@ link:
   text:
   url:
 tags:
-- portfolio
-- tableau
-- self-made-datasets
-- crime-policing-records
-- project-management
-- news-writing-editing
-- legal-reporting
+- research-methodologies
+- text-mining
 - collaboration
-- writing-for-mobile
+- crime-police-reporting
 - deadline-breaking-news
-- dashboard-development
 - investigative-projects
+- legal-reporting
+- news-writing-editing
+- project-management
+- self-made-datasets
+- topical-enterprise
+- crime-policing-records
+- federal-state-court-records
+- targeted-foia
+- lexisnexis-services
+- newsbank
+- dashboard-development
+- tableau
 layout: portfolio_wide
 author: Tad Vezner and Dan Bauman
 ---
 
-<span style="background-color: black; color: white; font-weight: bold;">&nbsp;Originally published by</span><span style="color: #edb713; font-weight: bold; background-color: black;"><em> Saint Paul Pioneer Press </em></span><span style="font-weight: bold; background-color: black; color:white;">at</span><a style="font-weight: bold; background-color: black;" href=" https://www.twincities.com/2015/11/17/how-many-minnesota-police-encounters-turn-fatal-dont-ask-the-state/ " target="_blank" rel="noopener noreferrer"> https://www.twincities.com/2015/11/17/how-many-minnesota-police-encounters-turn-fatal-dont-ask-the-state/&nbsp;</a> <a style="font-weight: bold; background-color: black;" href=" /assets/media/archive/how-many-minnesota-police-encounters-turn-fatal-dont-ask-the-state.pdf " target="_blank" rel="noopener noreferrer">&nbsp;[Archived]&nbsp;</a>&nbsp;<a style="font-weight: bold; background-color: black;" href="https://web.archive.org/web/20160220094220/http://www.twincities.com/2015/11/17/police-shooting-in-minnesota-2004-present" target="_blank" rel="noopener noreferrer">&nbsp;[Archived]&nbsp;</a></p>
+<span style="background-color: black; color: white; font-weight: bold;">&nbsp;Originally published by</span><span style="color: #edb713; font-weight: bold; background-color: black;"><em> Saint Paul Pioneer Press </em></span><span style="font-weight: bold; background-color: black; color:white;">at</span><a style="font-weight: bold; background-color: black;" href=" https://www.twincities.com/2015/11/17/how-many-minnesota-police-encounters-turn-fatal-dont-ask-the-state/ " target="_blank" rel="noopener noreferrer"> https://www.twincities.com/2015/11/17/how-many-minnesota-police-encounters-turn-fatal-dont-ask-the-state/&nbsp;</a> <a style="font-weight: bold; background-color: black;" href=" /assets/media/archive/how-many-minnesota-police-encounters-turn-fatal-dont-ask-the-state.pdf " target="_blank" rel="noopener noreferrer">&nbsp;[Archived]&nbsp;</a>&nbsp;<a style="font-weight: bold; background-color: black;" href="https://web.archive.org/web/20160220094220/http://www.twincities.com/2015/11/17/police-shooting-in-minnesota-2004-present" target="_blank" rel="noopener noreferrer">&nbsp;[Archived]&nbsp;</a><br>
 
-
-  <br><br><span style="background-color: black; color: white; font-weight: bold;">&nbsp;Reason for republication:</span>&nbsp;<span style="color: #edb713; font-weight: bold; background-color: black;">&nbsp;Degraded Assets&nbsp;</span><p>
+<span style="background-color: black; color: white; font-weight: bold;">&nbsp;Reason for republication:</span>&nbsp;<span style="color: #edb713; font-weight: bold; background-color: black;">&nbsp;Degraded Assets&nbsp;</span>
 
 <p style="color:black">Three years ago, a St. Paul teen was shot multiple times and killed by Woodbury police during a tense standoff. A tragic case of mistaken identity, police confused Mark Henderson for the gunman who had actually taken Henderson hostage.</p>
 

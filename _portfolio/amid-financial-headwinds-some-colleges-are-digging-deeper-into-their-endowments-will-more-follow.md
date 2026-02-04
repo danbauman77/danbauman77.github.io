@@ -11,17 +11,23 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
-- business-reporting
-- legal-reporting
-- documentcloud
-- emma-filings
-- financial-statements
-- credit-opinion
+- mysql
+- sql
 - ipeds
+- relational-database-admin
 - text-mining
+- business-reporting
+- higher-ed-reporting
+- legal-reporting
+- news-writing-editing
+- topical-enterprise
+- documentcloud
+- credit-opinion
+- emma-filings
+- federal-state-court-records
+- financial-statements
+- irs-form-990
+- state-charity-oversight-records
 layout: portfolio
 author: Dan Bauman
 republished:

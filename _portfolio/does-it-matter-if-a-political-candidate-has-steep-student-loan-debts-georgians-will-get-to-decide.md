@@ -11,13 +11,15 @@ link:
   text:
   url:
 tags: 
-- portfolio
+- text-mining
+- business-reporting
 - higher-ed-reporting
 - news-writing-editing
-- business-reporting
 - personal-finance-reporting
 - self-made-datasets
+- topical-enterprise
 - conflict-of-interest-filings
+- student-loan-filings
 layout: portfolio
 author: Dan Bauman
 republished:

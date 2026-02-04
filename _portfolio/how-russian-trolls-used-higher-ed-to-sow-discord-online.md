@@ -11,10 +11,23 @@ link:
   text:
   url:
 tags: 
-- portfolio
+- r
+- relational-database-admin
+- research-methodologies
+- sequel-ace
+- text-mining
+- collaboration
+- deadline-breaking-news
 - higher-ed-reporting
+- investigative-projects
+- legal-reporting
 - news-writing-editing
-- business-reporting
+- project-management
+- self-made-datasets
+- topical-enterprise
+- writing-for-mobile
+- federal-state-court-records
+- metadata-sleuthing
 layout: portfolio
 author: Dan Bauman
 republished:

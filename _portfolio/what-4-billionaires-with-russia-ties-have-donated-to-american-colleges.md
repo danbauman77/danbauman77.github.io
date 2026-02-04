@@ -11,12 +11,22 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
+- r
+- relational-database-admin
+- research-methodologies
+- text-mining
 - business-reporting
+- deadline-breaking-news
 - higher-ed-reporting
+- news-writing-editing
+- topical-enterprise
+- writing-for-mobile
+- documentcloud
+- fsa-enforcement-records
+- irs-form-990
+- press-reader
+- lexisnexis-services
+- newsbank
 layout: portfolio
 author: Nell Gluckman and Dan Bauman
 republished:

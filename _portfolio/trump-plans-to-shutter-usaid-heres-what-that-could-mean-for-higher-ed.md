@@ -11,27 +11,29 @@ link:
   text:
   url:
 tags:
-- portfolio
-- federal-state-procurement
-- usaspending-gov
-- sam-gov
-- fac-gov
-- fpds-gov
-- datawrapper
-- postgresql
 - cloud-based-database-admin
+- sql
 - navicat
-- federal-state-court-records
-- webscraping
-- developer-tools
-- api-powered-tool-development
+- postgresql
+- relational-database-admin
 - research-methodologies
 - business-reporting
+- deadline-breaking-news
+- developer-tools
 - higher-ed-reporting
 - legal-reporting
-- deadline-breaking-news
 - news-writing-editing
-- relational-database-admin
+- topical-enterprise
+- fac-gov
+- federal-state-court-records
+- federal-state-procurement
+- fpds-gov
+- sam-gov
+- usaspending-gov
+- api-powered-tool-development
+- open-refine
+- webscraping
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

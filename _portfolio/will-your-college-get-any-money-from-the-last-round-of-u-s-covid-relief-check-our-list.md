@@ -11,14 +11,17 @@ link:
   text:
   url:
 tags: 
-- portfolio
+- r
+- sql
+- business-reporting
+- deadline-breaking-news
 - higher-ed-reporting
 - news-writing-editing
-- deadline-breaking-news
-- business-reporting
-- datawrapper
-- adobe-acrobat
+- topical-enterprise
 - writing-for-mobile
+- adobe-acrobat
+- federal-state-procurement
+- datawrapper
 layout: portfolio
 author: Dan Bauman 
 republished:

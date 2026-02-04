@@ -11,15 +11,15 @@ link:
   text:
   url:
 tags: 
-- portfolio
+- deadline-breaking-news
 - higher-ed-reporting
+- legal-reporting
 - news-writing-editing
-- business-reporting
 - documentcloud
 - accreditor-records
 - credit-opinion
-- legal-reporting
 - federal-state-court-records
+- financial-statements
 layout: portfolio
 author: Dan Bauman
 republished:

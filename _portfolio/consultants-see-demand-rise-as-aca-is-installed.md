@@ -11,10 +11,9 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- news-writing-editing
 - business-reporting
-- datawrapper
+- news-writing-editing
+- writing-for-mobile
 layout: portfolio
 author: Dan Bauman
 republished:

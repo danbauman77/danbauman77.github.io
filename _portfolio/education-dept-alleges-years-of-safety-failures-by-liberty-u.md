@@ -11,12 +11,16 @@ link:
   text:
   url:
 tags:
-- portfolio
-- documentcloud
-- emma-filings
-- financial-statements
-- business-reporting
+- collaboration
+- deadline-breaking-news
 - higher-ed-reporting
+- investigative-projects
+- legal-reporting
+- news-writing-editing
+- project-management
+- crime-policing-records
+- federal-state-court-records
+- fsa-enforcement-records
 layout: portfolio
 author: Dan Bauman and Michael Vasquez
 republished:

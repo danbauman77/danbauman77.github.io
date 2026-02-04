@@ -11,15 +11,16 @@ link:
   text:
   url:
 tags: 
-- portfolio
+- r
+- ipeds
+- statistical-analysis
+- business-reporting
 - higher-ed-reporting
 - news-writing-editing
-- business-reporting
 - personal-finance-reporting
+- topical-enterprise
 - bls-estimates
-- ipeds
 - datawrapper
-- r
 layout: portfolio
 author: Dan Bauman
 republished:

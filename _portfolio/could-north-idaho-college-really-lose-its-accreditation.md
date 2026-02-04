@@ -11,17 +11,16 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
+- research-methodologies
+- statistical-analysis
 - business-reporting
+- higher-ed-reporting
+- legal-reporting
+- news-writing-editing
 - documentcloud
 - accreditor-records
 - credit-opinion
-- legal-reporting
 - federal-state-court-records
-- statistical-analysis
-- r
 layout: portfolio
 author: Dan Bauman
 republished:
@@ -79,7 +78,7 @@ republished:
 
 <p style="color:black">Ironically, North Idaho College’s decision to place Swayne on leave gave rise to new anxieties about its accreditation.</p>
 
-<p style="color:black">On December 17, NWCCU penned a <a class="Link" href="https://www.nic.edu/modules/images/websites/159/file/NIC_Letter_12172022-UA.pdf" target="_blank" rel="noopener" data-cms-ai="0">letter</a> to the college’s leadership, raising for the first time the prospect that a “show-cause” order could be issued against the institution for its ongoing lack of compliance with the accreditor’s policies. “Show-cause” orders are a relative rarity in higher education, and are almost never levied against public institutions like North Idaho College.</p>
+<p style="color:black">On December 17, NWCCU penned a <a class="Link" href="https://web.archive.org/web/20221223224209/https://www.nic.edu/modules/images/websites/159/file/NIC_Letter_12172022-UA.pdf" target="_blank" rel="noopener" data-cms-ai="0">letter</a> to the college’s leadership, raising for the first time the prospect that a “show-cause” order could be issued against the institution for its ongoing lack of compliance with the accreditor’s policies. “Show-cause” orders are a relative rarity in higher education, and are almost never levied against public institutions like North Idaho College.</p>
 
 <p style="color:black">According to a <i>Chronicle</i> analysis, of the 745 “show-cause” <a class="Link" href="https://ope.ed.gov/dapip/#/download-data-files" target="_blank" rel="noopener" data-cms-ai="0">orders</a> issued by institutional accreditors since 2016 and on file with the Department of Education, only two mainland public institutions of higher education have ever received such a sanction: Cheyney University of Pennsylvania, a four-year historically black university which had <a class="Link" href="https://www.chronicle.com/article/how-cheyney-u-was-pulled-back-from-the-brink/" data-cms-ai="0">struggled</a> financially in the past (Cheyney’s accreditor has since <a class="Link" href="https://www.msche.org/institution/0480/" target="_blank" rel="noopener" data-cms-ai="0">removed</a> all sanctions against it); and Learey Technical College, a Florida vocational school that is now a part of the Hillsborough County Public Schools system. (All 11 campuses of the University of Puerto Rico were also issued “show-cause” findings in early 2019 after each <a class="Link" href="https://www.msche.org/2019/01/10/middle-states-commission-on-higher-education-puts-11-institutions-of-the-university-of-puerto-rico-on-show-cause/" target="_blank" rel="noopener" data-cms-ai="0">failed</a> to submit certain financial and regulatory items to the group’s accreditor).</p>
 

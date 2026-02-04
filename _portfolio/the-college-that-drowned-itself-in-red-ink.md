@@ -11,29 +11,38 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- award-winning
-- higher-ed-reporting
-- news-writing-editing
-- business-reporting
-- legal-reporting
-- deadline-breaking-news
-- ipeds
-- navicat
-- sql
 - mysql
-- datawrapper
+- sql
+- ipeds
 - relational-database-admin
-- documentcloud
-- financial-statements
-- emma-filings
-- bankruptcy-court-records
-- accreditor-records
-- webpage-monitoring
-- form-990
-- property-lien-records
+- sequel-ace
 - text-mining
+- business-reporting
+- deadline-breaking-news
+- higher-ed-reporting
+- investigative-projects
+- legal-reporting
+- news-writing-editing
+- project-management
+- self-made-datasets
+- sports-reporting
+- topical-enterprise
+- award-winning
+- documentcloud
+- accreditor-records
 - athletics-data
+- bankruptcy-court-records
+- consumer-protection-filings
+- emma-filings
+- federal-state-court-records
+- financial-statements
+- fsa-enforcement-records
+- irs-form-990
+- property-lien-records
+- targeted-foia
+- us-uk-canada-business-records
+- webpage-monitoring
+- datawrapper
 layout: portfolio
 author: Dan Bauman
 republished:

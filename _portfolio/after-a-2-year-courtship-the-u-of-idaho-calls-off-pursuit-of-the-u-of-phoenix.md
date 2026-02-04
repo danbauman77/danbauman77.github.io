@@ -11,18 +11,17 @@ link:
   text:
   url:
 tags: 
-- portfolio
-- higher-ed-reporting
-- news-writing-editing
 - business-reporting
-- form-1023
 - deadline-breaking-news
-- documentcloud
-- sec-filings
-- consumer-protection-filings
-- writing-for-mobile
+- higher-ed-reporting
 - legal-reporting
+- news-writing-editing
+- writing-for-mobile
+- documentcloud
+- consumer-protection-filings
 - credit-opinion
+- irs-form-1023
+- sec-filings
 layout: portfolio
 author: Dan Bauman
 republished:
