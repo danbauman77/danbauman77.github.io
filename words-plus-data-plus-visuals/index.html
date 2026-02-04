@@ -17,6 +17,111 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:400,700,300">
   
+  <style>
+    /* Responsive Grid CSS - Desktop first approach */
+    
+    /* Desktop: 3 columns (default, >1024px) */
+    #workGrid {
+      grid-template-columns: repeat(3, 1fr) !important;
+    }
+    
+    /* Tablet: 2 columns (768px to 1024px) */
+    @media (max-width: 1024px) {
+      #workGrid {
+        grid-template-columns: repeat(2, 1fr) !important;
+        padding: 25px 15px !important;
+      }
+    }
+    
+    /* Mobile: 1 column (<768px) */
+    @media (max-width: 767px) {
+      #workGrid {
+        grid-template-columns: 1fr !important;
+        padding: 20px 15px !important;
+        gap: 15px !important;
+      }
+    }
+    
+    /* Ensure items fill their grid cells */
+    .work-item {
+      width: 100% !important;
+      max-width: 100% !important;
+      min-width: 0 !important;
+    }
+    
+    /* Menu toggle styles */
+    .top-bar-section.closed {
+      display: none;
+    }
+    
+    .top-bar-section.open {
+      display: block;
+    }
+
+  .words-plus-data-plus-visuals .filter-btn { 
+    cursor: pointer; 
+    border: 2px solid #ddd; 
+    padding: 8px 12px; 
+    border-radius: 4px; 
+    background-color: #edb713; 
+    border-color: black; 
+    color: black;
+    text-align: center;
+  }
+  
+  .words-plus-data-plus-visuals .filter-btn.active { 
+    background: #be930f; 
+    color: #fff; 
+    border-color: #111; 
+  }
+
+/* Inner card styling */
+  .words-plus-data-plus-visuals .work-item .card {
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 2px 6px rgba(12,12,12,0.04);
+    display: block;
+    margin-bottom: 0;
+  }
+
+  /* Image container with fixed aspect ratio */
+  .words-plus-data-plus-visuals .work-item .project-link {
+    display: block;
+    position: relative;
+    width: 100%;
+    padding-bottom: 66.67%; /* 3:2 aspect ratio */
+    overflow: hidden;
+    background: #f5f5f5;
+  }
+
+  /* Image sizing with object-fit */
+  .words-plus-data-plus-visuals .work-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+
+  .words-plus-data-plus-visuals .work-meta {
+    padding: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: black;
+  }
+  
+  .words-plus-data-plus-visuals .work-meta h3 {
+    margin: 0;
+    font-size: 1rem;
+  }
+
+  </style>
 
   <link rel="canonical" href="http://localhost:4000/words-plus-data-plus-visuals/">
   <link rel="alternate" type="application/rss+xml" title="Dan Bauman" href="/feed.xml">
@@ -72,7 +177,7 @@
   </nav>
 </div>
 
-<div style="padding-bottom:10px; padding-top:0px; position: relative;" class='full parallax image-wrapper'>
+<div style="padding-bottom:10px; padding-top:0px; position: relative; margin-bottom: 20px;" class='full parallax image-wrapper'>
   <div class='smallerscreen'>
     <img style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;
     z-index: -1;" src=/assets/media/words-plus-data-plus-visuals.webp></img>
@@ -89,52 +194,63 @@
   <div class="large-12 columns large-centered">
     <super-main class="site-wrap">
       <section class="work-section">
-        <!-- FILTERS SECTION - distinct container -->
-        <header class="filters" style="background:white; padding: 20px 10px; margin-bottom: 30px; margin-top: 20px; clear: both;">
-          <div class="filters-row" style="display:flex; align-items:flex-start; gap:12px; flex-wrap: wrap;">
-            <div class="filters-label"></div>
-            <div class="filters-controls" role="tablist" aria-label="Filter projects" style="width: 100%;">
-              <div class="card" id="skills-and-competencies-journalism-reporting" style="margin-bottom: 20px;">
-                  <p style="line-height: 1.6;">
-                    <span style="color:black; font-size:18px; font-weight:bold; display: block; margin-bottom: 10px;">Filter on Journalism, Reporting, & Storytelling Skills:</span>
-                      <button type="button" class="filter-btn active" type="button" data-filter="*" aria-pressed="false">All</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="topical-enterprise" aria-pressed="false">Topical enterprise</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="business-reporting" aria-pressed="false">Business reporting</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="legal-reporting" aria-pressed="false">Legal reporting</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="deadline-breaking-news" aria-pressed="false">Deadline/breaking news</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="crime-police-reporting" aria-pressed="false">Crime/police reporting</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="personal-finance-reporting" aria-pressed="false">Personal finance reporting</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="sports-reporting" aria-pressed="false">Sports reporting</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="higher-ed-reporting" aria-pressed="false">Higher ed reporting</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="news-writing-editing" aria-pressed="false">News writing/editing</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="investigative-projects" aria-pressed="false">Investigative projects</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="project-management" aria-pressed="false">Project management</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="self-made-datasets" aria-pressed="false">Self-made datasets</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="writing-for-mobile" aria-pressed="false">Writing for mobile</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="collaboration" aria-pressed="false">Collaboration</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="blogging-plus-live-blogging" aria-pressed="false">Live-blogging</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="news-app" aria-pressed="false">News apps</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="print-visuals" aria-pressed="false">Print visuals</button>
-                      <button type="button" class="filter-btn" type="button" data-filter="developer-tools" aria-pressed="false">Developer tools</button>
-                </p>
-                <div class="shine"></div>
-                <div class="background">
-                  <div class="tiles">
-                    <div class="tile tile-1"></div>
-                  </div>
-                  <div class="line line-1"></div>
-                  <div class="line line-2"></div>
-                  <div class="line line-3"></div>
-                </div>
-              </div>
+        <!-- FILTERS SECTION - distinct container with borders -->
+        <div class="filters-container" style="background: white; border: 1px solid #ddd; border-radius: 8px; padding: 25px 20px; margin: 30px 0 50px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1); clear: both; position: relative; z-index: 5; width: 100%; box-sizing: border-box; display: block;">
+          <div style="width: 100%;">
+            <h3 style="color:black; font-size:18px; margin: 0 0 15px 0;">Filter</h3>
+            
+            <!-- Parent Category Buttons -->
+            <div style="display: flex; gap: 12px; margin-bottom: 20px; padding-bottom: 15px; border-bottom: 2px solid #ddd;">
+              <button type="button" class="parent-filter-btn active" data-parent="storytelling" style="padding: 8px 12px; background: black; color: white; border: 2px solid black; border-radius: 4px; cursor: pointer; transition: all 0.3s;">
+                Storytelling
+              </button>
+              <button type="button" class="parent-filter-btn" data-parent="data-science" style="padding: 8px 12px; background: white; color: black; border: 2px solid black; border-radius: 4px; cursor: pointer; transition: all 0.3s;">
+                Data Science
+              </button>
+            </div>
+            
+            <!-- Child Filter Buttons for Reporting & Writing (Group A) -->
+            <div id="filters-storytelling" class="child-filters" style="display: flex; flex-wrap: wrap; gap: 8px; width: 100%;">
+              <button type="button" class="filter-btn active" data-filter="*" data-parent="storytelling">All</button>
+              <button type="button" class="filter-btn" data-filter="award-winning" data-parent="storytelling">Award winning</button>
+              <button type="button" class="filter-btn" data-filter="topical-enterprise" data-parent="storytelling">Topical enterprise</button>
+              <button type="button" class="filter-btn" data-filter="business-reporting" data-parent="storytelling">Business reporting</button>
+              <button type="button" class="filter-btn" data-filter="legal-reporting" data-parent="storytelling">Legal reporting</button>
+              <button type="button" class="filter-btn" data-filter="deadline-breaking-news" data-parent="storytelling">Deadline/breaking news</button>
+              <button type="button" class="filter-btn" data-filter="crime-police-reporting" data-parent="storytelling">Crime/police reporting</button>
+              <button type="button" class="filter-btn" data-filter="personal-finance-reporting" data-parent="storytelling">Personal finance reporting</button>
+              <button type="button" class="filter-btn" data-filter="sports-reporting" data-parent="storytelling">Sports reporting</button>
+              <button type="button" class="filter-btn" data-filter="higher-ed-reporting" data-parent="storytelling">Higher ed reporting</button>
+              <button type="button" class="filter-btn" data-filter="news-writing-editing" data-parent="storytelling">News writing/editing</button>
+              <button type="button" class="filter-btn" data-filter="investigative-projects" data-parent="storytelling">Investigative projects</button>
+              <button type="button" class="filter-btn" data-filter="blogging-plus-live-blogging" data-parent="storytelling">Live-blogging</button>
+              <button type="button" class="filter-btn" data-filter="developer-tools" data-parent="storytelling">Developer tools</button>
+              <button type="button" class="filter-btn" data-filter="self-made-datasets" data-parent="storytelling">Self-made datasets</button>
+              <button type="button" class="filter-btn" data-filter="project-management" data-parent="storytelling">Project management</button>
+              <button type="button" class="filter-btn" data-filter="news-app" data-parent="storytelling">News apps</button>
+              <button type="button" class="filter-btn" data-filter="collaboration" data-parent="storytelling">Collaboration</button>
+              <button type="button" class="filter-btn" data-filter="writing-for-mobile" data-parent="storytelling">Writing for mobile</button>
+              <button type="button" class="filter-btn" data-filter="print-visuals" data-parent="storytelling">Print visuals</button>
+            </div>
+            
+            <!-- Child Filter Buttons for Technical & Tools (Group B) -->
+            <div id="filters-data-science" class="child-filters" style="display: none; flex-wrap: wrap; gap: 8px; width: 100%;">
+              <button type="button" class="filter-btn active" data-filter="*" data-parent="data-science">All</button>
+              <button type="button" class="filter-btn" data-filter="developer-tools" data-parent="data-science">Developer tools</button>
+              <button type="button" class="filter-btn" data-filter="self-made-datasets" data-parent="data-science">Self-made datasets</button>
+              <button type="button" class="filter-btn" data-filter="project-management" data-parent="data-science">Project management</button>
+              <button type="button" class="filter-btn" data-filter="news-app" data-parent="data-science">News apps</button>
+              <button type="button" class="filter-btn" data-filter="collaboration" data-parent="data-science">Collaboration</button>
+              <button type="button" class="filter-btn" data-filter="writing-for-mobile" data-parent="data-science">Writing for mobile</button>
+              <button type="button" class="filter-btn" data-filter="print-visuals" data-parent="data-science">Print visuals</button>
             </div>
           </div>
-        </header>
+        </div>
         <!-- END FILTERS SECTION -->
 
         <!-- WORK GRID SECTION - distinct container -->
-        <div class="work-grid" id="workGrid" aria-live="polite">
-          <div class="grid-sizer"></div>
+        <div class="work-grid" id="workGrid" aria-live="polite" style="display: grid !important; gap: 18px !important; width: 100% !important; max-width: 100% !important; background: #f9f9f9 !important; padding: 30px 20px !important; border: 1px solid #e0e0e0 !important; border-radius: 8px !important; margin: 0 0 40px 0 !important; position: relative !important; box-sizing: border-box !important; clear: both !important;">
+          <div class="grid-sizer" style="display: none !important; width: 0 !important; height: 0 !important;"></div>
 
             <article class="work-item" data-category="ipeds blogging-plus-live-blogging business-reporting collaboration deadline-breaking-news developer-tools higher-ed-reporting legal-reporting project-management self-made-datasets writing-for-mobile documentcloud federal-state-procurement fsa-enforcement-records ocr-records press-reader sam-gov usaspending-gov api-powered-tool-development open-refine" data-date="2025-10-15T01:01:00Z" data-image="/assets/media/600by400/donald-trump.webp" data-url="https://archive.ph/SjsYi"> <div class="card"> <a class="project-link" href="https://archive.ph/SjsYi"target="_blank"rel="noopener"> <img src="/assets/media/600by400/donald-trump.webp" alt="Live Updates: Tracking Trump's Higher Ed Agenda"/></a> <div class="work-meta"><h3><a class="visit" href="https://archive.ph/SjsYi" target="_blank" rel="noopener">Live Updates: Tracking Trump's Higher Ed Agenda</a></h3></div></div></article>
 
@@ -411,468 +527,255 @@
 <script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
 
-<!-- Retain other site scripts (if needed) -->
-<script src="/assets/javascripts/boot.js" type="text/javascript"></script>
-<script src="/assets/javascripts/app.js" type="text/javascript"></script>
-<script src="/assets/javascripts/wp.js" type="text/javascript"></script>
+<!-- Site scripts removed due to errors - replaced with simple implementations below -->
 
-  <!-- Isotope integration and filter wiring -->
+<!-- Simple menu toggle implementation -->
+<script>
+  // Simple menu toggle that works
+  document.addEventListener('DOMContentLoaded', function() {
+    var menuToggler = document.getElementById('menu-toggler');
+    var topBarSection = document.querySelector('.top-bar-section');
+    
+    if (menuToggler && topBarSection) {
+      menuToggler.addEventListener('click', function(e) {
+        e.preventDefault();
+        console.log('Menu toggle clicked');
+        topBarSection.classList.toggle('closed');
+        topBarSection.classList.toggle('open');
+      });
+      console.log('Simple menu toggle installed');
+    }
+  });
+</script>
+
+  <!-- CSS Grid integration with filter wiring (Isotope disabled) -->
 <script>
   (function () {
-    // Defensive DOM ready
-    function ready(fn) {
-      if (document.readyState !== 'loading') fn();
-      else document.addEventListener('DOMContentLoaded', fn);
-    }
-
-    ready(function () {
+    console.log('CSS Grid filter script with parent/child buttons starting...');
+    
+    // Wait for page to fully load
+    window.addEventListener('load', function() {
+      setTimeout(function() {
+        initializeFilters();
+      }, 250); // Delay to ensure other scripts are ready
+    });
+    
+    function initializeFilters() {
       var grid = document.getElementById('workGrid');
       if (!grid) {
-        console.error('workGrid not found — Isotope init aborted.');
+        console.error('workGrid not found — filter init aborted.');
         return;
       }
 
-      var filterButtons = Array.prototype.slice.call(document.querySelectorAll('.filter-btn'));
-      var clearBtn = document.getElementById('clearFilters');
+      var parentButtons = Array.prototype.slice.call(document.querySelectorAll('.parent-filter-btn'));
+      var allChildContainers = Array.prototype.slice.call(document.querySelectorAll('.child-filters'));
+      console.log('Found', parentButtons.length, 'parent buttons');
 
-      // helper to escape filter token for attribute selector
-      function esc(token) {
-        if (window.CSS && CSS.escape) return CSS.escape(token);
-        return token.replace(/"/g, '\\"');
-      }
+      // Get all work items
+      var items = Array.prototype.slice.call(grid.querySelectorAll('.work-item'));
+      console.log('Found', items.length, 'work items');
+      
+      // Track current state
+      var currentParent = 'storytelling'; // default
+      var currentFilter = '*'; // default
 
-      // Custom sorting function for date-based ordering
-      function getDateSortData(itemElem) {
-        var dateStr = itemElem.getAttribute('data-date');
-        if (!dateStr) return 0;
-        var date = new Date(dateStr);
-        return date.getTime();
-      }
-
-      // Build Isotope instance with date sorting
-      var iso = new Isotope(grid, {
-        itemSelector: '.work-item',
-        percentPosition: true,
-        layoutMode: 'masonry',
-        masonry: {
-          columnWidth: '.grid-sizer'
-        },
-        transitionDuration: '380ms',
-        getSortData: {
-          date: getDateSortData
-        },
-        sortBy: 'date',
-        sortAscending: false // newest first (set to true for oldest first)
-      });
-
-      // Read initial filter token from URL but don't apply it before we compute the full grid height
-      function readFilterFromUrl() {
-        var url = new URL(window.location.href);
-        var raw = url.searchParams.get('filters') || '';
-        if (!raw && location.hash) {
-          var m = location.hash.match(/filters=([^&]+)/);
-          if (m) raw = decodeURIComponent(m[1]);
-        }
-        if (!raw) return null;
-        return raw.split(',').map(function (s) { return s.trim(); }).filter(Boolean)[0] || null;
-      }
-      var initialToken = readFilterFromUrl();
-
-      // imagesLoaded integration — ensures correct layout once images load
-      function afterImages(fn) {
-        if (typeof imagesLoaded !== 'undefined') {
-          imagesLoaded(grid, function () {
-            // ensure isotope lays out after images
-            iso.layout();
-            fn();
-          });
-        } else {
-          // fallback: trigger layout after full window load
-          window.addEventListener('load', function () {
-            iso.layout();
-            fn();
-          });
-        }
-      }
-
-      // Compute and set the persistent min-height equal to the "full" grid height (when all items are visible).
-      function setPersistentGridMinHeight(callback) {
-        // ensure all items are shown so we can measure full height
-        iso.arrange({ filter: '*' });
-        // wait for arrange to complete
-        var handler = function () {
-          // measure and set min-height
-          var h = grid.getBoundingClientRect().height;
-          grid.style.minHeight = h + 'px';
-          // remove listener
-          iso.off ? iso.off('arrangeComplete', handler) : (iso.once && iso.once('arrangeComplete', handler));
-          if (typeof callback === 'function') callback();
-        };
-        if (iso.once) iso.once('arrangeComplete', handler);
-        else if (iso.on) {
-          iso.on('arrangeComplete', handler);
-          setTimeout(function() { iso.off && iso.off('arrangeComplete', handler); }, 600);
-        } else {
-          setTimeout(handler, 500);
-        }
-      }
-
-      // Update URL (history) with current filter token
-      function updateUrl(token) {
-        var url = new URL(window.location.href);
-        if (!token) {
-          url.searchParams.delete('filters');
-        } else {
-          url.searchParams.set('filters', token);
-        }
-        window.history.replaceState(null, '', url.toString());
-      }
-
-      // Convert filter token(s) to a CSS selector for Isotope
-      function isoSelectorFor(token) {
-        if (!token || token === '*') return '*';
-        return '[data-category*="' + esc(token) + '"]';
-      }
-
-      // Set UI active state for a given token
-      function setActiveButton(token) {
-        filterButtons.forEach(function (b) {
-          var f = b.getAttribute('data-filter') || '*';
-          var active = (token === null && f === '*') || (token !== null && f === token);
-          b.classList.toggle('active', active);
-          b.setAttribute('aria-pressed', active ? 'true' : 'false');
-        });
-      }
-
-      // Apply a filter token with date sorting maintained
-      function applyFilterToken(token) {
-        var selector = isoSelectorFor(token);
-        iso.arrange({ 
-          filter: selector,
-          sortBy: 'date',
-          sortAscending: false
-        });
-        updateUrl(token);
-      }
-
-      // Wire up button clicks (single-select)
-      filterButtons.forEach(function (btn) {
-        btn.addEventListener('click', function (ev) {
-          ev.preventDefault();
-          var filter = btn.getAttribute('data-filter') || '*';
-          setActiveButton(filter === '*' ? null : filter);
-          applyFilterToken(filter === '*' ? null : filter);
-        });
-      });
-
-      // Clear button handler if present
-      if (clearBtn) {
-        clearBtn.addEventListener('click', function (ev) {
-          ev.preventDefault();
-          setActiveButton(null);
-          applyFilterToken(null);
-        });
-      }
-
-      // Run sequence with date sorting applied
-      afterImages(function () {
-        setPersistentGridMinHeight(function () {
-          // Apply initial filter with date sorting
-          if (initialToken) {
-            var matchingBtn = document.querySelector('.filter-btn[data-filter="' + initialToken + '"]');
-            if (matchingBtn) {
-              setActiveButton(initialToken);
-              applyFilterToken(initialToken);
-            } else {
-              setActiveButton(null);
-              applyFilterToken(null);
-            }
+      // Function to show/hide child filter groups
+      function showChildFilters(parentValue) {
+        console.log('Showing child filters for parent:', parentValue);
+        
+        allChildContainers.forEach(function(container) {
+          var containerId = container.id;
+          if (containerId === 'filters-' + parentValue) {
+            container.style.display = 'flex';
           } else {
-            setActiveButton(null);
-            applyFilterToken(null);
+            container.style.display = 'none';
           }
         });
-      });
+        
+        currentParent = parentValue;
+      }
 
-      // ensure Isotope relayouts when window resizes (responsive) with date sorting maintained
-      var resizeTimeout;
-      window.addEventListener('resize', function () {
-        clearTimeout(resizeTimeout);
-        resizeTimeout = setTimeout(function () {
-          var currentFilter = (function () {
-            var active = document.querySelector('.filter-btn.active');
-            return active ? (active.getAttribute('data-filter') || '*') : '*';
-          })();
+      // Function to apply filter
+      function applyFilter(filterValue) {
+        console.log('Applying filter:', filterValue, 'in parent:', currentParent);
+        
+        if (filterValue === '*') {
+          // Show all items
+          items.forEach(function(item) {
+            item.style.removeProperty('display');
+            item.classList.remove('filter-hidden');
+          });
+          console.log('Showing all items');
+        } else {
+          // Filter items
+          var matchCount = 0;
+          items.forEach(function(item) {
+            var categories = item.getAttribute('data-category') || '';
+            var categoryArray = categories.split(' ');
+            
+            if (categoryArray.indexOf(filterValue) !== -1) {
+              // Show matching item
+              item.style.removeProperty('display');
+              item.classList.remove('filter-hidden');
+              matchCount++;
+            } else {
+              // Hide non-matching item
+              item.style.setProperty('display', 'none', 'important');
+              item.classList.add('filter-hidden');
+            }
+          });
+          console.log('Matched', matchCount, 'items for filter:', filterValue);
+        }
+        
+        currentFilter = filterValue;
+        
+        // Update URL
+        updateUrl(currentParent, filterValue);
+      }
 
-          iso.arrange({ filter: '*' });
-          var onceHandler = function () {
-            var h = grid.getBoundingClientRect().height;
-            grid.style.minHeight = h + 'px';
-            // reapply previous filter with date sorting
-            iso.arrange({ 
-              filter: isoSelectorFor(currentFilter === '*' ? null : currentFilter),
-              sortBy: 'date',
-              sortAscending: false
+      // Function to update URL with both parent and child filter
+      function updateUrl(parentValue, filterValue) {
+        var url = new URL(window.location.href);
+        
+        if (!filterValue || filterValue === '*') {
+          // Just show parent category in URL
+          url.searchParams.set('category', parentValue);
+          url.searchParams.delete('filter');
+        } else {
+          // Show both parent and child filter
+          url.searchParams.set('category', parentValue);
+          url.searchParams.set('filter', filterValue);
+        }
+        
+        window.history.replaceState({}, '', url.toString());
+      }
+
+      // Read parent and filter from URL
+      function readFromUrl() {
+        var url = new URL(window.location.href);
+        var parent = url.searchParams.get('category') || 'storytelling';
+        var filter = url.searchParams.get('filter') || '*';
+        return { parent: parent, filter: filter };
+      }
+
+      // Use single delegated event handler on filters container
+      var filtersContainer = document.querySelector('.filters-container');
+      console.log('Filters container found:', filtersContainer ? 'YES' : 'NO');
+      
+      if (filtersContainer) {
+        console.log('Attaching delegated click handler to filters container');
+        
+        filtersContainer.addEventListener('click', function(e) {
+          console.log('Click detected in filters container, target:', e.target.className);
+          
+          // Stop propagation for ALL clicks inside filters container
+          e.stopPropagation();
+          
+          // Handle parent button clicks
+          var parentBtn = e.target.closest('.parent-filter-btn');
+          if (parentBtn) {
+            console.log('Parent button detected');
+            var parentValue = parentBtn.getAttribute('data-parent');
+            console.log('Parent button clicked:', parentValue);
+            
+            // Update parent button styles
+            parentButtons.forEach(function (b) {
+              if (b.getAttribute('data-parent') === parentValue) {
+                b.classList.add('active');
+                b.style.background = 'black';
+                b.style.color = 'white';
+              } else {
+                b.classList.remove('active');
+                b.style.background = 'white';
+                b.style.color = 'black';
+              }
             });
-            if (iso.once) iso.once('arrangeComplete', null);
-          };
-          if (iso.once) iso.once('arrangeComplete', onceHandler);
-          else iso.on && iso.on('arrangeComplete', onceHandler);
+            
+            // Show appropriate child filters
+            showChildFilters(parentValue);
+            
+            // Reset to "All" filter when switching parents
+            applyFilter('*');
+            
+            // Update active state on child buttons
+            var activeContainer = document.getElementById('filters-' + parentValue);
+            if (activeContainer) {
+              var childButtons = activeContainer.querySelectorAll('.filter-btn');
+              childButtons.forEach(function(btn) {
+                if (btn.getAttribute('data-filter') === '*') {
+                  btn.classList.add('active');
+                } else {
+                  btn.classList.remove('active');
+                }
+              });
+            }
+            return;
+          }
+          
+          // Handle child filter button clicks
+          var filterBtn = e.target.closest('.filter-btn');
+          if (filterBtn) {
+            console.log('Filter button detected');
+            var filterValue = filterBtn.getAttribute('data-filter');
+            var parentValue = filterBtn.getAttribute('data-parent');
+            
+            console.log('Child filter clicked:', filterValue, 'in parent:', parentValue);
+            
+            // Update active state
+            var container = filterBtn.closest('.child-filters');
+            if (container) {
+              var siblings = container.querySelectorAll('.filter-btn');
+              siblings.forEach(function(btn) {
+                btn.classList.remove('active');
+              });
+              filterBtn.classList.add('active');
+            }
+            
+            // Apply the filter
+            applyFilter(filterValue);
+          }
+        });
+      }
 
-          iso.layout();
-        }, 180);
+      // Apply initial state from URL
+      var initialState = readFromUrl();
+      console.log('Initial state from URL:', initialState);
+      
+      // Set parent button state
+      parentButtons.forEach(function(btn) {
+        if (btn.getAttribute('data-parent') === initialState.parent) {
+          btn.classList.add('active');
+          btn.style.background = 'black';
+          btn.style.color = 'white';
+        } else {
+          btn.classList.remove('active');
+          btn.style.background = 'white';
+          btn.style.color = 'black';
+        }
       });
+      
+      // Show correct child filters
+      showChildFilters(initialState.parent);
+      
+      // Set child button state and apply filter
+      var activeContainer = document.getElementById('filters-' + initialState.parent);
+      if (activeContainer) {
+        var childButtons = activeContainer.querySelectorAll('.filter-btn');
+        childButtons.forEach(function(btn) {
+          if (btn.getAttribute('data-filter') === initialState.filter) {
+            btn.classList.add('active');
+          } else {
+            btn.classList.remove('active');
+          }
+        });
+      }
+      
+      applyFilter(initialState.filter);
 
-      // Expose iso for debugging
-      window.isotopePortfolio = iso;
-    });
+      console.log('CSS Grid filter setup complete with parent/child functionality');
+    } // end initializeFilters
   })();
 </script>
 
 </body>
-</html>
-
-
-<style>
-
-  /* Global box-sizing */
-  *, *:before, *:after { 
-    box-sizing: border-box; 
-  }
-
-  /* SECTION 1: Parallax Header - distinct container */
-  .full.parallax.image-wrapper {
-    min-height: 300px;
-    margin-bottom: 50px;
-    position: relative;
-    display: block;
-    width: 100%;
-    clear: both;
-    z-index: 1;
-  }
-  
-  /* SECTION 2: Main content wrapper */
-  .words-plus-data-plus-visuals .row {
-    position: relative;
-    display: block;
-    width: 100%;
-    clear: both;
-    z-index: 2;
-  }
-  
-  /* SECTION 3: Work section wrapper */
-  .words-plus-data-plus-visuals .work-section {
-    background: white;
-    padding: 0;
-    margin-bottom: 40px;
-    clear: both;
-    margin-top: 0;
-    position: relative;
-    display: block;
-    width: 100%;
-  }
-
-  /* SECTION 4: Filters - distinct container */
-  .words-plus-data-plus-visuals .filters {
-    position: relative;
-    display: block;
-    width: 100%;
-    clear: both;
-    z-index: 3;
-  }
-  
-  @media (max-width: 768px) {
-    .full.parallax.image-wrapper {
-      min-height: 200px;
-      margin-bottom: 60px;
-    }
-    
-    .filters {
-      padding: 15px 5px !important;
-    }
-    
-    .filters-row {
-      flex-direction: column !important;
-      align-items: flex-start !important;
-    }
-    
-    .filter-btn {
-      font-size: 14px;
-      margin: 3px;
-      padding: 6px 10px;
-    }
-    
-    .card p span {
-      font-size: 16px !important;
-    }
-  }
-  
-  @media (max-width: 480px) {
-    .full.parallax.image-wrapper {
-      min-height: 150px;
-      margin-bottom: 70px;
-    }
-    
-    .filter-btn {
-      font-size: 12px;
-      padding: 5px 8px;
-    }
-  }
-
-  /* --- Page-specific Isotope grid styles --- */
-  
-  /* SECTION 5: Work grid container - distinct container */
-  .words-plus-data-plus-visuals .work-grid {
-    position: relative;
-    display: block;
-    width: 100%;
-    background: #f9f9f9;
-    padding: 20px 10px;
-    border: 1px solid #e0e0e0;
-    border-radius: 8px;
-    margin-top: 0;
-    margin-bottom: 40px;
-    overflow: hidden;
-    clear: both;
-    z-index: 4;
-  }
-
-  /* clearfix so floated items don't overlap following content */
-  .words-plus-data-plus-visuals .work-grid::after {
-    content: "";
-    display: block;
-    clear: both;
-  }
-
-  /* grid-sizer used by Isotope for percentage columns */
-  .words-plus-data-plus-visuals .work-grid .grid-sizer {
-    width: 33.3333%;
-  }
-
-  /* Work item sizing - must match grid-sizer */
-  .words-plus-data-plus-visuals .work-item {
-    width: 33.3333%;
-    float: left;
-    padding: 0 9px 18px 9px;
-    box-sizing: border-box;
-    opacity: 1;
-    transform: translateY(0) scale(1);
-    transition: opacity 360ms ease, transform 360ms ease;
-  }
-
-  /* Inner card styling */
-  .words-plus-data-plus-visuals .work-item .card {
-    background: #fff;
-    border: 1px solid #eee;
-    border-radius: 6px;
-    overflow: hidden;
-    box-shadow: 0 2px 6px rgba(12,12,12,0.04);
-    display: block;
-    margin-bottom: 0;
-  }
-
-  /* Image container with fixed aspect ratio */
-  .words-plus-data-plus-visuals .work-item .project-link {
-    display: block;
-    position: relative;
-    width: 100%;
-    padding-bottom: 66.67%; /* 3:2 aspect ratio */
-    overflow: hidden;
-    background: #f5f5f5;
-  }
-
-  /* Image sizing with object-fit */
-  .words-plus-data-plus-visuals .work-item img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center;
-    display: block;
-  }
-
-  .words-plus-data-plus-visuals .work-meta {
-    padding: 12px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background: black;
-  }
-  
-  .words-plus-data-plus-visuals .work-meta h3 {
-    margin: 0;
-    font-size: 1rem;
-  }
-
-  /* Responsive column widths */
-  @media (max-width: 880px) {
-    .words-plus-data-plus-visuals .work-grid .grid-sizer,
-    .words-plus-data-plus-visuals .work-item { 
-      width: 50%; 
-    }
-  }
-  
-  @media (max-width: 520px) {
-    .words-plus-data-plus-visuals .work-grid .grid-sizer,
-    .words-plus-data-plus-visuals .work-item { 
-      width: 100%; 
-    }
-  }
-
-  /* Filter controls */
-  .words-plus-data-plus-visuals .filters-controls { 
-    display: flex; 
-    gap: 8px; 
-    flex-wrap: wrap; 
-    align-items: center; 
-  }
-  
-  .words-plus-data-plus-visuals .filter-btn { 
-    cursor: pointer; 
-    border: 2px solid #ddd; 
-    padding: 8px 12px; 
-    border-radius: 4px; 
-    background-color: #edb713; 
-    border-color: black; 
-    color: black;
-    text-align: center;
-  }
-  
-  .words-plus-data-plus-visuals .filter-btn.active { 
-    background: #111; 
-    color: #fff; 
-    border-color: #111; 
-  }
-
-  /* Footer safety */
-  .words-plus-data-plus-visuals footer, 
-  .words-plus-data-plus-visuals #footer { 
-    position: relative; 
-    z-index: 1; 
-  }
-
-</style>
-
-<script src="/bower_components/jquery/dist/jquery.js" type="text/javascript"></script>
-<script src="/bower_components/imagesloaded/imagesloaded.pkgd.js" type="text/javascript"></script>
-<script src="/bower_components/masonry/dist/masonry.pkgd.min.js" type="text/javascript"></script>
-<script src="/bower_components/foundation/js/foundation.min.js" type="text/javascript"></script>
-<script src="/assets/javascripts/jquery.sequence-min.js" type="text/javascript"></script>
-<script src="/assets/javascripts/slick.patched.js" type="text/javascript"></script>
-<script src="/assets/javascripts/jquery.countTo.js" type="text/javascript"></script>
-<script src="/assets/javascripts/jquery.appear.js" type="text/javascript"></script>
-<script src="/assets/javascripts/jquery.validate.js" type="text/javascript"></script>
-<script src="/assets/javascripts/jquery.easing.1.3.js" type="text/javascript"></script>
-<script src="/assets/javascripts/modernizr.foundation.js" type="text/javascript"></script>
-<script src="/assets/javascripts/terrific-1.1.1.js" type="text/javascript"></script>
-<script src="/assets/javascripts/jquery.url.js" type="text/javascript"></script>
-<script src="/assets/javascripts/jquery.cookie.js" type="text/javascript"></script>
-<script src="/assets/javascripts/app.js" type="text/javascript"></script>
-<script src="/assets/javascripts/boot.js" type="text/javascript"></script>
-<script src="/assets/javascripts/wp.js" type="text/javascript"></script>
-
-
-  </body>
 </html>
