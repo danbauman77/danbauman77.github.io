@@ -31,7 +31,7 @@ republished:
   archiveurl: "/assets/media/archive/hate-crimes-on-campuses-are-rising-new-fbi-data-show.pdf"
 ---
 
-<p style="color:black"><em>Updated (11/16/2018, 3:16 p.m.) with comment from the Anti-Defamation League.</em></p>
+<p style="color:black"><em><b>Updated (11/16/2018, 3:16 p.m.)</b> with comment from the Anti-Defamation League.</em></p>
 
 <p style="color:black">The killing of Richard Collins III stands out among the hate crimes documented in statistics released this week by the Federal Bureau of Investigation.</p>
 
