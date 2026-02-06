@@ -1,7 +1,7 @@
 ---
 title: Hate Crimes on Campuses Are Rising, New FBI Data Show
 image:
-  path: "/assets/media/fbi.webp"
+  path: "/assets/media/fbi-mn.webp"
   caption: Tony Webster via Wikimedia Commons
   sourceurl: https://commons.wikimedia.org/wiki/File:FBI_(Federal_Bureau_of_Investigation)_Minneapolis_Field_Office_(48343731902).jpg
 categories:
