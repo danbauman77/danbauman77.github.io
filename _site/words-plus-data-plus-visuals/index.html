@@ -87,11 +87,25 @@
 
 
 <style>
-    /* Responsive Grid CSS - Desktop first approach */
+    /* Pure CSS Grid Layout */
     
-    /* Desktop: 3 columns (default, >1024px) */
+    /* Work grid container */
     #workGrid {
+      display: grid !important;
       grid-template-columns: repeat(3, 1fr) !important;
+      gap: 18px !important;
+      position: relative !important;
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+    
+    /* Work items with transitions */
+    .work-item {
+      width: 100% !important;
+      margin: 0 !important;
+      box-sizing: border-box !important;
+      transition: opacity 0.4s ease !important;
+      opacity: 1;
     }
     
     /* Tablet: 2 columns (768px to 1024px) */
@@ -110,13 +124,7 @@
         gap: 15px !important;
       }
     }
-    
-    /* Ensure items fill their grid cells */
-    .work-item {
-      width: 100% !important;
-      max-width: 100% !important;
-      min-width: 0 !important;
-    }
+
     
     /* Responsive parent filter buttons */
     .parent-filter-btn {
@@ -403,7 +411,7 @@
         <!-- END FILTERS SECTION -->
 
         <!-- WORK GRID SECTION - distinct container -->
-        <div class="work-grid" id="workGrid" aria-live="polite" style="display: grid !important; gap: 18px !important; width: 100% !important; max-width: 100% !important; background: #f9f9f9 !important; padding: 30px 20px !important; border: 1px solid #e0e0e0 !important; border-radius: 8px !important; margin: 0 0 40px 0 !important; position: relative !important; box-sizing: border-box !important; clear: both !important;">
+        <div class="work-grid" id="workGrid" aria-live="polite" style="width: 100% !important; max-width: 100% !important; background: #f9f9f9 !important; padding: 30px 20px !important; border: 1px solid #e0e0e0 !important; border-radius: 8px !important; margin: 0 0 40px 0 !important; position: relative !important; box-sizing: border-box !important; clear: both !important;">
           <div class="grid-sizer" style="display: none !important; width: 0 !important; height: 0 !important;"></div>
 
             <article class="work-item" data-category="ipeds blogging-plus-live-blogging business-reporting collaboration deadline-breaking-news developer-tools higher-ed-reporting legal-reporting project-management self-made-datasets writing-for-mobile documentcloud federal-state-procurement fsa-enforcement-records ocr-records press-reader sam-gov usaspending-gov api-powered-tool-development open-refine" data-date="2025-10-15T01:01:00Z" data-image="/assets/media/600by400/donald-trump.webp" data-url="https://archive.ph/SjsYi"> <div class="card"> <a class="project-link" href="https://archive.ph/SjsYi" target="_blank" rel="noopener"> <img src="/assets/media/600by400/donald-trump.webp" alt="Live Updates: Tracking Trump's Higher Ed Agenda"/></a> <div class="work-meta"><h3><a class="visit" href="https://archive.ph/SjsYi" target="_blank" rel="noopener">Live Updates: Tracking Trump's Higher Ed Agenda</a></h3></div></div></article>
@@ -664,18 +672,6 @@
   </div>
 </div>
 
-<div class="full no-padding dark">
-  <div class="four spacing"></div>
-  <div id="footer" class='centered-text'>
-    <div class='row'>
-      <div class='large-12 columns'>
-        <h4>©2026 Dan Bauman. All rights reserved.</h4>
-      </div>
-    </div>
-  </div>
-  <div class="four spacing"></div>
-</div>
-
 <!-- Load required libraries (ensure these load before the init script below) -->
 <script src="/bower_components/jquery/dist/jquery.js" type="text/javascript"></script>
 
@@ -704,16 +700,14 @@
   });
 </script>
 
-  <!-- CSS Grid integration with filter wiring (Isotope disabled) -->
+  <!-- Pure CSS Grid with manual filtering (Isotope removed) -->
 <script>
   (function () {
-    console.log('CSS Grid filter script with parent/child buttons starting...');
+    console.log('Pure CSS Grid filter script starting...');
     
     // Wait for page to fully load
     window.addEventListener('load', function() {
-      setTimeout(function() {
-        initializeFilters();
-      }, 250); // Delay to ensure other scripts are ready
+      initializeFilters();
     });
     
     function initializeFilters() {
@@ -751,33 +745,44 @@
         currentParent = parentValue;
       }
 
-      // Function to apply filter
+      // Function to apply filter with CSS transitions
       function applyFilter(filterValue) {
         console.log('Applying filter:', filterValue, 'in parent:', currentParent);
         
+        // Sort items by date first
+        var sortedItems = items.slice().sort(function(a, b) {
+          var dateA = new Date(a.getAttribute('data-date') || 0).getTime();
+          var dateB = new Date(b.getAttribute('data-date') || 0).getTime();
+          return dateB - dateA; // Newest first
+        });
+        
         if (filterValue === '*') {
           // Show all items
-          items.forEach(function(item) {
-            item.style.removeProperty('display');
-            item.classList.remove('filter-hidden');
+          sortedItems.forEach(function(item) {
+            item.style.display = '';
+            item.style.opacity = '1';
           });
           console.log('Showing all items');
         } else {
           // Filter items
           var matchCount = 0;
-          items.forEach(function(item) {
+          sortedItems.forEach(function(item) {
             var categories = item.getAttribute('data-category') || '';
             var categoryArray = categories.split(' ');
             
             if (categoryArray.indexOf(filterValue) !== -1) {
-              // Show matching item
-              item.style.removeProperty('display');
-              item.classList.remove('filter-hidden');
+              // Show matching item with fade in
+              item.style.display = '';
+              setTimeout(function() {
+                item.style.opacity = '1';
+              }, 10);
               matchCount++;
             } else {
-              // Hide non-matching item
-              item.style.setProperty('display', 'none', 'important');
-              item.classList.add('filter-hidden');
+              // Hide non-matching item with fade out
+              item.style.opacity = '0';
+              setTimeout(function() {
+                item.style.display = 'none';
+              }, 400);
             }
           });
           console.log('Matched', matchCount, 'items for filter:', filterValue);
