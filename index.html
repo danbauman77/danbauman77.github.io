@@ -3,19 +3,18 @@ title: Dan Bauman • Whatever It Takes
 layout: default
 onepage: true
 portfolio:
-- path: _works/diff-foods.md
-- path: _works/sketch-book.md
-- path: _works/tv-video.md
+- path: _portfolio/how-americas-college-closure-crisis-leaves-families-devastated.md
+- path: _portfolio/heres-what-we-know-about-private-college-police-departments.md
+- path: _portfolio/on-campus-grenade-launchers-m-16s-and-armored-vehicles.md
   style: wide
-- path: _works/umbrella-beauty.md
-- path: _works/amber.md
+- path: _portfolio/the-college-that-drowned-itself-in-red-ink.md
+- https://web.archive.org/web/20210214053401/https://www.chronicle.com/article/public-college-boards-and-state-politics
 ---
 
-<div class='full no-padding parallax home-video-wrapper'>
+<div class='full no-padding parallax home-image-wrapper'>
   <div class='fullscreen'>
-    <video autoplay='autoplay' id='fullscreen-video' loop='loop'>
-      <source src='{{ "/assets/media/@stock/cover-video.optimized.mp4" | relative_url }}' type='video/mp4'>
-    </video>
+    <img src="/assets/media/pexels-nemuel-6424583.webp">
+    </img>
     <div class='overlay'></div>
     <div class='layer'>
       <p class="small-title">WHATEVER IT TAKES</p>
@@ -110,86 +109,168 @@ portfolio:
 			
 			<div class="section-title"><p class="small-title">Clips</p></div>
 
-				<div class="two spacing"></div>
-
-				<div class='full no-padding' id="demo-1-works">
-					
-					<div class='mod modMasonryGallery'>
-
-						<ul class='gallery'>
-
-							<li class="">
-								<a href='/portfolio/diff-foods/'>
-									<img width="500" height="350" alt="" src="/assets/media/@stock/work-23.jpg" />
-									<div class='overlay'>
-										<div class='thumb-info'>
-											<h3>Diff foods</h3>
-											<p></p>
-										</div>
-									</div>
-								</a>
-							</li>
-
-							<li class="">
-								<a href='/portfolio/sketch-book/'>
-									<img width="500" height="350" alt="" src="/assets/media/@stock/msn-work-40.jpg" />
-									<div class='overlay'>
-										<div class='thumb-info'>
-											<h3>Sketch book</h3>
-											<p></p>
-										</div>
-									</div>
-								</a>
-							</li>
-
-							<li class="wide">
-								<a href='/portfolio/tv-video/'>
-									<img width="1000" height="350" alt="" src="/assets/media/@stock/work-21.jpg" />
-									<div class='overlay'>
-										<div class='thumb-info'>
-											<h3>Tv video</h3>
-											<p></p>
-										</div>
-									</div>
-								</a>
-							</li>
-
-							<li class="">
-								<a href='/portfolio/umbrella-beauty/'>
-									<img width="500" height="350" alt="" src="/assets/media/@stock/work-22.jpg" />
-									<div class='overlay'>
-										<div class='thumb-info'>
-											<h3>Umbrella beauty</h3>
-											<p></p>
-										</div>
-									</div>
-								</a>
-							</li>
-
-							<li class="">
-								<a href='/portfolio/amber/'>
-									<img width="500" height="350" alt="" src="/assets/media/@stock/msn-work-41.jpg" />
-									<div class='overlay'>
-										<div class='thumb-info'>
-											<h3>Amber</h3>
-											<p></p>
-										</div>
-									</div>
-								</a>
-							</li>
-
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>		
+		</div>
+	
 	</div>
+
 </div>
+					
+<style>
+    /* Pure CSS Grid Layout */
+    
+    /* Work grid container */
+    #workGrid {
+      display: grid !important;
+      grid-template-columns: repeat(3, 1fr) !important;
+      gap: 18px !important;
+      position: relative !important;
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+    
+    /* Work items with transitions */
+    .work-item {
+      width: 100% !important;
+      margin: 0 !important;
+      box-sizing: border-box !important;
+      transition: opacity 0.4s ease !important;
+      opacity: 1;
+    }
+    
+    /* Tablet: 2 columns (768px to 1024px) */
+    @media (max-width: 1024px) {
+      #workGrid {
+        grid-template-columns: repeat(2, 1fr) !important;
+        padding: 25px 15px !important;
+      }
+    }
+    
+    /* Mobile: 1 column (<768px) */
+    @media (max-width: 767px) {
+      #workGrid {
+        grid-template-columns: 1fr !important;
+        padding: 20px 15px !important;
+        gap: 15px !important;
+      }
+    }
 
-<div class="two spacing"></div>
+    
+    /* Responsive parent filter buttons */
+    .parent-filter-btn {
+      font-size: 14px !important;
+      padding: 10px 16px !important;
+    }
+    
+    /* Tablet: smaller buttons, may wrap to 2-3 rows */
+    @media (max-width: 1024px) {
+      .parent-filter-btn {
+        font-size: 13px !important;
+        padding: 9px 14px !important;
+      }
+    }
+    
+    /* Mobile: stack buttons vertically or 2 per row */
+    @media (max-width: 767px) {
+      .parent-filter-btn {
+        font-size: 13px !important;
+        padding: 10px 12px !important;
+        flex: 1 1 calc(50% - 5px) !important; /* 2 buttons per row */
+        min-width: 0 !important;
+      }
+    }
+    
+    /* Very small mobile: full width buttons */
+    @media (max-width: 480px) {
+      .parent-filter-btn {
+        flex: 1 1 100% !important; /* 1 button per row */
+      }
+    }
+    
 
+/* Inner card styling */
+  .work-item .card {
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 2px 6px rgba(12,12,12,0.04);
+    display: block;
+    margin-bottom: 0;
+  }
 
+  /* Image container with fixed aspect ratio */
+  .work-item .project-link {
+    display: block;
+    position: relative;
+    width: 100%;
+    padding-bottom: 66.67%; /* 3:2 aspect ratio */
+    overflow: hidden;
+    background: #f5f5f5;
+  }
 
+  /* Image sizing with object-fit */
+  .work-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+
+  .work-meta {
+    padding: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: black;
+  }
+  
+  .work-meta h3 {
+    margin: 0;
+    font-size: 1rem;
+    color: white;
+  }
+  
+  .work-meta a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .work-meta a:hover {
+    color: #edb713;
+  }
+
+</style>
+
+<div class="row">
+  <div class="large-12 columns large-centered">
+    <super-main class="site-wrap">
+      <section class="work-section">
+
+<!-- WORK GRID SECTION - distinct container -->
+        <div class="work-grid" id="workGrid" aria-live="polite" style="width: 100% !important; max-width: 100% !important; padding: 30px 20px !important; position: relative !important; box-sizing: border-box !important; clear: both !important;">
+          <div class="grid-sizer" style="display: none !important; width: 0 !important; height: 0 !important;"></div>
+
+            <article class="work-item" data-category="mysql sql ipeds relational-database-admin sequel-ace text-mining business-reporting deadline-breaking-news higher-ed-reporting investigative-projects legal-reporting news-writing-editing project-management self-made-datasets sports-reporting topical-enterprise award-winning documentcloud accreditor-records athletics-data bankruptcy-court-records consumer-protection-filings emma-filings federal-state-court-records financial-statements fsa-enforcement-records irs-form-990 property-lien-records targeted-foia us-uk-canada-business-records webpage-monitoring datawrapper" data-date="2022-03-18T01:01:00Z" data-image="/assets/media/600by400/pexels-tima-miroshnichenko-5912614.webp" data-url="/portfolio/the-college-that-drowned-itself-in-red-ink/"> <div class="card"> <a class="project-link" href="/portfolio/the-college-that-drowned-itself-in-red-ink/" rel="noopener"> <img src="/assets/media/600by400/pexels-tima-miroshnichenko-5912614.webp" alt="How Ohio Valley U.'s Fight For Survival Ultimately Ended In Bankruptcy"/></a> <div class="work-meta"><h3><a class="visit" href="/portfolio/the-college-that-drowned-itself-in-red-ink/" rel="noopener" style="color: #edb713;">How Ohio Valley U.'s Fight For Survival Ultimately Ended In Bankruptcy</a></h3></div></div></article>
+
+            <article class="work-item" data-category="mysql sql ipeds relational-database-admin text-mining business-reporting higher-ed-reporting investigative-projects legal-reporting news-writing-editing project-management self-made-datasets topical-enterprise documentcloud financial-statements irs-form-990 peps targeted-foia top-hat-plans datawrapper" data-date="2021-11-30T01:01:00Z" data-image="/assets/media/600by400/paycheck.webp" data-url="/portfolio/these-colleges-cut-back-during-the-pandemic-except-when-it-came-to-their-presidents-pay-packages/"> <div class="card"> <a class="project-link" href="/portfolio/these-colleges-cut-back-during-the-pandemic-except-when-it-came-to-their-presidents-pay-packages/" rel="noopener"> <img src="/assets/media/600by400/paycheck.webp" alt="During Pandemic, These Colleges Inked New Pay Deals With Presidents"/></a> <div class="work-meta"><h3><a class="visit" href="/portfolio/these-colleges-cut-back-during-the-pandemic-except-when-it-came-to-their-presidents-pay-packages/" rel="noopener" style="color: #edb713;">During Pandemic, These Colleges Inked New Pay Deals With Presidents</a></h3></div></div></article>
+
+            <article class="work-item" data-category="r mysql sql navicat relational-database-admin research-methodologies statistical-analysis text-mining business-reporting collaboration higher-ed-reporting investigative-projects news-writing-editing project-management self-made-datasets writing-for-mobile award-winning documentcloud campaign-money press-reader targeted-foia us-uk-canada-business-records lexisnexis-services newsbank open-refine" data-date="2020-09-25T01:01:00Z" data-image="/assets/media/600by400/political-donations-map.webp" data-url="https://web.archive.org/web/20210214053401/https://www.chronicle.com/article/public-college-boards-and-state-politics"> <div class="card"> <a class="project-link" href="https://web.archive.org/web/20210214053401/https://www.chronicle.com/article/public-college-boards-and-state-politics" target="_blank" rel="noopener"> <img src="/assets/media/600by400/political-donations-map.webp" alt="Following The Money — How Politics Warped Public Higher Education"/></a> <div class="work-meta"><h3><a class="visit" href="https://web.archive.org/web/20210214053401/https://www.chronicle.com/article/public-college-boards-and-state-politics" target="_blank" rel="noopener" style="color: #edb713;">Following The Money — How Politics Warped Public Higher Education</a></h3></div></div></article>
+
+            <article class="work-item" data-category="mysql sql ipeds relational-database-admin research-methodologies sequel-ace statistical-analysis business-reporting collaboration higher-ed-reporting investigative-projects legal-reporting news-writing-editing project-management self-made-datasets topical-enterprise award-winning accreditor-records bankruptcy-court-records college-scorecard consumer-protection-filings federal-state-court-records fsa-enforcement-records irs-form-1023 irs-form-990 peps state-charity-oversight-records student-loan-filings datawrapper" data-date="2019-04-04T01:01:00Z" data-image="/assets/media/600by400/pexels-kevinbidwell-4006804.webp" data-url="/portfolio/how-americas-college-closure-crisis-leaves-families-devastated/"> <div class="card"> <a class="project-link" href="/portfolio/how-americas-college-closure-crisis-leaves-families-devastated/" rel="noopener"> <img src="/assets/media/600by400/pexels-kevinbidwell-4006804.webp" alt="How America’s College-Closure Crisis Leaves Families Devastated"/></a> <div class="work-meta"><h3><a class="visit" href="/portfolio/how-americas-college-closure-crisis-leaves-families-devastated/" rel="noopener" style="color: #edb713;">How America’s College-Closure Crisis Leaves Families Devastated</a></h3></div></div></article>
+
+            <article class="work-item" data-category="sql relational-database-admin microsoft-sql-server text-mining collaboration investigative-projects news-writing-editing project-management self-made-datasets award-winning adobe-photoshop conflict-of-interest-filings lobbying-records lexisnexis-services newsbank open-refine dashboard-development tableau" data-date="2015-03-27T01:01:00Z" data-image="/assets/media/600by400/pexels-lara-jameson-9623633.webp" data-url="/portfolio/leap-from-legislator-to-lobbyist-a-short-one-in-minnesota/"> <div class="card"> <a class="project-link" href="/portfolio/leap-from-legislator-to-lobbyist-a-short-one-in-minnesota/" rel="noopener"> <img src="/assets/media/600by400/pexels-lara-jameson-9623633.webp" alt="Leap from Legislator to Lobbyist a Short One in Minnesota"/></a> <div class="work-meta"><h3><a class="visit" href="/portfolio/leap-from-legislator-to-lobbyist-a-short-one-in-minnesota/" rel="noopener" style="color: #edb713;">Leap from Legislator to Lobbyist a Short One in Minnesota</a></h3></div></div></article>
+
+            <article class="work-item" data-category="research-methodologies crime-police-reporting deadline-breaking-news higher-ed-reporting investigative-projects news-writing-editing project-management self-made-datasets topical-enterprise award-winning congress-gov-features crime-policing-records foia-dragnet military-records targeted-foia lexisnexis-services newsbank open-refine datawrapper" data-date="2014-09-11T01:01:00Z" data-image="/assets/media/600by400/pexels-owen-outdoors-409204690-26987679.webp" data-url="/portfolio/on-campus-grenade-launchers-m-16s-and-armored-vehicles/"> <div class="card"> <a class="project-link" href="/portfolio/on-campus-grenade-launchers-m-16s-and-armored-vehicles/" rel="noopener"> <img src="/assets/media/600by400/pexels-owen-outdoors-409204690-26987679.webp" alt="On Campus, Grenade Launchers, M-16s, and Armored Vehicles"/></a> <div class="work-meta"><h3><a class="visit" href="/portfolio/on-campus-grenade-launchers-m-16s-and-armored-vehicles/" rel="noopener" style="color: #edb713;">On Campus, Grenade Launchers, M-16s, and Armored Vehicles</a></h3></div></div></article>
+          </div> 
+        </div>
+      </section>
+    </super-main>
+  </div>
+</div>
 
 <div class='full'>
   <div class='row'>
