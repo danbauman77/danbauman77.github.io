@@ -38,4 +38,4 @@
 
 • The /longform-resume/ page header image (longform-resume.webp) is <a href="https://www.pexels.com/photo/a-person-wearing-brown-leather-shoes-15113047/" target="_blank" rel="noopener noreferrer">credited</a> to Mathias Reding via Pexels.
 
-• The image /words-plus-data-plus-visuals/ page header image (words-plus-data-plus-visuals.webp) is <a href="https://www.pexels.com/photo/newspaper-vending-machines-14560041/" target="_blank" rel="noopener noreferrer">credited</a> to Mathias Reding via Pexels.
+• The image /words-plus-data-plus-visuals/ page header image (words-plus-data-plus-visuals.webp) is <a href="https://www.pexels.com/photo/newspaper-vending-machines-14560041/" target="_blank" rel="noopener noreferrer">credited</a> to David Guerrero via Pexels.
