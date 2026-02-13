@@ -1,6 +1,6 @@
 <h2 id="read-me">Web Infrastructure</h2>
 
-• Powered by Jekyll<br><br>
+• Powered by Jekyll<br>
 
 • Website theme (Wrap) <a href="https://jekyllthemes.io/theme/wrap-onepage-jekyll-theme" target="_blank" rel="noopener noreferrer">credited</a> to honryou<br>
 
@@ -8,9 +8,9 @@
 
 • Resume sidebar inspiration credited to Lam Thuy Vo and her portfolio <a href="https://lamivo.com/" target="_blank" rel="noopener noreferrer">website</a><br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-right:10%; margin-left:10%; margin-bottom: 20px; padding-bottom: 15px; border-bottom: 2px solid #ddd;"></div><br>
-
 • /words-plus-data-plus-visuals/ and /portfolio/ coded with the assistance of AI
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-right:10%; margin-left:10%; margin-bottom: 20px; padding-bottom: 15px; border-bottom: 2px solid #ddd;"></div><br>
 
 <h2>Photo Credits</h2>
 • The home (landing) page header image (pexels-nemuel-6424583.webp) is <a href="https://www.pexels.com/photo/monitor-displaying-lines-of-code-6424583/" target="_blank" rel="noopener noreferrer">credited</a> to Nemuel Sereti via Pexels<br>
