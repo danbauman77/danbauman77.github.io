@@ -7,6 +7,7 @@ gem "ffi", "~> 1.17", ">= 1.17.3"
 gem "kramdown", "~> 2.5", ">= 2.5.1"
 gem "addressable", "~> 2.8", ">= 2.8.8"
 gem "bundler"
+gem "faraday", "~> 2.14", ">= 2.14.1"
 
 # Plugins of this site loaded only if configured correctly.
 gem "jekyll-paginate"
