@@ -13,7 +13,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-right:10%; margin-left:10%; margin-bottom: 20px; padding-bottom: 15px; border-bottom: 2px solid #ddd;"></div><br>
 
 <h2>Photo Credits</h2>
-• The home (landing) page header image (pexels-nemuel-6424583.webp) is <a href="https://www.pexels.com/photo/monitor-displaying-lines-of-code-6424583/" target="_blank" rel="noopener noreferrer">credited</a> to Nemuel Sereti via Pexels<br>
+• The home (landing) page header image (pexels-nemuel-6424583.webp) is <a href="https://www.pexels.com/photo/monitor-displaying-lines-of-code-6424583/" target="_blank" rel="noopener noreferrer">credited</a> to Nemuel Sereti via Pexels<br><br>
 
 • The image (political-donations-map.webp) associated with the article card "Following The Money — How Politics Warped Public Higher Education" originated from a screenshot of choropleth map published on at <a href="https://www.chronicle.com/article/public-college-boards-and-state-politics" target="_blank" rel="noopener noreferrer">chronicle.com/article/public-college-boards-and-state-politics</a>, with additional editing in Canva.<br>
 
