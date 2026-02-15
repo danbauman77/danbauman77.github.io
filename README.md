@@ -40,3 +40,5 @@
 • The /longform-resume/ page header image (longform-resume.webp) is <a href="https://www.pexels.com/photo/a-person-wearing-brown-leather-shoes-15113047/" target="_blank" rel="noopener noreferrer">credited</a> to Mathias Reding via Pexels.<br>
 
 • The image /words-plus-data-plus-visuals/ page header image (words-plus-data-plus-visuals.webp) is <a href="https://www.pexels.com/photo/newspaper-vending-machines-14560041/" target="_blank" rel="noopener noreferrer">credited</a> to David Guerrero via Pexels.
+
+• The image (uncle-penny.webp) associated with the article card "Monitoring Top Hat Plan Filings — Scrapper and Alert Regime" is <a href="https://commons.wikimedia.org/wiki/File:Uncle_penny.jpg" target="_blank" rel="noopener noreferrer">credited</a> to Fluffybuns via Wikimedia Commons, with additional editing in GIMP.<br>
