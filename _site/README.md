@@ -42,3 +42,7 @@
 • The image /words-plus-data-plus-visuals/ page header image (words-plus-data-plus-visuals.webp) is <a href="https://www.pexels.com/photo/newspaper-vending-machines-14560041/" target="_blank" rel="noopener noreferrer">credited</a> to David Guerrero via Pexels.
 
 • The image (uncle-penny.webp) associated with the article card "Monitoring Top Hat Plan Filings — Scrapper and Alert Regime" is <a href="https://commons.wikimedia.org/wiki/File:Uncle_penny.jpg" target="_blank" rel="noopener noreferrer">credited</a> to Fluffybuns via Wikimedia Commons, with additional editing in GIMP.<br>
+
+• The image (aphis.webp) associated with the article card "Monitoring Federal Animal Welfare Violations — Scrapper and Alert Regime" is <a href="https://commons.wikimedia.org/wiki/File:USDA_%E2%80%94_APHIS_inspected.jpg" target="_blank" rel="noopener noreferrer">credited</a> to Mattes via Wikimedia Commons, with additional editing in GIMP.<br>
+
+• The image (reginfo.webp) associated with the article card "Tracking Federal Regulation Changes — Scrapper and Alert Regime" is <a href="https://obamawhitehouse.archives.gov/blog/2016/12/21/introducing-first-ever-mobile-app-reginfogov" target="_blank" rel="noopener noreferrer">credited</a> to Mattes via an archived webpage published by the the Obama White House, with additional editing in GIMP.<br>
