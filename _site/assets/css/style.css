@@ -523,6 +523,8 @@ ul.shortcode-list {
   z-index: 100;
   background: transparent;
 }
+  .top-bar.expanded .title-area {
+    background: transparent; }
   .top-bar .title-area .name h1 a {
     font-size: 2.5714285714rem;
     color: #333; }
@@ -716,11 +718,25 @@ ul.shortcode-list {
     height: 50px;
     line-height: 50px; }
 
-#menu-toggler { 
-  float: left;
-  margin-right: 30px; }
+#menu-toggler {
+  float: right;
+  margin-right: 0; }
   #menu-toggler a {
-    color: #fff; background-color: rgba(0, 0, 0, 0.8); padding-left:20px; padding-top:19px; padding-bottom:19px; padding-right:20px}
+    color: #fff; padding-left:20px; padding-top:19px; padding-bottom:19px; padding-right:20px}
+  .f-topbar-fixed.shrink #menu-toggler a {
+    background-color: rgba(0, 0, 0, 0.8); }
+
+@media only screen and (max-width: 959px) {
+  .top-bar .title-area {
+    width: calc(100% - 120px);
+    float: left;
+  }
+  #menu-toggler {
+    float: right;
+    margin-right: 0;
+    line-height: 100px;
+  }
+}
     #menu-toggler a:hover {
       color: #eee; }
     #menu-toggler a i {
@@ -740,8 +756,6 @@ ul.shortcode-list {
   #menu-toggler.dark a i {
     color: #333; }
 
-.closed {
-  display: none; }
 
 .top-socials {
   float: right; }
@@ -1966,8 +1980,11 @@ p.small-title {
   -moz-animation: bounce 2s infinite;
   animation: bounce 2s infinite; }
 
+html {
+  overflow-x: hidden; }
+
 body {
-  overflow-x: hidden !important; }
+  overflow-x: hidden; }
 
 .modBarGraph .bars {
   margin: 0;
@@ -4496,7 +4513,17 @@ body {
   .contain-to-grid.transparent {
     height: 100px;
     overflow: visible;
-    position: relative; }
+    position: fixed; }
+  .f-topbar-fixed.shrink .contain-to-grid.transparent {
+    height: 60px !important; }
+  .f-topbar-fixed.shrink .top-bar .title-area,
+  .f-topbar-fixed.shrink .top-bar .title-area li,
+  .f-topbar-fixed.shrink .top-bar .title-area a {
+    height: 60px !important;
+    line-height: 60px !important; }
+  .f-topbar-fixed.shrink #menu-toggler {
+    height: 60px !important;
+    line-height: 60px !important; }
     .contain-to-grid.transparent .top-bar-section ul li {
       background-color: rgba(0, 0, 0, 0.8); }
     .contain-to-grid.transparent .top-bar-section li:not(.has-form) a:not(.button) {

@@ -4,7 +4,7 @@
   <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, interactive-widget=resizes-content">
 
   <title>Words + Data + Viz • Dan Bauman</title>
   <meta name="description" content="Gumshoe. Analyst. Force Multiplier.">
@@ -47,7 +47,7 @@
         Menu
       </a>
     </div>
-    <section class='top-bar-section closed'>
+    <section class='top-bar-section closed' style='display:none'>
       <ul class='right'>
 
         
@@ -158,12 +158,12 @@
     }
     
     /* Menu toggle styles */
+    .top-bar-section:not(.open),
     .top-bar-section.closed {
       display: none;
     }
-    
     .top-bar-section.open {
-      display: block;
+      display: block !important;
     }
 
   .words-plus-data-plus-visuals .filter-btn { 
@@ -687,24 +687,7 @@
 
 <!-- Site scripts removed due to errors - replaced with simple implementations below -->
 
-<!-- Simple menu toggle implementation -->
-<script>
-  // Simple menu toggle that works
-  document.addEventListener('DOMContentLoaded', function() {
-    var menuToggler = document.getElementById('menu-toggler');
-    var topBarSection = document.querySelector('.top-bar-section');
-    
-    if (menuToggler && topBarSection) {
-      menuToggler.addEventListener('click', function(e) {
-        e.preventDefault();
-        console.log('Menu toggle clicked');
-        topBarSection.classList.toggle('closed');
-        topBarSection.classList.toggle('open');
-      });
-      console.log('Simple menu toggle installed');
-    }
-  });
-</script>
+<!-- Menu toggle is initialised after framework scripts below -->
 
   <!-- Pure CSS Grid with manual filtering (Isotope removed) -->
 <script>
@@ -973,6 +956,23 @@
 <script src="/assets/javascripts/boot.js" type="text/javascript"></script>
 <script src="/assets/javascripts/wp.js" type="text/javascript"></script>
 
+<script>
+  /* Menu toggle — runs after all framework scripts so Foundation can't override it */
+  window.addEventListener('load', function () {
+    setTimeout(function () {
+      var toggler = document.getElementById('menu-toggler');
+      var topBar  = document.querySelector('.top-bar');
+      var section = document.querySelector('.top-bar-section');
+      if (!toggler || !section) return;
+
+      toggler.addEventListener('click', function (e) {
+        e.preventDefault();
+        var isOpen = section.classList.toggle('open');
+        if (topBar) topBar.classList.toggle('expanded', isOpen);
+      });
+    }, 50);
+  });
+</script>
 
   </body>
 </html>

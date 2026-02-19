@@ -30,12 +30,12 @@
 
             {% if first != '#' %}
               {% assign href = item.path | relative_url %}
-            {% elsif page.onepage %}          
+            {% elsif page.onepage %}
               {% assign href = item.path %}
-            {% else %}              
-              {% assign href = 'index.html' | append:item.path | relative_url %}              
+            {% else %}
+              {% assign href = 'index.html' | append:item.path | relative_url %}
             {% endif %}
-            
+
             <a href="{{ href }}">{{ item.name }}</a>
           </li>
         {% endfor %}
@@ -43,3 +43,31 @@
     </section>
   </nav>
 </div>
+
+<style>
+  .top-bar-section:not(.open),
+  .top-bar-section.closed {
+    display: none;
+  }
+  .top-bar-section.open {
+    display: block !important;
+  }
+</style>
+
+<script>
+  /* Menu toggle — runs after all framework scripts so Foundation can't override it */
+  window.addEventListener('load', function () {
+    setTimeout(function () {
+      var toggler = document.getElementById('menu-toggler');
+      var topBar  = document.querySelector('.top-bar');
+      var section = document.querySelector('.top-bar-section');
+      if (!toggler || !section) return;
+
+      toggler.addEventListener('click', function (e) {
+        e.preventDefault();
+        var isOpen = section.classList.toggle('open');
+        if (topBar) topBar.classList.toggle('expanded', isOpen);
+      });
+    }, 50);
+  });
+</script>

@@ -47,7 +47,7 @@
         Menu
       </a>
     </div>
-    <section class='top-bar-section closed'>
+    <section class='top-bar-section closed' style='display:none'>
       <ul class='right'>
 
         
@@ -422,6 +422,33 @@ iframe {
 <script src="/assets/javascripts/app.js" type="text/javascript"></script>
 <script src="/assets/javascripts/boot.js" type="text/javascript"></script>
 <script src="/assets/javascripts/wp.js" type="text/javascript"></script>
+
+<style>
+  .top-bar-section:not(.open),
+  .top-bar-section.closed {
+    display: none;
+  }
+  .top-bar-section.open {
+    display: block !important;
+  }
+</style>
+
+<script>
+  window.addEventListener('load', function () {
+    setTimeout(function () {
+      var toggler = document.getElementById('menu-toggler');
+      var topBar  = document.querySelector('.top-bar');
+      var section = document.querySelector('.top-bar-section');
+      if (!toggler || !section) return;
+
+      toggler.addEventListener('click', function (e) {
+        e.preventDefault();
+        var isOpen = section.classList.toggle('open');
+        if (topBar) topBar.classList.toggle('expanded', isOpen);
+      });
+    }, 50);
+  });
+</script>
 
 
   </body>

@@ -4,7 +4,7 @@
   <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, interactive-widget=resizes-content">
 
   <title>Million-Dollar Chess Program Proposal Made by Susan Polgar, Documents Reveal</title>
   <meta name="description" content="Top administrators at Texas Tech University (TTU) had chess on their minds in late 2011. Officials were mulling the ultimatum given to them by then-employee ...">
@@ -20,6 +20,7 @@
 
   <link rel="canonical" href="http://localhost:4000/portfolio/one-million-dollar-chess-program-proposal-made-by-susan-polgar-to-texas-tech-documents-reveal/">
   <link rel="alternate" type="application/rss+xml" title="Dan Bauman" href="/feed.xml">
+
   
   
 </head>
@@ -55,7 +56,7 @@
             
 
             
-            
+
             <a href="/video-plus-motion/">Video + Motion</a>
           </li>
         
@@ -63,7 +64,7 @@
             
 
             
-            
+
             <a href="/words-plus-data-plus-visuals/">Words + Data + Viz</a>
           </li>
         
@@ -71,6 +72,35 @@
     </section>
   </nav>
 </div>
+
+<style>
+  .top-bar-section:not(.open),
+  .top-bar-section.closed {
+    display: none;
+  }
+  .top-bar-section.open {
+    display: block !important;
+  }
+</style>
+
+<script>
+  /* Menu toggle — runs after all framework scripts so Foundation can't override it */
+  window.addEventListener('load', function () {
+    setTimeout(function () {
+      var toggler = document.getElementById('menu-toggler');
+      var topBar  = document.querySelector('.top-bar');
+      var section = document.querySelector('.top-bar-section');
+      if (!toggler || !section) return;
+
+      toggler.addEventListener('click', function (e) {
+        e.preventDefault();
+        var isOpen = section.classList.toggle('open');
+        if (topBar) topBar.classList.toggle('expanded', isOpen);
+      });
+    }, 50);
+  });
+</script>
+
 
     
 

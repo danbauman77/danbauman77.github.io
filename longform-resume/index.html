@@ -47,7 +47,7 @@
         Menu
       </a>
     </div>
-    <section class='top-bar-section closed'>
+    <section class='top-bar-section closed' style='display:none'>
       <ul class='right'>
 
         
@@ -95,7 +95,7 @@
 
         <h3 style="background-color: black; color: #edb713">&nbsp;Professional Experience&nbsp;</h3>
             
-        <span style="background-color: black; color: #edb713; font-weight: bold;">&nbsp;Freelance Reporter, Paid Speaker, and Industry Analyst</span><span style="color: white; font-weight: bold; background-color: black;">,&nbsp;</span><em style="color: white; font-weight: bold; background-color: black;">(11/2025 - present)&nbsp;</em><span style="color: black"><br>• Undertake and complete investigative projects and other enterprise journalism for regional and national news organizations<br>• As an expert panelist, present on the demographic, societal, and technological challenges ahead for public research universities across the next 25 years<br>• Draft white paper entitled "Generational Change: Public Research Universities and the Next Quarter-Century (2026-2050)"<br><br></span>
+        <span style="background-color: black; color: #edb713; font-weight: bold;">&nbsp;Freelance Reporter, Panelist, and White Paper Author</span><span style="color: white; font-weight: bold; background-color: black;">,&nbsp;</span><em style="color: white; font-weight: bold; background-color: black;">(11/2025 - present)&nbsp;</em><span style="color: black"><br>• Undertake and complete investigative projects and other enterprise journalism for regional and national news organizations<br>• As an expert panelist, present on the demographic, societal, and technological challenges ahead for public research universities across the next 25 years<br>• Draft white paper entitled "Generational Change: Public Research Universities and the Next Quarter-Century (2026-2050)"<br><br></span>
 
         <span style="background-color: black; color: #edb713; font-weight: bold;">&nbsp;Senior Reporter</span><span style="color: white; font-weight: bold; background-color: black;">&nbsp;–&nbsp;</span><a style="font-weight: bold; background-color: black;" href="https://www.chronicle.com/author/dan-bauman" target="_blank" rel="noopener noreferrer">The Chronicle of Higher Education</a><span style="color: white; font-weight: bold; background-color: black;">,&nbsp;</span><em style="color: white; font-weight: bold; background-color: black;">(11/2021 - 10/2025)&nbsp;<br></em><span style="background-color: black; color: #edb713; font-weight: bold;">&nbsp;Staff Reporter</span><span style="color: white; font-weight: bold; background-color: black;">&nbsp;–&nbsp;</span><em style="color: white; font-weight: bold; background-color: black;">(01/2018 - 10/2021)&nbsp;</em><span style="color: black"><br>• Pitch and produce original breaking-news content, medium-term enterprise analyses, and long-term investigative projects<br>• Spearhead and collaborate on FOIA and open-records requests, as well as on data-driven and agenda-setting projects<br>• Code and deploy a suite of free or low-cost reporting and data-collection assets<br><br></span>
 
@@ -1282,6 +1282,33 @@
 <script src="/assets/javascripts/app.js" type="text/javascript"></script>
 <script src="/assets/javascripts/boot.js" type="text/javascript"></script>
 <script src="/assets/javascripts/wp.js" type="text/javascript"></script>
+
+<style>
+  .top-bar-section:not(.open),
+  .top-bar-section.closed {
+    display: none;
+  }
+  .top-bar-section.open {
+    display: block !important;
+  }
+</style>
+
+<script>
+  window.addEventListener('load', function () {
+    setTimeout(function () {
+      var toggler = document.getElementById('menu-toggler');
+      var topBar  = document.querySelector('.top-bar');
+      var section = document.querySelector('.top-bar-section');
+      if (!toggler || !section) return;
+
+      toggler.addEventListener('click', function (e) {
+        e.preventDefault();
+        var isOpen = section.classList.toggle('open');
+        if (topBar) topBar.classList.toggle('expanded', isOpen);
+      });
+    }, 50);
+  });
+</script>
 
 
   </body>
