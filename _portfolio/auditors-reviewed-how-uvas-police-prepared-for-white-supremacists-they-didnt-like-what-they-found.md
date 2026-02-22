@@ -17,7 +17,7 @@ tags:
 - news-writing-editing
 - writing-for-mobile
 - crime-policing-records
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

@@ -24,7 +24,7 @@ tags:
 - irs-form-990
 - targeted-foia
 - datawrapper
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Journal at Webster University

@@ -32,7 +32,7 @@ tags:
 - irs-form-990
 - targeted-foia
 - open-refine
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

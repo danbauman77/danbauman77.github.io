@@ -24,7 +24,7 @@ tags:
 - lexisnexis-services
 - newsbank
 - datawrapper
-layout: portfolio_wide
+layout: portfolio_wide_paywall
 author: Dan Bauman
 republished:
   pubname: The Journal at Webster University

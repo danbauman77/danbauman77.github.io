@@ -28,7 +28,7 @@ tags:
 - financial-statements
 - irs-form-990
 - state-charity-oversight-records
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

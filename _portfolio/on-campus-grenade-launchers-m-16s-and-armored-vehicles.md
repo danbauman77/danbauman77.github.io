@@ -30,7 +30,7 @@ tags:
 - newsbank
 - open-refine
 - datawrapper
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 
 ---

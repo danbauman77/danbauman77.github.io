@@ -29,7 +29,7 @@ tags:
 - newsbank
 - dashboard-development
 - tableau
-layout: portfolio_wide
+layout: portfolio_wide_paywall
 author: Dan Bauman
 republished:
   pubname: Saint Paul Pioneer Press

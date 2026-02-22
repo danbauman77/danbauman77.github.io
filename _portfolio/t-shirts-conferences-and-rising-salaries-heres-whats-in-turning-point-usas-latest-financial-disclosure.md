@@ -19,7 +19,7 @@ tags:
 - irs-form-1023
 - irs-form-990
 - us-uk-canada-business-records
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

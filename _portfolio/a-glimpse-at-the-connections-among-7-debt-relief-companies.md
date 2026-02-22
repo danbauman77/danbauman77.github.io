@@ -26,7 +26,7 @@ tags:
 - metadata-sleuthing
 - us-uk-canada-business-records
 - webpage-monitoring
-layout: portfolio_wide
+layout: portfolio_wide_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

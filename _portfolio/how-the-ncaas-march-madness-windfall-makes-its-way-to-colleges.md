@@ -26,7 +26,7 @@ tags:
 - athletics-data
 - irs-form-990
 - datawrapper
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman and Tyler Davis
 republished:
   pubname: The Chronicle of Higher Education

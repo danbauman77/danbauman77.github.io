@@ -25,7 +25,7 @@ tags:
 - project-management
 - self-made-datasets
 - irs-form-990
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

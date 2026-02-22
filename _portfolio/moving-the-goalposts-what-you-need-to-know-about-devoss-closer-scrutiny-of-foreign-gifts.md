@@ -28,7 +28,7 @@ tags:
 - conflict-of-interest-filings
 - congress-gov-features
 - fsa-enforcement-records
-layout: portfolio
+layout: portfolio_paywall
 author: Lindsay Ellis and Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

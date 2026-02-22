@@ -1,0 +1,84 @@
+---
+layout: default
+---
+
+
+<div class='full'>
+  <div class='row'>
+    <div class='large-8 columns large-centered'>
+      {% assign small_title = page.categories | join:" & " %}
+      {% assign title = page.title %}
+      {% include section-title.html small_title=small_title title=title %}
+    </div>
+  </div>
+</div>
+<div class='full no-padding'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <p>
+        <div class='image'>
+          {% if page.image.path %}
+              <img src="{{ page.image.path | relative_url }}" width="1120" height="600"> <a href="{{ page.image.sourceurl }}"> {{ page.image.caption }} </a>
+          {% endif %}
+        </div>
+      </p>
+    </div>
+  </div>
+</div>
+  <div class='one spacing'></div>
+  <div class='row'>
+    <div class='large-4 columns'>
+      <ul style="list-style-type: none; margin-left:0px; font-size:16px">
+        {% if page.author %}
+        <li style="color:black">
+          <strong> By {{ page.author }}</strong>
+        </li>
+        {% endif %}
+        {% if page.date %}
+        <li style="color:black">
+          <strong>Date:</strong>
+          {{ page.date | date:"%B %d, %Y" }}
+        </li>
+        {% endif %}
+      </ul>
+    </div>
+    <div class='large-8 columns'>
+      <div>
+        {% if page.republished %}
+          <p><span style="background-color: black; color: white; font-weight: bold;">&nbsp;Originally published by</span><span style="color: #edb713; font-weight: bold; background-color: black;"><em> {{ page.republished.pubname }} </em></span><span style="font-weight: bold; background-color: black; color:white;">at</span><a style="font-weight: bold; background-color: black;" href=" {{ page.republished.puburl }} " target="_blank" rel="noopener noreferrer"> {{ page.republished.puburl }}&nbsp;</a> <a style="font-weight: bold; background-color: black;" href=" {{ page.republished.archiveurl }} " target="_blank" rel="noopener noreferrer">&nbsp;[Archived]&nbsp;</a><br><br><span style="background-color: black; color: white; font-weight: bold;">&nbsp;Reason for republication:&nbsp;</span> <span style="color: #edb713; font-weight: bold; background-color: black;">&nbsp;{{ page.republished.reason }}&nbsp;</span><p>
+        {% endif %}
+      </div>
+      {% assign is_gated = false %}
+      {% if site.gated_content.enabled %}
+        {% if site.gated_content.gated_pages contains page.slug %}
+          {% assign is_gated = true %}
+        {% endif %}
+      {% endif %}
+      {% if is_gated %}
+      <style>
+        .gated-wrapper { position: relative; }
+        .gated-excerpt { max-height: {{ site.gated_content.default_excerpt_length | default: 500 }}px; overflow: hidden; -webkit-mask-image: linear-gradient(to bottom, black 40%, transparent 100%); mask-image: linear-gradient(to bottom, black 40%, transparent 100%); }
+        .gated-overlay { text-align: center; padding: 1.5rem; background: #f5f5f5; border: 2px solid #222; border-radius: 4px; margin-top: 1rem; }
+        .gated-overlay p { color: black; }
+        .gated-btn { display: inline-block; padding: 0.6rem 1.4rem; background: black; color: #edb713 !important; font-weight: bold; text-decoration: none; margin: 0.4rem; border-radius: 3px; }
+        .gated-btn:hover { background: #333; }
+        .gated-btn-alt { background: #555; color: white !important; }
+      </style>
+      <div class="gated-wrapper">
+        <div class="gated-excerpt">{{ content }}</div>
+        <div class="gated-overlay">
+          <p><strong>Read the full article on the publisher's website or an archived copy:</strong></p>
+          {% if page.republished.puburl %}<a href="{{ page.republished.puburl }}" target="_blank" rel="noopener noreferrer" class="gated-btn">Go to {{ page.republished.pubname }}</a>{% endif %}
+          {% if page.republished.archiveurl %}<a href="{{ page.republished.archiveurl }}" target="_blank" rel="noopener noreferrer" class="gated-btn gated-btn-alt">Archived Copy</a>{% endif %}
+        </div>
+      </div>
+      {% else %}
+      {{ content }}
+      {% endif %}
+      <div class='spacing'></div>
+      </div>
+    </div>
+    <div class='four spacing'></div>
+  </div>
+</div>
+

@@ -24,7 +24,7 @@ tags:
 - award-winning
 - metadata-sleuthing
 - us-uk-canada-business-records
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman and Chris Quintana
 republished:
   pubname: The Chronicle of Higher Education

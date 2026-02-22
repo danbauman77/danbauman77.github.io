@@ -21,7 +21,7 @@ tags:
 - documentcloud
 - targeted-foia
 - trademark-filings
-layout: portfolio
+layout: portfolio_paywall
 author: Wyatt Myskow and Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

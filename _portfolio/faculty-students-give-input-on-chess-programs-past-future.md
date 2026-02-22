@@ -22,7 +22,7 @@ tags:
 - award-winning
 - targeted-foia
 - datawrapper
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Journal at Webster University

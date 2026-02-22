@@ -20,7 +20,7 @@ tags:
 - topical-enterprise
 - conflict-of-interest-filings
 - student-loan-filings
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

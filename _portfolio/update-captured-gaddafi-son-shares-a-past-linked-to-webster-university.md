@@ -19,7 +19,7 @@ tags:
 - topical-enterprise
 - award-winning
 - us-uk-canada-business-records
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Journal at Webster University

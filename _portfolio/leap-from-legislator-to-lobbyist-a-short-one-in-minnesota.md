@@ -29,7 +29,7 @@ tags:
 - open-refine
 - dashboard-development
 - tableau
-layout: portfolio
+layout: portfolio_paywall
 author: Rachel E. Stassen-Berger and Dan Bauman 
 republished:
   pubname: Saint Paul Pioneer Press

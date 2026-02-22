@@ -35,7 +35,7 @@ tags:
 - irs-form-990
 - sec-filings
 - datawrapper
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

@@ -32,7 +32,7 @@ tags:
 - financial-statements
 - fsa-enforcement-records
 - datawrapper
-layout: portfolio
+layout: portfolio_paywall
 author: Eric Kelderman and Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

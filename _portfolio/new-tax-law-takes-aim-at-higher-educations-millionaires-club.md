@@ -27,7 +27,7 @@ tags:
 - self-made-datasets
 - topical-enterprise
 - datawrapper
-layout: portfolio
+layout: portfolio_paywall
 author: Adam Harris and Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

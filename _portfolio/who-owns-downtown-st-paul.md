@@ -35,7 +35,7 @@ tags:
 - qgis
 - spatial-analysis
 - tableau
-layout: portfolio_wide
+layout: portfolio_wide_paywall
 author: Dan Bauman, Sarah Horner, & Tad Vezner
 ---
 

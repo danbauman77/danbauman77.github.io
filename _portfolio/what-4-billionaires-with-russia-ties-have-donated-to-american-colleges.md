@@ -27,7 +27,7 @@ tags:
 - press-reader
 - lexisnexis-services
 - newsbank
-layout: portfolio
+layout: portfolio_paywall
 author: Nell Gluckman and Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

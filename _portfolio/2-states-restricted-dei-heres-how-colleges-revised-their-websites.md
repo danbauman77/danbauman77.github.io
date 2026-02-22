@@ -28,7 +28,7 @@ tags:
 - topical-enterprise
 - ruby
 - webpage-monitoring
-layout: portfolio
+layout: portfolio_paywall
 author: Adrienne Lu and Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

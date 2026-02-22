@@ -27,7 +27,7 @@ tags:
 - self-made-datasets
 - irs-form-990
 - open-refine
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

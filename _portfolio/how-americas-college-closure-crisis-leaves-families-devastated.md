@@ -40,7 +40,7 @@ tags:
 - state-charity-oversight-records
 - student-loan-filings
 - datawrapper
-layout: portfolio_wide
+layout: portfolio_wide_paywall
 author: Michael Vasquez and Dan Bauman
 ---
 

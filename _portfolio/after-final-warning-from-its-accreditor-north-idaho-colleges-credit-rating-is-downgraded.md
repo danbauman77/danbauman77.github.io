@@ -20,7 +20,7 @@ tags:
 - credit-opinion
 - federal-state-court-records
 - financial-statements
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

@@ -24,7 +24,7 @@ tags:
 - google-forms
 - google-sheets-formulas-w-ai
 - datawrapper
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

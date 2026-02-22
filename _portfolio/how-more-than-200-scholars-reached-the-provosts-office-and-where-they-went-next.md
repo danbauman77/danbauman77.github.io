@@ -30,7 +30,7 @@ tags:
 - newsbank
 - datawrapper
 - flourish
-layout: portfolio_wide
+layout: portfolio_wide_paywall
 author: Audrey Williams June and Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

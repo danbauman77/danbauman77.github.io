@@ -18,7 +18,7 @@ tags:
 - personal-finance-reporting
 - consumer-protection-filings
 - federal-state-court-records
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

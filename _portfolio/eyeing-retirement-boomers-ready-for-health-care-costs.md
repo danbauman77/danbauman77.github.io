@@ -16,7 +16,7 @@ tags:
 - personal-finance-reporting
 - bls-estimates
 - datawrapper
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Saint Louis Business Journal

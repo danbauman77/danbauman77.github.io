@@ -27,7 +27,7 @@ tags:
 - metadata-sleuthing
 - us-uk-canada-business-records
 - webpage-monitoring
-layout: portfolio
+layout: portfolio_paywall
 author: Kelly Field and Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

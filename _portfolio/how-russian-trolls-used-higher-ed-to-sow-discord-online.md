@@ -28,7 +28,7 @@ tags:
 - writing-for-mobile
 - federal-state-court-records
 - metadata-sleuthing
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

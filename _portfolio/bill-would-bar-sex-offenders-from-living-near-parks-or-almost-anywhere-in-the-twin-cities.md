@@ -27,7 +27,7 @@ tags:
 - gis-libraries-gdal
 - qgis
 - spatial-analysis
-layout: portfolio
+layout: portfolio_paywall
 republished:
   pubname: The Chronicle of Higher Education
   puburl: https://www.twincities.com/2016/03/31/bill-would-bar-sex-offenders-from-living-near-parks-or-almost-anywhere-in-the-twin-cities/

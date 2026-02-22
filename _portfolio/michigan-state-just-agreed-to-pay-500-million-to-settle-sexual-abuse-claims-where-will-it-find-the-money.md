@@ -23,7 +23,7 @@ tags:
 - crime-policing-records
 - federal-state-court-records
 - fsa-enforcement-records
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

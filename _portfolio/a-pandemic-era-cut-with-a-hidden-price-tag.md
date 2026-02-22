@@ -31,7 +31,7 @@ tags:
 - pension-records
 - open-refine
 - datawrapper
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

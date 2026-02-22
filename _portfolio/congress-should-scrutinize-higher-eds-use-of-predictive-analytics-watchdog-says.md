@@ -14,7 +14,7 @@ tags:
 - business-reporting
 - higher-ed-reporting
 - news-writing-editing
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

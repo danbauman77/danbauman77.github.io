@@ -21,7 +21,7 @@ tags:
 - topical-enterprise
 - targeted-foia
 - datawrapper
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: Saint Paul Pioneer Press

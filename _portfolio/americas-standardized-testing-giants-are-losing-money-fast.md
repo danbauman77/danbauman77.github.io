@@ -20,7 +20,7 @@ tags:
 - fac-gov
 - financial-statements
 - irs-form-990
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman and Eric Hoover
 republished:
   pubname: The Chronicle of Higher Education

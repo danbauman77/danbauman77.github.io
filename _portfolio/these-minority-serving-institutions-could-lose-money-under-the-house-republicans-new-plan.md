@@ -25,7 +25,7 @@ tags:
 - writing-for-mobile
 - college-scorecard
 - datawrapper
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman and Adam Harris
 republished:
   pubname: The Chronicle of Higher Education

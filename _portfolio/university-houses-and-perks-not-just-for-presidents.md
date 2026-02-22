@@ -19,7 +19,7 @@ tags:
 - self-made-datasets
 - topical-enterprise
 - property-lien-records
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Journal at Webster University

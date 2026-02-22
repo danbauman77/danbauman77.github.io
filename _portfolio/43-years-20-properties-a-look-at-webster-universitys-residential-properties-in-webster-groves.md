@@ -27,7 +27,7 @@ tags:
 - geodatabase-creation
 - geoprocessing
 - spatial-analysis
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman and Megan Favignano
 republished:
   pubname: The Journal at Webster University

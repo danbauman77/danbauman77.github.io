@@ -27,7 +27,7 @@ tags:
 - fsa-enforcement-records
 - irs-form-1023
 - irs-form-990
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman and Michael Vasquez
 republished:
   pubname: The Chronicle of Higher Education

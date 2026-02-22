@@ -24,7 +24,7 @@ tags:
 - sam-gov
 - student-loan-filings
 - datawrapper
-layout: portfolio
+layout: portfolio_paywall
 author: Kelly Field and Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

@@ -20,7 +20,7 @@ tags:
 - news-writing-editing
 - documentcloud
 - fsa-enforcement-records
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

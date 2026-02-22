@@ -23,7 +23,7 @@ tags:
 - irs-form-1023
 - irs-form-990
 - sec-filings
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education

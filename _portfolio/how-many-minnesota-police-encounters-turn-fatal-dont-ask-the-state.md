@@ -29,7 +29,7 @@ tags:
 - newsbank
 - dashboard-development
 - tableau
-layout: portfolio_wide
+layout: portfolio_wide_paywall
 author: Tad Vezner and Dan Bauman
 ---
 

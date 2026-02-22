@@ -18,7 +18,7 @@ tags:
 - topical-enterprise
 - documentcloud
 - emma-filings
-layout: portfolio
+layout: portfolio_paywall
 author: Dan Bauman
 republished:
   pubname: The Chronicle of Higher Education
