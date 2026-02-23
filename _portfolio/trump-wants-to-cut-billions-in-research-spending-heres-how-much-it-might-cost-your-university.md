@@ -48,6 +48,8 @@ republished:
   archiveurl: "/assets/media/archive/trump-wants-to-cut-billions-in-research-spending-heres-how-much-it-might-cost-your-university.pdf"
 ---
 
+<p style="color:black"><b><a href="https://github.com/danbauman77/r-proposed-nih-indirect-cost-cap" target="_blank" rel="noopener">MADE POSSIBLE WITH R: Review the code underpinning this breaking-news analysis</a></b></p>
+
 <p style="color:black">A plan by the Trump administration to reduce government spending on research by billions of dollars has raised anxieties within higher education and among those who carry out the nation’s biomedical research.</p>
 
 <p style="color:black">A memo released late on Friday announced that the National Institutes of Health would limit indirect-cost funding to 15 percent, approximately half of the average rate it previously offered.</p>

@@ -32,6 +32,8 @@ republished:
   archiveurl: "https://web.archive.org/web/20210420093032/https://www.chronicle.com/article/heres-who-was-hit-hardest-by-higher-eds-pandemic-driven-job-losses"
 ---
 
+<p style="color:black"><b><a href="https://github.com/danbauman77/r-covid-ihe-employment" target="_blank" rel="noopener">MADE POSSIBLE WITH R: Review the code underpinning this analysis</a></b></p>
+
 <p style="color:black">Since the World Health Organization declared a pandemic in March of 2020, institutions of higher education have shed a net total of at least 570,000 workers, according to preliminary, seasonally adjusted figures from the U.S. Labor Department. Put another way, for every nine workers employed in academe in February 2020, at least one had lost or left that job a year later.</p>
 
 <p style="color:black">Mirroring trends in the larger economy, certain workers in higher education have endured a disproportionate share of the losses. Workers with limited labor protections, like those providing administrative support or working in food service, were particularly hard hit. So were employees of color, who saw outsized losses relative to their share of the overall work force. Job losses were worst in the early months of the pandemic, when higher ed <a class="Link" href="https://www.chronicle.com/article/a-brutal-tally-higher-ed-lost-650-000-jobs-last-year" data-cms-ai="0">shed</a> hundreds of thousands of jobs in a relatively short period. Despite a significant increase in recent months, the net loss in jobs remains so large that it’s erased more than a decade of job gains for the sector, with higher ed’s work force now matching its size in February 2008.</p>
