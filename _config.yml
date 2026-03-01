@@ -76,8 +76,9 @@ gated_content:
   enabled: true
   default_excerpt_length: 300
   gated_pages:
-    - eyeing-retirement-boomers-ready-for-health-care-costs
+    - lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit
   ungated_pages:
+    - eyeing-retirement-boomers-ready-for-health-care-costs 
     - how-the-u-of-arizona-found-itself-in-a-financial-crisis-of-its-own-making
     - targets-travails-in-7-charts
     - 2-states-restricted-dei-heres-how-colleges-revised-their-websites
