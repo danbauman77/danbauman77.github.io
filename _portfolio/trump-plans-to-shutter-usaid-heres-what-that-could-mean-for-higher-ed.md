@@ -43,6 +43,8 @@ republished:
   archiveurl: "/assets/media/archive/trump-plans-to-shutter-usaid-heres-what-that-could-mean-for-higher-ed.pdf"
 ---
 
+<p style="color:black"><b><a href="https://github.com/danbauman77/r-usaid-ihe-funding" target="_blank" rel="noopener">MADE POSSIBLE WITH R: Review the code underpinning this analysis</a></b></p>
+
 <p style="color:black">Less than a week after President Trump’s second inauguration, David Hughes learned the news: A stop-work order had arrived from the U.S. Agency for International Development, bringing to a halt the federally funded research underway at his USAID Innovation Lab on Current and Emerging Threats to Crops, <a class="Link" href="https://plantvillage.psu.edu/cetcil" target="_blank" rel="noopener" data-cms-ai="0">operating</a> out of Pennsylvania State University.</p>
 
 <p style="color:black">Hughes’s lab is one of 17 USAID-supported, university-housed “Feed the Future” <a class="Link" href="https://www.kcur.org/news/2025-02-13/usaid-funding-freeze-halts-research" target="_blank" rel="noopener" data-cms-ai="0">operations</a> focused on global food security and agricultural research. During his time as program director, Hughes’s lab has worked with partners in five African countries to combat infestations of <a class="Link" href="https://www.psu.edu/news/research/story/nuru-becomes-african-farmers-newest-ally-against-fall-armyworm" target="_blank" rel="noopener" data-cms-ai="0">armyworms,</a> whose <a class="Link" href="https://www.psu.edu/news/story/penn-state-awarded-nearly-39m-global-research-threats-crops" target="_blank" rel="noopener" data-cms-ai="0">insatiable</a> appetites can rapidly decimate local agriculture, constrict food supplies, and contribute to famine-like conditions.</p>
