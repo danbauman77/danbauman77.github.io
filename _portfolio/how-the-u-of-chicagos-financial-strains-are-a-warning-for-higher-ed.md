@@ -72,9 +72,9 @@ republished:
 
 <p style="color:black">“Because of the volatility in federal funding for research,” Taylor said, “Chicago is more exposed to that volatility than most other colleges and universities.”</p>
     
-<iframe title="Measuring Chicago's Debt and Debt Service" aria-label="Stacked column chart" id="datawrapper-chart-1Bcpl" src="https://datawrapper.dwcdn.net/1Bcpl/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="750" data-external="1"></iframe><br>
+<iframe title="A Steep Increase in Debt and Debt Service" aria-label="Stacked column chart" id="datawrapper-chart-b22nG" src="https://datawrapper.dwcdn.net/b22nG/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600" data-external="1"></iframe><br>
 
-<iframe title="Measuring Chicago's Debt and Debt Service" aria-label="Stacked column chart" id="datawrapper-chart-CqdsG" src="https://datawrapper.dwcdn.net/CqdsG/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="649" data-external="1"></iframe>
+<iframe title="A Steep Increase in Debt and Debt Service" aria-label="Stacked column chart" id="datawrapper-chart-7549p" src="https://datawrapper.dwcdn.net/7549p/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600" data-external="1"></iframe>
 
 <h2>Strong Medicine</h2>
 

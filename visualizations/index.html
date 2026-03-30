@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, interactive-widget=resizes-content">
+
+  <title>Visualizations • Dan Bauman</title>
+  <meta name="description" content="A gallery of interactive data visualizations from Dan Bauman's portfolio.">
+
+  <link rel="stylesheet" href="/assets/css/foundation.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/patch.css">
+  <link rel="stylesheet" href="/assets/css/fontello.css">
+  <link rel="stylesheet" href="/assets/css/font-awesome.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:400,700,300">
+
+  <link rel="preconnect" href="https://datawrapper.dwcdn.net">
+  <link rel="preconnect" href="https://public.tableau.com">
+  <link rel="preconnect" href="https://public.flourish.studio">
+  <link rel="canonical" href="/visualizations/">
+</head>
+
+  <body class="visualizations-page">
+
+    <a id='visualizations'></a>
+
+<div class='transparent fullwidth white fixed contain-to-grid bg-black'>
+  <nav class='top-bar onepage' data-options='' data-topbar=''>
+    <ul class='title-area'>
+      <li class='name'>
+        <h1>
+          <a href='/index.html'>
+            <img width="126" height="48" alt="" src="/assets/media/logo-3.png" />
+          </a>
+        </h1>
+      </li>
+    </ul>
+    <div id="menu-toggler" class="right">
+      <a href='#'>
+        <i class="fa fa-bars"></i>
+        Menu
+      </a>
+    </div>
+    <section class='top-bar-section closed' style='display:none'>
+      <ul class='right'>
+        <li><a href="/video-plus-motion/">Video + Motion</a></li>
+        <li><a href="/words-plus-data-plus-visuals/">Words + Data + Viz</a></li>
+      </ul>
+    </section>
+  </nav>
+</div>
+
+<div style="padding-bottom:10px; padding-top:0px;" class='full parallax image-wrapper'>
+  <div class='smallerscreen'>
+    <img style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1;" src="/assets/media/words-plus-data-plus-visuals.webp">
+    <div class='overlay'></div>
+    <div class='layer'>
+      <h1>
+        <span class="fir">Visualizations</span><br>
+      </h1>
+    </div>
+  </div>
+</div>
+
+<style>
+  .visualizations-page .filter-btn {
+    cursor: pointer;
+    border: 2px solid #ddd;
+    padding: 8px 12px;
+    border-radius: 4px;
+    background-color: #edb713;
+    border-color: black;
+    color: black;
+    text-align: center;
+  }
+  .visualizations-page .filter-btn.active {
+    background: #be930f;
+    color: #fff;
+    border-color: #111;
+  }
+
+  .viz-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 100%;
+  }
+  .viz-category {
+    scroll-margin-top: 80px;
+    background: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 30px 20px;
+    content-visibility: auto;
+    contain-intrinsic-size: 0 800px;
+  }
+  .viz-category h2 {
+    font-size: 24px;
+    color: black;
+    margin: 0 0 25px 0;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #edb713;
+  }
+
+  .viz-card {
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 2px 6px rgba(12,12,12,0.04);
+    margin-bottom: 35px;
+    transition: box-shadow 0.3s;
+  }
+  .viz-card:hover {
+    box-shadow: 0 4px 12px rgba(12,12,12,0.1);
+  }
+  .viz-card .viz-embed {
+    width: 100%;
+    padding: 16px 16px 16px 16px;
+  }
+  .viz-card .viz-embed iframe {
+    width: 100%;
+    border: 0;
+    display: block;
+    background: #fff;
+  }
+  .viz-card .viz-embed iframe[data-src] {
+    background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Ccircle cx='20' cy='20' r='16' fill='none' stroke='%23ccc' stroke-width='3' stroke-dasharray='50 20'%3E%3CanimateTransform attributeName='transform' type='rotate' from='0 20 20' to='360 20 20' dur='1s' repeatCount='indefinite'/%3E%3C/circle%3E%3C/svg%3E") center center no-repeat;
+  }
+  .viz-card .viz-embed iframe + iframe {
+    margin-top: 20px;
+  }
+  .viz-card .viz-meta {
+    padding: 14px 16px;
+    background: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .viz-card .viz-meta .viz-cta {
+    display: inline;
+  }
+  .viz-card .viz-meta .viz-cta span {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+  }
+  .viz-card .viz-meta .viz-cta a {
+    color: #edb713;
+    font-size: 15px;
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .viz-card .viz-meta .viz-cta a:hover {
+    color: #fff;
+  }
+  .viz-card .viz-meta .viz-date {
+    color: #999;
+    font-size: 13px;
+    white-space: nowrap;
+  }
+
+
+  .top-bar-section:not(.open),
+  .top-bar-section.closed {
+    display: none;
+  }
+  .top-bar-section.open {
+    display: block !important;
+  }
+</style>
+
+<div class="row">
+  <div class="large-12 columns large-centered">
+
+    <div class="filters-container" style="background: white; border: 1px solid #ddd; border-radius: 8px; padding: 25px 20px; margin: 30px 0 50px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.1); clear: both; position: relative; z-index: 5; width: 100%; box-sizing: border-box; display: block;">
+      <div style="width: 100%;">
+        <h3 style="color:black; font-size:18px; margin: 0 0 15px 0;">Jump to Category:</h3>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+          <a href="#bar-charts" class="filter-btn active">Bar Charts</a>
+          <a href="#line-charts" class="filter-btn">Line Charts</a>
+          <a href="#tables" class="filter-btn">Tables</a>
+          <a href="#google-maps" class="filter-btn">Google Maps</a>
+          <a href="#timeline-scatter-plots" class="filter-btn">Timelines</a>
+          <a href="#range-arrow-plots" class="filter-btn">Range &amp; Arrow Plots</a>
+          <a href="#pie-donut-charts" class="filter-btn">Pie &amp; Donut Charts</a>
+          <a href="#tableau" class="filter-btn">Tableau Dashboards</a>
+          <a href="#live-updating-dashboards" class="filter-btn">Live-Updating Dashboards</a>
+          <a href="#tree-map" class="filter-btn">Tree Map</a>
+          <a href="#network-graph" class="filter-btn">Network Graph</a>
+          <a href="#maps-in-motion" class="filter-btn">Maps In Motion</a>
+          <a href="#static-maps" class="filter-btn">Static Maps</a>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="viz-grid" style="padding: 0; margin: 0 0 40px 0;">
+
+      <!-- ===== BAR CHARTS (2 articles) ===== -->
+      <div class="viz-category" id="bar-charts">
+        <h2>Bar Charts</h2>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <iframe loading="lazy" data-src="https://datawrapper.dwcdn.net/b22nG/" scrolling="no" frameborder="0" style="width:100%; min-height:600px;" data-external="1"></iframe>
+            <iframe loading="lazy" data-src="https://datawrapper.dwcdn.net/7549p/" scrolling="no" frameborder="0" style="width:100%; min-height:625px;" data-external="1"></iframe>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/how-the-u-of-chicagos-financial-strains-are-a-warning-for-higher-ed/">How the U. of Chicago's Financial Strains Are a Warning for Higher Ed</a></div><span class="viz-date">Sep. 8, 2025</span></div>
+        </div>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <iframe loading="lazy" data-src="https://datawrapper.dwcdn.net/Ca0Jf/" scrolling="no" frameborder="0" style="width:100%; min-height:650px;" data-external="1"></iframe>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/how-more-than-200-scholars-reached-the-provosts-office-and-where-they-went-next/">How More Than 200 Scholars Reached the Provost's Office And Where They Went Next</a></div><span class="viz-date">Jan. 13, 2019</span></div>
+        </div>
+
+      </div>
+
+      <!-- ===== LINE CHARTS (2 articles) ===== -->
+      <div class="viz-category" id="line-charts">
+        <h2>Line Charts</h2>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <iframe loading="lazy" data-src="https://datawrapper.dwcdn.net/rL62f/" scrolling="no" frameborder="0" style="width:100%; min-height:500px;" data-external="1"></iframe>
+            <iframe loading="lazy" data-src="https://datawrapper.dwcdn.net/pkeKk/" scrolling="no" frameborder="0" style="width:100%; min-height:500px;" data-external="1"></iframe>
+            <iframe loading="lazy" data-src="https://datawrapper.dwcdn.net/L6zuh/" scrolling="no" frameborder="0" style="width:100%; min-height:500px;" data-external="1"></iframe>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/after-2016-election-campus-hate-crimes-seemed-to-jump-heres-what-the-data-tell-us/">After 2016 Election, Campus Hate Crimes Seemed to Jump. Here's What the Data Tell Us.</a></div><span class="viz-date">Feb. 16, 2018</span></div>
+        </div>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <iframe loading="lazy" data-src="https://datawrapper.dwcdn.net/jc28r/9/" scrolling="no" frameborder="0" style="width:100%; min-height:600px;" data-external="1"></iframe>
+            <iframe loading="lazy" data-src="https://datawrapper.dwcdn.net/FExR3/5/" scrolling="no" frameborder="0" style="width:100%; min-height:600px;" data-external="1"></iframe>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/colleges-were-already-bracing-for-an-enrollment-cliff-now-there-might-be-a-second-one/">Colleges Were Already Bracing for an 'Enrollment Cliff.' Now There Might Be a Second One.</a></div><span class="viz-date">Feb. 7, 2024</span></div>
+        </div>
+
+      </div>
+
+      <!-- ===== TABLES (5 articles) ===== -->
+      <div class="viz-category" id="tables">
+        <h2>Tables</h2>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <iframe loading="lazy" data-src="https://datawrapper.dwcdn.net/mT5wb/" scrolling="no" frameborder="0" style="width:100%; min-height:600px;" data-external="1"></iframe>
+            <iframe loading="lazy" data-src="https://datawrapper.dwcdn.net/uiq9j/" scrolling="no" frameborder="0" style="width:100%; min-height:600px;" data-external="1"></iframe>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/trump-wants-to-cut-billions-in-research-spending-heres-how-much-it-might-cost-your-university/">Trump Wants to Cut Billions in Research Spending</a></div><span class="viz-date">Feb. 10, 2025</span></div>
+        </div>
+
+      </div>
+
+      <!-- ===== SCATTER PLOTS (1 article) ===== -->
+      <div class="viz-category" id="timeline-scatter-plots">
+        <h2>Timelines, via Scatter Plot</h2>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <iframe loading="lazy" data-src="https://datawrapper.dwcdn.net/lMeZB/2/" scrolling="no" frameborder="0" style="width:100%; min-height:600px;" data-external="1"></iframe>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/faculty-students-give-input-on-chess-programs-past-future/">Faculty, Students Give Input on Chess Program's Past, Future</a></div><span class="viz-date">Apr. 23, 2014</span></div>
+        </div>
+
+      </div>
+
+      <!-- ===== RANGE & ARROW PLOTS (1 article) ===== -->
+      <div class="viz-category" id="range-arrow-plots">
+        <h2>Range &amp; Arrow Plots</h2>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <iframe loading="lazy" data-src="https://datawrapper.dwcdn.net/qPN1l/2/" scrolling="no" frameborder="0" style="width:100%; min-height:600px;" data-external="1"></iframe>
+            <iframe loading="lazy" data-src="https://datawrapper.dwcdn.net/bVZ4s/11/" scrolling="no" frameborder="0" style="width:100%; min-height:600px;" data-external="1"></iframe>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/how-the-u-of-arizona-found-itself-in-a-financial-crisis-of-its-own-making/">How the U. of Arizona Found Itself in a 'Financial Crisis' of Its Own Making</a></div><span class="viz-date">Dec. 14, 2023</span></div>
+        </div>
+
+      </div>
+
+      <!-- ===== PIE & DONUT CHARTS (2 articles) ===== -->
+      <div class="viz-category" id="pie-donut-charts">
+        <h2>Pie &amp; Donut Charts</h2>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <iframe loading="lazy" data-src="https://datawrapper.dwcdn.net/97Tq7/5/" scrolling="no" frameborder="0" style="width:100%; min-height:600px;" data-external="1"></iframe>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/amid-volatility-and-uncertainty-should-colleges-spend-down-their-surpluses/">Amid Volatility and Uncertainty, Should Colleges Spend Down Their Surpluses?</a></div><span class="viz-date">Aug. 11, 2025</span></div>
+        </div>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <iframe loading="lazy" data-src="https://datawrapper.dwcdn.net/Z2mvO/1/" scrolling="no" frameborder="0" style="width:100%; min-height:600px;" data-external="1"></iframe>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/how-more-than-200-scholars-reached-the-provosts-office-and-where-they-went-next/">How More Than 200 Scholars Reached the Provost's Office And Where They Went Next</a></div><span class="viz-date">Jan. 13, 2019</span></div>
+        </div>
+
+      </div>
+
+      <!-- ===== TABLEAU Dashboards (2 articles) ===== -->
+      <div class="viz-category" id="tableau">
+        <h2>Tableau Dashboards</h2>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <div class='tableauPlaceholder' style='width:100%; position:relative;'>
+              <noscript><a href='#'><img alt='Database' src='https://public.tableau.com/static/images/Po/Police_Shootings/Database/1_rss.png' style='border: none; width:100%;' /></a></noscript>
+              <object class='tableauViz' width='100%' height='1100' style='display:none;'>
+                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                <param name='site_root' value='' />
+                <param name='name' value='Police_Shootings/Database' />
+                <param name='tabs' value='no' />
+                <param name='toolbar' value='yes' />
+                <param name='static_image' value='https://public.tableau.com/static/images/Po/Police_Shootings/Database/1.png' />
+                <param name='animate_transition' value='yes' />
+                <param name='display_static_image' value='yes' />
+                <param name='display_spinner' value='yes' />
+                <param name='display_overlay' value='yes' />
+                <param name='display_count' value='yes' />
+              </object>
+            </div>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/how-many-minnesota-police-encounters-turn-fatal-dont-ask-the-state/">How Many Minnesota Police Encounters Turn Fatal? Don't Ask The State</a></div><span class="viz-date">Nov. 17, 2015</span></div>
+        </div>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <div class='tableauPlaceholder' style='width:100%; position:relative;'>
+              <noscript><a href='#'><img alt='Clients' src='https://public.tableau.com/static/images/Mi/Minnesota_Lawmaker_to_Lobbyist/Clients/1_rss.png' style='border: none; width:100%;' /></a></noscript>
+              <object class='tableauViz' width='100%' height='850' style='display:none;'>
+                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                <param name='site_root' value='' />
+                <param name='name' value='Minnesota_Lawmaker_to_Lobbyist/Clients' />
+                <param name='tabs' value='no' />
+                <param name='toolbar' value='yes' />
+                <param name='static_image' value='https://public.tableau.com/static/images/Mi/Minnesota_Lawmaker_to_Lobbyist/Clients/1.png' />
+                <param name='animate_transition' value='yes' />
+                <param name='display_static_image' value='yes' />
+                <param name='display_spinner' value='yes' />
+                <param name='display_overlay' value='yes' />
+                <param name='display_count' value='yes' />
+              </object>
+            </div>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/leap-from-legislator-to-lobbyist-a-short-one-in-minnesota/">Leap from Legislator to Lobbyist a Short One in Minnesota</a></div><span class="viz-date">Mar. 27, 2015</span></div>
+        </div>
+
+      </div>
+
+
+       <!-- ===== Live-Updating Dashboards (1 articles) ===== -->
+      <div class="viz-category" id="live-updating-dashboards">
+        <h2>Live-Updating Dashboards</h2>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <iframe loading="lazy" data-src="https://datawrapper.dwcdn.net/7ualm/" scrolling="no" frameborder="0" style="width:100%; min-height:600px;" data-external="1"></iframe>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="https://archive.ph/jd5zm">As Covid-19 Pummels Budgets, Colleges Are Resorting to Layoffs and Furloughs. Here’s the Latest.</a></div><span class="viz-date">Aug. 11, 2025</span></div>
+        </div>
+
+      </div>
+
+       <!-- ===== Interactive Maps (1 articles) ===== -->
+      <div class="viz-category" id="interactive-maps">
+        <h2>Interactive Maps</h2>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <div class='tableauPlaceholder' style='width:100%; position:relative;'>
+              <noscript><a href='#'><img alt='Story1' src='https://public.tableau.com/static/images/Do/Downtown_1/Story1/1_rss.png' style='border: none; width:100%;' /></a></noscript>
+              <object class='tableauViz' width='100%' height='1200' style='display:none;'>
+                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                <param name='site_root' value='' />
+                <param name='name' value='Downtown_1/Story1' />
+                <param name='tabs' value='no' />
+                <param name='toolbar' value='yes' />
+                <param name='static_image' value='https://public.tableau.com/static/images/Do/Downtown_1/Story1/1.png' />
+                <param name='animate_transition' value='yes' />
+                <param name='display_static_image' value='yes' />
+                <param name='display_spinner' value='yes' />
+                <param name='display_overlay' value='yes' />
+                <param name='display_count' value='yes' />
+              </object>
+            </div>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/who-owns-downtown-st-paul/">Who owns downtown St. Paul?</a></div><span class="viz-date">Apr. 4, 2016</span></div>
+        </div>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <div class='tableauPlaceholder' style='width:100%; position:relative;'>
+              <noscript><a href='#'><img alt='Map' src='https://public.tableau.com/static/images/U_/U_S_Shaken-BabySyndromeDatabaseMap/Map/1_rss.png' style='border: none; width:100%;' /></a></noscript>
+              <object class='tableauViz' width='100%' height='800' style='display:none;'>
+                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                <param name='site_root' value='' />
+                <param name='name' value='U_S_Shaken-BabySyndromeDatabaseMap/Map' />
+                <param name='tabs' value='no' />
+                <param name='toolbar' value='yes' />
+                <param name='static_image' value='https://public.tableau.com/static/images/U_/U_S_Shaken-BabySyndromeDatabaseMap/Map/1.png' />
+                <param name='animate_transition' value='yes' />
+                <param name='display_static_image' value='yes' />
+                <param name='display_spinner' value='yes' />
+                <param name='display_overlay' value='yes' />
+                <param name='display_count' value='yes' />
+              </object>
+            </div>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/u-s-shaken-baby-syndrome-database/">U.S. Shaken-Baby Syndrome Database</a></div><span class="viz-date">Dec. 14, 2014</span></div>
+        </div>
+
+      </div>
+
+       <!-- ===== Maps in Motion (1 articles) ===== -->
+      <div class="viz-category" id="maps-in-motion">
+        <h2>Maps In Motion</h2>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <img data-src="/assets/media/video-plus-motion/lunch.gif" alt="Rise of Free/Reduced Lunch Rates in Metro Area" style="width:100%; display:block;">
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/video-plus-motion/">Rise of Free/Reduced Lunch Rates Signal More Low-Income Students In Metro Area</a></div><span class="viz-date">Oct. 16, 2015</span></div>
+        </div>
+
+      </div>
+
+       <!-- ===== Static Maps (1 articles) ===== -->
+      <div class="viz-category" id="static-maps">
+        <h2>Static Maps</h2>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <img data-src="/assets/media/saint-paul-park-offender.webp" alt="Bill Would Bar Sex Offenders From Living Near Parks" style="width:100%; display:block;">
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/bill-would-bar-sex-offenders-from-living-near-parks-or-almost-anywhere-in-the-twin-cities/">Bill Would Bar Sex Offenders From Living Near Parks</a></div><span class="viz-date">Mar. 31, 2016</span></div>
+        </div>
+      </div>
+
+      <!-- ===== Tree Map ===== -->
+      <div class="viz-category" id="tree-map">
+        <h2>Tree Map</h2>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <div class="flourish-embed flourish-hierarchy" data-src="visualisation/27436009" data-lazy="true"></div>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/how-more-than-200-scholars-reached-the-provosts-office-and-where-they-went-next/">How More Than 200 Scholars Reached the Provost's Office And Where They Went Next</a></div><span class="viz-date">Jan. 13, 2019</span></div>
+        </div>
+
+      </div>
+
+      <!-- ===== Network Graph ===== -->
+      <div class="viz-category" id="network-graph">
+        <h2>Network Graph</h2>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <iframe loading="lazy" data-src="https://view.genially.com/6977060249b19f75c2538083" scrolling="yes" frameborder="0" style="width:100%; min-height:500px;" allowfullscreen></iframe>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/a-glimpse-at-the-connections-among-7-debt-relief-companies/">A Glimpse at the Connections Among 7 Debt-Relief Companies</a></div><span class="viz-date">Aug. 4, 2014</span></div>
+        </div>
+
+      </div>
+
+      <!-- ===== MAPS (1 articles) ===== -->
+      <div class="viz-category" id="google-maps">
+        <h2>Google Maps</h2>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <iframe loading="lazy" data-src="https://www.google.com/maps/d/embed?mid=1b5z0aejHNVClZrc99PsgUdJv5G0&ehbc=2E312F&noprof=1" style="width:100%; min-height:480px;" frameborder="0"></iframe>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/43-years-20-properties-a-look-at-webster-universitys-residential-properties-in-webster-groves/">43 years, 20 properties -- Webster University's residential properties</a></div><span class="viz-date">May 1, 2013</span></div>
+        </div>
+
+      </div>      
+
+    </div><!-- end viz-grid -->
+
+  </div>
+</div>
+
+<!-- Tableau JS API — lazy-loaded when a Tableau embed scrolls into view -->
+
+<!-- Datawrapper auto-resize + lazy-load iframes -->
+<script>
+(function() {
+  // Datawrapper auto-resize: listens for height messages from loaded iframes
+  window.addEventListener("message", function(e) {
+    if (e.data && e.data["datawrapper-height"]) {
+      var heights = e.data["datawrapper-height"];
+      var iframes = document.querySelectorAll("iframe");
+      for (var chartId in heights) {
+        for (var i = 0; i < iframes.length; i++) {
+          if (iframes[i].contentWindow === e.source) {
+            iframes[i].style.height = heights[chartId] + "px";
+          }
+        }
+      }
+    }
+  });
+
+  // Lazy-load: swap data-src to src when iframes/images scroll into view
+  // Above-fold elements load immediately; below-fold stagger 1-at-a-time
+  document.addEventListener("DOMContentLoaded", function() {
+    var lazyIframes = document.querySelectorAll("iframe[data-src]");
+    var lazyImages = document.querySelectorAll("img[data-src]");
+    var viewportH = window.innerHeight || document.documentElement.clientHeight;
+
+    // Lazy images: simple IntersectionObserver, no staggering needed
+    if ("IntersectionObserver" in window && lazyImages.length > 0) {
+      var imgObserver = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            var img = entry.target;
+            img.src = img.getAttribute("data-src");
+            img.removeAttribute("data-src");
+            imgObserver.unobserve(img);
+          }
+        });
+      }, { rootMargin: "200px 0px" });
+      lazyImages.forEach(function(img) {
+        var rect = img.getBoundingClientRect();
+        if (rect.top < viewportH + 100) {
+          img.src = img.getAttribute("data-src");
+          img.removeAttribute("data-src");
+        } else {
+          imgObserver.observe(img);
+        }
+      });
+    } else {
+      lazyImages.forEach(function(img) {
+        img.src = img.getAttribute("data-src");
+        img.removeAttribute("data-src");
+      });
+    }
+
+    if ("IntersectionObserver" in window) {
+      var loadQueue = [];
+      var loading = 0;
+      var maxConcurrent = 1;
+      var initialLoadDone = false;
+
+      function processQueue() {
+        while (loadQueue.length > 0 && loading < maxConcurrent) {
+          var iframe = loadQueue.shift();
+          loading++;
+          iframe.src = iframe.getAttribute("data-src");
+          iframe.removeAttribute("data-src");
+          iframe.addEventListener("load", function() {
+            loading--;
+            processQueue();
+          }, { once: true });
+          // Timeout fallback: if iframe never fires load (e.g. blocked), continue after 8s
+          setTimeout(function() {
+            if (loading > 0) { loading--; processQueue(); }
+          }, 8000);
+        }
+      }
+
+      // Split iframes into above-fold (load immediately) and below-fold (stagger)
+      var aboveFold = [];
+      var belowFold = [];
+      lazyIframes.forEach(function(iframe) {
+        var rect = iframe.getBoundingClientRect();
+        if (rect.top < viewportH + 100) {
+          aboveFold.push(iframe);
+        } else {
+          belowFold.push(iframe);
+        }
+      });
+
+      // Load above-fold iframes immediately, all at once
+      aboveFold.forEach(function(iframe) {
+        iframe.src = iframe.getAttribute("data-src");
+        iframe.removeAttribute("data-src");
+      });
+
+      // Observe below-fold iframes — stagger 1 at a time
+      var observer = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            var iframe = entry.target;
+            loadQueue.push(iframe);
+            observer.unobserve(iframe);
+            processQueue();
+          }
+        });
+      }, { rootMargin: "200px 0px" });
+      belowFold.forEach(function(iframe) { observer.observe(iframe); });
+    } else {
+      lazyIframes.forEach(function(iframe) {
+        iframe.src = iframe.getAttribute("data-src");
+        iframe.removeAttribute("data-src");
+      });
+    }
+
+    // Lazy-load Flourish embeds
+    var flourishEls = document.querySelectorAll(".flourish-embed[data-lazy]");
+    if (flourishEls.length > 0) {
+      var flourishObserver = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            var el = entry.target;
+            el.removeAttribute("data-lazy");
+            var script = document.createElement("script");
+            script.src = "https://public.flourish.studio/resources/embed.js";
+            el.appendChild(script);
+            flourishObserver.unobserve(el);
+          }
+        });
+      }, { rootMargin: "200px 0px" });
+      flourishEls.forEach(function(el) { flourishObserver.observe(el); });
+    }
+
+    // Lazy-load Tableau JS — only inject viz_v1.js when a Tableau embed scrolls into view
+    var tableauEls = document.querySelectorAll(".tableauPlaceholder");
+    if (tableauEls.length > 0) {
+      var tableauLoaded = false;
+      var tableauObserver = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting && !tableauLoaded) {
+            tableauLoaded = true;
+            var script = document.createElement("script");
+            script.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+            document.body.appendChild(script);
+            tableauObserver.disconnect();
+          }
+        });
+      }, { rootMargin: "400px 0px" });
+      tableauEls.forEach(function(el) { tableauObserver.observe(el); });
+    }
+
+
+  });
+})();
+</script>
+
+<!-- Smooth scrolling for anchor links -->
+<script>
+document.querySelectorAll('.filters-container a[href^="#"]').forEach(function(anchor) {
+  anchor.addEventListener('click', function(e) {
+    e.preventDefault();
+    var target = document.querySelector(this.getAttribute('href'));
+    if (target) target.scrollIntoView({ behavior: 'smooth' });
+    document.querySelectorAll('.filters-container .filter-btn').forEach(function(btn) { btn.classList.remove('active'); });
+    this.classList.add('active');
+  });
+});
+</script>
+
+<div class="full no-padding dark">
+  <div class="four spacing"></div>
+  <div id="footer" class='centered-text'>
+    <div class='row'>
+      <div class='large-12 columns'>
+        <h4>&copy; 2026 Dan Bauman. All rights reserved. | <a href="https://github.com/danbauman77/danbauman77.github.io/tree/main?tab=readme-ov-file#read-me" target="_blank" rel="noopener noreferrer">Acknowledgments</a></h4>
+      </div>
+    </div>
+  </div>
+  <div class="four spacing"></div>
+</div>
+
+<script src="/bower_components/jquery/dist/jquery.js" type="text/javascript"></script>
+<script src="/bower_components/imagesloaded/imagesloaded.pkgd.js" type="text/javascript"></script>
+<script src="/bower_components/foundation/js/foundation.min.js" type="text/javascript"></script>
+<script src="/assets/javascripts/jquery.sequence-min.js" type="text/javascript"></script>
+<script src="/assets/javascripts/slick.patched.js" type="text/javascript"></script>
+<script src="/assets/javascripts/jquery.countTo.js" type="text/javascript"></script>
+<script src="/assets/javascripts/jquery.appear.js" type="text/javascript"></script>
+<script src="/assets/javascripts/jquery.validate.js" type="text/javascript"></script>
+<script src="/assets/javascripts/jquery.easing.1.3.js" type="text/javascript"></script>
+<script src="/assets/javascripts/modernizr.foundation.js" type="text/javascript"></script>
+<script src="/assets/javascripts/terrific-1.1.1.js" type="text/javascript"></script>
+<script src="/assets/javascripts/jquery.url.js" type="text/javascript"></script>
+<script src="/assets/javascripts/jquery.cookie.js" type="text/javascript"></script>
+<script src="/assets/javascripts/app.js" type="text/javascript"></script>
+<script src="/assets/javascripts/boot.js" type="text/javascript"></script>
+<script src="/assets/javascripts/wp.js" type="text/javascript"></script>
+
+<script>
+  window.addEventListener('load', function () {
+    setTimeout(function () {
+      var toggler = document.getElementById('menu-toggler');
+      var topBar  = document.querySelector('.top-bar');
+      var section = document.querySelector('.top-bar-section');
+      if (!toggler || !section) return;
+      toggler.addEventListener('click', function (e) {
+        e.preventDefault();
+        var isOpen = section.classList.toggle('open');
+        if (topBar) topBar.classList.toggle('expanded', isOpen);
+      });
+    }, 50);
+  });
+</script>
+
+  </body>
+</html>

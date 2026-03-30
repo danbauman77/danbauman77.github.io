@@ -4,3 +4,6 @@
 - name: Words + Data + Viz
   path: "/words-plus-data-plus-visuals/"
   section_id: words-plus-data-plus-visuals
+- name: Visualizations
+  path: "/visualizations/"
+  section_id: visualizations
