@@ -193,8 +193,8 @@
           <a href="#live-updating-dashboards" class="filter-btn">Live-Updating Dashboards</a>
           <a href="#tree-map" class="filter-btn">Tree Map</a>
           <a href="#network-graph" class="filter-btn">Network Graph</a>
-          <a href="#maps-in-motion" class="filter-btn">Maps In Motion</a>
-          <a href="#static-maps" class="filter-btn">Static Maps</a>
+          <a href="#visuals-in-motion" class="filter-btn">Visuals In Motion</a>
+          <a href="#static-visuals" class="filter-btn">Static Visuals (ai2html)</a>
 
         </div>
       </div>
@@ -421,9 +421,9 @@
 
       </div>
 
-       <!-- ===== Maps in Motion (1 articles) ===== -->
-      <div class="viz-category" id="maps-in-motion">
-        <h2>Maps In Motion</h2>
+       <!-- ===== Visuals in Motion (1 articles) ===== -->
+      <div class="viz-category" id="visuals-in-motion">
+        <h2>Visuals In Motion</h2>
 
         <div class="viz-card">
           <div class="viz-embed">
@@ -434,15 +434,26 @@
 
       </div>
 
-       <!-- ===== Static Maps (1 articles) ===== -->
-      <div class="viz-category" id="static-maps">
-        <h2>Static Maps</h2>
+       <!-- ===== Static Visuals (2 ai2html articles) ===== -->
+      <div class="viz-category" id="static-visuals">
+        <h2>Static Visuals (ai2html)</h2>
 
         <div class="viz-card">
           <div class="viz-embed">
-            <img data-src="/assets/media/saint-paul-park-offender.webp" alt="Bill Would Bar Sex Offenders From Living Near Parks" style="width:100%; display:block;">
+            <div style="position:relative; width:100%; overflow:hidden;">
+              <iframe src="/assets/media/st-paul-parks/sex_offender_parks_map.html" style="position:absolute; top:0; left:0; width:1260px; height:1115px; border:none; transform-origin:top left;" onload="var f=this; function r(){var s=f.parentElement.offsetWidth/1260; f.style.transform='scale('+s+')'; f.parentElement.style.height=(1115*s)+'px';} r(); window.addEventListener('resize',r);"></iframe>
+            </div>
           </div>
-          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/bill-would-bar-sex-offenders-from-living-near-parks-or-almost-anywhere-in-the-twin-cities/">Bill Would Bar Sex Offenders From Living Near Parks</a></div><span class="viz-date">Mar. 31, 2016</span></div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/bill-would-bar-sex-offenders-from-living-near-parks-or-almost-anywhere-in-the-twin-cities/#ai2html-parks">Bill Would Bar Sex Offenders From Living Near Parks</a></div><span class="viz-date">Mar. 31, 2016</span></div>
+        </div>
+
+        <div class="viz-card">
+          <div class="viz-embed">
+            <div style="position:relative; width:100%; overflow:hidden;">
+              <iframe src="/assets/media/downtown-stpaul/downtown_ownership.html" style="position:absolute; top:0; left:0; width:1840px; height:1438px; border:none; transform-origin:top left;" onload="var f=this; function r(){var s=f.parentElement.offsetWidth/1840; f.style.transform='scale('+s+')'; f.parentElement.style.height=(1438*s)+'px';} r(); window.addEventListener('resize',r);"></iframe>
+            </div>
+          </div>
+          <div class="viz-meta"><div class="viz-cta"><span>Learn more in </span><a href="/portfolio/who-owns-downtown-st-paul/#ai2html-downtown">Who Owns Downtown St. Paul?</a></div><span class="viz-date">Apr. 4, 2016</span></div>
         </div>
       </div>
 

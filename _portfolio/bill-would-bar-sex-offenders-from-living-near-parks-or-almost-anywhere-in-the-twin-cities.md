@@ -1,7 +1,7 @@
 ---
 title: Visualized — New Bill Would Force Sex Offenders Out Of St. Paul
 image:
-  path: "/assets/media/saint-paul-park-offender.webp"
+  path: "/assets/media/st-paul-parks/sex_offender_parks_map_header.jpg"
   caption: Dan Bauman
   sourceurl: https://www.twincities.com/2016/03/31/bill-would-bar-sex-offenders-from-living-near-parks-or-almost-anywhere-in-the-twin-cities/
 categories:
@@ -35,6 +35,8 @@ republished:
   archiveurl: "https://web.archive.org/web/20160406071809/http://www.twincities.com/2016/03/31/bill-would-bar-sex-offenders-from-living-near-parks-or-almost-anywhere-in-the-twin-cities/"
 ---
 
+<p><a href="#ai2html-parks" style="font-weight: bold;">View interactive ai2html graphic</a></p>
+
 <h3 style="color:black">Excerpted:</h3>
 
 <p style="color:black"><i>A bill that would further restrict where the state’s most serious sex offenders could live — and give cities and counties the ability to restrict them even more — is progressing in the Legislature.</i></p>
@@ -48,3 +50,10 @@ republished:
 <p style="color:black"><i>But in places like St. Paul — with a dense concentration of parks — that’s largely what the language would do.</i></p>
 
 <p style="color:black"><i>In St. Paul, roughly 97 percent of all properties are within a half-mile of a park. In Minneapolis, the total is 95 percent, city officials said.</i></p>
+
+<br>
+
+<a id="ai2html-parks"></a>
+<div style="position:relative; width:100%; overflow:hidden;">
+<iframe src="/assets/media/st-paul-parks/sex_offender_parks_map.html" style="position:absolute; top:0; left:0; width:1260px; height:1115px; border:none; transform-origin:top left;" onload="var f=this; function r(){var s=f.parentElement.offsetWidth/1260; f.style.transform='scale('+s+')'; f.parentElement.style.height=(1115*s)+'px';} r(); window.addEventListener('resize',r);"></iframe>
+</div>

@@ -1,7 +1,7 @@
 ---
 title: Who owns downtown St. Paul?
 image:
-  path: "/assets/media/online_downtown_4_guys4.jpg"
+  path: "/assets/media/downtown-stpaul/downtown-ownership-header.jpg"
   caption: Dan Bauman
   sourceurl: https://www.twincities.com/2016/04/04/who-owns-downtown-st-paul/
 categories:
@@ -39,6 +39,8 @@ layout: portfolio_wide_paywall
 author: Dan Bauman, Sarah Horner, & Tad Vezner
 ---
 
+<p><a href="#ai2html-downtown" style="font-weight: bold;">View interactive ai2html graphic</a></p>
+
 <p>
   <span style="background-color: black; color: white; font-weight: bold;">&nbsp;Originally published by</span><span style="color: #edb713; font-weight: bold; background-color: black;"><em> Saint Paul Pioneer Press </em></span><span style="font-weight: bold; background-color: black; color:white;">at</span><a style="font-weight: bold; background-color: black;" href=" https://www.twincities.com/2016/04/04/who-owns-downtown-st-paul/ " target="_blank" rel="noopener noreferrer"> https://www.twincities.com/2016/04/04/who-owns-downtown-st-paul/&nbsp;</a> <a style="font-weight: bold; background-color: black;" href="https://www.twincities.com/2016/04/04/who-owns-downtown-st-paul/" target="_blank" rel="noopener noreferrer">&nbsp;[Archived]&nbsp;</a>&nbsp;<a style="font-weight: bold; background-color: black;" href="https://www.twincities.com/2016/04/04/residential-boom-transforming-downtown-st-paul/" target="_blank" rel="noopener noreferrer">&nbsp;[Archived]&nbsp;</a>&nbsp;<a style="font-weight: bold; background-color: black;" href="https://www.twincities.com/2016/04/04/downtown-st-pauls-oldest-tallest-and-most-expensive/" target="_blank" rel="noopener noreferrer">&nbsp;[Archived]&nbsp;</a><br><br><span style="background-color: black; color: white; font-weight: bold;">&nbsp;Reason for republication:</span>&nbsp;<span style="color: #edb713; font-weight: bold; background-color: black;">&nbsp;Degraded Assets&nbsp;</span>
 <p>
@@ -53,7 +55,7 @@ author: Dan Bauman, Sarah Horner, & Tad Vezner
 
   var vizElement = divElement.getElementsByTagName('object')[0]; 
 
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; 
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.90)+'px'; 
 
   var scriptElement = document.createElement('script'); 
 
@@ -148,3 +150,10 @@ author: Dan Bauman, Sarah Horner, & Tad Vezner
 <p style="color:black"><strong>On St. Paul:</strong> “St. Paul spends a lot more concentrated effort on design, fitting in their master plan. … In Minneapolis, a lot of the fabric is new, a lot of things are torn down.”</p>
 
 <p><strong><a href="http://www.twincities.com/2016/04/04/george-sherman-st-paul-spends-a-lot-more-concentrated-effort-on-design/" target="_blank">Read more about him, his work and his vision for St. Paul</a></strong></p>
+
+<br>
+
+<a id="ai2html-downtown"></a>
+<div style="position:relative; width:100%; overflow:hidden;">
+<iframe src="/assets/media/downtown-stpaul/downtown_ownership.html" style="position:absolute; top:0; left:0; width:1840px; height:1438px; border:none; transform-origin:top left;" onload="var f=this; function r(){var s=f.parentElement.offsetWidth/1840; f.style.transform='scale('+s+')'; f.parentElement.style.height=(1438*s)+'px';} r(); window.addEventListener('resize',r);"></iframe>
+</div>
