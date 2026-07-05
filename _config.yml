@@ -20,7 +20,7 @@ title: Dan Bauman
 
 description: Gumshoe. Analyst. Force Multiplier.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dan-bauman.com" # the base hostname & protocol for your site, e.g. http://example.com
 bluesky_username: danbauman77.bsky.social
 github_username:  danbauman77
 
@@ -42,7 +42,7 @@ sass:
 
 incremental: true
 
-exclude: ['gulpfile.js', 'Gemfile', 'Gemfile.lock']
+exclude: ['gulpfile.js', 'Gemfile', 'Gemfile.lock', 'notes.md', 'template.md', 'portfolio_redirects.csv']
 
 collections:
   portfolio:
