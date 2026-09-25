@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /portfolio/prototype-
+
+Sitemap: https://dan-bauman.com/sitemap.xml
